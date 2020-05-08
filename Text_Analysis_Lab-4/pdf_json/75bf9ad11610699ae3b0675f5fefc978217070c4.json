@@ -1,0 +1,1623 @@
+{
+    "paper_id": "75bf9ad11610699ae3b0675f5fefc978217070c4",
+    "metadata": {
+        "title": "Supplementary Information for Cryo-EM Analysis of a Feline Coronavirus Spike Protein Reveals a Unique Structure and Camouflaging Glycans",
+        "authors": [
+            {
+                "first": "Tzu-Jing",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "#",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yen-Chen",
+                "middle": [],
+                "last": "Chang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tzu-Ping",
+                "middle": [],
+                "last": "Ko",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Piotr",
+                "middle": [],
+                "last": "Draczkowski",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yu-Chun",
+                "middle": [],
+                "last": "Chien",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yuan-Chih",
+                "middle": [],
+                "last": "Chang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kuen-Phon",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kay-Hooi",
+                "middle": [],
+                "last": "Khoo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hui-Wen",
+                "middle": [],
+                "last": "Chang",
+                "suffix": "",
+                "affiliation": {},
+                "email": "huiwenchang@ntu.edu.tw."
+            },
+            {
+                "first": "Shang-Te",
+                "middle": [
+                    "Danny"
+                ],
+                "last": "Hsu",
+                "suffix": "",
+                "affiliation": {},
+                "email": "sthsu@gate.sinica.edu.twor"
+            },
+            {
+                "first": "Shang-Te",
+                "middle": [],
+                "last": "Danny",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hsu",
+                "middle": [],
+                "last": "Email",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ":",
+                "middle": [],
+                "last": "Shang-Te",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Danny",
+                "middle": [],
+                "last": "Hsu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "the membrane was initially blocked Tris-buffered saline with 0.01% (v/v) Tween 20 (TBST) buffer containing 5% skim milk powder, and stained with anti-V5 antibody (5000 dilutions in TBST) (Invitrogen) at RT for 1 h. After three times of TBST washings, it was stained by horseradish peroxidase conjugated goat-anti-mouse IgG (10000 dilutions in blocking buffer) (Jackson ImmunoResearch laboratories) at RT for 1 h, followed by three times TBST washings.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The membrane was incubated with Clarity\u2122 Western ECL Blotting Substrates (Bio-Rad) at RT for 3-5 min as per manufacture's protocol and visualized by ChemiDoc\u2122 Imaging Systems (Bio-Rad) via chemiluminescence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Native polyacrylamide gel electrophoresis. A 10% acrylamide/Bis-acrylamide (Bio-Rad) separating gel with 4% acrylamide/Bis-acrylamide stacking gel was casted following the manufacturer's protocol. FIPV-UU4 S protein was added with 2X sample buffer and heated at 95 \u00b0C for 5 min. The electrophoresis was performed at 180 V for 4 h, and stained with Coomassie Brilliant Blue R-250 Staining Solution (Bio-Rad) and detected by ChemiDoc \u2122 Imaging Systems (Bio-Rad).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The absolute molecular weight of FIPV-UU4 S protein was determined by SEC-MALS as previously described using an FPLC instrument (UPC10, GE Healthcare) coupled with a multi-angle light scattering detector (DAWN, Wyatt Technology) and a refractive index detector (Optilab T-rEC, Wyatt Technology) (3) . Bovine serum albumin, which was used as a reference standard, and FIPV-UU4 S protein, were prepared at a concentration of 2 mg/mL in D-PBS (pH 7.4) with 0.02% NaN3. SEC was carried out using a Bio-SEC 3 liquid chromatography column (Agilent). To deconvolute the contributions of amino acids and carbohydrates to the molecular weights of FIPV-UU4 S protein, the refractive index increments (dn/dc) of protein and protein conjugate (carbohydrates) were defined as 0.185 and 0.140 mL/g, respectively, as inputs for the molecular weight calculations by using the ASTRA 6.0 software (Wyatt Technology). The buffer viscosity (\u03b7) was estimated to be 0.8945 cP at 25\u00b0C using SEDNTERP.",
+            "cite_spans": [
+                {
+                    "start": 295,
+                    "end": 298,
+                    "text": "(3)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "Image processing and 3D reconstruction DPC dataset. Relion-3.0-beta (4) and cisTEM (5) were used for data processing. All movies were subject to whole-frame alignment with dose-weighting using MOTIONCOR2 (6) . The contrast transfer function (CTF) was estimated by using GCTF (7) . Output micrographs were filtered and the outliers discarded. Particles positions were automatically identified using templates generated from a subset of 30 micrographs by Laplacian-of-Gaussian (LoG)-based auto-picking algorithm (4) .",
+            "cite_spans": [
+                {
+                    "start": 83,
+                    "end": 86,
+                    "text": "(5)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "(6)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 275,
+                    "end": 278,
+                    "text": "(7)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 510,
+                    "end": 513,
+                    "text": "(4)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "The initial dataset of 442,004 particles images was cleaned up by means of 2D and 3D classification using particle images down-sized by a 2\u00d72 binning (a reduced box size of 220 pixel). 103,279 particle images were selected and re-extracted with their full resolution using a 440-pixel box size. 3D refinement and post-processing of the full-size particle images yielded a map of FIPV-UU4 S protein with a resolution of 3.91 \u00c5. The particle images were further refined by Bayesian particle polishing followed by per-particle CTF refinement. All analyses were carried out by using Relion-3.0-beta (4). The refined set of particle images was used as inputs for one more round of 2D classification using cisTEM. An ab initio 3D map was generated from the best 2D classes (102,586 particles) to serve as the input for 3D refinement. After the refinement routine within cisTEM, an EM map of 3.31 \u00c5 resolution was obtained, which was sharpened by using a Bfactor of -90 \u00c5 2 . The resolution of the map was estimated based on the gold-standard FSC = 0.143. Local resolution analysis was calculated using ResMap (8). The particle orientation distribution was further assessed by cryoEF (9) and 3DFSC (10).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "VPP dataset. Relion-3.0-beta (4) and cryoSPARC v2 (11) were used for VPP data processing. All movies were pre-processed following the procedure as described above, except that only six instead of 30 micrographs were used during the initial template search step. All particles were re-extracted and down-sampled with 2 x 2 binning to yield a pixel size of 1.7 \u00c5 with a box size of 220 pixels.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "The initial dataset of 240,801 particles images was cleaned up by two rounds of 2D classification by using cryoSPARC: the particle images were down-sized by a 2\u00d72 binning (a reduced box size of 220 pixel). These particle images were subsequently used as inputs for Relion-3.0-beta (4) . Data conversion between cryoSPARC v2 and Relion-3.0 and was achieved by using the pyem script developed by Daniel Asarnow (https://github.com/asarnow/pyem). An ab initio model was built with a C1 symmetry. Two rounds of 3D classification were performed for further particles cleanup. 191,180 particle images from four good 3D classes were selected and re-extracted with their full resolution using a 440-pixel box size. The fullsize particle images yielded a FIPV-UU4 S protein map with a 4.2 \u00c5 resolution after 3D refinement and post-processing. The particle images were further corrected by per-particle CTF refinement followed by Bayesian particle polishing. The polished particles were used for further 3D refinement, resulting in a 3.7 \u00c5 map after post-processing.",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "(4)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "Model building and refinement. The atomic model of FIPV-UU4 S protein was constructed using Phenix (12) and Coot (13) . First, an overall poly-alanine backbone was created within the EM density by Phenix. Sequence assignment was carried out manually using Coot, aided by manual inspection for aromatic side chains. A homology model was built using Swiss-Model (14) as a template for manual model building. By dividing the homology into individual domains and manually move them through rigid-body movements using Coot, an initial model was generated to enable subsequent model building that accounted for conformational changes in the loop regions and individual side-chain rotameric states. Finally, a convergent model was eventually generated, energy minimized and refined. N-linked glycan models were generated by using the extension module \"Glyco\" (15) within Coot. Generally, individual glycan moieties corresponding to the structures determined by MS-based glycopeptide analysis were manually built onto asparagine side-chains within the N-X-S/T motifs using the \"Linked Monosaccharide Addition (LMA)\" function of the Glyco module within Coot; the number of glycan moieties built on each glycosylation site depended on the extent of resolved electron densities protruding from the asparagine side-chain. The glycosidic linkages were created by pre-defined function of LMA. All glycan trees were refined by using the function \"Torsion fit & Refine this residue\" of Glyco. The geometries of individual N-glycan moieties were subsequently validated by Privateer (16, 17) . Iterative model refinements were carried out iteratively by using the real-space refinement of Phenix and Coot. The final model was assessed by MolProbity (18) and EMRinger (19) .",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 103,
+                    "text": "(12)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 113,
+                    "end": 117,
+                    "text": "(13)",
+                    "ref_id": null
+                },
+                {
+                    "start": 852,
+                    "end": 856,
+                    "text": "(15)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1565,
+                    "end": 1569,
+                    "text": "(16,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1570,
+                    "end": 1573,
+                    "text": "17)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1731,
+                    "end": 1735,
+                    "text": "(18)",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1749,
+                    "end": 1753,
+                    "text": "(19)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "To generated an atomic model of a fully glycosylated FIPV-UU4 S protein in accordance with the chemical and structural information derived from MS analysis (vide infra), the atomic coordinates of high mannose and basic type were generated by Glyprot (20) using the aforementioned trimeric FIPV-UU4 S protein model. Complex-type N-glycans were created by Sweet-II server (21, 22) with the nomenclatures defined by the Glycosciences.DB entries: 269, 1524, 728 and 2712 as the templates for model building (23) . The glycan models were subsequently built onto the corresponding asparagine side chains, and manually refined by Coot to avoid steric clashes. In cases when high mannose and complex type were both detected by MS at a given site, a complex type glycan was modeled; in case when no MS information was available but cryo-EM evidence was present to confirm the presence of N-glycosylation, i.e., N260, N585, N590, N774, N841 and N862, a basic type glycan (2 NAG + 3 Mannose) was generated for the modeling. DALI server was used to search for structural homologs of individual domains of FIPV-UU4 S protein (24) . Structure-based sequence alignments were performed by using ESPript (25) . Structural visualization and rendering of structural representations were performed by using UCSF Chimera (26), ChimeraX (27) , and Pymol (Schr\u00f6dinger Inc. U.S.A.).",
+            "cite_spans": [
+                {
+                    "start": 370,
+                    "end": 374,
+                    "text": "(21,",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "22)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 503,
+                    "end": 507,
+                    "text": "(23)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 1112,
+                    "end": 1116,
+                    "text": "(24)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1187,
+                    "end": 1191,
+                    "text": "(25)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 1315,
+                    "end": 1319,
+                    "text": "(27)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Size-exclusion chromatography-coupled with multiangle static light scattering (SEC-MALS) analysis of FIPV-UU4 S protein."
+        },
+        {
+            "text": "Two microliters of the FIPV-UU4 S protein (1.8 mg/mL) was unfolded by adding 25 mM ammonium bicarbonate buffer (ABC buffer) supplemented with 2 mM dithioerythritol (Sigma-Aldrich) and 8 M urea (Sigma-Aldrich). The sample was incubated at 37 \u00baC for 1 h prior to subsequent addition of ten microliters of 25 mM ABC buffer containing 20 mM iodoacetamide (Sigma-Aldrich) followed by incubation in the dark at RT for another 1 h, after which ABC buffer was added to reduce the final urea concentration to 1 M. The protein was digested at 37 \u00baC overnight by two combinations of proteases (with a protein to protease ratio of 20-50:1), namely chymotrypsin (Promega) plus trypsin (Promega), and Arg-C (Promega) plus Asp-N (Promega). After proteolysis, E. coli PNGase F (Roche) was added to remove N-linked glycans at 37 \u00baC overnight. The reaction was quenched by adding 1 % folic acid (Sigma-Aldrich). The peptide mixture was vacuum-dried by using a miVac DNA concentrator (Genevac), and desalted using a ZipTip\u00ae Pipette Tip (Millipore) according to the manufacturer's protocol.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "De-N-glycosylation analysis."
+        },
+        {
+            "text": "The peptide mixtures were loaded onto an Acquity BEH C18 column (Waters) for nanoLC\u2212nanoESI-tandem MS (MS/MS) analysis using an LTQ Orbitrap Velos hybrid mass spectrometer (Thermo Fisher) equipped with a PicoView nanospray interface (New Objective). The resulting data were generated by Mascot Daemon (Matrix Science) using default settings, and submitted to Mascot (version 2.6, Matrix Science) for identifications. All MS/MS spectra were searched against the NCBI database (November, 2017) with the following search criteria: 10 ppm precursor mass tolerance; 0.02 Da product ion mass tolerance; variable modification of deamidation, carbamidomethylation and oxidation; two missed cleavage and peptide charge of +2, +3 and +4 were allowed. The results were statistically validated with a threshold of greater than 95% probability.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "De-N-glycosylation analysis."
+        },
+        {
+            "text": "MS-based profiling of release glycans. FIPV-UU4 S protein was digested by trypsin after reduction and alkylation, followed by PNGase F treatment as described in the previous section. The resulting N-glycans and de-N-glycosylated peptides mixtures were subjected to simultaneous reduction and release of O-glycans in 0.05 M sodium hydroxide/1 M sodium borohydride at 45 \u00baC for 16 h, followed by desalting through Dowex (H + form; Bio-Rad) beads packed on a C18 Sep-Pak cartridge (Waters) in 5% (v/v) acetic acid. After drying, the sample was permethylated as described previously (28) . For MALDI-MS analysis on the 5800 MALDI-TOF/TOF system (AB SCIEX), the permethylated glycans were mixed with 2,5dihydroxybenzoic acid (DHB) matrix solution (10 mg/mL in 50% acetonitrile) prior to spotting onto the target plate. The laser energy was set at 5000, and 4000 shots were accumulated for one spectrum. All glycan peaks were manually assigned and annotated.",
+            "cite_spans": [
+                {
+                    "start": 579,
+                    "end": 583,
+                    "text": "(28)",
+                    "ref_id": "BIBREF59"
+                }
+            ],
+            "ref_spans": [],
+            "section": "De-N-glycosylation analysis."
+        },
+        {
+            "text": "Glycopeptide analysis by LC-MS/MS. The FIPV-UU4 S protein was digested by trypsin and chymotrypsin using the same conditions as used for De-N-glycosylation analysis but without PNGase F treatment (see above). The digested glycopeptides were dissolved in 0.1% (v/v) formic acid (Solvent A) for nanoLC-MS/MS analysis using an Orbitrap Fusion Lumos mass spectrometer (Thermo Fisher) fitted with an EASY-nLC\u2122 1200 system. The digests were trapped and separated using a PepMap C18 column (Thermo Fisher) with a flow rate of 300 nL/min, and a segmented gradient of 5 to 45% solvent B (80% acetonitrile with 0.1% formic acid) over 75 minutes. A survey scan was acquired from 400 to 1800 m/z at a mass resolution of 120,000 with a target value of 2\u00d710 5 ion count. The precursors with charge state 2 to 10 were isolated in a 3 sec top speed duty cycles. The MS/MS analyses were performed by applying an isolation window of 2 Th in the quadrupole, an HCD fragmentation with 28% normalized collision energy, and mass measured in the Orbitrap at a resolution of 30,000. The MS 2 ion count target value was set to 5\u00d710 4 and the maximum injection time was 65 ms. Dynamic exclusion duration was set to 35 s with a 15 ppm tolerance around the selected precursor and its isotopes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "De-N-glycosylation analysis."
+        },
+        {
+            "text": "The HCD MS/MS data were processed by the Byonic software (Protein Metrics Inc.) using the following parameters: search against the FIPV-UU4 S protein sequence with fully specific cleavages at F, Y, W, L, K, R residues, allowing up to 2 missed cleavages, with the precursor ion mass tolerance set at 10 ppm and the fragment ion mass tolerance at 20 ppm. Fixed modification considered was cysteine carbamidomethylation (+57.0215 Da), whereas methionine oxidation (+15.9949 Da) was set as a common modification. The built-in N-glycan libraries of \"182 human no multiple fucose\" or \"309 mammalian no sodium\" were used. The criteria used in additional manual filtering of positive matches were score >200 and PEP2D <0.001. The accepted peptide-spectrum matches were then manually examined and the ion chromatograms of their respective precursors were extracted at 5 ppm to record the peak intensity of each unique glycopeptide identified.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "De-N-glycosylation analysis."
+        },
+        {
+            "text": "Two three-month-old female BALB/c mice were first primed by a single intramuscular (IM) injection of 60 \u00b5g purified FIPV-UU4 S protein with 100 \u00b5L Freund's complete adjuvant (Sigma-Aldrich) following by two boosts of 60 \u00b5g purified FIPV-UU4 S protein with 100 \u00b5L Freund's incomplete adjuvant (Sigma-Aldrich) by intramuscular and intraperitoneal administrations, respectively. Two weeks after the second boost, serum was collected for determining the antigenicity of FIPV-UU4 S protein in mice. The animal protocol was reviewed and approved by the Institutional Animal Care and Use Committee of National Taiwan University (Taiwan, Republic of China; NTU-103-EL-60).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Immunization of FIPV-UU4 S protein in mice."
+        },
+        {
+            "text": "Immunohistochemistry staining of serotype I FIPV-infected tissue using FIPV-UU4 S protein immunized mouse serum. Representative tissue blocks from two cases of clinically and pathologically confirmed serotype I FIPV infected cats were sliced at 4 \u00b5m in thickness, put on silane coated slide (Muto Pure Chemicals). After deparaffinizing the tissue slide by xylene and rehydrating with gradient ethanol, the immunohistochemistry staining was performed as previously described (29) and the primary antibody was replaced by either the FIPV-UU4 S protein immunized mouse serum (1:1000 dilution) or a mouse anti feline coronavirus antibody (clone FIPV3-70, Bio-Rad) (1:200 dilution). The result was determined by light microscope and the positive signal was interpreted by showing brown pigments in the cytoplasm of tissue macrophages.",
+            "cite_spans": [
+                {
+                    "start": 474,
+                    "end": 478,
+                    "text": "(29)",
+                    "ref_id": "BIBREF60"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Immunization of FIPV-UU4 S protein in mice."
+        },
+        {
+            "text": "To detect the cross-reactivity of the serum derived from FIPV-UU4 S protein immunized mouse with serotype II FIPV, the immunocytochemistry staining of the serum with a serotype II Taiwan NTU156 strain (30) (kindly provided by Prof. Chueh at National Taiwan University) infected Fcwf-4 cells (American Type Culture Collection No. CRL-2787\u2122) was performed. The cells were incubated with 100 \u00b5L mouse anti-FIPV-UU4 S serum (1000 dilution in PBS) or the mouse anti feline coronavirus antibody (clone FIPV3-70, Bio-Rad) (1:200 dilution) at RT for 1 h. For developing, the antirabbit/mouse immunoglobulin EnVision TM + DAB system (Dako) was used following the manufacture's protocol. The results were evaluated using an inverted microscope. The positive signals were characterized by brown pigments located in the cytoplasm of the syncytium.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Detection of cross-reactivity of the FIPV-UU4 S protein immunized mouse serum with serotype II FIPV infected Fcwf-4 cells."
+        },
+        {
+            "text": "To elucidate the glycan binding ability of the FIPV-UU4 S protein, three variants of truncated FIPV-UU4 S proteins were constructed and purified for glycan array analysis together with full-length protein. Briefly, the oligonucleotide sequences corresponding to the protein sequences of Domain 0 (residues 1-275), Domains 0 and A (residues 1-540), and Domains 0, A and B (resides 1-695) were obtained by using one forward primer (Domain 0 forward primer 5'-AAAACCGAGCTCGGATCCAGTACCCTTC-3') in combination with three different reverse primers (Domain 0 reverse primer 5'-AAAAGCGGCCGCCTGCACAGTAATCAGTATG-3', Domains 0 and A reverse primer 5'-AAAAGCGGCCGCGTGGCATTGTC-3' and Domains 0, A and B 5'-AAAAGCGGCCGCGGCTGATGTCCTG-3') through standard PCR reactions. The resulting oligonucleotides were inserted into the pcDNA TM 3.1 plasmid. The constructs were transfected into FreeStyle 293-F Cells (Thermo Fisher) using 293fectin TM Transfection Reagent following the manufacturer's protocol. The transfected cells were incubated at 37 \u00baC in 8% CO2 for five days. The supernatant was harvested after centrifugation of 1000 rpm for 20 min. The recombinant proteins were purified using the same procedure as used for full-length FIPV-UU4 S. The final protein concentrations were adjusted to 0.5 mg/mL. The glycan binding of FIPV-UU4 S variants were assessed by Glycan Array 100 (RayBiotech; https://www.raybiotech.com/glycan-array-100/) and GenePix 4000B Biochip Reader (Molecular Devices) (31, 32) . The amount of binding is reported by the observed fluorescence intensity, which is derived from triplicates with a standard deviation (SD) shown as a vertical line. The dotted line corresponds to the baseline of the array signals, which was derived from the background signals derived from blank measurements. Three groups of glycans that showed significant binding (more than twice the background signals) are indicated with the compound numbers, (E-G) and their corresponding glycan structures are shown below with the nomenclatures as defined by the Consortium for Functional Glycomics. Tables   Table S1 . List of reported CoV S protein structures and their expression systems and structural details. ",
+            "cite_spans": [
+                {
+                    "start": 1480,
+                    "end": 1484,
+                    "text": "(31,",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1485,
+                    "end": 1488,
+                    "text": "32)",
+                    "ref_id": "BIBREF64"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 2081,
+                    "end": 2098,
+                    "text": "Tables   Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Identification of glycan binding ability and location of the FIPV-UU4 S protein."
+        },
+        {
+            "text": "V V V V V 246 V V V V 254 V V * V V 260 V V V 331 V V V V 346 V V V V 357 V V V V 380 V V V V 392 V V V 418 V V V 464 V V V V 482 V V V 491 V V * V V 547 V V * V V 585 V V 590 V V 774 V V V 783 V V V V 814 V V * V V 819 V V * V V 841 V V V 862 V V V 868 V V * V V 949 V V * V V 1092 V V V V 1218 V V V V 1257 V V V V V 1275 V V V V 1308 V * V V 1325 V V V V 1338 V V 1352 1357 1371 V V 1387 V V",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CoV genus"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "HexNAc(3)Hex(5)Fuc(1)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ic",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Carbamidomethyl / 57.0215) HexNAc(4)Hex(5)Fuc(1)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ic",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Hex(6)",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Iqfvn ; R",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hexnac",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Hex(8)",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yayn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Hex(5)Fuc(1)NeuAc(1 )",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ssan",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Vtdnqpasgsishtpf",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hexnac",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "HexNAc(4)Hex(5)Fuc(1)",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ssan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "VTLHVVLNDIEK.K HexNAc(4)Hex(5)Fuc(1)NeuAc",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Hex(8)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Hex(5)Fuc(1)",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Atvdkfn ; Ttal",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hexnac",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Hex(6)Fuc(1)",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Atvdkfn ; Ttal",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hexnac",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "C4(Carbamidomethyl / 57.0215) HexNAc(5)Hex(6)Fuc(1)",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sgic",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": ") HexNAc(4)Hex(5)Fuc",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sgic",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Hex(6)",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Syn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Hex(5)Fuc(1)",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Syn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Hex(6)Fuc(1)NeuAc(1 )",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Syn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Q C6(Carbamidomethyl / 57.0215) HexNAc(3)Hex(6)",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Vqitsc",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Hex(7)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Hex(6)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "= The aa position of N-glycosylation site. Glycans: HexNAc = N-acetylhexosamine, Hex = hexose, Fuc = fucose, NeuAc = N-acetylneuraminic acid. Green: high-mannose-type glycans ; Blue: hybrid-or complex-type glycans",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "N-Pos",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Structure of bacteriophage T4 fibritin: a segmented coiled coil and the role of the C-terminal domain",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Strelkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Mesyanzhinov",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rossmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Structure",
+            "volume": "5",
+            "issn": "",
+            "pages": "789--798",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Improved expression of secretory and trimeric proteins in mammalian cells via the introduction of a new trimer motif and a mutant of the tPA signal sequence",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Appl Microbiol Biotechnol",
+            "volume": "91",
+            "issn": "",
+            "pages": "731--740",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Unraveling the folding mechanism of the smallest knotted protein, MJ0366",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Phys Chem B",
+            "volume": "119",
+            "issn": "",
+            "pages": "4359--4370",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "New tools for automated high-resolution cryo-EM structure determination in RELION-3",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zivanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Elife",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Grigorieff, cisTEM, user-friendly software for single-particle image processing",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rohou",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Elife",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "MotionCor2: anisotropic correction of beam-induced motion for improved cryo-electron microscopy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nat Methods",
+            "volume": "14",
+            "issn": "",
+            "pages": "331--332",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Gctf: Real-time CTF determination and correction",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Struct Biol",
+            "volume": "193",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Quantifying the local resolution of cryo-EM density maps",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kucukelbir",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sigworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tagare",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nat Methods",
+            "volume": "11",
+            "issn": "",
+            "pages": "63--65",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Measuring the effects of particle orientation to improve the efficiency of electron cryomicroscopy",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Naydenova",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Russo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nat Commun",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Addressing preferred specimen orientation in single-particle cryo-EM through tilting",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nature Methods",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Punjani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rubinstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fleet",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Brubaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nat Methods",
+            "volume": "14",
+            "issn": "",
+            "pages": "290--296",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "PHENIX: a comprehensive Python-based system for macromolecular structure solution",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "66",
+            "issn": "",
+            "pages": "213--221",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "SWISS-MODEL: homology modelling of protein structures and complexes",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waterhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nucleic Acids Res",
+            "volume": "46",
+            "issn": "",
+            "pages": "296--303",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Structural analysis of glycoproteins: building N-linked glycans with Coot",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Emsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Crispin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Acta Crystallogr D Struct Biol",
+            "volume": "74",
+            "issn": "",
+            "pages": "256--263",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Strategies for carbohydrate model building, refinement and validation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Agirre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Acta Crystallogr D Struct Biol",
+            "volume": "73",
+            "issn": "",
+            "pages": "171--186",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Privateer: software for the conformational validation of carbohydrate structures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Agirre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "22",
+            "issn": "",
+            "pages": "833--834",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "MolProbity: all-atom structure validation for macromolecular crystallography",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "66",
+            "issn": "",
+            "pages": "12--21",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "EMRinger: side chain-directed model and map validation for 3D cryo-electron microscopy",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Barad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat Methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "943--946",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "GlyProt: in silico glycosylation of proteins",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bohne-Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Von Der Lieth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "",
+            "pages": "214--219",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "SWEET -WWW-based rapid 3D construction of oligo-and polysaccharides",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bohne",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Von Der Lieth",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Bioinformatics",
+            "volume": "15",
+            "issn": "",
+            "pages": "767--768",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "W3-SWEET: Carbohydrate modeling by Internet",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bohne",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Von Der Lieth",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Mol. Model",
+            "volume": "4",
+            "issn": "",
+            "pages": "33--43",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "update)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bohm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Glycosciences.DB: an annotated data collection linking glycomics and proteomics data",
+            "volume": "47",
+            "issn": "",
+            "pages": "1195--1201",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Dali server: conservation mapping in 3D",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rosenstrom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res",
+            "volume": "38",
+            "issn": "",
+            "pages": "545--549",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Deciphering key features in protein structures with the new ENDscript server",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gouet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nucleic Acids Res",
+            "volume": "42",
+            "issn": "",
+            "pages": "320--324",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "UCSF Chimera--a visualization system for exploratory research and analysis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Pettersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Comput Chem",
+            "volume": "25",
+            "issn": "",
+            "pages": "1605--1612",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Meeting modern challenges in visualization and analysis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goddard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Protein Sci",
+            "volume": "27",
+            "issn": "",
+            "pages": "14--25",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Mass spectrometry of carbohydrate-containing biopolymers",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Methods Enzymol",
+            "volume": "230",
+            "issn": "",
+            "pages": "108--132",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Determination of the cell tropism of serotype 1 feline infectious peritonitis virus using the spike affinity histochemistry in paraffin-embedded tissues",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cham",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Isolation and identification of a novel feline coronavirus from a kitten with naturally occurring feline infectious peritonitis in Taiwan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chueh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Taiwan Vet. J",
+            "volume": "35",
+            "issn": "",
+            "pages": "145--152",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Functional expression and characterization of the recombinant N-acetyl-glucosamine/N-acetyl-galactosaminespecific marine algal lectin BPL3",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hwang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Mar Drugs",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Glycan specificity of neuraminidases determined in microarray format",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mccombs",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Diaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Luebke",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kohler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Carbohydr Res",
+            "volume": "428",
+            "issn": "",
+            "pages": "31--40",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Biophysical and biochemical characterizations of FIPV-UU4 S protein. (A) SEC-MALS analysis reports on the molar mass (g/mol) distributions of total molecule (blue), protein (red) and carbohydrate moiety (black) as a function of elution volume. Carbohydrate moiety accounts for 27% of total MW (192 out of 722 kDa). (B) Western blot analysis of the recombinant FIPV-UU4 S protein detected by an anti-V5 antibody. Black arrow indicated the position of monomeric S protein. (C) Native gel electrophoresis of the recombinant FIPV-UU4 S protein. Black arrow indicates the position of the band that has a MW higher than 720 kDa, which is interpreted as trimeric FIPV-UU4 S protein. (D) Immunohistochemistry (IHC) staining in the natively FIPV-infected feline tissue under 200X magnification. Left and right panels show staining results with 1000X mouse anti-FIPV-UU4 S protein serum and 200X commercial mouse anti-feline coronavirus (anti-FCoV) antibody (positive control), respectively. The intracytoplasmic brown pigments of the macrophages are positive results. (E) Immunocytochemistry (ICC) staining of the FECV-infected Fcwf-4 cell. FECV-infected cells stained with 1000X moue anti-UU4 serum and 200X commercial mouse anti-FCoV antibody are shown on the left and right panels, respectively. The brown pigments in the cytoplasm of the syncytial cells are positive signals.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Cryo-EM data processing workflow for (A) regular defocus phase contrast (DPC) dataset and (B) Volta phase plate (VPP) dataset.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "DPC cryo-EM data analysis and validation. (A) Representative DPC cryo-EM micrograph of FIPV-UU4 S protein. (B) Selected 2D averaging classes shown in the different orientation. (C) Global Fourier shell correlation (FSC) for the FIPV-UU4 S protein and mapto-model FSC analyzed by Phenix. (D) Representative EM maps superimposed with the atomic models to highlight the quality of model building. The identities of individual residues are indicated. (E) Local resolution map for final EM map analyzed by ResMap.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "MALDI-MS profile of reduced, permethylated N-glycans released from FIPV-UU4 S protein. Major structures were assigned based on glycosyl composition defined by their molecular masses and the range of commonly expected N-glycan structures, without further analysis to determine the possible isomers. Cartoon annotation of the high mannose, hybrid and complex type N-glycans were based on the recommended Symbol Nomenclature for Glycans.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Cryo-EM micrographs of FIPV-UU4 S protein collected with VPP. (A) Representative micrograph a defocus value of 366 nm and a phase shift of 120\u00ba. (B) Experimental contrast transfer function (CTF) Thon rings superimposed with computed CTF data shown in the upper left quarter. (C) The best 2D averaging classes that show additional EM densities corresponding to the putative glycan structures on FIPV-UU4 S protein. (D) Superimposition of two 3D maps before (grey, transparent) and after post-processing (yellow). Arrows indicate that glycan density detected in 3D map, which correspond to the same positions shown in (C). Gallery of cryo-EM derived N-linked glycan densities on the individual asparagine side-chains. The atomic models of individual N-linked glycans are shown in a ball-and-stick inside the EM densities. Left panels correspond to the 3.3 \u00c5 map without sharpening, whereas the right panels correspond to the map that have been sharpened with a B-factor of -90 \u00c5 2 . Glycan array analysis of FIPV-UU4 S protein, (A) and its truncated variants, (B-D)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": ". S8. T-helper 1 (Th1) epitope masked by high-mannose type N-glycan (M9) in N1092. The Th1 epitope (residue 1051-1110), which could elicit effective immune responses, is colored in blue. The high-mannose N-glycan on N1092 is colored in green and other glycans are colored in gold.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "CEACAM1: carcinoembryonic antigen-related cell adhesion molecule 1; APN: aminopeptidaseTable S2. FIPV-UU4 S glycopeptides identified by LC-MS/MS.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Summary of experimentally verified N-glycosylation sites by mass spectrometry and cryo-EM.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Table S4. Multiple structural alignment of FIPV-UU4 S domain 0. Table S5. Multiple structural alignment of FIPV-UU4 S domain A. Table S6. Multiple structural alignment of FIPV-UU4 S domain B. Table S7. Multiple structural alignment of FIPV-UU4 S2 subunit.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

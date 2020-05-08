@@ -1,0 +1,973 @@
+{
+    "paper_id": "537b7c6a2326406b72f5e3cca36936e1b20f0363",
+    "metadata": {
+        "title": "Rapid communication Whole genome and phylogenetic analysis of two SARS- CoV-2 strains isolated in Italy in January and February 2020: additional clues on multiple introductions and further circulation in Europe",
+        "authors": [
+            {
+                "first": "Paola",
+                "middle": [],
+                "last": "Stefanelli\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Giovanni",
+                "middle": [],
+                "last": "Faggioni\u00b2",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "Lo Presti\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Stefano",
+                "middle": [],
+                "last": "Fiore",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Istituto Superiore di Sanit\u00e0",
+                    "location": {
+                        "settlement": "Rome",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Antonella",
+                "middle": [],
+                "last": "Marchi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Istituto Superiore di Sanit\u00e0",
+                    "location": {
+                        "settlement": "Rome",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Eleonora",
+                "middle": [],
+                "last": "Benedetti",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Istituto Superiore di Sanit\u00e0",
+                    "location": {
+                        "settlement": "Rome",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Concetta",
+                "middle": [],
+                "last": "Fabiani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Istituto Superiore di Sanit\u00e0",
+                    "location": {
+                        "settlement": "Rome",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Anselmo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, National Institute for Infectious Diseases \"Lazzaro Spallanzani\" IRCCS",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Rome, Rome",
+                        "country": "Italy, Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Andrea",
+                "middle": [],
+                "last": "Ciammaruconi\u00b2",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antonella",
+                "middle": [],
+                "last": "Fortunato",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, National Institute for Infectious Diseases \"Lazzaro Spallanzani\" IRCCS",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Rome, Rome",
+                        "country": "Italy, Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Riccardo",
+                "middle": [],
+                "last": "De Santis",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, National Institute for Infectious Diseases \"Lazzaro Spallanzani\" IRCCS",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Rome, Rome",
+                        "country": "Italy, Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Silvia",
+                "middle": [],
+                "last": "Fillo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, National Institute for Infectious Diseases \"Lazzaro Spallanzani\" IRCCS",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Rome, Rome",
+                        "country": "Italy, Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [
+                    "Rosaria"
+                ],
+                "last": "Capobianchi\u2074",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [
+                    "Rita"
+                ],
+                "last": "Gismondo\u2075",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "Ciervo\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Giovanni",
+                "middle": [],
+                "last": "Rezza\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [
+                    "Rita"
+                ],
+                "last": "Castrucci\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Florigio",
+                "middle": [],
+                "last": "Lista\u00b2",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Stefanelli",
+                "middle": [],
+                "last": "Paola",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Faggioni",
+                "middle": [],
+                "last": "Giovanni",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lo",
+                "middle": [],
+                "last": "Presti",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandra",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fiore",
+                "middle": [],
+                "last": "Stefano",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Marchi",
+                "middle": [],
+                "last": "Antonella",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Benedetti",
+                "middle": [],
+                "last": "Eleonora",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fabiani",
+                "middle": [],
+                "last": "Concetta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anselmo",
+                "middle": [],
+                "last": "Anna",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ciammaruconi",
+                "middle": [],
+                "last": "Andrea",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fortunato",
+                "middle": [],
+                "last": "Antonella",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "De",
+                "middle": [],
+                "last": "Santis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Riccardo",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fillo",
+                "middle": [],
+                "last": "Silvia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Rosaria",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Gismondo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ciervo",
+                "middle": [],
+                "last": "Rita",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rezza",
+                "middle": [],
+                "last": "Alessandra",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Giovanni",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [],
+                "last": "Castrucci",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lista",
+                "middle": [],
+                "last": "Rita",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Florigio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Whole genome sequences of SARS-CoV-2 obtained from two patients, a Chinese tourist visiting Rome and an Italian, were compared with sequences from Europe and elsewhere. In a phylogenetic tree, the Italian patient's sequence clustered with sequences from Germany while the tourist's sequence clustered with other European sequences. Some additional European sequences in the tree segregated outside the two clusters containing the patients' sequences. This suggests multiple SARS-CoV-2 introductions in Europe or virus evolution during circulation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "An outbreak of a viral respiratory illness (officially named by the World Health Organization coronavirus disease, COVID-19) caused by the newly discovered severe acute respiratory syndrome coronavirus (SARS-CoV-2), started around mid-December 2019, in the city of Wuhan, Hubei province, China [1] . The outbreak subsequently spread further and as at 31 March 2020, 750,890 cases of COVID-19 have been confirmed worldwide including 668,345 outside China [2] . Since 20 February 2020, sustained local transmission has been documented in Italy [3] , where to date, 98,716 COVID-19 cases testing positive for SARS-CoV-2 have been diagnosed, with 10,943 deaths [4] .",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 297,
+                    "text": "[1]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 454,
+                    "end": 457,
+                    "text": "[2]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 542,
+                    "end": 545,
+                    "text": "[3]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 657,
+                    "end": 660,
+                    "text": "[4]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "To gain further understanding on the molecular epidemiology of the outbreak in Italy, we characterised the full-genome sequence of two SARS-CoV-2 strains respectively isolated from two patients diagnosed in the country. The first patient was a Chinese tourist from Wuhan diagnosed at the end of January, who had visited Rome and not been in areas of Italy later found to be the initially affected areas of the epidemic in Lombardy. The second patient was an Italian person, with no apparent direct epidemiological link with China and who was diagnosed in the second half of February in Lombardy. The sequences presented are analysed in the context of other available genome sequences from Europe and elsewhere.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The two patients in this study had both been hospitalised with an acute respiratory illness (pneumonia), showing a bilateral lung involvement with ground-glass opacity, requiring intensive care. The Chinese patient had had onset of symptoms on 29 January 2020 and had been diagnosed in a hospital in Rome. The Italian patient whose onset of symptoms had occurred on 10 February 2020 had been diagnosed in a hospital in Milan. Biological samples from both patients had been confirmed as being SARS-CoV-2 positive by the National Reference Laboratory (NRL) of the Istituto Superiore di Sanit\u00e0 (ISS) in Rome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients, virus cultivation and whole genome sequencing"
+        },
+        {
+            "text": "The samples used for this study were nasopharyngeal swabs. These had been respectively sampled on the same day of hospitalisation, when symptoms occurred, for the Chinese tourist and 10 days after symptom onset . The viral genome sequence (GISAID accession ID: EPI_ISL_412973) derived from a patient from Lombardy, Italy, is in a cluster highlighted in green, which is different from that containing the Chinese tourist's sequence. a The tree was built by using the best fitting substitution model (HKY) through MEGA X software.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients, virus cultivation and whole genome sequencing"
+        },
+        {
+            "text": "for the Italian patient. An aliquot of each patient's nasopharyngeal sample was used to generate in vitro cultures in Vero cells grown in modified Eagle's medium (MEM; Gibco, Thermofisher, United Kingdom) supplemented with GlutaMAX. A total of 140 \u00b5L of each culture's supernatant was used for viral RNA extraction using the QIAMP VIRAL RNA mini kit (Qiagen, Hilden, Germany). The obtained genomic RNAs were retro-transcribed using the SuperScript III Reverse Transcriptase kit (Invitrogen, Carisbad, United States (US)) and double-stranded DNAs were subsequently obtained by Klenow enzyme (Roche, Basel, Switzerland) according to the manufacturer's instructions. The Nextera XT kit was used for library preparations and whole genome sequencing was performed using the Illumina Miseq Reagent Nano Kit, V2 (2 x 150 cycles) on the Illumina MiSeq instrument (Illumina, San Diego, US). The reads were trimmed for quality and length and assembled by mapping to the reference genome from Wuhan, China (GenBank accession number: NC_045512.2) using Geneious Prime (www.geneious.com) [5] . Viral sequences from the two patients were deposited in the Global Initiative on Sharing All Influenza Data (GISAID; https://www.gisaid.org/epiflu-applications/ next-hcov-19-app/ ).",
+            "cite_spans": [
+                {
+                    "start": 1075,
+                    "end": 1078,
+                    "text": "[5]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patients, virus cultivation and whole genome sequencing"
+        },
+        {
+            "text": "To analyse the obtained SARS-CoV-2 genomes respectively derived from the infected Chinese tourist (GISAID accession ID: EPI_ISL_412974) and the Italian patient (GISAID accession ID: EPI_ISL_412973) in a phylogenetic context, a dataset of 40 available SARS-Cov-2 complete genomes from different countries was retrieved from GISAID (https://www.gisaid.org/, last access 2 March 2020; Supplementary material). Sequence alignment was performed using MUltiple Sequence Comparison by Log-Expectation (MUSCLE) software (http://www. clustal.org) [6] . Estimation of the best fitting substitution model (Hasegawa, Kishino, and Yano, HKY model) and inference of the phylogenetic tree were conducted by a maximum likelihood approach using Molecular Evolutionary Genetics Analysis across Computing Platforms (MEGA X; https://www.megasoftware.net/) [7] . Support for the tree topology was estimated with 1,000 bootstrap replicates.",
+            "cite_spans": [
+                {
+                    "start": 538,
+                    "end": 541,
+                    "text": "[6]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 836,
+                    "end": 839,
+                    "text": "[7]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The maximum likelihood phylogenetic tree in the Figure shows a main clade containing several clusters. The viral genome sequence of the Chinese tourist (GISAID accession ID: EPI_ISL_412974) was identical to that retrieved from one sample of another Chinese tourist, hospitalised at the same hospital in Rome (GISAID accession ID: EPI_ISL_410546). The latter was closely related to that of another sample taken from the same patient (GISAID accession ID: EPI_ISL_410545). These three genome sequences were located in a cluster with genomes mainly from Europe (England, France, Italy, Sweden), but also one from Australia ( Figure, highlighted in dark red) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 622,
+                    "end": 654,
+                    "text": "Figure, highlighted in dark red)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The genome sequence from the Italian patient in Lombardy (EPI_ISL_412973) appeared in contrast to be located in a different cluster including two genome sequences from Germany (EPI_ISL_406862 Bavaria/ Munich and EPI_ISL_412912 Baden-Wuerttemberg-1) and one genome sequence from Mexico (EPI_ISL_ 412972), (Figure, highlighted in green) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 304,
+                    "end": 334,
+                    "text": "(Figure, highlighted in green)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "In the tree, some sequences from other SARS-CoV-2 collected in Europe segregated in separate clusters Table 1 Single nt polymorphisms (SNPs) a deduced by comparison of two whole genome sequences of SARS-CoV-2 characterised in this study b with selected SARS-CoV-2 sequences (n = 7 compared sequences) from the two clusters containing the respective patient sequences characterised in this study. There was for example a cluster formed by two sequences from England and a cluster formed by three sequences from France.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "Using an alignment, the single nt polymorphisms (SNPs) composition and the potentially resulting variable amino-acids in derived protein sequences compared with the Wuhan reference sequences (MN908947 and NC_045512), were investigated for the genome sequences retrieved in this study, as well as three other genome sequences (EPI_ISL_412972, EPI_ISL_ 412912, EPI_ISL_406862) that clustered with the sequence of the patient in Lombardy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The genome-wide SNPs are reported in Table  1 (positions referred respect to the reference sequence; GenBank accession number: NC_045512). The corresponding amino-acid positions and variations inside the proteins are shown in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 37,
+                    "end": 45,
+                    "text": "Table  1",
+                    "ref_id": null
+                },
+                {
+                    "start": 226,
+                    "end": 233,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The genome sequence from the Chinese tourist hospitalised in Rome differed in two nt positions from that of the COVID-19 patient in Wuhan (NC_045512), while the genome sequence isolated from the Italian patient showed four nt variations (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 237,
+                    "end": 246,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "For the sequence of the Chinese tourist, the first SNP inside ORF1ab (bps 3037, AA 924) did not result in an amino acid change.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "In the Table 2 that depicts five sequences characterised outside of China, overall eight missense mutations can be observed compared to the two reference Wuhan sequences: four locate to the ORF1ab polyprotein, whereby only the mutation L3606F has previously been reported by Phan, 2020 [8] ; one, D614G, locates to the surface glycoprotein and has been prior observed [8] , but is not in the receptor binding domain (RDB), responsible for virus entry into host cell; one is in the ORF3a protein and two are in the nucleocapsid protein.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 289,
+                    "text": "Phan, 2020 [8]",
+                    "ref_id": null
+                },
+                {
+                    "start": 368,
+                    "end": 371,
+                    "text": "[8]",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 7,
+                    "end": 14,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The sequence of the Chinese tourist hospitalised in Rome on 29 January (EPI_ISL_412974) presented a mutation 3606F in ORF1ab with respect to the reference Wuhan genome (L). In ORF3a, this sequence had a V at amino acid position 251, as opposed to a G in the references from Wuhan.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "Meanwhile, the sequence of the Italian patient from Lombardy (EPI_ISL 412973) presented an L at amino acidic position 4704 with respect to the reference Wuhan genome (P). It also had a mutation in the surface glycoprotein, at amino acidic position 614, where it showed a G compared to the reference sequences from Wuhan that presented a D at that position.",
+            "cite_spans": [
+                {
+                    "start": 61,
+                    "end": 77,
+                    "text": "(EPI_ISL 412973)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "With regard to the nucleocapsid protein, both of the sequences from the Italian patient and Chinese tourist presented the same amino acids of the references Wuhan genomes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "In this study, the full length genomes of two SARS-CoV-2 strains (EPI_ISL_412973 and EPI_ISL_412974) isolated in Italy, one from an Italian patient, the other from a Chinese tourist visiting Rome, are completely sequenced and analysed, after virus cultivation. Compared to the viral genome sequence of the COVID-19 patient in Wuhan, the sequence from the Chinese tourist had two nt differences, while that of the Italian patient had four. Phylogenetic analysis consistently placed the Italian patient's strain in a distinct Table 2 Amino acid variations a deduced by comparing translations of two whole genome sequences of SARS-CoV-2 characterised in this study b with those of selected SARS-CoV-2 sequences (n = 7 compared sequences) ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 524,
+                    "end": 531,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "ORF: open reading frame; ORF1ab: ORF encoding polyprotein; SARS-CoV-2: severe acute respiratory syndrome coronavirus. a The amino acid positions refer to those in each respective protein sequence of the Wuhan reference (GenBank accession number: MN908947), starting from the first methionine. b The two sequences characterised in this study are the ones from Italy (EPI_ISL_412973 and EPI_ISL_412974). c -: possible sequencing error.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "cluster from the tourist's strain. The strain of the Italian patient grouped with other viral strains identified in Germany and Mexico, while the strain from the Chinese tourist, related with the Wuhan virus strain, clustered with different European strains and a strain from Australia. Other sequences from strains collected in Europe, which were included in the phylogenetic analysis, ended up in separate clusters from the ones respectively containing the sequences of the two patients reported here. The results are consistent with several introductions of SARS-CoV-2 in Europe and/ or further circulation of the single strain originating in Wuhan with concurrent evolution and accumulation of mutations. The mutations found in the virus identified in Lombardy, compared with the reference Wuhan strain, and the identification of amino acids changes, should be further investigated to understand whether they may affect virus characteristics. Some limitations need be mentioned: first, the lack of epidemiological information available with most sequences deposited in the database; second, the number of genomes available at the time of the analysis and consequently their selection. Nevertheless, these data may be useful to understand the dynamics of the local transmission of SARS-CoV-2 in Europe.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "BetaCoV/Italy/CDG1/2020|EPI ISL",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "BetaCoV/Singapore/1/2020|EPI ISL",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "BetaCoV/Italy/SPL1/2020|EPI ISL",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ehy",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ksm",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2020.25.3.2000044"
+                ],
+                "PMID": [
+                    "31992388"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Coronavirus disease 2019 (COVID-19) Situation Report -71. Geneva: WHO",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Coronavirus disease 2019 (COVID-19) pandemic: increased transmission in the EU/EEA and the UK -seventh update",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Sorveglianza Integrata COVID-19 in Italia",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Epicentro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Istituto Superiore di Sanit\u00e0 (ISS)",
+            "volume": "31",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kearse",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Moir",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stones-Havas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sturrock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Bioinformatics",
+            "volume": "28",
+            "issn": "12",
+            "pages": "1647--1656",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bts199"
+                ],
+                "PMID": [
+                    "22543367"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "MUSCLE: a multiple sequence alignment method with reduced time and space complexity",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Edgar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "BMC Bioinformatics",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-5-113"
+                ],
+                "PMID": [
+                    "15318951"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Molecular Evolutionary Genetics Analysis across computing platforms",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Knyaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Mega X",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Mol Biol Evol",
+            "volume": "35",
+            "issn": "6",
+            "pages": "1547--1556",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msy096"
+                ],
+                "PMID": [
+                    "29722887"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Genetic diversity and evolution of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Phan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Genet Evol",
+            "volume": "81",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2020.104260"
+                ],
+                "PMID": [
+                    "32092483"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Phylogenetic GISAID: Global Initiative on Sharing All Influenza Data; HKY: Hasegawa, Kishino, and Yano; MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms; SARS-CoV-2: severe acute respiratory syndrome coronavirus. Main clusters are highlighted in different colours. The Wuhan reference genome is in larger font (GenBank accession number: NC_045512.2). The filled circles represent the main supported clusters (bootstrap support values are indicated at the level of the nodes). The scale bar at the bottom of the tree represents 0.000050 nt substitutions per site. The cluster containing the viral sequence of the Chinese tourist who had visited Rome, Italy (GISAID accession ID: EPI_ISL_412974) is in dark red. This cluster includes viral sequences derived from two samples (sputum and nasopharyngeal swabs) of another Chinese tourist visiting Rome (GISAID accession IDs: EPI_ISL_410545 and EPI_ISL_410546)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": ": nucleocapsid protein; ORF: open reading frame; ORF1ab: ORF encoding polyprotein; S: surface glycoprotein; SARS-CoV-2: severe acute respiratory syndrome coronavirus; SNP: single nt polymorphism; UTR: untranslated region. a SNPs are shown according to nt positions in the genome sequence and gene location. b The two sequences characterised in this study are the ones from Italy (EPI_ISL_412973 and EPI_ISL_412974).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We gratefully acknowledge the Authors, the Originating and Submitting Laboratories for their sequence and metadata shared through GISAID and NCBI, on which this research is based. All submitters of data may be contacted directly via www.gisaid.org. The Acknowledgments ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "PS: conceived the study, coordinated the in vitro virus cultivation and wrote the manuscript together with FL and ALP; SFiore, EB,AM,CF prepared the Vero cells and cultivated the two virus; GF, AF, RDS and SFillo performed the whole genome sequence of the new genomes (ID: EPI_ISL_412973 and 412974); ALP, AA, AC analysed the genomes together with GF and FL; MRCapobianchi and MRG diagnosed SARS-CoV-2 onto the two samples; AC set up the molecular methods; MRCastrucci coordinated laboratory confirmation; GR read and revised the manuscript. The authors read and approved the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0) Licence. You may share and adapt the material, but must give appropriate credit to the source, provide a link to the licence and indicate if changes were made.Any supplementary material referenced in the article can be found in the online version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "License, supplementary material and copyright"
+        }
+    ]
+}

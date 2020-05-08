@@ -1,0 +1,2085 @@
+{
+    "paper_id": "294797af3ca7e4d093ab534e99e82502fc91da20",
+    "metadata": {
+        "title": "Evolution of infectious bronchitis virus in China over the past two decades",
+        "authors": [
+            {
+                "first": "Ye",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Animal Epidemiology and Zoonoses",
+                    "institution": "China Agricultural University",
+                    "location": {
+                        "postCode": "100193",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Capital Medical University",
+                    "location": {
+                        "postCode": "100050",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": "zhanggz@cau.edu.cn"
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Animal Epidemiology and Zoonoses",
+                    "institution": "China Agricultural University",
+                    "location": {
+                        "postCode": "100193",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Zhong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Animal Epidemiology and Zoonoses",
+                    "institution": "China Agricultural University",
+                    "location": {
+                        "postCode": "100193",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ji-Hui",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Animal Epidemiology and Zoonoses",
+                    "institution": "China Agricultural University",
+                    "location": {
+                        "postCode": "100193",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Guo-Zhong",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Key Laboratory of Animal Epidemiology and Zoonoses",
+                    "institution": "China Agricultural University",
+                    "location": {
+                        "postCode": "100193",
+                        "settlement": "Beijing",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Avian infectious bronchitis is a highly contagious disease caused by infectious bronchitis virus (IBV) that affects poultry production worldwide. The absence of vaccine cross-protection and the frequent emergence of new variant strains complicate control of IBV. Here we designed a study to measure the evolution dynamics of IBV strains in China. One hundered and seven complete sequences and 1022 S1-region sequences of Chinese IBVs isolated between 1994 and 2014 were analysed by using MEGA 5.0 software and the Bayesian analysis sampling trees (BEAST) method, and selection pressure on different proteins was assessed. The phylogenetic dissimilarity of different gene trees in the data set indicated possible recombination. Fourteen isolates were identified as recombinants, possibly generated from vaccines of the Massachusetts serotype in recombination with circulating viruses. The earliest IBV in China was found to have existed in the early 1900s, and continues to evolve at a rate of approximately 10 \u00c05 substitutions per site per year. We found that purifying selection was the main evolutionary pressure in the protein-coding regions, while the S1 gene bears the greatest positive selection pressure. The proportion of QX-like genotype strains increased over time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "These results indicate that the genotypes of Chinese IBVs have undergone a remarkable transition during the past 20 years. Two supplementary tables are available with the online Supplementary Material. 1566 000464 \u00e3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Infectious bronchitis virus (IBV) is a coronavirus that causes acute, highly contagious, respiratory disease in poultry worldwide (Cavanagh, 2007) . IBV belongs to the gamma coronaviruses, with the other two genera being mammalian viruses, including those responsible for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) (Drexler et al., 2014) . The IBV genome is approximately 27.6 kb in size and contains four main structural genes, which produce the spike (S), membrane (M), envelope (E) and nucleocapsid (N) proteins.",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 146,
+                    "text": "(Cavanagh, 2007)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 357,
+                    "end": 379,
+                    "text": "(Drexler et al., 2014)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "IBV outbreaks were first reported in the USA during the 1930s; within a few years they were recognized throughout the world (Cook et al., 2012) . These outbreaks continue to cause great losses to the poultry industry worldwide, despite the widespread use of vaccines. Live attenuated vaccines are generally used and outbreaks are caused by the emergence of new variants, as the vaccines are not cross-protective (Cavanagh, 2007; De Wit et al., 2011) . Some serotypes and genotypes of IBV may remain isolated in a particular location for a period of time, while others may spread worldwide relatively rapidly.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 143,
+                    "text": "(Cook et al., 2012)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 412,
+                    "end": 428,
+                    "text": "(Cavanagh, 2007;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 429,
+                    "end": 449,
+                    "text": "De Wit et al., 2011)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The frequent emergence of new variant strains complicates the control of IBV. In the USA, most outbreaks are caused by the Massachusetts (Mass), Connecticut (Conn) or Arkansas (Ark) serotypes, which have been used as attenuated live vaccines. In Europe, outbreaks have been caused mainly by the 4/91 genotype and Italy-02 genotype viruses. For many years little was known about IBV variants in China. The sustained efficacy of Mass-type vaccines in China suggests that variants were not a problem there before the 1980s (De Wit et al., 2011) . However, since 1998 a new genotype, QX, has emerged and spread rapidly through several countries, becoming the predominant circulating genotype in that region and causing substantial economic loss (Wang et al., 1998) .",
+            "cite_spans": [
+                {
+                    "start": 520,
+                    "end": 541,
+                    "text": "(De Wit et al., 2011)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 741,
+                    "end": 760,
+                    "text": "(Wang et al., 1998)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Vaccines have been shown to impose strong selection pressure on the evolution of circulating viruses. They may also give rise to new strains through recombination, and new genotypes may acquire greater virulence as a result of their expedited transmission in vaccinated populations. RNA viruses typically have a high rate of genomic mutation due to their low fidelity of reproduction and low processivity of their RNA polymerase, allowing the viruses to escape host defences and evolve further. The coronavirus has the largest genome of the RNA viruses, comprising nearly 28 kb. As a consequence, it is more likely to mutate under vaccination and environmental pressures (Compton et al., 1993) .",
+            "cite_spans": [
+                {
+                    "start": 671,
+                    "end": 693,
+                    "text": "(Compton et al., 1993)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "To understand the population dynamics of the dominant IBV genotypes in China, we investigated the evolutionary trends of the main endemic QX genotype and the Mass vaccine-like genotype in China during the 1990s-2010s by analysing a data set of 1022 complete sequences of segment 1 of the spike gene (S1) from viruses isolated at different times. The sequence comparison of 107 full-length IBV genomes, and phylogenetic and recombination analyses, were then carried out to screen out recombinant strains. We then estimated the evolution rate from a data set of fulllength IBV genome sequences by Bayesian methods. Using the Lognormal relaxed uncorrelated clock method (assuming a constant rate of substitution), we estimated the earliest time of IBV circulation. We also identified the genes that have played a dominant role in IBV evolution by testing the positive selection pressure of different genes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The current phylogenetic classification of Chinese IBV strains is based on the full or partial nucleotide sequences of their S1, M, E or N genes. To determine whether these genes yielded consistent phylogenetic profiles, we obtained 91 full-length Chinese IBV sequences and 16 reference sequences from GenBank. We then generated nucleotide data sets for each of the four genes and a concatenated sequence of all protein-coding regions. Neighbour-joining (NJ) phylogenic trees were reconstructed for all sequence data sets under the Kimura 2-parameter model for each data set (Fig. 1) . The individual and concatenated gene trees revealed several distinct genotypes, including the Mass vaccine-like group, 4/91-like group, QX-like group, Taiwan (TW)-like group, and smaller branches. The strains were not grouped entirely consistently in the different phylogenetic trees and concatenated coding sequences. To investigate the possibility of recombination among the fulllength IBV sequences, we used seven different algorithms implemented in the RDP4 program. We used the strict criterion that recombinant sequences must be identified by more than five methods in the RDP4 program and have statistical support of P 10 \u00c012 (Thor et al., 2011) . The different gene regions of most isolates yielded consistent phylogenic trees, while several taxa changed their genotype affiliation in different gene trees. As shown in Table 1 , the recombination hotspots were mainly concentrated in the genes 1ab, Spike and N, which have been reported to have higher mutation rates and recombination occurrence than other genes of IBV. Fourteen isolates were detected as recombinant strains based on the RDP4 screening criterion and excluded in the subsequent evolution analysis.",
+            "cite_spans": [
+                {
+                    "start": 1219,
+                    "end": 1238,
+                    "text": "(Thor et al., 2011)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 575,
+                    "end": 583,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1413,
+                    "end": 1420,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "Estimating ancestral dates using the molecular clock method",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "The branch length from each cluster to the root of the tree was plotted against time for the 91 complete sequences of Chinese isolates showed in Table S1 (available in the online Supplementary Material), and a maximum-likelihood linear fit was generated. The results, assuming a strict molecular clock (a constant rate of substitution), suggested that the most recent common ancestor in China existed near 1900. The 95 % confidence intervals (CIs) roughly spanned the last 20 years of the nineteenth century through the first 20 years of the twentieth century (1882.4-1919.5) (Fig. 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 145,
+                    "end": 153,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 576,
+                    "end": 584,
+                    "text": "(Fig. 2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "We inferred the evolutionary rates of Chinese IBV strains whose date of isolation was known, by using a Bayesian coalescent approach based on the sequence data sets of different protein-coding genes (excluding the 14 recombinant sequences). Under the best-fit model, Bayesian estimates of the mean substitution rates of these genes were between 2.43\u00c210 -5 and 9.77\u00c210 -5 substitutions per site per year ( Table 2) . The E gene evolved at the fastest rate among the structural protein-encoding genes, with a substitution rate of 9.77\u00c210 -5 and a highest probability density (HPD) of between 2.45\u00c210 -5 and 1.79\u00c210 -4 . The N gene evolved at the slowest estimated mean (95 % HPD) rate of 2.43\u00c210 -5 (1.61\u00c210 \u00c08 -5.02\u00c210 -5 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 405,
+                    "end": 413,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Evolutionary rates of different genes in Chinese IBVs"
+        },
+        {
+            "text": "To identify additional forces affecting IBV evolution, we analysed the average selective pressure per protein by using Model 0 (M0) of the codon-based phylogenetic models (-CODEML) within the phylogenetic analysis by maximumlikelihood (PAML) programs. This assumes a constant substitution rate at all sites and provides estimated values averaged across all sites. The gene encoding the S1 protein was found to be most variable, while the gene that encodes nonstructural 1ab protein was more conserved. Based on Bayesian analyses, neutral and positive selection models were compared by using likelihood ratio tests. The neutral models (M0, M1 and M7) with a proportion of selected codons (M2 and M8), and a model for difference between non-synonymous (dN) and synonymous (dS) rates (dN/dS)among amino acid residues (M3), were applied to test the selective pressure on different protein-encoding residues ( Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 905,
+                    "end": 913,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Positive selection of different genes in Chinese IBVs"
+        },
+        {
+            "text": "The log likelihood values indicated that positive selection models (M2, M3, M8) fitted most of the gene regions tested better than neutral models (M0, M1, M7). The nested comparisons between neutral and positive models, including M0 versus M3, M1 versus M2 and M7 versus M8, confirmed the better fit of positive models, suggesting that Phylogenetic relationships of different IBV genotypes. One hundred and seven different IBV isolates were involved in the phylogenetic reconstruction in MEGA 5. The evolutionary history was inferred using the neighbour-joining method and tested with a bootstrap test (1000 replicates). The evolutionary distances were computed using the Kimura 2-parameter method. (a) Genotype topology based on the four structural IBV genes S1, E, M and N, respectively. (b) Neighbour-joining tree inferred from entire genome sequences including untranslated regions of the 107 isolates. Bootstrap numbers are listed at the base of nodes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Positive selection of different genes in Chinese IBVs"
+        },
+        {
+            "text": "positive selection occurs at different gene sites within the genome during the evolution of IBV. The number of protein-coding sites within the S1 glycoprotein-coding region under positive selection pressure was most among the different gene regions (P < 0.05 in these three comparisons, chi-square test) (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 304,
+                    "end": 313,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Positive selection of different genes in Chinese IBVs"
+        },
+        {
+            "text": "In order to understand the composition change of the IBV strains circulating in China over the past 20 years, we collected 1022 S1 gene sequences of Chinese IBVs (collected during 1994-2014) from GenBank. These S1 sequences were divided into eight genotypes based on their phylogenetic trees. These comprised (1) a vaccine-like group comprising common vaccine strains (Mass 41, H120, Cal99, CU-T2, Gray, Conn and Ark) and field isolates;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population dynamics of IBV genotypes over the past 20 years"
+        },
+        {
+            "text": "(2) a 4/91like group including UK 793 and other field isolates;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population dynamics of IBV genotypes over the past 20 years"
+        },
+        {
+            "text": "(3) a TW-like group represented by TW2575/98, TW97-4 and TP/64; and (4) five main Chinese groups (BJ-like, QX-like, CK/CH/LSC/95I-like, GX-like and GM-like). Most of the isolates clustered into genotype QX. To investigate the change of isolation rate over time, a single-covariate logistic regression was performed using isolation as response and year as covariate. As time elapsed, we saw a sustained increase in the QX-like genotype in China (from 11.7 % to nearly 70 % at present) (Fig. 3) , while the proportion of the vaccine-like genotype was implied to decline from 50.4 % to 4.4 % from the mid-1990s to the present (Fig. 3) . This result suggests that the genotypes of Chinese IBVs have undergone a remarkable transition during the past 20 years.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 484,
+                    "end": 492,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 623,
+                    "end": 631,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Population dynamics of IBV genotypes over the past 20 years"
+        },
+        {
+            "text": "Our study of the evolution of Chinese IBV strains, using available full-length genome sequences and S1 protein-coding sequences, demonstrated an inconsistency between genotype affiliations based on individual genes versus concatenated full-length genomes, indicating that recombination events exist widely in the IBV populations and influence the topology of phylogenetic trees. The S1 gene tree was closest to the complete-genome phylogenetic tree. The S1 gene is known to be the main antigenic determinant of IBV (Cavanagh & Naqi, 2003) and is used as the conventional genotyping evidence of IBV (Lee et al., 2003; Wang & Huang, 2000) . However, in several strains the phylogenetic trees of some genes showed a change in their genotype affiliations, suggesting recombination between different circulating IBV strains. Further, 14 sequences showed the possibility of recombination of different genotypes. Among the 14 recombinants we identified, most had a major parent of the QX type, with minor parents of the Mass-41-like, 4/91-like, TW-like or Ark-like genotypes. Our identification of recombinants derived from Mass-41-like vaccine strains confirms that chickens can be simultaneously infected with live virus vaccine and other circulating IBV genotypes (Kottier et al., 1995) . Therefore, incorrect vaccination strategies could inadvertently lead to the mixture of vaccine strains and WT virus. There have been many reports of recombination between other vaccine strains and circulating wild strains, including a PMV-1 (Chong et al., 2010) , bovine viral diarrhea virus (Becher et al., 2001) and infectious bursal disease virus (Hon et al., 2008) , raising concern that modified live virus vaccines, although efficacious, may facilitate the emergence of new strains through recombination with circulating viruses.",
+            "cite_spans": [
+                {
+                    "start": 515,
+                    "end": 538,
+                    "text": "(Cavanagh & Naqi, 2003)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 598,
+                    "end": 616,
+                    "text": "(Lee et al., 2003;",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 617,
+                    "end": 636,
+                    "text": "Wang & Huang, 2000)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1260,
+                    "end": 1282,
+                    "text": "(Kottier et al., 1995)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1526,
+                    "end": 1546,
+                    "text": "(Chong et al., 2010)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1577,
+                    "end": 1598,
+                    "text": "(Becher et al., 2001)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1635,
+                    "end": 1653,
+                    "text": "(Hon et al., 2008)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In most instances, it is less important to know the isolation date than the location of isolated sequences. However, in the case of fast-evolving organisms such as RNA viruses, changes in the date of isolation can be used to estimate the time since viruses last shared a common ancestor. Therefore, analyses based on the assumption of a constant rate of molecular evolution, like those used to estimate the date of divergence between sequences, require the date of isolation. More importantly, the differences in isolation dates, under the assumption of rate constancy, provide information about the rate of molecular evolution. That is, the quantity of evolutionary change that has accumulated since the date of isolation (Thorne et al., 1998) . The first outbreaks of IBV in the USA were reported during the 1930s, which is consistent with the results inferred through full-length sequences in this study assuming a strict molecular clock. This method has been used successfully to determine the timing of ancestors of the human immunodeficiency virus 1 (HIV-1) pandemic strains (Korber et al., 2000) and SARS virus (Zeng et al., 2003) . Our results indicate that the most recent ancestor of IBV existed in the early 1900s, indicating that IBV may have been circulating in nature for a period before its first outbreak. A Bayesian coalescent approach indicated a mean substitution rate of between 2.43\u00c210 -5 and 9.77\u00c210 -5 substitutions per site per year in different genes, which is comparable with the results reported for hepatitis A (Wang et al., 2015) and B (Alvarado Mora et al., 2011) virus and low-virulence Newcastle disease virus (Miller et al., 2009) . The higher substitution rate of the IBV E region may be due to its less important function in virus synthesis and replication than other regions, which may have been subjected to greater immune selection pressure and undergone more substitutions.",
+            "cite_spans": [
+                {
+                    "start": 723,
+                    "end": 744,
+                    "text": "(Thorne et al., 1998)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1081,
+                    "end": 1102,
+                    "text": "(Korber et al., 2000)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1118,
+                    "end": 1137,
+                    "text": "(Zeng et al., 2003)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1539,
+                    "end": 1558,
+                    "text": "(Wang et al., 2015)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1575,
+                    "end": 1593,
+                    "text": "Mora et al., 2011)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1642,
+                    "end": 1663,
+                    "text": "(Miller et al., 2009)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "When we compared the selection profiles of protein-encoding genes of Chinese IBVs, the global rate of non-synonymous to synonymous substitutions (dN/dS) in all proteincoding genes was less than 1, indicating purifying selection as the major force driving the evolution of Chinese IBV viruses. However, there was a clear difference in the selection profiles of different genes. The S1 gene had the highest dN/dS value among the main structural protein-coding genes. The 25 protein-coding sites within the S1 glycoprotein coding region were detectably evolving under positive selection pressure. Frequent point mutations in the hypervariable regions of the spike 1 (S1) gene contributed to most of the antigenic determinants of IBV. The S protein is essential to induce protective immunity, and small differences in the S gene contribute to poor cross-protection. As the S1 subunit of the spike protein is the major antigenic moiety of coronaviruses and is not an essential structural protein, it is prone to high mutation rates as the virus evolves in host populations. While the IBV N protein has generally been conserved and negatively selected for during viral evolution, we identified three positively selected sites at aa 64S, 300R and 337P in the N protein of IBV, consistent with a previous study (Kuo et al., 2013) . The 64S site has been demonstrated to be located in the putative recombinant region of the NTD domain and is critical for binding to TRS repeats (Kuo et al., 2013) . In addition, it has been ",
+            "cite_spans": [
+                {
+                    "start": 1303,
+                    "end": 1321,
+                    "text": "(Kuo et al., 2013)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1469,
+                    "end": 1487,
+                    "text": "(Kuo et al., 2013)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "HPD, highest probability density.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "suggested that the a-turn region (aa 63-67) may form an antigenic epitope in the IBV N protein (Ignjatovic & Sapats, 2005) . The other two sites have not been included in other studies but may also be important in the N protein for coronaviral RNA binding. Among the non-structural protein coding genes, 3a, 3b, 5a and 5b bear greater positive selection pressure than does gene 1 (Nsp2-16). Gene 1 comprises approximately two-thirds of the genome and encodes two overlapping ORFs, 1a and 1b, which are translated as the large polyprotein 1ab. Protein 1ab can be divided into 15 or 16 non-structural proteins and is associated with RNA replication and transcription (Lai & Cavanagh, 1997) . Viral fitness can indeed limit the variability of genes, which is critical to virus replication (S\u00f6derholm et al., 2006) . Thus, it is reasonable that gene 1 undergoes mainly purifying selection in the evolution process of IBV. Our data support the conclusion that positive selection has occurred in most gene parts of Chinese IBV. This selection may promote viral fitness in infected hosts.",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 122,
+                    "text": "(Ignjatovic & Sapats, 2005)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 665,
+                    "end": 687,
+                    "text": "(Lai & Cavanagh, 1997)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 786,
+                    "end": 810,
+                    "text": "(S\u00f6derholm et al., 2006)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The population dynamics of the QX-like and Mass (vaccine)-like Chinese IBV isolates show that the proportion of QX-like isolates has undergone a sustained increase during the past 20 years, while the population of vaccine-like genotypes is inferred to have declined since the mid-1990s. Since the QX-like genotype was first reported in China in 1998, it has rapidly increased worldwide and is now the predominant IBV genotype. During the past few years, the QX-like viruses have made up a great proportion of strains identified in many epidemiological investigations worldwide. The poultry industry has, in recent years, detected an increasing incidence of outbreaks of QX-like IBV strains in many countries. Despite the widespread use of live attenuated IBV vaccines (Mass serotype), such as strains H120, H52 and Ma5, vaccinated chicken flocks usually fail to obtain complete protection against challenge with virulent field IBV. Furthermore, we previously found that the virulence of Chinese IBV isolates is increasing (Feng et al., 2012) . The genotype misfit of vaccine and wild viruses results in the sustaining of multiple virulent strains and more complicated situations. Thus, optimal vaccines against circulating IBV strains in China should be attenuated viruses developed against local strains. In conclusion, our results indicate that Chinese IBV isolates are evolving at a rapid rate under the immune selection pressure of vaccines. Therefore, it is possible that the avian immune system has reshaped the IBV genotype and phenotype through positive selection, although genetic mutation and recombination contribute to the natural evolution of IBV. The S1 gene is the first structural gene to be affected by such selection pressure to our knowledge. As the proportion of QX-like isolates becomes larger over time, there will be a greater need for vaccines with new genotypes.",
+            "cite_spans": [
+                {
+                    "start": 1022,
+                    "end": 1041,
+                    "text": "(Feng et al., 2012)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "IBV strains. We downloaded 107 complete genome sequences of IBV strains obtained before 2015 from GenBank. To estimate rates of nucleotide substitution per site per year and the time of appearance of the earliest IBV isolate, we included only sequences with a known year of collection. Dates of collection for each sequence were determined either from GenBank annotations or the journal article describing the sequence. Detailed information on the IBV strains analysed is provided in Table S1 , including the GenBank accession number, year of isolation and site of isolation (in the absence of specific location, the site is listed as China). Different data sets, including the sequences of the S1, M, E and N structural genes and the non-structural genes, were extracted from the complete genome data and used in analyses. An additional 1022 IBV S1 gene sequences, mostly isolated from China, were collected from GenBank to calculate the changes in percentage of different genotypes in China over the past 20 years; the GenBank accession numbers of these strains are provided in Table S2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 484,
+                    "end": 492,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1080,
+                    "end": 1088,
+                    "text": "Table S2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "METHODS"
+        },
+        {
+            "text": "Phylogenetic analysis. Partial nucleotide sequence data sets of the S1, M, E and N genes were extracted from the 107 complete genome sequences, while the 1022 full-length S1 genes were stored in a separate data set. Multiple sequence alignment of all sequence data sets was performed using the codon-based Clustal W program. The DNA sequences were translated into amino acid sequences by using the software DAMBE 4.5.20. Maximum-likelihood phylogenic trees were reconstructed by using the appropriate nucleotide substitution model selected for each data set using MEGA 5.0 software (Tamura et al., 2007) . Results were validated by 1000 bootstrap replicates.",
+            "cite_spans": [
+                {
+                    "start": 582,
+                    "end": 603,
+                    "text": "(Tamura et al., 2007)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Undetected recombination events can muddle the evolutionary relationships in the tree (Kusters et al., 1990) . To remove sequences that had undergone possible recombination from subsequent evolution analysis, searches for recombinant sequences and crossover regions were performed by aligning the 107 full-length sequences in the Geneconv (Sawyer, 1999) , RDP (Maidak et al., 1997; Martin et al., 2010) , MaxChi (Smith, 1992) , Chimera (Posada & Crandall, 2001) , BootScan (Martin et al., 2005) , SiScan (Gibbs et al., 2000) , 3Seq (Sled et al., 1998) and LARD (Holmes et al., 1999) programs, all implemented in Recombination Detection Program v.4.16 (Martin et al., 2010) . Programs were executed with modified parameter settings according to the guidelines in the RDP4 manual for the analysis of divergent sequences (Martin et al., 2015) . Recombinant sequences were tested with the highest acceptable Pvalue of 0.05. To eliminate interference from known recombinant isolates, we excluded recombinant isolates identified in other studies.",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 108,
+                    "text": "(Kusters et al., 1990)",
+                    "ref_id": null
+                },
+                {
+                    "start": 339,
+                    "end": 353,
+                    "text": "(Sawyer, 1999)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 360,
+                    "end": 381,
+                    "text": "(Maidak et al., 1997;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 382,
+                    "end": 402,
+                    "text": "Martin et al., 2010)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 412,
+                    "end": 425,
+                    "text": "(Smith, 1992)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 436,
+                    "end": 461,
+                    "text": "(Posada & Crandall, 2001)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 473,
+                    "end": 494,
+                    "text": "(Martin et al., 2005)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 504,
+                    "end": 524,
+                    "text": "(Gibbs et al., 2000)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 532,
+                    "end": 551,
+                    "text": "(Sled et al., 1998)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 561,
+                    "end": 582,
+                    "text": "(Holmes et al., 1999)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 651,
+                    "end": 672,
+                    "text": "(Martin et al., 2010)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 818,
+                    "end": 839,
+                    "text": "(Martin et al., 2015)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Evolution substitution rates. We analysed 107 representative complete genome sequences of IBV isolated between 1941 and 2014 by using the MCMC program in the BEAST software package (version 1.8.2) to estimate the rate of molecular evolution of different genes. The program provides a maximum-likelihood estimate of the rate, under a model that assumes a constant rate of substitution (molecular clock). Confidence intervals for these parameters were estimated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "jModel Test software 2.0.1 was used (Posada, 2008) to estimate the bestfit model according to the Akaike information criterion (AIC). The Bayes factor was used for model comparison to determine which model yielded the best results. This factor was calculated for each model tested, using marginal likelihood estimated according to the method of Newton & Raftery (1994) , with the modifications proposed by Drummond et al. (2012) . GTR (general time reversible) + I (proportion of invariant sites) and G4 (gamma distributed rate variation with four rate categories) + Lognormal relaxed uncorrelated clock with expon-growth demographic population dynamic models, as implemented in the BEAST package, was found to be the best-fit model for this study. The MCMC analysis was performed with 100 million generations and was sampled every 10 000 generations with 10 % burn-in. The unweighted pair group method with arithmetic mean was used to reconstruct a starting tree. The results were computed and analysed by using the Tracer 1.6 program. The effective sample size was over 200 for estimation of parameters in the MCMC analysis. Statistical uncertainty in the data was reflected in the 95 % HPD values.",
+            "cite_spans": [
+                {
+                    "start": 36,
+                    "end": 50,
+                    "text": "(Posada, 2008)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 345,
+                    "end": 368,
+                    "text": "Newton & Raftery (1994)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 406,
+                    "end": 428,
+                    "text": "Drummond et al. (2012)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Estimated time of IBV emergence in China. Given a phylogenetic tree and assuming a uniform rate of evolution, we can plot total branch length (from branch tip to ancestral node) against the year of sampling and fit a line through the data points (Korber et al., 2000) . From this inferred linear relation, we can project back to estimate the time of zero branch length. For a standard linear least-squares fit to a line, one implicitly assumes that the data on the independent axis (sampling time) are precisely known, and the best-fit line is chosen to minimize the squared deviation on the dependent axis (branch length). Bootstrap re-sampling of the data points (480 trials) provided 95 % CIs for estimated timing of ancestral sequences (Fig. 2) .",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 267,
+                    "text": "(Korber et al., 2000)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 740,
+                    "end": 748,
+                    "text": "(Fig. 2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "METHODS"
+        },
+        {
+            "text": "Positive selection analysis. Variable selective pressures at individual codon positions of different proteins were evaluated on the basis of phylogenetic analysis of the complete genome of 107 IBVs. We applied paired models of variable dN/dS distribution among amino acid sites, including M3 (discrete) versus M0 (one ratio), M2 (positive selection) versus M1 (nearly neutral) and M8 (beta and dN/dS) versus M7 (beta), in the codon-based phylogenetic models (CODEML) program within the PAML software package. The likelihood ratio test statistic was calculated as twice the log likelihood (L) difference between the two models and labelled 2 (L1-L0). Values were compared by chi-square test with one degree of freedom (equal to the difference between the compared models in the number of free parameters).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Proportional change of the genotypes of IBV isolate over time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "We compiled the 1022 S1 gene sequences of Chinese IBV strains isolated from 1994 to 2014 and analysed these sequences by using MEGA 5.0. Phylogenetic trees were reconstructed by using the maximum-likelihood method with 1000 bootstrap replicates. The sequences were divided into different genotypes on the basis of this phylogenetic tree and the number of isolates in different groups was summed, respectively, to calculate the percentages of the respective genotypes. The variation trend line of the number of QX-like and vaccine (Mass)-like groups was reconstructed by using statistical methods.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Molecular characterization of the Hepatitis B virus genotypes in Colombia: a Bayesian inference on the genotype F",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Botelho",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Carrilho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Pinho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Infect Genet Evol",
+            "volume": "11",
+            "issn": "",
+            "pages": "103--108",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "RNA recombination between persisting pestivirus and a vaccine strain: generation of cytopathogenic virus and induction of lethal disease",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Becher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Orlich",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Thiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "6256--6264",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Infectious bronchitis. Diseases of Poultry 11",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Naqi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "101--119",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Coronavirus avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Vet Res",
+            "volume": "38",
+            "issn": "",
+            "pages": "281--297",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The effect of vaccination on the evolution and population dynamics of avian paramyxovirus-1",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Padhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hudson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Poss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The cellular and molecular pathogenesis of coronaviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Compton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Barthold",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Lab Anim Sci",
+            "volume": "43",
+            "issn": "",
+            "pages": "15--28",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The long view: 40 years of infectious bronchitis research",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jackwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Avian Pathol",
+            "volume": "41",
+            "issn": "",
+            "pages": "239--250",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Infectious bronchitis virus variants: a review of the history, current situation and control measures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Der Heijden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Avian Pathol",
+            "volume": "40",
+            "issn": "",
+            "pages": "223--235",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Ecology, evolution and classification of bat coronaviruses in the aftermath of SARS",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Antiviral Res",
+            "volume": "101",
+            "issn": "",
+            "pages": "45--56",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Bayesian phylogenetics with BEAUti and the BEAST 1.7",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Suchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "29",
+            "issn": "",
+            "pages": "1969--1973",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Virulent avian infectious bronchitis virus, People's Republic of China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Emerg Infect Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Sister-scanning: a Monte Carlo procedure for assessing signals in recombinant sequences",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gibbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Armstrong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gibbs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Bioinformatics",
+            "volume": "16",
+            "issn": "",
+            "pages": "573--582",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Phylogenetic evidence for recombination in dengue virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Worobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol Biol Evol",
+            "volume": "16",
+            "issn": "",
+            "pages": "405--409",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Phylogenetic evidence for homologous recombination within the family Birnaviridae",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Gen Virol",
+            "volume": "89",
+            "issn": "",
+            "pages": "3156--3164",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Identification of previously unknown antigenic epitopes on the S and N proteins of avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ignjatovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sapats",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Arch Virol",
+            "volume": "150",
+            "issn": "",
+            "pages": "1813--1831",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Timing the ancestor of the HIV-1 pandemic strains",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wolinsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bhattacharya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "288",
+            "issn": "",
+            "pages": "1789--1796",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Experimental evidence of recombination in coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology (Auckl)",
+            "volume": "213",
+            "issn": "",
+            "pages": "569--580",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Evolution of infectious bronchitis virus in Taiwan: positively selected sites in the nucleocapsid protein and their effects on RNAbinding activity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Vet Microbiol",
+            "volume": "162",
+            "issn": "",
+            "pages": "408--418",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Sequence evidence for RNA recombination in field isolates of avian coronavirus infectious bronchitis virus",
+            "authors": [],
+            "year": null,
+            "venue": "Vaccine",
+            "volume": "8",
+            "issn": "",
+            "pages": "605--608",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv Virus Res",
+            "volume": "48",
+            "issn": "",
+            "pages": "1--100",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Typing of field isolates of infectious bronchitis virus based on the sequence of the hypervariable region in the S1 gene",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Vet Diagn Invest",
+            "volume": "15",
+            "issn": "",
+            "pages": "344--348",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The RDP (Ribosomal Database Project)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Maidak",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Overbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mccaughey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Woese",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nucleic Acids Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "109--110",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "A modified bootscan algorithm for automated identification of recombinant sequences and recombination breakpoints",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Crandall",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "AIDS Res Hum Retroviruses",
+            "volume": "21",
+            "issn": "",
+            "pages": "98--102",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "RDP3: a flexible and fast computer program for analyzing recombination",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lemey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lott",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Moulton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lefeuvre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Bioinformatics",
+            "volume": "26",
+            "issn": "",
+            "pages": "2462--2463",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "RDP4: Detection and analysis of recombination patterns in virus genomes",
+            "authors": [],
+            "year": null,
+            "venue": "Virus Evol",
+            "volume": "1",
+            "issn": "",
+            "pages": "1--5",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Evolutionary dynamics of newcastle disease virus",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Afonso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virology (Auckl)",
+            "volume": "391",
+            "issn": "",
+            "pages": "64--72",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Approximate bayesian inference with the weighted likelihood bootstrap",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Newton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Raftery",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Roy Statist Soc Ser B",
+            "volume": "56",
+            "issn": "",
+            "pages": "3--48",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Evaluation of methods for detecting recombination from DNA sequences: computer simulations",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Crandall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "98",
+            "issn": "",
+            "pages": "13757--13762",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "jModelTest: phylogenetic model averaging",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol Biol Evol",
+            "volume": "25",
+            "issn": "",
+            "pages": "1253--1256",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "GENECONV: A computer package for the statistical detection of gene conversion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sawyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Distributed by the author, Department of Mathematics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "A nonparametric method for automatic correction of intensity nonuniformity in MRI data",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sled",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Zijdenbos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "IEEE Trans Med Imaging",
+            "volume": "17",
+            "issn": "",
+            "pages": "87--97",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Analyzing the mosaic structure of genes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Mol Evol",
+            "volume": "34",
+            "issn": "",
+            "pages": "126--129",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Relation between viral fitness and immune escape within the hepatitis C virus protease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "S\u00f6derholm",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ahl En",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaul",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Frelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Alheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barnfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liljestr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Weiland",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Milich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gut",
+            "volume": "55",
+            "issn": "",
+            "pages": "266--274",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software version 4.0",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dudley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol Biol Evol",
+            "volume": "24",
+            "issn": "",
+            "pages": "1596--1599",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Recombination in avian gamma-coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Viruses",
+            "volume": "3",
+            "issn": "",
+            "pages": "1777--1799",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Estimating the rate of evolution of the rate of molecular evolution",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Thorne",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kishino",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Painter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Mol Biol Evol",
+            "volume": "15",
+            "issn": "",
+            "pages": "1647--1657",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Relationship between serotypes and genotypes based on the hypervariable region of the S1 gene of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Arch Virol",
+            "volume": "145",
+            "issn": "",
+            "pages": "291--300",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Evolution and genetic characterization of hepatitis A virus isolates in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Int J Infect Dis",
+            "volume": "33",
+            "issn": "",
+            "pages": "156--158",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Isolation and identification of glandular stomach type IBV (QX IBV) in chickens",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Chinese J Anim Quarant",
+            "volume": "15",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Estimated timing of the last common ancestor of the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "349",
+            "issn": "",
+            "pages": "2469--2470",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Fig. 1. Phylogenetic relationships of different IBV genotypes. One hundred and seven different IBV isolates were involved in the phylogenetic reconstruction in MEGA 5. The evolutionary history was inferred using the neighbour-joining method and tested with a bootstrap test (1000 replicates). The evolutionary distances were computed using the Kimura 2-parameter method. (a) Genotype topology based on the four structural IBV genes S1, E, M and N, respectively. (b) Neighbour-joining tree inferred from entire genome sequences including untranslated regions of the 107 isolates. Bootstrap numbers are listed at the base of nodes.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Population dynamics of QX-like and vaccine (Mass)-like genotype IBVs during the past 20 years. The proportion of QX-like (a) and vaccine-like (b) sequences was calculated from the 1022 strains isolated each year (blue diamonds). A logistic regression was performed to model the isolation rate over time, and the model fitted is shown as a line with red squares.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Fourteen strains that were tested as recombinant strains by RDP4Only transferred gene fragments with statistical support of P > 1\u00c210 \u00c012 are included in the table.Fig. 2. Time of the last common ancestor of IBV.Calculations were based on the branch length of the phylogenetic tree of the entire genome sequences including UTRs of the 107 isolates. The branch length (distance) from each cluster to the root of the tree is plotted against time (year) for each sequence (blue dots). A maximum-likelihood linear fit (bold red line) was generated as described in Methods. The 95 % CIs (grey area encompassing red line) were calculated by 480 bootstrap fits to data points.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Bayesian estimates of evolutionary rate of specific protein-encoding genes of IBV",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Amino acid sites under positive selection pressure and likelihood ratio tests comparing positive selection models vs neutral models for different IBV gene segments",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This study was supported by the Beijing Agriculture Innovation Consortium of Poultry Research System (CARS-PSTP) and by the American Lebanese Syrian Associated Charities (ALSAC).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGEMENTS"
+        }
+    ]
+}

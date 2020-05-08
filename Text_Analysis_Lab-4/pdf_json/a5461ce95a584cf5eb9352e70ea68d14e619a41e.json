@@ -1,0 +1,1247 @@
+{
+    "paper_id": "a5461ce95a584cf5eb9352e70ea68d14e619a41e",
+    "metadata": {
+        "title": "Parameters in Detection of COVID-19 Patients with Positive RT-PCR; a Diagnostic Accuracy Study",
+        "authors": [
+            {
+                "first": "Rajab",
+                "middle": [],
+                "last": "Mardani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Pasteur Institute of Iran",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abbas",
+                "middle": [],
+                "last": "Ahmadi Vasmehjani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tehran University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fatemeh",
+                "middle": [],
+                "last": "Zali",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tehran University of Medical Science",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alireza",
+                "middle": [],
+                "last": "Gholami",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "WHO Collaborating Center for Reference and Research on Rabies",
+                    "institution": "Pasteur Institute of Iran",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Seyed",
+                "middle": [],
+                "last": "Dawood",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mousavi",
+                "middle": [],
+                "last": "Nasab",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Pasteur Institute of Iran",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hooman",
+                "middle": [],
+                "last": "Kaghazian",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Pasteur Institute of Iran",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mehdi",
+                "middle": [],
+                "last": "Kaviani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran, Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nayebali",
+                "middle": [],
+                "last": "Ahmadi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": "nayebalia@sbmu.ac.ir@tel:0098-021-22714248"
+            },
+            {
+                "first": "Mardani",
+                "middle": [
+                    "R"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ahmadi",
+                "middle": [],
+                "last": "Vasmehjani",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zali",
+                "middle": [
+                    "F"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Gholami",
+                "middle": [
+                    "A"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [
+                    "D"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kaghazian",
+                "middle": [
+                    "H"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kaviani",
+                "middle": [
+                    "M"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ahmadi",
+                "middle": [
+                    "N"
+                ],
+                "last": "Laboratory",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Introduction: The role of laboratory parameters in screening of COVID-19 cases has not been definitely established. This study aimed to evaluate the accuracy of laboratory parameters in predicting cases with positive RT-PCR for COVID-19. Methods: This diagnostic accuracy study was conducted on suspected COVID-19 patients, who presented to Behpooyan Clinic Medical center in Tehran (Iran) from 22 February to 14 March, 2020. Patients were divided into two groups based on the results of real time reverse transcriptase-polymerase chain reaction (RT-PCR) for COVID-19, and the accuracy of different laboratory parameters in predicting cases with positive RT-PCR was evaluated using area under the ROC curve (AUC). Results: Two hundred cases with the mean age of 41.3\u00b1 14.6 (range: 19-78) years were studied (0.53% male). The result of RT-PCR for COVID-19 was positive in 70 (35%) cases. Patients with positive RT-PCR had significantly higher neutrophil (NEU) count (p = 0.0001), and C-reactive protein (CRP) (p = 0.04), lactate dehydrogenase (LDH) (p = 0.0001), aspartate aminotransferase (AST) (p = 0.001), alanine aminotransferase (ALT) (p = 0.0001), and Urea (p = 0.001) levels in serum. In addition, patients with positive RT-PCR had lower white blood cell (WBC) count (p = 0.0001) and serum albumin level (p = 0.0001) compared to others. ALT (AUC = 0.879), CRP (AUC = 0.870), NEU (AUC = 0.858), LDH (AUC = 0.835), and Urea (AUC = 0.835) had very good accuracy in predicting cases with positive RT-PCR for COVID-19, respectively. Conclusion: Our findings suggest that level of LDH, CRP, ALT and NEU can be used to predict the result of COVID-19 test. They can help in detection of COVID-19 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In symptomatic patients, the clinical manifestations of the disease usually start after less than a week, consisting of fever (body temperature 37 to 38 \u2022 C), cough, nasal congestion, and fatigue (2) . Pneumonia mostly occurs in the second or third week of a symptomatic infection (3) . Comparison of hematological parameters between mild and severe cases of COVID-19 showed significant differences in interleukin-6 (IL-6), D-Dimer, glucose (GLU), thrombin time (TT), fibrinogen (FIB) and C-reactive protein (CRP) (4). Fan et al. analyzed the hematological indices of COVID-19 infected patients between the intensive care unit (ICU) and non-ICU patients. They showed lymphopenia and raised lactate dehydrogenase (LDH) were associated with higher rate of ICU admissions. Patients who were transferred to the ICU had a lower nadir lymphocyte count, nadir monocyte count and nadir hemoglobin, and higher peak Neutrophil (NEU) Count and peak LDH levels compared to patients who did not require ICU stay (5) . Many patients with MERS-CoV had liver function abnormalities with elevated alanine aminotransferase (ALT), aspartate aminotransferase (AST), and LDH (6) . Also laboratory data on SARS have shown that most patients had elevated CRP levels, lymphopenia, leukopenia, and elevated levels of aminotransferase, LDH and creatine kinase (7) . A series of recently published articles have reported the epidemiological and clinical characteristics of patients with COVID-19 disease, but data regarding the laboratory characteristics of infected individuals are limited (8) (9) (10) . This study aimed to evaluate the accuracy of laboratory parameters in predicting cases with positive RT-PCR for COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 199,
+                    "text": "(2)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "(3)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 999,
+                    "end": 1002,
+                    "text": "(5)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1154,
+                    "end": 1157,
+                    "text": "(6)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1334,
+                    "end": 1337,
+                    "text": "(7)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1564,
+                    "end": 1567,
+                    "text": "(8)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1568,
+                    "end": 1571,
+                    "text": "(9)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1572,
+                    "end": 1576,
+                    "text": "(10)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This diagnostic accuracy study was conducted on suspected COVID-19 patients, who presented to Behpooyan Clinic Medical center in Tehran (Iran) from 22 February to 14 March, 2020. Patients were divided into two groups based on the results of real time reverse transcriptase-polymerase chain reaction (RT-PCR) for COVID-19 and the accuracy of different laboratory parameters in predicting cases with positive RT-PCR was evaluated using area under the ROC curve (AUC). The study protocol was approved by the Ethics Committee of Shahid Beheshti University of Medical Sciences (ethical code: IR.SBMU.RETECH.REC.1399.010).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study design and setting"
+        },
+        {
+            "text": "Outpatients with suspected COVID-19 having initial respiratory signs (including sore throat without shortness of breath), fever, cough, muscle ache, and headache were included (1).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants"
+        },
+        {
+            "text": "Pharyngeal swab samples were collected for COVID-19 test on presentation. Blood samples were collected from each participant and routine blood test including White blood cell count (WBC), Lymphocyte count (LYM), and Neutrophil count (NEU) were performed on the blood samples. Fur-thermore, blood biochemistry parameters such as Aspartate aminotransferase (AST), Alanine aminotransferase (ALT), Urea, C-reactive protein (CRP), as well as Albumin and lactate dehydrogenase (LDH) were assessed using HITACHI 7600-020 automated biochemistry analyzer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data gathering"
+        },
+        {
+            "text": "Data on Urea, WBC, Albumin, AST, ALT, LDH levels were expressed as mean \u00b1 standard deviation (SD). Differences in the levels of Urea, CRP, WBC, LYM, NEU, Albumin, AST, ALT and LDH between the RT-PCR positive and negative patients were assessed using student's t-test. Receiver operating characteristic (ROC) curve and AUC were used to analyze the optimal cut-off for prediction of positive RT-PCR cases. In this study, AUC 0.9 to 1 was defined as excellent accuracy, 0.8 to 0.9 as very good, 0.7 to 0.8 as good, 0.6 to 0.7 as sufficient, 0.5 to 0.6 as bad, and < 0.5 as poor (useless test).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Two hundred cases with the mean age of 41.3\u00b1 14.6 (range: 19-78) years were studied (0.53% male). 40.2% of cases were in the 30 to 49 years age range. The result of RT-PCR for COVID-19 was positive in 70 (35%) cases and negative in 130 (65%). Groups of patients with positive and negative RT-PCR were similar regarding gender (p = 0.17) and age (p = 0.35) distribution. Table 1 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 370,
+                    "end": 377,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Characteristics of the studied cases"
+        },
+        {
+            "text": "Based on the findings of this study ALT, CRP, NEU, LDH, and Urea have very good accuracy in predicting cases with positive RT-PCR for COVID-19, respectively. Chen et al., found that LDH had significantly increased in most patients, while albumin had decreased, but ALT and AST showed no significant changes (11) . The mentioned val- ues were also reported for patients with MERS-CoV, where elevated ALT, AST and LDH was observed (6) . Another study indicated that 2-11% of patients with COVID-19 had liver co-morbidities and 14-53% of cases had abnormal ALT and AST levels during progression of COVID-19 disease (12) . Furthermore, Shi et al. studied patients whose COVID-19 diagno- sis was confirmed by computed tomography (CT) scan while in the subclinical phase and found that incidence of AST abnormality among these patients was significantly lower than those diagnosed after the onset of symptoms (13) . Therefore, liver injury is more prevalent in severe cases compared to mild cases of COVID-19. In another report, Yang et al. found no difference in the incidence of abnormal liver function between survivors (30%) and non-survivors (28%) (9) . Liver damage in mild cases of COVID-19 is often transient and can return to normal without any special treatment (12) . We have found that the number and percentage of WBC, LYM and NEU were significantly different between positive and negative RT-PCR cases for COVID-19/or SARS-CoV-2. In comparison to the normal range, we found low WBC and LYM counts in patients with positive RT-PCR COVID-19, whereas NEU counts were higher in these patients. In previous reports, low LYM and WBC counts were found in most patients, which is in line with our study (14) . Laboratory studies showed leucopenia with leukocyte counts of 2.91 \u00c3\u016e 109 cells/L, 70.0% of which were NEU (15) . Therefore, our result suggests that NEU might not be affected with SARS-CoV-2 in the initial phase of the disease. It also suggests that SARS-CoV-2 might mainly act on lymphocytes, especially T lymphocytes, as does SARS-CoV. Virus particles spread through the respiratory tract and infect other cells, inducing series of immune responses, and causing changes in number of peripheral white blood cells such as lymphocytes (11) . Some studies suggest that a substantial decrease in the total number of lymphocytes indicates that coronavirus affects many immune cells and inhibits cellular immune function (11) . Tsui and others reported that high neutrophil count on admission of COVID-19 patients, and elevated LDH level were independent predictors of an adverse clinical outcome (16) . In the present study, ROC curve was used to analyze the specificity and sensitivity of different variables in suspected COVID-19 patients. The AUC of laboratory parameters such as ALT, CRP, AST, LDH, and NEU indicated that they could be used to predict the presence of COVID-19 disease, while those of albumin and WBC were below the reference line of ROC curve, indicating that they were poor predictors of the disease. The data is in line with results reported by Wang et al. (17) and Gao et al. (4) . In the current study, the AUC of CRP, ALT, LDH, urea and NEU were above 0.80; thus, they are effective and have very good predictive value for predicting COVID-19. It seems that, some blood laboratory parameters could be used in screening cases with positive RT-PCR for COVID-19. Considering the significant difference in laboratory parameters evaluated in this study between the 2 groups, one can hope to model or predict the results of coronavirus testing based on routine laboratory tests.",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 311,
+                    "text": "(11)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 429,
+                    "end": 432,
+                    "text": "(6)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "(12)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 903,
+                    "end": 907,
+                    "text": "(13)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1147,
+                    "end": 1150,
+                    "text": "(9)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1266,
+                    "end": 1270,
+                    "text": "(12)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1703,
+                    "end": 1707,
+                    "text": "(14)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1817,
+                    "end": 1821,
+                    "text": "(15)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 2245,
+                    "end": 2249,
+                    "text": "(11)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2427,
+                    "end": 2431,
+                    "text": "(11)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2603,
+                    "end": 2607,
+                    "text": "(16)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 3087,
+                    "end": 3091,
+                    "text": "(17)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 3096,
+                    "end": 3110,
+                    "text": "Gao et al. (4)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The sample size was relatively small. In addition, since this study was conducted on blood laboratory parameters, not every patient was continuously monitored for all clinical manifestations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitation"
+        },
+        {
+            "text": "Based on the findings of this study ALT, CRP, NEU, LDH, and Urea have very good accuracy in predicting cases with positive RT-PCR for COVID-19, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected: interim guidance",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Organization",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-H",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-Q",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Diagnostic Utility of Clinical Laboratory Data Determinations for Patients with the Severe COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Medical Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Hematologic parameters in patients with COVID\u00e2\u0202\u015819 infection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Vcl",
+                    "middle": [],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ssw",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kge",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "American Journal of Hematology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Treatment outcomes for patients with Middle Eastern Respiratory Syndrome Coronavirus (MERS CoV) infection at a coronavirus referral center in the Kingdom of Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Ghamdi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Alghamdi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ghandoora",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Alzahrani",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Salah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Alsulami",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC infectious diseases",
+            "volume": "16",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical manifestations, laboratory findings, and treatment outcomes of SARS patients. Emerging infectious diseases",
+            "authors": [
+                {
+                    "first": "J-T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-H",
+                    "middle": [],
+                    "last": "Sheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-T",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Clinical, laboratory and imaging features of COVID-19: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rodriguez-Morales",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cardona-Ospina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Guti\u00e3l&apos;rrez-Ocampo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Villamizar-Pena",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Holguin-Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Escalera-Antezana",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Travel Medicine and Infectious Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinical characteristics of novel coronavirus cases in tertiary hospitals in Hubei Province. Chinese medical journal",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-Y",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M-F",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-P",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--520",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Liver injury in COVID-19: management and challenges",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F-S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Gastroenterology & Hepatology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Alwalid",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Platelet\u00e2\u0202\u0158to\u00e2\u0202\u0158lymphocyte ratio is associated with prognosis in patients with Corona Virus Disease-19. Journal of Medical Virology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "Zhang",
+                    "middle": [],
+                    "last": "Yh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wei",
+                    "middle": [],
+                    "last": "Ly",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "CT imaging of the 2019 novel coronavirus (2019-nCoV) pneumonia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Radiology",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Severe acute respiratory syndrome: clinical outcome and prognostic correlates. Emerging infectious diseases",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kwok",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Clinical outcome of 55 asymptomatic cases at the time of hospital admission infected with SARS-Coronavirus-2 in Shenzhen, China. The Journal of Infectious Diseases",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Compared to 2002/2003 SARS-CoV and 2012-2014 MERS-CoV epidemics, COVID-19 coronavirus rapidly spread to other parts of the world (185 countries and territories, Last updated: March 21, 2020)(1).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "compares the laboratory parameters of patients with positive and negative RT-PCR. Patients with positive RT-PCR had significantly higher NEU count (p = 0.0001), and CRP (p = 0.04), LDH (p = 0.0001), AST (p = 0.001), ALT (p = 0.0001), and Urea (p = 0.001) levels in serum. In addition, patients with positive RT-PCR had lower WBC count (p = 0.0001) and serum albumin level (p = 0.0001) compared to others. Table 2 and figure 1 show the area under the ROC curve of studied parameters in predicting cases with positive RT-PCR for COVID-19. ALT (AUC = 0.879), CRP (AUC = 0.870), NEU (AUC = 0.858), LDH (AUC = 0.835), and Urea (0.835) had very good accuracy in predicting cases with positive RT-PCR for COVID-19, respectively.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Area under the receiver operating characteristic curve of different laboratory parameters in predicting cases with positive RT-PCR for COVID-19.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "a CRP test is qualitative and the indicated number shows the percentage of positive results in each group. Abbreviations: White blood cell count (WBC), Lymphocyte (LYM), Neutrophil (NEU), Aspartate aminotransferase (AST), Alanine aminotransferase (ALT), C-reactive protein (CRP), and lactate dehydrogenase (LDH).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Comparing the laboratory parameters between the cases with positive and negative RT-PCR for COVID-19 infection",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "The area under the receiver operating characteristic (ROC) curve (AUC) of the studied parameters in predicting cases with positive RT-PCR for COVID-19",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors thank all their colleagues who co-operated in this investigation. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "This study was supported by the Proteomics Research Center of Shahid Beheshti University of Medical Sciences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The authors have no conflicts of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ]
+}

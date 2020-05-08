@@ -1,0 +1,596 @@
+{
+    "paper_id": "b0f19fc7afe18ef3c109fd0423485fc62329ef9d",
+    "metadata": {
+        "title": "Supplementary Information for: Impact of international travel and border control measures on the global spread of the novel 2019 Coronavirus outbreak",
+        "authors": [
+            {
+                "first": "Chad",
+                "middle": [
+                    "R"
+                ],
+                "last": "Wells",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pratha",
+                "middle": [],
+                "last": "Sah",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Seyed",
+                "middle": [
+                    "M"
+                ],
+                "last": "Moghadas",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Abhishek",
+                "middle": [],
+                "last": "Pandey",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Affan",
+                "middle": [],
+                "last": "Shoukat",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yaning",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zheng",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lauren",
+                "middle": [
+                    "A"
+                ],
+                "last": "Meyers",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Burton",
+                "middle": [
+                    "H"
+                ],
+                "last": "Singer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alison",
+                "middle": [
+                    "P"
+                ],
+                "last": "Galvani",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We used early clinical estimates from the 2019 novel coronavirus (SARS-CoV-2) outbreak in Wuhan, China which specify the distribution of the incubation period to be log-normal with a mean of 5.2 days and a 95th percentile of 12.5 days (Table S1 ) (1) . Uncertainty around the average duration of the incubation period was accounted for by fitting a gamma distribution to the 95% confidence interval of 4.1 days -7 days and a mean of 5.2 days (1) . The relationship between the uncertainty in the mean and uncertainty in the 95th percentile was not reported (1) , we thus fixed the variance of the log-normal distribution. Assuming a maximum incubation period of 21 days, we generated a discrete version of this log-normal distribution, f(x) , and defined the probability distribution function as where h(s) is the log-normal distribution. This distribution was normalized such that it summed to one (as 21 days is roughly the 99th percentile). We sampled individual incubation periods from the continuous log-normal distribution and then rounded the sampled number.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 235,
+                    "end": 244,
+                    "text": "(Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Abstract"
+        },
+        {
+            "text": "We used distributions of the time from symptom onset to first medical visit as well as to hospitalization of SARS-CoV-2 cases reported in the literature, as a proxy for the time in which a symptomatic individual will travel (Table S1) (1) . Two time dependent distributions were obtained for each of these two duration -the first was based on cases who had symptom onset before January 1, and the second was for those who had symptom onset January 1 and after. For each distribution, we fit a Weibull distribution (1) and rounded the sampled duration to the nearest whole number.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "For the airline weight in our analysis, we utilized publicly available data of airline connections from 2014 (2) . This weight was calculated as the number of airports within the country with direct flight connection to/from mainland China www.pnas.org/cgi/",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "where n i is the number of airports within the country i that have a direct flight connection to/from China. After the enforcement of travel lockdown on January 23, we removed the flights from Wuhan and recalculated this weight. Thus, we utilize all airline data in the weights for arrivals before January 23, 2020, and the adjusted weight for arrivals on January 23,2020 and after. We do not consider the number of airline routes in our baseline analysis, as these likely have changed since the last update of the dataset in 2014. However, the number of airports within the country that have a direct flight connection to/from mainland China should be relatively comparable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Estimation of the probability of travel.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In our model fitting, we used daily incidence of COVID-19 from December 8, 2019 to February 15, 2020 (3) (4) (5) (6) (7) (8) (9) . These cases were disaggregated into cases reported in Wuhan, Hubei, the rest of China, and internationally outside mainland China. For each infected case, we sampled an incubation period and the time from symptom onset to hospital admission from the maximum likelihood distributions. We first calculated the probability that infected individual i from the epicenter travels by plane over the course of the incubation period where t S is the minimum of the time of symptom onset and travel restriction (for region appropriate case), is the weight for all flights out of mainland China, and t I is the time of (t) \u03c9 infection (i.e. exposure). We do not account for the daily travel of an individual in their incubation period, as the data used for fitting is based on symptomatic individuals. We then calculated the daily probability of travel between symptom onset and first medical visit as:",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 104,
+                    "text": "(3)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "(4)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 109,
+                    "end": 112,
+                    "text": "(5)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "(6)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 117,
+                    "end": 120,
+                    "text": "(7)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 121,
+                    "end": 124,
+                    "text": "(8)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 125,
+                    "end": 128,
+                    "text": "(9)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "where t m is the minimum of the time of first medical visit and travel ban. This equation expresses the probability that a symptomatic individual i travelled on day t and not before. Thus, we calculated the expected number of symptomatic cases for a given day as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "where T i,t = 1 if the date of symptom onset for individual i is t , otherwise T i,t = 0. The number of cases travelling prior to their incubation period and then exhibiting symptoms after arrival is:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We repeated this process 1,000 times and calculated the average trend.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We assumed that all reported infected cases acquired infection within mainland China, thus neglecting any reported cases of human-to-human transmission outside of China in the fitting. We estimated the probability of travel from the time of infection to the time of first medical visit, accounting for the travel lockdowns in Wuhan (January 23) and Hubei (January 25) and allowing for exportation from the rest of mainland China. To estimate the probability of travel per day during the course of the outbreak, we fitted the expected number of symptomatic cases outside of China (Eq S5) to the reported daily incidence outside of China and the number cases exhibiting symptoms after arrival (Eq S6) to incidence outside of China based on the time of symptom onset.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "For a probability of travel per day in the calibrated range 0.003 to 0.03 (increasing at increments of 10 -4 ), we computed the log-likelihoods for the daily incidence outside of China using a Poisson distribution and the average trend in exported daily incidence. Based on arrival dates and dates of symptom onset of 30 cases, 20 exhibited symptoms after arrival (Table S5) . Thus, we weighted the log-likelihood for the number cases exhibiting symptoms after arrival (Eq S6) by ~67% and the log-likelihood for the expected number of symptomatic cases outside of China (Eq S5) by ~33%. We determined the maximum likelihood estimate of the probability of travel per day and constructed a confidence interval using likelihood weighted sampling. Using this approach, we estimated that the probability of travel per day is 0.0068 (95% CI: 0.0059 -0.0079). Assuming that individuals traveled up to the point of hospitalization, our estimate is 0.0060 (95% CI: 0.0052 -0.0070).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 364,
+                    "end": 374,
+                    "text": "(Table S5)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "We assumed that no infected individuals travelled from Wuhan after the travel lockdown enforced on January 23, 2020 (1, (10) (11) (12) (13) (14) . Additional lockdowns in other cities in Hubei followed the one in Wuhan, with some reports indicating that public transportation was halted by 2:00 pm on January 24, 2020 (1, 10-14) . As people potentially travelled out from these cities before 2:00pm on January 24, we restricted the travel for cases in Hubei, outside of Wuhan starting from January 25, 2020.",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 119,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 120,
+                    "end": 124,
+                    "text": "(10)",
+                    "ref_id": null
+                },
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "(11)",
+                    "ref_id": null
+                },
+                {
+                    "start": 130,
+                    "end": 134,
+                    "text": "(12)",
+                    "ref_id": null
+                },
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "(13)",
+                    "ref_id": null
+                },
+                {
+                    "start": 140,
+                    "end": 144,
+                    "text": "(14)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "To estimate the exportation probability from mainland China, we used daily incidence of COVID-19 from December 8, 2019 to February 15, 2020, disaggregated into cases reported in Wuhan, Hubei, the rest of China, and internationally outside mainland China (3) (4) (5) (6) (7) (8) (9) . We sampled a time from symptom onset to first medical visit (after January 1) to generate a time of symptom onset for each SARS-CoV-2 case whose date of symptom onset was not specified.",
+            "cite_spans": [
+                {
+                    "start": 254,
+                    "end": 257,
+                    "text": "(3)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "(4)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 262,
+                    "end": 265,
+                    "text": "(5)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 266,
+                    "end": 269,
+                    "text": "(6)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 270,
+                    "end": 273,
+                    "text": "(7)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 274,
+                    "end": 277,
+                    "text": "(8)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 278,
+                    "end": 281,
+                    "text": "(9)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "For our baseline analysis, we sampled the incubation period and duration from symptom onset to first medical visit for each infected individual from the baseline distribution and fixed the probability of travel (see Estimation of the probability of travel section for further details). We calculated the daily probability that an infected case would be exported from mainland China. We make the simplifying assumption that the individual either travels or not ( e.g. they cannot fly within China the day before and then fly internationally). If the person does travel, we consider only the flights outside of China. For an infected case i , the probability of travel on day t was calculated as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "where t I is the time the individual i was infected, t S is the time of symptom onset, t M is the time in which the individual seeks medical attention, and p ( t ) is the probability of traveling that day.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "The expected number of cases exported outside of China for day t was calculated as: and the cumulative number of cases exported from China was calculated as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "To estimate the number of individuals traveling during the incubation period at time t ( G t ), we evaluated D i,t only for the time between exposure and symptom onset. Thus, the number of symptomatic people that traveled outside China was calculated as F t -G t , which provides us with an upper bound for the effectiveness of screening for symptoms at the airport.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "We calculated the daily probability that at least one of these infected cases is exported as: and the probability that at least one case has been exported since the start of the outbreak was calculated as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "Using the daily probability that at least one of these cases is exported, we estimated the expected time of the first exportation event as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "where We repeated this process 1,000 times and calculated the mean exportation probability under the baseline assumptions. We then repeated the entire process 1,000, bootstrapping the average duration of the incubation period, as well as the probability of travel per day, to calculate the 2.5 and 97.5 percentiles for our credible intervals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exportation probability and impact of border control measures"
+        },
+        {
+            "text": "We calculated the expected probability of exportation when individuals in the incubation period are quarantined after contact tracing. We estimate the expected probability that an infected case is exported as:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine at the epicenter to curb exportation"
+        },
+        {
+            "text": "where c is the time from infection to quarantine, is assumed to be the constant weight for flights \u03c9 out of mainland China, and is assumed to be a constant probability of travel per day (see p Estimation of the probability of travel section for further details)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine at the epicenter to curb exportation"
+        },
+        {
+            "text": "To identify individuals travelling in their incubation period through health questionnaires , we examined the time since their last exposure, which we assumed to be the time of infection. For a given duration inquiry q , the probability of identifying an individual travelling in their incubation period is:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identification of individuals travelling in their incubation period through health questionnaires ."
+        },
+        {
+            "text": "where i is the duration of the incubation period , is assumed to be the constant weight for flights \u03c9 out of mainland China, and is assumed to be a constant probability of travel per day (see p Estimation of the probability of travel section for further details).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identification of individuals travelling in their incubation period through health questionnaires ."
+        },
+        {
+            "text": "With no information of the generation time of the COVID-19, we used the serial interval (time from symptom onset in index patient to time in symptom onset in secondary case) as a proxy to estimate the time to the first infection event. For the distribution of the serial interval, we used a negative binomial (a discrete analogues of the gamma distribution estimated in published work on COVID-19). For a given incubation duration m in the secondary case, we can evaluate the average time to the transmission event from the index case to the secondary case where b (.) is the probability distribution function and B (.) is the cumulative probability distribution function for the serial interval. We then used these expected times and the distribution of the incubation period to provide an estimate for the average time from arrival to the first infection event.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to first infection after arrival in country"
+        },
+        {
+            "text": "Similarly, we calculated the expected time from arrival to symptom onset. For a given arrival time k , we calculated the average time from arrival to symptom onset by where i is the duration of the incubation period , is assumed to be the constant weight for flights \u03c9 out of mainland China, and is assumed to be a constant probability of travel per day (see p Estimation of the probability of travel section for further details) .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to first infection after arrival in country"
+        },
+        {
+            "text": "To evaluate the uncertainty in the time from arrival to the first transmission event, we bootstrapped from the distributions of the time from arrival to symptom onset (Eq S17) and the time from symptom onset in the index case to the first transmission event (Eq S16).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to first infection after arrival in country"
+        },
+        {
+            "text": "We validated our estimates of the probability of travel further by examining this value based on the amount of data included in the fitting process ( Figure S3 ). We obtained a comparable value for the probability of travel based on data of time of symptom onset after January 30, 2020, which is approximately 78% of the full dataset up to February 15, 2020.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 150,
+                    "end": 159,
+                    "text": "Figure S3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Validation"
+        },
+        {
+            "text": "We also examined the robustness of our estimates by evaluating the time of the first importation events using weights specified by the number of routes rather than the number of airports. We found that our likelihood estimate of the arrival time is robust to the change in the airline weight ( Figure S4, Table S4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 294,
+                    "end": 313,
+                    "text": "Figure S4, Table S4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Validation"
+        },
+        {
+            "text": "The excel file for Philippines January 21, 2020 4 Addmitted to hospital with cough four days after arrival, with no later symptoms https://www.cnbc.com/2020/01/30/india-confirms-first-case-of-the-coronavirus.html Russia January 31, 2020 On Firday (Jan 31) Russia confirmed first two cases (Unknown as to how long they had been in Russia) https://www.wabcradio.com/2020/02/02/the-latest-coronavirus-info-3rd-person-being-tested-in-nyc-world-health-organization-is-working-with-google-to-control-rumors-and-misinformation-about-the-virus/,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200201-sitrep-12-ncov.pdf?sfvrsn=273c5d35_2",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Code availability"
+        },
+        {
+            "text": "Singapore January 20, 2020 January 20, 2020 0 Had sore throat on flight and had fever next day https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-singapore-confirms-first-case-12312860",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Code availability"
+        },
+        {
+            "text": "South Korea January 19, 2020 January 19, 2020 January 20, 2020 0 a 35 years old women, arrived on Jan-19 with fever symptom, Jan-20 confirmed https://www.who.int/csr/don/21-january-2020-novel-coronavirus-republic-of-korea-ex-china/en/,http://www.chinacdc.cn/en/,https://shimo.im/sheets/tyWrrrqppYVwQtCW/oURp4/?from=singlemessage&isappinstalled=0 South Korea January 20, 2020 January 20, 2020 January 26, 2020 0 54 old man, Jan-20 arrived, showed minor symptom, 25 reported to CDC, Jan-26 confirmed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Code availability"
+        },
+        {
+            "text": "https://www.cdc.go.kr/cdc_eng/,http://www.chinacdc.cn/en/,https://shimo.im/sheets/tyWrrrqppYVwQtCW/oURp4/?from=singlemessage&isappinstalled=0 South Korea January 20, 2020 January 21, 2020 January 26, 2020 1 55 years old man, visited Wuhan, arrived Jan-20, Jan-21 visited hospital for fever, Jan-25 additional symptoms, Jan-26 confirmed",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Code availability"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "OpenFlights: Airport and airline data",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316.2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Wuhan Municipal Health and Family Planning Commission",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Xi Jinping made important instructions on the pneumonia epidemic of new coronavirus infection and emphasized that the safety of the people's lives and physical health should be the first to resolutely curb the spread of the epidemic, and Li Keqiang gave instructions. National Health Commision of the People's Republic of China",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "National Health Commission of the People's Republic of China, Outbreak Report: National Health Commission of the People's Republic of China. National Health Commission of the People's Republic of China",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Hubei Provincial Health Committee, Hubei Provincial Health Committee. Hubei Provincial Health Committee",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Novel Coronavirus(2019-nCoV) Situation Report -28\" (World Health Organization",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "China's Hubei reports 1,638 new confirmed cases of novel coronavirus infection -Xinhua | English",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Model fit based on estimating the probability of travel per day. We fit the model (black line) to the incidence data based on the time of symptom onset (red dots) and time of the report (blue dots) by estimating the probability of travel per day, while accounting for the travel restrictions on January 23 in Wuhan and on January 25 for cities in Hubei province (gray vertical lines). The average incubation period used is 5.2 days and the time from symptom onset to first medical visit was used in the fitting. The gray area denotes the 95% credible interval. The weight for the log-likelihood of the time to symptom onset was 67% and the remaining 33% was for the log-likelihood of the time of reporting.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Data used in evaluating the risk of exportation from China. A) The incidence of cases in Wuhan (Dark blue), Hubie outside Wuhan (blue), and China outside Hubei, Wuhan (light blue), and international cases with reported travel to China (red) based on the date of symptom onset. For the cases with no known time of symptom onset and only reported, the time of symptom onset was estimated from sampled a time from symptom onset to first medical visit (after January 1). B) The reported cases used to supplement incidence of cases with an unknown time of symptom onset. The travel restrictions were enforced on January 23 in Wuhan and on January 25 for cities in Hubei province (gray vertical lines).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Validation of the estimate of the probability of travel. For a given date to which the model was informed to (x-axis), we examined the A) the likelihood profile for the probability of travel and B) the maximum likelihood estimate of the probability of travel (black line) and the corresponding 95% credible interval (gray area).FigureS4: Country-level importation of SARS-CoV-2 cases.The risk of initial importation (gradient) based on probability of an individual in mainland China to travel by flight (y-axis), estimated each day between January 4, 2020 to January 31,2020 (x-axis). The country level weights are based on the number of routes from China to the country. The correlation was not significant between the reported arrival date of the initial case in 21 countries/regions and the airline weight based on the number of routes ( r = -0.42, p-value =0.06). Vertical dashed lines indicate the travel bans that were enforced on January 23 in Wuhan and on January 25 for other cities in Hubei province.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "the code, and data used in the fitting and analysis can be found at https://github.com/WellsRC/Coronavirus-2019 . 10. D. Cyranoski, A. Silver, Wuhan scientists: What it's like to be on lockdown.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Description of the distribution used in the analysis",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Estimates of the average probability of travel during various stages of infectionTable S3. Estimates of the effectiveness of screening based on the calibration of the probability of travel",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

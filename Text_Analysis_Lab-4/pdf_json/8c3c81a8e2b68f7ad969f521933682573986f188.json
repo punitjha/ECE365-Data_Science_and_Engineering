@@ -1,0 +1,2144 @@
+{
+    "paper_id": "8c3c81a8e2b68f7ad969f521933682573986f188",
+    "metadata": {
+        "title": "Naturally occurring recombination in ferret coronaviruses revealed by complete genome characterization",
+        "authors": [
+            {
+                "first": "Mart",
+                "middle": [
+                    "M"
+                ],
+                "last": "Lamers",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Saskia",
+                "middle": [
+                    "L"
+                ],
+                "last": "Smits",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gadissa",
+                "middle": [
+                    "B"
+                ],
+                "last": "Hundie",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lisette",
+                "middle": [
+                    "B"
+                ],
+                "last": "Provacia",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marion",
+                "middle": [],
+                "last": "Koopmans",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Albert",
+                "middle": [
+                    "D M E"
+                ],
+                "last": "Osterhaus",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Artemis One Health",
+                    "location": {
+                        "settlement": "Utrecht",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bart",
+                "middle": [
+                    "L"
+                ],
+                "last": "Haagmans",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "V",
+                "middle": [],
+                "last": "Stalin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Raj",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Ferret coronaviruses (FRCoVs) exist as an enteric and a systemic pathotype, of which the latter is highly lethal to ferrets. To our knowledge, this study provides the first full genome sequence of a FRCoV, tentatively called FRCoV-NL-2010, which was detected in 2010 in ferrets in The Netherlands. Phylogenetic analysis showed that FRCoV-NL-2010 is most closely related to mink CoV, forming a separate clade of mustelid alphacoronavirus that split off early from other alphacoronaviruses. Based on sequence homology of the complete genome, we propose that these mustelid coronaviruses may be assigned to a new species. Comparison of FRCoV-NL-2010 with the partially sequenced ferret systemic coronavirus MSU-1 and ferret enteric coronavirus MSU-2 revealed that recombination in the spike, 3c and envelope genes occurred between different FRCoVs. The GenBank/EMBL/DDBJ accession number for the full-length nucleotide sequence of FRCoV-NL-2010 is KM347965. Two supplementary tables are available with the online Supplementary Material. 2180 000520 \u00e3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Coronaviruses (CoVs) are large enveloped, positive-stranded RNA viruses classified under the subfamily Coronavirinae within the family Coronaviridae, order Nidovirales. They are subdivided into four genera, Alphacoronavirus, Betacoronavirus, Gammacoronavirus and Deltacoronavirus. CoVs infect birds and mammals, including humans, and are known for their ability to jump the species barrier, which may be facilitated by their high mutation and recombination rates. This is exemplified by the betacoronavirus severe acute respiratory syndrome CoV (SARS-CoV), which emerged in 2002 from bats in the Guangdong province of China and subsequently spread to 29 countries, resulting in more than 8000 cases with at least 700 fatalities (Drosten et al., 2003; Ksiazek et al., 2003; Peiris et al., 2003) . Approximately 10 years later, a second highly pathogenic human betacoronavirus, Middle East respiratory syndrome CoV (MERS-CoV), was discovered in the Middle East as a zoonotic pathogen from dromedary camels, and is continuing to cause human infections (Zaki et al., 2012; Haagmans et al., 2014; Reusken et al., 2013; Raj et al., 2014) .",
+            "cite_spans": [
+                {
+                    "start": 728,
+                    "end": 750,
+                    "text": "(Drosten et al., 2003;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 751,
+                    "end": 772,
+                    "text": "Ksiazek et al., 2003;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 773,
+                    "end": 793,
+                    "text": "Peiris et al., 2003)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1049,
+                    "end": 1068,
+                    "text": "(Zaki et al., 2012;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1069,
+                    "end": 1091,
+                    "text": "Haagmans et al., 2014;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1092,
+                    "end": 1113,
+                    "text": "Reusken et al., 2013;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1114,
+                    "end": 1131,
+                    "text": "Raj et al., 2014)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Alphacoronaviruses include viruses that cause common cold in humans (HCoV-229E and HCoV-NL63) and some important causes of enteric disease in domestic animals, including transmissible gastroenteritis virus of swine (TGEV), porcine epidemic diarrhoea virus (PEDV), canine CoV and feline coronavirus (FCoV). Recently, a novel ferret enteric CoV (FRECV) was identified in domesticated ferrets (Mustela putorius) in which epizootic catarrhal enteritis had been diagnosed; the illness was characterized by foul-smelling green diarrhoea with high mucous content, lethargy, anorexia and vomiting, but not by high mortality rates (Wise et al., 2006) . A closely related, but fatal ferret CoV, ferret systemic coronavirus (FRSCV) was detected in ferrets with systemic pyogranulomatous inflammation (Garner et al., 2008; Wise et al., 2010; Mart\u00ednez et al., 2008) . This disease strongly resembled the clinical and pathologic features of the dry form of feline infectious peritonitis, which is associated with a FCoV, feline infectious peritonitis virus (FIPV). By comparisons of genomic sequences of different FCoVs it was found that the severe pathotype of FIPV may arise through mutations in the spike and in the 3c genes of the less pathogenic feline enteric CoV (Pedersen, 2009; Chang et al., 2010; Dewerchin et al., 2005; Licitra et al., 2013; Rottier et al., 2005) . Similarly, Wise et al. (2010) have shown that FRECV and FRSCV differ significantly in spike protein and that deletions in FRCoV 3c may also correlate with the severe pathotype of FRSCV. Despite the fact that genetic comparisons of FRCoVs may provide significant insights into how these and other CoVs are able to alter their tropism and pathogenicity, no full genome sequences of FRCoVs are available to date.",
+            "cite_spans": [
+                {
+                    "start": 622,
+                    "end": 641,
+                    "text": "(Wise et al., 2006)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 789,
+                    "end": 810,
+                    "text": "(Garner et al., 2008;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 811,
+                    "end": 829,
+                    "text": "Wise et al., 2010;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 830,
+                    "end": 852,
+                    "text": "Mart\u00ednez et al., 2008)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1256,
+                    "end": 1272,
+                    "text": "(Pedersen, 2009;",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1273,
+                    "end": 1292,
+                    "text": "Chang et al., 2010;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1293,
+                    "end": 1316,
+                    "text": "Dewerchin et al., 2005;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1317,
+                    "end": 1338,
+                    "text": "Licitra et al., 2013;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1339,
+                    "end": 1360,
+                    "text": "Rottier et al., 2005)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1374,
+                    "end": 1392,
+                    "text": "Wise et al. (2010)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In 2010, we investigated the prevalence of FRCoVs in asymptomatic ferrets from ferret farms in The Netherlands, and found that~60 % of the samples were PCR positive for a FRCoV (Provacia et al., 2011) . Interestingly, sequence analysis of the partial spike gene clearly showed that this enteric virus was more closely related to the FRSCV strain MSU-1 than to FRECV strain MSU-2 (hereafter referred to as FRSCV and FRECV, respectively). In this study, we selected one rectal swab sample with high viral load (cycle threshold 16.3) from the 2010 ferret sample collection for further genomic analysis. RNA was isolated from 140 \u00b5l of rectal swab sample in viral transport medium (VTM) with the QIAamp Viral RNA Mini kit (Qiagen). Next, the sample was subjected to full genome sequencing using 454 deepsequencing (454 GS Junior Instrument; Roche) as described elsewhere (Allander et al., 2001 (Allander et al., , 2005 van den Brand et al., 2011; van Leeuwen et al., 2010) . A total of 223 107 sequence reads were obtained and sequences were trimmed and assembled using the de novo assembly module in CLC Genomics Workbench 4.5.1 (CLC Bio) (Losada et al., 2011) . BLASTx (Altschul et al., 1997) analysis of obtained reads revealed sequences that were most closely related to FRSCV and FRECV. De novo assembly revealed the consensus sequence of FRCoV, tentatively called FRCoV-NL-2010. In total, 25 313 reads were specific for FRCoV-NL-2010, revealing 99.73 % of the genome with a coverage ranging from 1 to 2260 reads at single nucleotide positions. Gaps or regions with coverage of <4 reads were confirmed by Sanger sequencing. Using 5\u00a2 and 3\u00a2 rapid amplification of cDNA ends (RACE), the ends of the genome were obtained, leading to a complete genome sequence consisting of 28 434 nucleotides, including 18 nucleotides of the poly-A tail (Genbank accession number KM347965). After genome assembly, the raw sequence reads were mapped against the complete FRCoV-NL-2010 genome, which revealed that only one CoV was contained in the sample.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 200,
+                    "text": "(Provacia et al., 2011)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 867,
+                    "end": 889,
+                    "text": "(Allander et al., 2001",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 890,
+                    "end": 914,
+                    "text": "(Allander et al., , 2005",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 915,
+                    "end": 942,
+                    "text": "van den Brand et al., 2011;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 943,
+                    "end": 968,
+                    "text": "van Leeuwen et al., 2010)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1136,
+                    "end": 1157,
+                    "text": "(Losada et al., 2011)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1167,
+                    "end": 1190,
+                    "text": "(Altschul et al., 1997)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "CoVs contain the largest genomes among RNA viruses, ranging from 27 to 31 kb (Gorbalenya et al., 2006) . The genomes consist of polycistronic positive-stranded RNA and contain two large 5\u00a2-proximal replicase ORFs, ORF1a and ORF1b, which occupy three-quarters of the genome. These are translated to produce polyprotein 1a (pp1a) and, following \u00c01 ribosomal frameshifting, polyprotein 1ab (pp1ab). These polyproteins are cleaved into 15 or 16 nonstructural proteins (NSPs) (Gorbalenya et al., 2006; Ziebuhr et al., 2000) . Ribosomal frameshifting is thought to be mediated by a slippery sequence 5\u00a2-ACAACT-3\u00a2 that is conserved across all CoVs. The region downstream of ORF1b contains a number of smaller ORFs that are transcribed as subgenomic mRNAs. These mRNAs are composed of a common 5\u00a2 leader and a variable part consisting of at least one ORF. The common leader sequence is joined during discontinuous negative-strand RNA synthesis in a process that is directed by base-pairing interactions between conserved transcription-regulatory sequences (TRSs). TRSs are found at the 3\u00a2 end of the leader sequence (leader TRS) and upstream of most 3\u00a2 subgenomic ORFs (body TRSs).",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 102,
+                    "text": "(Gorbalenya et al., 2006)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 471,
+                    "end": 496,
+                    "text": "(Gorbalenya et al., 2006;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 497,
+                    "end": 518,
+                    "text": "Ziebuhr et al., 2000)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Analysis of the complete genome of FRCoV-NL-2010 revealed the two large ORFs, ORF1a and ORF1b, as well as at least seven ORFs, ORF2-8, at the 3\u00a2 end of the genome (Fig. 1a , Table S1 , available in the online Supplementary Material). According to sequence conservation analyses performed with other CoVs ORF2, -4, -5 and -6 are predicted to encode the four structural proteins of CoVs, spike (S), envelope (E), membrane (M) and nucleocapsid (N), respectively. ORF3, -7 and -8 were homologous to the 3c, 3x and 7b genes of FCoVs, respectively. A sequence identical to the conserved CoV slippery site was found in the overlapping region of ORF1a and ORF1b. Putative NSP functional domains were predicted using ZCURVE_CoV 2.0 (Gao et al., 2003) and sequence comparison of FRCoV-NL-2010 with other alphacoronaviruses allowed the prediction of the putative pp1a and pp1ab cleavage sites and annotation of the 15 NSPs found in alphacoronaviruses (Table S2) . A leader TRS and five putative body TRSs could be identified in the genome, with the sequence 5\u00a2-CTAAAC-3\u00a2 forming the TRS core (Fig. 1b) . Experimental studies are needed to confirm the correct identification of the TRSs in the FRCoV-NL-2010 genome.",
+            "cite_spans": [
+                {
+                    "start": 723,
+                    "end": 741,
+                    "text": "(Gao et al., 2003)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 163,
+                    "end": 171,
+                    "text": "(Fig. 1a",
+                    "ref_id": null
+                },
+                {
+                    "start": 174,
+                    "end": 182,
+                    "text": "Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 940,
+                    "end": 950,
+                    "text": "(Table S2)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1081,
+                    "end": 1090,
+                    "text": "(Fig. 1b)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Pairwise comparison of FRCoV-NL-2010 with other partially sequenced FRCoVs revealed that it contained an intact ORF3c, which would be expected on the basis of its enteric pathotype. For FIPV, it is thought that the loss of 3c gene function enhances the internalization and replication of FIPV in macrophages, which would aid in spreading the virus systemically (Dewerchin et al., 2005) . In accordance, partial genome sequencing by Wise et al. (2010) revealed that two out of three FRSCV strains contained deletions in 3c, while the two FRECV strains that were included in the study contained an intact 3c.",
+            "cite_spans": [
+                {
+                    "start": 361,
+                    "end": 385,
+                    "text": "(Dewerchin et al., 2005)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 432,
+                    "end": 450,
+                    "text": "Wise et al. (2010)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Phylogenetic analysis of the full genome and ORF1ab confirmed that this virus belongs to the genus Alphacoronavirus and clusters most closely with mink CoV, forming a separate clade of mustelid alphacoronavirus that clusters intermediately between the Alphacoronavirus 1 species and other alphacoronaviruses ( Fig. 2a, b) . FRCoV and mink CoVs share 69.2-69.7 % nucleotide identity with members of the Alphacoronavirus 1 species, which is less than members of this species share with one another (>88.6 %), supporting the suggestion of Vlasova et al. (2011) that mustelid alphacoronaviruses should be assigned to a separate species. This proposed designation as a new species is also supported by the International Committee on Taxonomy of Viruses (de Groot et al., 2012) species demarcation criteria that the minimum amino acid identity within each genus needs to be 90 % in seven conserved replicase domains (ADRP, 3CLpro, RdRP, Hel, ExoN, NendoU and O-MT). The amino acid identity between FRCoV-NL-2010 and the mink CoVs was 90 % in these seven conserved replicase domains. While members of the Alphacoronavirus 1 species share >96 % amino acid identity in these regions, FRCoV-NL-2010 and the mink CoVs displayed a maximum amino acid identity of 82 % with members of Alphacoronavirus 1 and other alphacoronaviruses in these regions. Consequently, FRCoV-NL-2010 and mink CoVs cannot be assigned to the Alphacoronavirus 1 species. These viruses may therefore be designated a new species, tentatively named Alphacoronavirus 2, which should probably also include FRECV and FRSCV based on available partial sequence information.",
+            "cite_spans": [
+                {
+                    "start": 536,
+                    "end": 557,
+                    "text": "Vlasova et al. (2011)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 310,
+                    "end": 321,
+                    "text": "Fig. 2a, b)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Although there are no full genomic sequences available of other FRCoVs, a phylogenetic tree of the partial N gene shows a close relationship of FRCoV-NL-2010 with the canonical FRCoVs FRSCV and FRECV, as well as with the enteric FRCoVs 511c and 4E98 that were found in The Netherlands in 2010 (Provacia et al., 2011) (Fig. 3a) . Phylogenetic analysis of a small fragment of the S gene indicates that in this region the virus is most closely related to the viruses found in The Netherlands. This tree also shows that in this region, lying 3\u00a2 proximal in the S gene, FRCoV-NL-2010 is more related to FRSCV than to FRECV (Fig. 3a) , whereas this trend was not observed for the N gene, suggesting a recombination event. Next, recombination events were analysed using the 3\u00a2-most~8 kb sequence which is sequenced for both FRSCV and FRECV. Six methods, comprising recombination detection program (RDP), GENECONV, Bootscan, Maxchi, Chimaera and 3seq, implemented in RDP4 (Martin et al., 2015) were used, with likely parental isolates and recombination breakpoints determined using default settings. A recombination event was detected for the region between 1718 and 5432 (numbering based on alignment) using the indicated methods (P-values ranged from 1.110\u00c210 \u00c016 to 2.236\u00c210 \u00c081 ). The Bootscan output is shown in Fig. 3b . This region includes two-thirds of the S gene, the entire 3c gene and part of the E gene. In the region before the recombination breakpoint (corresponding to ORF1b and the first third of the S gene; S1-S1412, FRCoV-NL-2010 numbering), FRCoV-NL-2010 was an outgroup of FRECV and FRSCV. Inside the recombination region, two phylogenetic groupings can be observed (Fig. 3c) . In twothirds of the S gene (S1412-S4239, FRCoV-NL-2010 numbering), FRCoV-NL-2010 clustered with FRSCV; while in a short 3\u00a2 proximal part of the S gene and the majority of the 3c gene (S4240-3c471) FRCoV-NL-2010 grouped with FRECV. This indicated that there was a second recombination event lying within the recombination region. Indeed, in this region a recombination event was found ranging from position 4534 to 5369 in the alignment. This event was detected by the same six methods with P-values ranging from 2.416\u00c210 \u00c002 to -3.356\u00c210 \u00c017 . On the basis of these findings, we propose an evolutionary pathway in which the ancestor of FRCoV-NL-2010 donated two-thirds of its S gene, its 3c gene and part of the E gene to a FRECV-like virus (Fig. 3d) . The result of this recombination event may have been the ancestor of FRSCV if this virus later acquired deletions in the 3c and 3x genes. The second recombination event may have been between a FRECV-like virus and the ancestor of FRCoV-NL-2010, in which the former donated its 3c gene. Additional sequence information is needed in order to support these hypotheses.",
+            "cite_spans": [
+                {
+                    "start": 293,
+                    "end": 316,
+                    "text": "(Provacia et al., 2011)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 964,
+                    "end": 985,
+                    "text": "(Martin et al., 2015)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 317,
+                    "end": 326,
+                    "text": "(Fig. 3a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 618,
+                    "end": 627,
+                    "text": "(Fig. 3a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1309,
+                    "end": 1316,
+                    "text": "Fig. 3b",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1680,
+                    "end": 1689,
+                    "text": "(Fig. 3c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 2433,
+                    "end": 2442,
+                    "text": "(Fig. 3d)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "This study underlines that CoVs can exchange genes that are likely to be major determinants of pathogenicity. Therefore, recombination may be a driving force for the formation of pathogenic viruses from less pathogenic viruses. However, this study does not provide evidence that recombination can directly alter the pathotype of a virus, as the backbones of the investigated viruses differ substantially. Mutations or deletions in the 3c gene are likely to play a major role. Another limitation of this study is that the recombination analysis only involved the 3\u00a2 third of the genome as the genomes of FRECV and FRSCV have not been sequenced completely. To further characterize the determinants of pathogenicity of FRCoVs, more sequence information is needed and, importantly, these viruses will need to be isolated or rescued using reverse genetic techniques in order to perform experimental inoculation of ferrets.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In conclusion, to our knowledge this study provides the first full genome of a FRCoV, which was detected in The Netherlands in 2010 in ferrets. We show that it separates phylogenetically in a clade with other FRCoVs and mink CoVs. This clade meets the ICTV criteria for species demarcation. In addition, the new sequence information provided by the full genome of FRCoV-NL-2010 allows the identification of recombination among FRCoVs in the S, 3c and E genes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A virus discovery method incorporating DNase treatment and its application to the identification of two bovine parvovirus species",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Allander",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Emerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Engle",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Purcell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bukh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "98",
+            "issn": "",
+            "pages": "11609--11614",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Cloning of a human parvovirus by molecular screening of respiratory tract samples",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Allander",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tammi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bjerkner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tiveljung-Lindell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "12891--12896",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Altschul",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Madden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sch\u20ac Affer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lipman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nucleic Acids Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "3389--3402",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Feline infectious peritonitis: insights into feline coronavirus pathobiogenesis and epidemiology based on genetic analysis of the viral 3c gene",
+            "authors": [],
+            "year": null,
+            "venue": "J Gen Virol",
+            "volume": "91",
+            "issn": "",
+            "pages": "415--420",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Virus Taxonomy, the 9th Report of the International Committee on Taxonomy of Viruses. Family Coronaviridae",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "806--828",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Replication of feline coronaviruses in peripheral blood monocytes",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dewerchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cornelissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Nauwynck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Arch Virol",
+            "volume": "150",
+            "issn": "",
+            "pages": "2483--2500",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "G\u00fcnther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Der Werf",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rabenau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Panning",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kolesnikova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967--1976",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Prediction of proteinase cleavage sites in polyproteins of coronaviruses and its applications in analyzing SARS-CoV genomes",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett",
+            "volume": "553",
+            "issn": "",
+            "pages": "451--456",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinicopathologic features of a systemic coronavirus-associated disease resembling feline infectious peritonitis in the domestic ferret (Mustela putorius)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Garner",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ramsell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Morera",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Juan-Sall Es",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jim Enez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ardiaca",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Montesinos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Teifke",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "L\u00f6hr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "& other authors",
+            "volume": "45",
+            "issn": "",
+            "pages": "236--246",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Nidovirales: evolving the largest RNA virus genome",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res",
+            "volume": "117",
+            "issn": "",
+            "pages": "17--37",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Galiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jonges",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Comer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953--1966",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Mutation in spike protein cleavage site and pathogenesis of feline coronavirus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Licitra",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Millet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Regan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hamilton",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rinaldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Duhamel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1066--1073",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Genome sequencing and analysis of Yersina pestis KIM D27, an avirulent strain exempt from select agent regulation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Losada",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Varga",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hostetler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Radune",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Durkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schneewind",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nierman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS One",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "RDP4: detection and analysis of recombination patterns in virus genomes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Murrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Golden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khoosal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Muhire",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Virus Evolution",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Identification of group 1 coronavirus antigen in multisystemic granulomatous lesions in ferrets (Mustela putorius furo)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Reinacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Perpi\u00f1 An",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ramis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Comp Pathol",
+            "volume": "138",
+            "issn": "",
+            "pages": "54--58",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Significance of coronavirus mutants in feces and diseased tissues of cats suffering from feline infectious peritonitis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pedersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pesavento",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Viruses",
+            "volume": "1",
+            "issn": "",
+            "pages": "166--184",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nicholls",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yee",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "& other authors",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319--1325",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Enteric coronavirus in ferrets",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Provacia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Martina",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Doel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Amerongen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Moorman-Roest",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "The Netherlands. Emerg Infect Dis",
+            "volume": "17",
+            "issn": "",
+            "pages": "1570--1571",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Isolation of MERS coronavirus from a dromedary camel",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lamers",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Voermans",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Al-Mawlawi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1339--1342",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Middle East Respiratory Syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eljarah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abutarbush",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Zutt, I. & other authors",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Acquisition of macrophage tropism during the pathogenesis of feline infectious peritonitis is determined by mutations in the feline coronavirus spike protein",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schellen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Volders",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Haijema",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "14122--14130",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "indicate nucleotide substitutions per site. Hypothetical evolution of FRSCV MSU-1, FRECV MSU-2 and FRCoV-NL-2010 in which the ancestor of FRCoV-NL-2010 donated two-thirds of its S gene, its 3c gene and part of its E gene to FRECV, generating the ancestor of FRSCV",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Graaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Den Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Leeuwen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schapendonk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "MBio",
+            "volume": "3",
+            "issn": "",
+            "pages": "473--485",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Metagenomic analysis of the viral flora of pine marten and European badger feces",
+            "authors": [],
+            "year": null,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "2360--2365",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Human picobirnaviruses identified by molecular screening of diarrhea samples",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Leeuwen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Koraka",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Clin Microbiol",
+            "volume": "48",
+            "issn": "",
+            "pages": "1787--1794",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Molecular characterization of a new species in the genus Alphacoronavirus associated with mink epizootic catarrhal gastroenteritis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Vlasova",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Halpin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ghedin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Spiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Saif",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Gen Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "1369--1379",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Molecular characterization of a novel coronavirus associated with epizootic catarrhal enteritis (ECE) in ferrets",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wise",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kiupel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Maes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "349",
+            "issn": "",
+            "pages": "164--174",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Comparative sequence analysis of the distal one-third of the genomes of a systemic and an enteric ferret coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wise",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kiupel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Garner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Maes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Virus Res",
+            "volume": "149",
+            "issn": "",
+            "pages": "42--50",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Virus-encoded proteinases and proteolytic processing in the Nidovirales",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Gen Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "853--879",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Genome organization of FRCoV-NL-2010. (a) Genome organization of FRCoV-NL-2010. Triangles indicate predicted cleavage sites, arrows indicate trailer and leader TRSs. RFS, ribosomal frame-shifting sequence. (b) Putative leader and body TRSs in the genome of FRCoV-NL-2010. The core TRS is indicated in bold. Phylogenetic analysis of FRCoV-NL-2010. Neighbour-joining trees of the complete genome (a) and ORF1ab (b) of selected isolates, aligned by ClustalW, were inferred by the p-distance model in MEGA5 (http://www.megasoftware.net). Indicated bootstrap values at nodes were calculated on 1000 replicates. Scale bars indicate nucleotide substitutions per site. BCoV, bovine coronavirus; IBV, infectious bronchitis virus; HCoV, human coronavirus; MHV, mouse hepatitis virus; PRCV,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Recombination analysis of available ferret coronavirus (FRCoV) genome fragments. (a) Neighbour-joining trees of a small region in the spike gene (nucleotide position 3598-4089) and nucleocapsid (nucleotide position 61-312). (b) Recombination analysis by Bootscan, implemented in RDP4 (Martin et al., 2015), with recombination break-points determined using default settings. Break-points (indicated with arrows) of the first and second recombination event were detected at nucleotide positions 1718 and 5432, and 4534 and 5369 (based on the position in the alignment), respectively. Window size was set at 200 and the step size at 10. The dashed line indicates the bootstrap threshold of 70 %. (c) Neighbour-joining trees of nucleotides 1-1412 and 1413-4239 of the FRCoV-NL-2010 S gene, and nucleotides 4240 of the S gene until 471 in the 3c gene. Selected isolates were aligned by CLUSTALW and trees were inferred by the p-distance model in MEGA5 (http:// www.megasoftware.net). Indicated bootstrap values at nodes were calculated on 1000 replicates. Scale bars in (a) and (c)",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This study was supported by ZonMW TOP Project (grant no. 91213066), and the Erasmus Graduate Program Infection and Immunity (NWO grant no. 022.005.032).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

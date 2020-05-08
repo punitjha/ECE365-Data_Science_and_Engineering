@@ -1,0 +1,2855 @@
+{
+    "paper_id": "e02eafe4f4b0a23ce3454c773a3f9b9e4309f526",
+    "metadata": {
+        "title": "Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA",
+        "authors": [
+            {
+                "first": "Fran\u00e7ois",
+                "middle": [],
+                "last": "Ferron",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lorenzo",
+                "middle": [],
+                "last": "Subissi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ana",
+                "middle": [],
+                "last": "Theresa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Silveira",
+                "middle": [],
+                "last": "De Morais",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nhung",
+                "middle": [],
+                "last": "Thi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tuyet",
+                "middle": [],
+                "last": "Le",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marion",
+                "middle": [],
+                "last": "Sevajol",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Laure",
+                "middle": [],
+                "last": "Gluais",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Etienne",
+                "middle": [],
+                "last": "Decroly",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Clemens",
+                "middle": [],
+                "last": "Vonrhein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Global Phasing Ltd",
+                    "location": {
+                        "postCode": "CB3 0AX",
+                        "settlement": "Cambridge",
+                        "country": "England"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "G\u00e9rard",
+                "middle": [],
+                "last": "Bricogne",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Global Phasing Ltd",
+                    "location": {
+                        "postCode": "CB3 0AX",
+                        "settlement": "Cambridge",
+                        "country": "England"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bruno",
+                "middle": [],
+                "last": "Canard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Isabelle",
+                "middle": [],
+                "last": "Imbert",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS",
+                    "location": {
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France;"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Coronaviruses (CoVs) stand out among RNA viruses because of their unusually large genomes (\u223c30 kb) associated with low mutation rates. CoVs code for nsp14, a bifunctional enzyme carrying RNA cap guanine N7-methyltransferase (MTase) and 3\u2032-5\u2032 exoribonuclease (ExoN) activities. ExoN excises nucleotide mismatches at the RNA 3\u2032-end in vitro, and its inactivation in vivo jeopardizes viral genetic stability. Here, we demonstrate for severe acute respiratory syndrome (SARS)-CoV an RNA synthesis and proofreading pathway through association of nsp14 with the low-fidelity nsp12 viral RNA polymerase. Through this pathway, the antiviral compound ribavirin 5\u2032-monophosphate is significantly incorporated but also readily excised from RNA, which may explain its limited efficacy in vivo. The crystal structure at 3.38 \u00c5 resolution of SARS-CoV nsp14 in complex with its cofactor nsp10 adds to the uniqueness of CoVs among RNA viruses: The MTase domain presents a new fold that differs sharply from the canonical Rossmann fold.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "RNA virus | virus replication | proofreading | ribavirin | fold evolution",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Coronaviruses (CoVs) stand out among RNA viruses because of their unusually large genomes (\u223c30 kb) associated with low mutation rates. CoVs code for nsp14, a bifunctional enzyme carrying RNA cap guanine N7-methyltransferase (MTase) and 3\u2032-5\u2032 exoribonuclease (ExoN) activities. ExoN excises nucleotide mismatches at the RNA 3\u2032-end in vitro, and its inactivation in vivo jeopardizes viral genetic stability. Here, we demonstrate for severe acute respiratory syndrome (SARS)-CoV an RNA synthesis and proofreading pathway through association of nsp14 with the low-fidelity nsp12 viral RNA polymerase. Through this pathway, the antiviral compound ribavirin 5\u2032-monophosphate is significantly incorporated but also readily excised from RNA, which may explain its limited efficacy in vivo. The crystal structure at 3.38 \u00c5 resolution of SARS-CoV nsp14 in complex with its cofactor nsp10 adds to the uniqueness of CoVs among RNA viruses: The MTase domain presents a new fold that differs sharply from the canonical Rossmann fold.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "RNA virus | virus replication | proofreading | ribavirin | fold evolution F aithful transmission of genetic information is central to all living organisms. In the RNA virus world, RNA-dependent RNA polymerases (RdRps) lack co-and postreplicative fidelityenhancing pathways, and final RNA genome copies incorporate mutations at a much higher rate than that observed for DNA genomes (1) . The low fidelity accompanying viral RNA genome synthesis is mostly responsible for viral RNA genome diversity. The best-adapted genomes are subsequently selected in the host cell; thus, diversity is essential for both viral fitness and pathogenesis (2, 3) . The difference in replication fidelity between DNA-and RNA-based genomes has been correlated to the difference in their genome size. RNA virus genomes range from \u223c3-32 kb in size; DNA-based organisms with genome sizes up to several hundred megabases necessitate a replication machinery that is much more accurate than that of their viral counterparts (3) . The low fidelity of RdRps has been exploited as an Achilles heel to combat viral infections since a promiscuous substrate choice renders the RdRps prone to incorporate nucleotide analogs into viral RNA. This family of molecules constitutes one of the cornerstones of antiviral strategies. Many RNA viruses are sensitive to ribavirin (Rbv), a mutagenic guanosine analog discovered more than 40 y ago (4) . Rbv exerts its antiviral activity through numerous and possibly nonmutually exclusive mechanisms, which are not fully understood (5) . Among those mechanisms, Rbv 5\u2032-triphosphate (Rbv-TP) serves as a substrate for the viral RdRp and is incorporated into the nascent viral genome. The ambiguous coding nature of its purine-mimicking nucleobase accounts for its antiviral effect through lethal mutagenesis (6) . Additionally, Rbv 5\u2032-monophosphate is a potent inhibitor of the cellular enzyme inosine monophosphate dehydrogenase (IMPDH). IMPDH inhibition depresses cytoplasmic GTP pools, thus affecting RNA polymerase fidelity through nucleotide pool imbalance. Importantly, in contrast to hepatitis C virus (7) , respiratory syncytial virus (8) , and Lassa fever (9) infections, coronavirus (CoV)-infected patients do not respond to Rbv (10, 11) .",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 384,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 636,
+                    "end": 639,
+                    "text": "(2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 640,
+                    "end": 642,
+                    "text": "3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 996,
+                    "end": 999,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1401,
+                    "end": 1404,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1536,
+                    "end": 1539,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1811,
+                    "end": 1814,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 2112,
+                    "end": 2115,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 2146,
+                    "end": 2149,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 2168,
+                    "end": 2171,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 2242,
+                    "end": 2246,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 2247,
+                    "end": 2250,
+                    "text": "11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "CoVs include two highly pathogenic viruses responsible for severe acute respiratory syndrome (SARS) (12) and Middle East respiratory syndrome (MERS) (13) , for which neither treatment nor a vaccine is available. They possess the largest genome among RNA viruses. The CoV single-stranded (+) RNA genome carries a 5\u2032-cap structure and a 3\u2032-poly (A) tail (14) . Replication and transcription of the genome are achieved by a complex RNA replication/transcription machinery, made up of at least of 16 viral nonstructural proteins (nsps). The CoV replication/transcription complex harbors a wide variety of RNA processing activities, with some being typically found in RNA viruses, such as RdRp (nsp12) and helicase (nsp13) (15) . Nsp12-RdRp requires a processivity factor made of the CoV nsp7/nsp8 complex (16) . Other activities are generally found in RNA viruses with a cytoplasmic life cycle, such as methyltransferase (MTase) activities involved in RNA cap modification. An N7-MTase activity resides in the carboxyl (C) terminus domain of nsp14 (17) and a 2\u2032O-MTase activity was identified in nsp16 (18) . Interestingly, additional processing activities are found and are less common in RNA viruses, such as an endoribonuclease (nsp15) (19, 20) that is involved in innate immune response evasion (21) and a 3\u2032-5\u2032 exoribonuclease (ExoN) in the amino (N) terminus of nsp14 (22) .",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 104,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 149,
+                    "end": 153,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 352,
+                    "end": 356,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 718,
+                    "end": 722,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 801,
+                    "end": 805,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1098,
+                    "end": 1102,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1235,
+                    "end": 1239,
+                    "text": "(19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1240,
+                    "end": 1243,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1295,
+                    "end": 1299,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1370,
+                    "end": 1374,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Emerging coronaviruses (CoVs; severe acute respiratory syndrome-CoV and Middle East respiratory syndrome-CoV) pose serious health threats globally, with no specific antiviral treatments available. These viruses are able to faithfully synthesize their large genomic RNA. We report, however, that their main RNA polymerase, nsp12, is not accurate. To achieve accuracy, CoVs have acquired nsp14, a bifunctional enzyme able to methylate the viral RNA cap [methyltransferase (MTase)] and excise erroneous mutagenic nucleotides inserted by nsp12. Strikingly, ribavirin can be excised from the viral genome, thus showing no antiviral activity. The crystal structure of nsp14 shows that it is unique, having been replaced by other MTase types during evolution. This unprecedented RNA correction machinery has allowed RNA genome size expansion, but also provided potential nucleoside drug resistance to these deadly pathogens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "Outside CoVs and other members of the Nidovirales order, 3\u2032-5\u2032 ExoN activity is only found in the Arenaviridae family (23) . For example, the Lassa virus carries 3\u2032-5\u2032 ExoN activity involved in immune suppression (24) . Among nidoviruses, 3\u2032-5\u2032 ExoN activity is found in all large-genome nidoviruses (in addition to CoVs, toroviruses, and roniviruses, with 28-kb and 26-kb genomes, respectively), as well as in mesoniviruses (\u223c20 kb). Shortgenome nidoviruses (arteriviruses, \u223c13-15 kb) lack such ExoN activity (25) . Acquisition of such ExoN activity might have allowed nidoviruses to evolve larger genomes (26) . Moreover, since nsp14-ExoN belongs to the DEDD 3\u2032-5\u2032 exonuclease superfamily (22) , which includes DNA proofreading enzymes, this activity was proposed to be involved in a CoV RNA proofreading mechanism (15) . Indeed, genetic inactivation of nsp14-ExoN of the CoV murine hepatitis virus and the SARS-CoV results in 15fold and 21-fold more mutations in genomes than for wild-type (wt) viruses in infected cells, respectively (27, 28) . Consistent with these results, a wt nsp14-ExoN proofreading activity protects SARS-CoV from the deleterious effect of 5-fluorouracil (5-FU) (29) . Hence, inactivation of the ExoN activity sensitizes the virus to 5-FU, leading to a 14-fold increase in genomic mutations relative to wt (29) .",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 213,
+                    "end": 217,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 510,
+                    "end": 514,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 607,
+                    "end": 611,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 691,
+                    "end": 695,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 817,
+                    "end": 821,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1038,
+                    "end": 1042,
+                    "text": "(27,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1043,
+                    "end": 1046,
+                    "text": "28)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1189,
+                    "end": 1193,
+                    "text": "(29)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1333,
+                    "end": 1337,
+                    "text": "(29)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "Nsp14 can bind to several viral partners. It can associate with the polymerase complex (nsp12/nsp8/nsp7), and the resulting complex retains all associated enzymatic activities (i.e., RdRp, ExoN, N7-MTase) (16) . It can also associate with another CoV protein, nsp10, and the resulting complex shows in vitro a strongly enhanced ExoN activity (30) . The nsp10/nsp14 complex strictly targets double-stranded (ds) RNA, excising nucleotides in the 3\u2032-5\u2032 direction. Interestingly, this complex can also selectively remove a mismatched nucleotide mimicking a misincorporated ribonucleotide at the 3\u2032-end of a dsRNA substrate (30) . A crystal structure of the SARS-CoV heterodimer nsp10/nsp14 was recently determined (31) . Nsp14 is organized in two functional domains: the ExoN domain at its N terminus, which interacts with nsp10, and the N7-MTase domain at its C terminus. The crystal structure redefined the ExoN catalytic residues as being of the DEED type, and unveiled two previously unknown zinc finger motifs in the N7-MTase domain.",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 342,
+                    "end": 346,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 619,
+                    "end": 623,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "(31)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "In the present study, we have solved the SARS-CoV nsp14 crystal structure. We show that the molecule flexibility is essential in the interaction with the viral polymerase. We visualize conformational changes responsible for nsp10-mediated ExoN stimulation using X-ray crystallography and small-angle X-ray scattering (SAXS) methods. We have reconstituted the CoV RNA proofreading pathway, by which a ribonucleotide misincorporated into RNA is excised by an active replicase complex. Rbv 5\u2032-monophosphate is incorporated at the 3\u2032-end of RNA by the SARS-CoV polymerase. It is also efficiently excised by the nsp14-ExoN activity, which acts as a proofreading activity. Because of its dual role in synthesis and repair of viral RNA, this multifunctional replicase complex represents an attractive target for designing novel compounds active against CoVs. Finally, the crystal structure reveals that the nsp14 N7-MTase domain, strikingly, does not belong to the canonical Rossmann fold MTase family, making nsp14 a unique RNA processing enzyme and giving it a central role in large RNA genome evolution.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "Structural Overview of SARS-CoV nsp10/nsp14 Complex. We determined the crystal structure of the nsp10/nsp14 heterodimer by multiwavelength anomalous diffraction (MAD) using the anomalous scattering signal of zinc (Fig. 1A) . The crystal belongs to the space group P2 1 2 1 2 1 , with cell dimensions a = 185.97 \u00c5, b = 189.74 \u00c5, c = 195.93 \u00c5, and \u03b1 = \u03b2 = \u03b3 = 90\u00b0, and containing four heterodimers in the asymmetrical unit (Table S1 ). The four heterodimers assemble in a tetrahedron-like structure (Fig. S1A ), while the higher order of the crystal shows that the structural assembly forms a loose mesh crossed by fairly large elliptical solvent channels for which the dimension of the major axis is \u223c120 \u00c5 and that of the minor axis is \u223c50 \u00c5 (Fig. S1B ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 213,
+                    "end": 222,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 421,
+                    "end": 430,
+                    "text": "(Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 497,
+                    "end": 506,
+                    "text": "(Fig. S1A",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 742,
+                    "end": 751,
+                    "text": "(Fig. S1B",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Nsp14 is a modular protein composed of two functional domains, bordered on their N terminus by two other structural domains. These four regions are organized as follows (Fig. 1B) : (i) a flexible N terminus forming the major part of contacts with nsp10 (cyan), followed by (ii) the exonuclease domain (orange), (iii) a flexible hinge region formed by a loop and three strands (gray) (Fig. 1C) , and (iv) a C terminus N7-MTase domain (pink). The surface defined by the C terminus end of the ExoN domain (i.e., hinge, N7-MTase domain) is reminiscent of a saddle, which may accommodate a protein partner (discussed below). The nsp14 structure compared with the one published (31) presents insightful modifications. Despite identical topology compared with the other available structure, nsp14 presents a high level of flexibility. Hence, overall nsp14 chain-to-chain superimposition presents significant root-mean-square deviations (rmsds) drifting from 1.13 to 4.10 \u00c5. Moreover, we also observe significant mobility between the two domains of nsp14 (discussed in The Hinge Region Allows Large Movements Between the ExoN and N7-MTase Domains), while the structure of nsp10 remains essentially unchanged with rmsds ranging from 0.68 to 0.95 \u00c5, relative to published structures of nsp10 alone (32, 33) or in complex with nsp14 (31) or nsp16 (34, 35) .",
+            "cite_spans": [
+                {
+                    "start": 1288,
+                    "end": 1292,
+                    "text": "(32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1293,
+                    "end": 1296,
+                    "text": "33)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1336,
+                    "end": 1340,
+                    "text": "(34,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1341,
+                    "end": 1344,
+                    "text": "35)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 169,
+                    "end": 178,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 383,
+                    "end": 392,
+                    "text": "(Fig. 1C)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Structure of the nsp14-Exonuclease Domain. The ExoN domain is an \u03b1/\u03b2 fold constituted of six \u03b1-helices and 10 strands, organized into three distinct \u03b2-sheets ( Fig. 2A) . The core of the domain is formed by a central \u03b2-sheet made up of five antiparallel strands (\u03b210, \u03b27, \u03b22, \u03b23, and \u03b24) and surrounded by five helices (\u03b11, \u03b12, \u03b13, \u03b14, and \u03b16). Despite a pronounced twist of the central sheet, the fold is reminiscent of that of the DEDD exonuclease superfamily (36) (Fig. 2B) . A Protein Data Bank fold search on the SARS-CoV ExoN domain retrieves the structures of the human 3\u2032-5\u2032 ExoN (37) and the Pseudomonas aeruginosa ribonuclease T (38), both with an rmsd of 1.2 \u00c5. From this central domain, between the \u03b24 and \u03b12 spike, a \u03b2-hairpin structure containing \u03b25 and \u03b26 (residues 122-138) forms with \u03b21 a second antiparallel \u03b2-sheet-binding nsp10. The third antiparallel \u03b2-sheet grows out of the base of the central core domain between \u03b14 and \u03b210. It is made up of \u03b29 and \u03b28, and presents at its base a first zinc finger motif comprising residues Cys207, Cys210, Cys226, and His229. A second zinc finger located between \u03b15 and \u03b16 is formed by residues His257, Cys261, His264, and Cys279.",
+            "cite_spans": [
+                {
+                    "start": 588,
+                    "end": 592,
+                    "text": "(37)",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 168,
+                    "text": "Fig. 2A)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 467,
+                    "end": 476,
+                    "text": "(Fig. 2B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Nsp10 Interacts with nsp14, Thereby Stabilizing the ExoN Active Site.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The entire nsp10 peptide chain was built, unlike previously reported structures of nsp10 solved either alone (32, 33) or in complex with nsp16 (34, 35) . Here, the N terminus of nsp10 is stabilized by the first 25 residues of nsp14, forming a clamp that accommodates the first 10 residues of nsp10. The interaction between nsp10 and nsp14 is figuratively similar to a hand (nsp14) over fist (nsp10). Fingers are formed by the whole flexible N terminus region of nsp14 (residues 1-50), \u03b21 (residues 51-55), and an antiparallel \u03b2-strand budding out from the ExoN domain (residues 122-138), while the palm is constituted by top and side (residues 55-69 and 195-202) of the ExoN domain ( Fig. 1) . Consequently, in this analogy, the cavity holding the active site of the exonuclease domain is located on the back of the palm and the interaction surface of nsp10 with nsp14 is substantially wider than that observed for nsp10/nsp16 (34, 35) . Indeed, the nsp10/ nsp14 interaction surface is of 7,798 \u00c5 2 versus 3,225 \u00c5 2 for nsp10/nsp16. This particular mode of interaction of nsp10 with nsp14 suggests how nsp14-ExoN activity is stimulated by nsp10 (30) . In the presence of nsp10, residues of the ExoN active site are correctly positioned and form a highly active ExoN, as judged by the observed distance between catalytic residues. In the absence of nsp10, using SAXS (SI Text and Fig. S2 ), we observed large conformational changes in the N terminus of nsp14, which impact the overall shape of the exonuclease fold (Fig. S3 ). Without the fist (nsp10), the fingers of the hand fold onto the palm; by doing so, they distort the cavity containing the ExoN catalytic residues. This cavity is located in the back of the palm, by moving up the \u03b1-helix (residues 147-159) forming the top of the RNAbinding path, with distant residues (residues 110-117) repositioning the \u03b2-sheet. This distortion indicates that the ExoN catalytic pocket partially collapses in the absence of nsp10, accounting for the weak ExoN activity of nsp14 alone (30) .",
+            "cite_spans": [
+                {
+                    "start": 109,
+                    "end": 113,
+                    "text": "(32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 114,
+                    "end": 117,
+                    "text": "33)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 143,
+                    "end": 147,
+                    "text": "(34,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 148,
+                    "end": 151,
+                    "text": "35)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 927,
+                    "end": 931,
+                    "text": "(34,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 932,
+                    "end": 935,
+                    "text": "35)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1145,
+                    "end": 1149,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 2028,
+                    "end": 2032,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 684,
+                    "end": 691,
+                    "text": "Fig. 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1379,
+                    "end": 1386,
+                    "text": "Fig. S2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1514,
+                    "end": 1522,
+                    "text": "(Fig. S3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "N7-MTase Domains. The ExoN and N7-MTase domains of nsp14 are separated by a hinge region that allows significant movements between both domains ( Fig. 1 and Fig. S3 ). The hinge, which can be seen as an extension of the N7-MTase domain, is composed of a flexible interdomain loop (residues F286-G300) (Fig. 1C) wrapping around a three-stranded antiparallel \u03b2-sheet (\u03b218, \u03b217, and \u03b216, including residues L406-A430) jutting out of the N7-MTase domain ( Fig. 3 A and B) . Sequence analyses show that amino acids forming the flexible hinge are conserved across Coronavirinae, suggesting that they play a critical and functional role in regulation of the nsp14 hinge region movement. Indeed, this particular structure allows lateral and rotational movements of the C-terminal domain with respect to the N-terminal domain, such that an \u223c13 \u00c5 deviation is observed from one peptide chain to the other (crystallography and SAXS analysis in Fig. S3 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 146,
+                    "end": 164,
+                    "text": "Fig. 1 and Fig. S3",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 301,
+                    "end": 310,
+                    "text": "(Fig. 1C)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 452,
+                    "end": 467,
+                    "text": "Fig. 3 A and B)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 933,
+                    "end": 940,
+                    "text": "Fig. S3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "The nsp14 N7-MTase Domain Is Not a Rossmann Fold. The nsp14 N7-MTase domain comprises a total of 12 \u03b2-strands and five \u03b1-helices ( Fig. 3 A and B) . The fold presents a central five-stranded \u03b2-sheet made up of four parallel strands (\u03b212, \u03b211, \u03b214, and \u03b215) and one antiparallel strand (\u03b222). The central \u03b2-sheet is sandwiched between a single \u03b1-helix (\u03b17) and three long loops punctuated by two small helices (\u03b18 and \u03b73). The central sheet is surrounded by two strands (\u03b213 and \u03b219), which are perpendicular but not fully aligned with the central sheet. Between \u03b215 and the second turn, \u03b73 is inserted into the \u03b2-sheet of the hinge (discussed above), which forms a lid above the active site. Following the turn is a long flexible extension drifting almost away from the \u03b2-sheet, which ends with a \u03b2-strand (\u03b220) involved in a parallel \u03b2-sheet with another strand (\u03b221). A long, disordered region (residues 453-465) not built in our structural model separates the two strands, and we postulate that it may serve as a binding platform for other partners (39) . The strand is followed by a long helix (\u03b19). Between the tip of strand \u03b221 and the bottom of helix \u03b19, a third zinc-binding site is found. It is formed by residues Cys452, Cys477, Cys484, and His487. This zinc finger constrains the structure locally and orients \u03b19 toward the center of the structure, making \u03b19 and \u03b17 cross each other and positioning the C terminus of the helix just above the \u03b2-sheet, allowing strand \u03b222 to complete the central \u03b2-sheet. The C terminus of nsp14 ends with a helix (\u03b110) which is at almost 90\u00b0f rom strand \u03b222 and, together with \u03b19, sandwiches the parallel \u03b2-sheet (\u03b220-\u03b221). The molecular mechanism of the RNA cap guanine N7-methylation has been described previously (31, 40) .",
+            "cite_spans": [
+                {
+                    "start": 1052,
+                    "end": 1056,
+                    "text": "(39)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 1760,
+                    "end": 1764,
+                    "text": "(31,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1765,
+                    "end": 1768,
+                    "text": "40)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 131,
+                    "end": 146,
+                    "text": "Fig. 3 A and B)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "So far, all reported RNA cap-MTase structures belong to the Rossmann fold family (41) . The Rossmann fold, defined as a \u03b2\u03b1\u03b2 structure, is one of the five most common structural motifs widely distributed and considered as remnants of most ancient protein architectures (42) (Fig. 3C) . Briefly, the Rossmann fold can be described as a seven-stranded \u03b2-sheet with at least three parallel \u03b1-helices on each side (\u03b1/\u03b2 fold). Some variations of the fold have been observed among structures of dinucleotidebinding domains: Variations include the number of \u03b2-strands in the complete \u03b2-sheet that forms the Rossmann fold, as well as the length and number of secondary structures of the segment that connects the second and third \u03b2-strands (43) . Two landmarks of the Rossmann fold family are the first structural feature, \u03b2\u03b1\u03b2, and the motif sequence G-x-G-(x) n -G, which both constitute the NTP-binding site. It is the conservation of the canonical \u03b2\u03b1\u03b2 fold motif in these enzymes that ascertains a common evolutionary origin of these proteins.",
+            "cite_spans": [
+                {
+                    "start": 81,
+                    "end": 85,
+                    "text": "(41)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 731,
+                    "end": 735,
+                    "text": "(43)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 273,
+                    "end": 282,
+                    "text": "(Fig. 3C)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "The SARS-CoV nsp14 N7-MTase domain is thus an exception, as the structure reveals major structural deviations incompatible with classification into this family (compare Fig. 3 B, Right and C,  Right) . The most conserved feature of the Rossmann fold family, the \u03b2\u03b1\u03b2 structural motif, is absent, as are standard MTase motifs in the protein sequence, explaining why it had escaped detection upon sequence alignment-based investigations (15) . The SARS-CoV N7-MTase domain exhibits a unique fold, defining an MTase representative that should nucleate a new structural family.",
+            "cite_spans": [
+                {
+                    "start": 434,
+                    "end": 438,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 169,
+                    "end": 199,
+                    "text": "Fig. 3 B, Right and C,  Right)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "The nsp12-RdRp Interacts with both the ExoN and N7-MTase Domains of nsp14. Nsp10 interacts with nsp14 which, in turn, interacts with nsp12-RdRp, albeit without direct interaction of nsp10 with nsp12-RdRp (44) . The interaction surface between nsp10 and nsp14 has been mapped using mutagenesis (45) and structural studies (this study and ref. 31 ). However, the structural basis of the interaction of nsp14 with nsp12-RdRp is still unresolved. Based on our nsp14 structure, we defined three nsp14 domains and showed that not only the ExoN domain but also the N7-MTase domain of nsp14 interacts with nsp12-RdRp and that the first 71 amino acids of nsp14 are not essential for interaction with the polymerase (Fig. S4) .",
+            "cite_spans": [
+                {
+                    "start": 204,
+                    "end": 208,
+                    "text": "(44)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 293,
+                    "end": 297,
+                    "text": "(45)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 342,
+                    "end": 344,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 706,
+                    "end": 715,
+                    "text": "(Fig. S4)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "Then, we probed the interaction of the nsp14 saddle-shaped surface ( Fig. 1A) with nsp12-RdRp. Based on both the amino acids exposed to the surface of the saddle and sequence conservation across Coronavirinae, 14 mutants in the nsp14 N7-MTase domain were generated (Y296A, P297A, N306A, R310A, V466K, L468K, K469A, C473A, T475A, L479A, H487A, L495A, Y498A, and N499A). As a control, the nsp14-ExoN catalytic site mutant (D90A/E92A) was also included in the study. The propensity of these nsp14 mutants to interact with nsp12-RdRp and their respective ExoN and N7-MTase activities were determined as previously described (18, 30, 44) . As shown in Table S2 , three nsp14 substitutions (R310A, H487A, and L495A) significantly alter N7-MTase activity (1% \u00b1 0.1, 14% \u00b1 2.5, and 26% \u00b1 0.7, respectively). The critical role of the R310 residue in cap methylation has already been demonstrated as an S-adenosylmethionine (SAM)-binding residue (40) . Interestingly, seven residues in the nsp14 N7-MTase domain (Y296, P297, C473, T475, H487, L495, and Y498) are essential for ExoN activity (Fig. S5 ). These mutants are correctly folded since they retain either interaction with nsp12-RdRp (Fig. S6 ) or N7-MTase activity (Table S2 ) (except nsp14 H487A, which is altered for all three properties tested, as discussed below). Finally, two nsp14 residues (H487 and Y498) are critical for the interaction with nsp12-RdRp in vitro (Fig. S6 ). His487 is located in zinc finger 3 of the N7-MTase domain (Fig. S5 ). Whereas the nsp14 Y498A mutant conserves an N7-MTase activity in the same range as nsp14 wt (95% \u00b1 6), the nsp14 H487A mutant exhibits a substantially reduced N7-MTase activity (14% \u00b1 2.5). The nsp14 H487 residue may be involved in charge-mediated protein/protein interactions since the nsp14 H487R mutant fully conserved N7-MTase activity (31) , consistent with the nsp14/nsp12 interaction site proposed here.",
+            "cite_spans": [
+                {
+                    "start": 620,
+                    "end": 624,
+                    "text": "(18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 625,
+                    "end": 628,
+                    "text": "30,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 629,
+                    "end": 632,
+                    "text": "44)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 936,
+                    "end": 940,
+                    "text": "(40)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1841,
+                    "end": 1845,
+                    "text": "(31)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 69,
+                    "end": 77,
+                    "text": "Fig. 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 647,
+                    "end": 655,
+                    "text": "Table S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1081,
+                    "end": 1089,
+                    "text": "(Fig. S5",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1181,
+                    "end": 1189,
+                    "text": "(Fig. S6",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1213,
+                    "end": 1222,
+                    "text": "(Table S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1419,
+                    "end": 1427,
+                    "text": "(Fig. S6",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1489,
+                    "end": 1497,
+                    "text": "(Fig. S5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "The Hinge Region Allows Large Movements Between the ExoN and"
+        },
+        {
+            "text": "Fidelity. We compared the SARS-CoV polymerase complex (formed of nsp12/nsp8/nsp7) and Dengue virus (DENV) NS5 for their efficiency of single \"correct\" or \"incorrect\" nucleotide incorporation into RNA (Fig. 4) . Both polymerases incorporate GMP (corresponding to the \"correct\" Watson-Crick base pair) efficiently into this RNA. The two polymerases, however, exhibit strikingly different fidelity. DENV NS5 does not significantly misincorporate nucleotides, even with up to 8 mM UTP, ATP, or CTP (Fig. 4C ). This observation is in line with DENV RdRp fidelity, estimated between 1/34,000 (i.e., error rate of 3 \u00d7 10 \u22125 for the U:C mispair) and 1/135,000 (i.e., error rate of 7.4 \u00d7 10 \u22126 for the C:C mispair) (46) . In contrast, G:A, U:U, and A:C mismatches are readily detected in the presence of the SARS-CoV polymerase complex (Fig. 4B) . Using a variety of RNA templates, single-nucleotide primer extension opposite AMP, UMP, and GMP was similarly monitored (Fig. S7) . U:G, C:A, G:U, and G:G mismatches are also readily detected (Fig. S7) .",
+            "cite_spans": [
+                {
+                    "start": 706,
+                    "end": 710,
+                    "text": "(46)",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 200,
+                    "end": 208,
+                    "text": "(Fig. 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 494,
+                    "end": 502,
+                    "text": "(Fig. 4C",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 827,
+                    "end": 836,
+                    "text": "(Fig. 4B)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 959,
+                    "end": 968,
+                    "text": "(Fig. S7)",
+                    "ref_id": "FIGREF7"
+                },
+                {
+                    "start": 1031,
+                    "end": 1040,
+                    "text": "(Fig. S7)",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "The SARS-CoV Polymerase Complex Exhibits Low Nucleotide Insertion"
+        },
+        {
+            "text": "In conclusion, the SARS-CoV polymerase exhibits a nucleotide insertion fidelity in vitro that is surprisingly lower than that of DENV RdRp. It shows a general tendency to be error-prone, despite the low mutation rate observed at the virus level (28) .",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 249,
+                    "text": "(28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The SARS-CoV Polymerase Complex Exhibits Low Nucleotide Insertion"
+        },
+        {
+            "text": "Insertion Fidelity in Vitro. We analyzed the direct contribution of the SARS-CoV nsp14-ExoN activity to the proofreading of RNA synthesized by the viral polymerase. For this purpose, we used a primer/template bearing an A:A mismatch (Fig. 5A) , which is both poorly generated (Fig. S7) and poorly extended by the SARS-CoV polymerase complex (Fig. 5B, lane b) . We asked if the RNA polymerase may be able to resume polymerization starting from this primer/template, after proofreading by the 3\u2032-5\u2032 ExoN. After addition of nsp10 and nsp14, an extension product is readily detected (Fig. 5B, lanes e and f) . We sequenced the resulting RNA products after conversion to cDNA by RT-PCR, using a specific and selective RT primer (Materials and Methods). With the polymerase complex alone, 100% of the clones (eight of eight) carry the initial A base. The presence of nsp10 and nsp14-ExoN promotes A-to-U repair of \u223c90% of sequenced clones (43 of 49 clones) (Fig. 5C) , whereas that of nsp10 and nsp14-ExoN(\u2212) leaves \u223c94% of sequenced clones (33 of 35 clones) unrepaired (P < 0.001). In line with reverse genetics findings (28) , these results provide a molecular basis for RNA synthesis proofreading by the SARS-CoV replicase.",
+            "cite_spans": [
+                {
+                    "start": 1116,
+                    "end": 1120,
+                    "text": "(28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 233,
+                    "end": 242,
+                    "text": "(Fig. 5A)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 276,
+                    "end": 285,
+                    "text": "(Fig. S7)",
+                    "ref_id": "FIGREF7"
+                },
+                {
+                    "start": 341,
+                    "end": 358,
+                    "text": "(Fig. 5B, lane b)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 579,
+                    "end": 603,
+                    "text": "(Fig. 5B, lanes e and f)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 951,
+                    "end": 960,
+                    "text": "(Fig. 5C)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "The ExoN Activity Restores SARS-CoV Polymerase Nucleotide"
+        },
+        {
+            "text": "Rbv 5\u2032-Monophosphate Is Incorporated and Excised into/from RNA.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The ExoN Activity Restores SARS-CoV Polymerase Nucleotide"
+        },
+        {
+            "text": "The presence of ExoN associated with low-fidelity RdRp might impact future design of anti-CoV nucleoside analogs. Is the nsp12-RdRp permissive to nucleotide analog incorporation into RNA? If yes, could the analog be excised by the associated ExoN activity? We first examined if Rbv-TP could serve as a nucleotide substrate of the SARS-CoV polymerase complex (Fig. 6A) . Rbv 5\u2032-monophosphate (Rbv) is incorporated into RNA, preferentially opposite template pyrimidines (UMP or CMP) (Fig. 6A) , around 100-fold less efficiently than a regular Watson-Crick base pair (Fig. 6B) . To determine if ExoN activity could excise Rbv from the 3\u2032-end of a primer, we used a synthetic RNA primer exhibiting an Rbv monophosphate at its 3\u2032 end (named LS2-Rbv) annealed to the RNA template LS15, resulting in Rbv opposite CMP (Table S3 ). This RNA substrate was first tested with a high concentration of nsp14 alone: A rapid disappearance of the Rbv-terminated primer is observed over time (Fig. 6C) , confirming that an intact ribose, rather than the base, is a strong determinant of nsp14 substrate selectivity (30) . The addition of increasing concentrations of nsp10 stimulates the excision rate of the terminal Rbv (Fig. 6C) . The rate of nsp10/nsp14-mediated Rbv excision is about fourfold faster than that of an A:A mismatch (Fig.  6D) , which are data that can be extended to any erroneous nucleotide incorporation. Indeed, it was shown that single mismatches of any type are removed by the SARS-CoV nsp10/nsp14-ExoN activity with a similar efficacy (30) .",
+            "cite_spans": [
+                {
+                    "start": 1097,
+                    "end": 1101,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1542,
+                    "end": 1546,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 358,
+                    "end": 367,
+                    "text": "(Fig. 6A)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 481,
+                    "end": 490,
+                    "text": "(Fig. 6A)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 564,
+                    "end": 573,
+                    "text": "(Fig. 6B)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 810,
+                    "end": 819,
+                    "text": "(Table S3",
+                    "ref_id": null
+                },
+                {
+                    "start": 974,
+                    "end": 983,
+                    "text": "(Fig. 6C)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1204,
+                    "end": 1213,
+                    "text": "(Fig. 6C)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1316,
+                    "end": 1326,
+                    "text": "(Fig.  6D)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "The ExoN Activity Restores SARS-CoV Polymerase Nucleotide"
+        },
+        {
+            "text": "We conclude that incorporated Rbv can be readily excised by nsp10/nsp14-ExoN and, to a lesser extent, by nsp14-ExoN alone. This observation may account, at least in part, for the poor efficacy of Rbv against SARS-CoV in infected patients (10) .",
+            "cite_spans": [
+                {
+                    "start": 238,
+                    "end": 242,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The ExoN Activity Restores SARS-CoV Polymerase Nucleotide"
+        },
+        {
+            "text": "RNA polymerase fidelity (i.e., the ability to select and incorporate the correct nucleotide into an RNA strand in a template-dependent manner) is a primary determinant of mutation rates for RNA viruses. Overall, a figure of 10 \u22126 to 10 \u22124 substitutions per nucleotide per cell infection has been reported for viral RdRps (3). Drake (1) and Drake et al. (47) reported that mutation rates can vary by several orders of magnitude in RNA-and DNA-based organisms but that the overall mutation rate per genome stays remarkably constant, around approximately one mutation per replicated genome. Well before the discovery of nsp14-ExoN in the large Nidovirales genomes (22) , this observation led to Drake's visionary proposition that \"RNA viruses would have to acquire several host genes and adapt them to RNA substrates to achieve a major reduction in spontaneous mutation rate. The result would be a substantial increase in genome size\" (1) .",
+            "cite_spans": [
+                {
+                    "start": 353,
+                    "end": 357,
+                    "text": "(47)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 661,
+                    "end": 665,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 932,
+                    "end": 935,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The discovery of the involvement of CoV nsp14-ExoN in genome stability maintenance (27, 28) and the subsequent demonstrations that it binds to the nsp12-RdRp (16) and excises nucleotide mismatches (30) represent a remarkable validation of Drake's prediction. We demonstrate here, at the molecular level, that CoVs have indeed acquired an enzyme able to enhance the overall fidelity, and that this event might have directly promoted the jump in size of CoV genomes. The acquisition and evolution of the nsp14 gene present striking features, providing structural and functional evidence that it is at a tipping point in the evolution of genetic stability during viral replication.",
+            "cite_spans": [
+                {
+                    "start": 83,
+                    "end": 87,
+                    "text": "(27,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 88,
+                    "end": 91,
+                    "text": "28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The N7-MTase domain of nsp14 most likely results from a de novo emergence and not from a gene duplication. The SARS-CoV nsp10/nsp14 structure was previously described as reminiscent (31) or deviant (48) of the Rossmann fold. However, based on our analysis, SARS-CoV nsp14 does not present the signature of a Rossmann fold: It lacks the defining motif \u03b2\u03b1\u03b2 (Fig. 3) and presents the structural constraint of a zinc-binding site stacking a long helix (\u03b19) structuring the \u03b2-sheet. Moreover, a sequence analysis of SARS-CoV N7-MTase with a distant homology search only retrieves CoV sequences. Altogether, these findings indicate that the nsp14 N7-MTase domain has appeared during evolution independent from Rossmann fold MTases. It would seem logical that the nsp14 N7-MTases had appeared before Rossmann fold MTases, because the latter had successfully evolved to N7-methylate mRNA caps of all species that use the RNA cap to initiate their mRNA translations.",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(31)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 198,
+                    "end": 202,
+                    "text": "(48)",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 355,
+                    "end": 363,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The nsp14 exonuclease domain has also undergone structural evolution of its fold to reversibly accommodate its cofactor nsp10. The latter has no known structural counterpart except other CoVs (32) . This structural relationship between nsp10 and the exonuclease domain of nsp14 is the key to ExoN activity stimulation. When binding to the amino terminus of nsp14, nsp10 allows the exonuclease active site to adopt a stably closed conformation, allowing efficient hydrolysis of dsRNA. Conversely, in the absence of nsp10, large conformational changes in the N terminus of nsp14 occur, as shown by SAXS, leading to a weak ExoN activity (30) . The potent nsp10/nsp14-ExoN activity may be involved in the degradation of immune stimulatory dsRNA, as was shown in vivo for the nsp14 of the transmissible gastroenteritis virus, a prototypic Alphacoronavirus (49) . In contrast, the much lower ExoN activity of nsp14 on its own may be associated with a proofreading mechanism.",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 196,
+                    "text": "(32)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 634,
+                    "end": 638,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 851,
+                    "end": 855,
+                    "text": "(49)",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Crystallographic and SAXS data show that nsp14, as a whole, is rather flexible and undergoes substantial conformational changes. These large movements may allow different functions and interactions with protein partners. The latter property is reminiscent of intrinsically disordered proteins, which have evolved binding platforms to perform sequential activities. Fur-thermore, the hinge may act as a molecular switch. Indeed, nsp14 is directly involved in at least two processes that use two different kinds of RNA substrates. During replication, newly synthesized dsRNA with a mismatch should be translocated from the RNA polymerase to the ExoN catalytic cavity of nsp14. During transcription, a nascent 5\u2032-cap mRNA should go into the N7-MTase catalytic tunnel of nsp14 (Fig. 7) . It was shown previously that the ExoN domain is closely involved in the activity of the N7-MTase (40) . In the present study, we establish the reciprocity with the nsp14 N7-MTase domain that is essential for the ExoN activity. These results could be explained by alteration of the nsp14 flexibility. In fact, two conserved residues (Y296 and P297) located in the hinge of nsp14 and involved in the flexibility are essential for the ExoN activity. Altogether, these structural data combining structure and flexibility strengthen the unique feature of CoV nsp14.",
+            "cite_spans": [
+                {
+                    "start": 881,
+                    "end": 885,
+                    "text": "(40)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 773,
+                    "end": 781,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our results unveiled a second unexpected finding: The SARS-CoV polymerase complex exhibits a significantly lower fidelity compared with that of DENV RdRp, a virus with a genome onethird of its size. From this observation, we hypothesize that (i) the acquisition of nsp14-ExoN as an active part of the replication complex to increase fidelity has allowed relaxation of nucleotide selection by the viral RdRp, and (ii) as a consequence of this compensated low fidelity, larger RNA \"coronavirus-like\" genomes but encoding for a RdRp with much better intrinsic fidelity may exist; together with an associated ExoN, there might be further evolutionary space to satisfy Drake's rule of approximately one mutation per replicated \"larger\" genome. Clearly, the origin and fate of nidovirus nsp14 sequences, structures, and activities may be significantly informative in the history of RNA-to-DNA genome evolutions. In summary, we have reconstituted a functional pathway demonstrating that misincorporated nucleotides can be excised from the nascent viral genome. The conservation of nsp10, nsp12, and nsp14 across the CoV genus suggests that our finding may well apply to many members of the Coronaviridae family. Hence, a direct consequence of the CoV RNA proofreading system is its potential impact on antiviral strategies using nucleoside analogs, as illustrated by the excision of Rbv. Interestingly, the nsp10/nsp14-ExoN activity is inactive on dsRNA substrates bearing 3\u2032-end ribose modifications (30) . These results make the design of nonexcisable chain terminators a rational strategy for anti-CoV. Accordingly, Gilead's GS-5734 1\u2032-cyano-substituted nucleoside ribose analog was reported active against, at least, the MERS-CoV with an EC 50 value of 0.34 \u03bcM (50). Very recently, the GS-5734 spectrum of action was extended to SARS-CoV, bat CoVs, and circulating human CoVs, making this nucleotide prodrug an effective pan-CoV inhibitor candidate (51) . It will be interesting to assess if the ribose 1\u2032-cyanyl group is also a determinant of resistance to ExoN activity.",
+            "cite_spans": [
+                {
+                    "start": 1494,
+                    "end": 1498,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1946,
+                    "end": 1950,
+                    "text": "(51)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Simultaneous inhibition of CoV RdRp and ExoN activities might also be a therapeutic option. It could restore antiviral potency of nucleotide analogs such as Rbv. Since viral nuclease enzymes (e.g., integrase from HIV, PA subunit from influenza virus) are compelling targets for antiviral therapy, designing nucleoside analogs and specific nuclease inhibitors concomitantly might prove a valid option against viruses endowed with RNA repair systems.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Expression and Purification of SARS-CoV Proteins. All plasmids used in this study are described by Subissi et al. (16) , except that SARS-CoV nsp12-RdRp was tagged with eight histidines. Bacterial protein expressions and purifications were done as previously described (16) . The SARS-CoV polymerase complex (composed of nsp12/nsp8/nsp7) purification protocol included an immobilized metal affinity chromatography purification step in which the buffer was supplemented with 10 mM imidazole, and Co 2+ -bound proteins were eluted with 200 mM imidazole. A second chromatography step was performed on a Hiload 16/60 Superdex 200 column (GE Healthcare).",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 118,
+                    "text": "Subissi et al. (16)",
+                    "ref_id": null
+                },
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "The SARS-CoV nsp14-coding sequence was cloned into expression vector pDEST14 (Thermo Fisher Scientific) to produce a recombinant protein carrying an N terminus His 6 -tag (18) . Site-directed mutagenesis to generate plasmids expressing nsp14 mutants was performed using the QuikChange Site-Directed Mutagenesis Kit (Stratagene) according to the manufacturer's instructions. Expression in bacteria and purification of nsp14 wt and mutants are described by Bouvet et al. (18) .",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 469,
+                    "end": 473,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Crystallization and Structure Determination. Crystallization was performed by the sitting-drop vapor diffusion method at 4\u00b0C. Crystallization drops consisted of various ratios [1:1, 1:2, 2:1, and 2:2 (\u03bcL/\u03bcL)] of protein complex nsp10/nsp14 (4 mg/mL) in gel filtration buffer versus 600 \u03bcL of reservoir solution containing 0.1 M trisodium citrate (pH 5.5), 8% PEG 8000, and 30% hexanediol. Crystals were cryoprotected with a reservoir solution supplemented with 20% PEG 200, prior to being flash-cooled in liquid nitrogen. Diffraction data were collected at beamline Proxima1 at the Soleil synchrotron. The MAD data were collected to 3.5 \u00c5 resolution at the peak (\u03bb = 1.28242 \u00c5) and inflection (\u03bb = 1.28282 \u00c5) wavelengths for zinc. Higher resolution (3.38 \u00c5) data were collected from a single crystal of the native complex (\u03bb = 1.28348 \u00c5). Datasets were processed and analyzed with the (Table S3) . Single-Rbv primer extension products (21 nt) were quantified, and data were fitted to a single exponential equation. autoPROC toolbox (52) , and the structure was solved by the MAD method using the anomalous scattering signal of zinc, with autoSHARP (53). Twenty zinc positions from the anomalous difference map helped calculate an initial electron density map and align the sequence identifying the key residues of zinc-binding sites. Auto-building with Buccaneer (54) was useful to extend the model, which was further manually built with Coot (55) and refined with BUSTER (56). The model was further refined with ROSETTA-PHENIX (57) to 3.38 \u00c5, using the higher resolution native dataset. The final model has R work = 19.6% and R free = 23.4% and was confirmed to have good stereochemistry according to MOLPROBITY (58) .",
+            "cite_spans": [
+                {
+                    "start": 1032,
+                    "end": 1036,
+                    "text": "(52)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 1713,
+                    "end": 1717,
+                    "text": "(58)",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 885,
+                    "end": 895,
+                    "text": "(Table S3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Data collection and refinement statistics are listed in Table S1 . All structure analysis and figures were done with UCSF Chimera (59) .",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 134,
+                    "text": "(59)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 56,
+                    "end": 64,
+                    "text": "Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "RNA Templates. Synthetic RNAs (LS1, LS2, LS3, LS8, LS15, LS16, and LS17) were purchased from Biomers (HPLC grade), and LS2-Rbv was synthesized by Dharmacon/Thermo Fisher Scientific (HPLC grade). Table S3 provides sequences of these RNAs. RNA LS2, LS2-Rbv, and LS3 were radiolabeled with the T4 polynucleotide kinase (New England Biolabs) and [\u03b3-32 P]ATP (PerkinElmer), and are hereafter termed LS2*, LS2-Rbv*, and LS3*. LS2* was then annealed to either LS1, LS15, LS16, or LS17; LS2-Rbv* was annealed to LS15; and LS3* was annealed to LS8 by heating at 70\u00b0C for 10 min and then cooling down to room temperature (with a primer/template ratio of 1.2:1).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 195,
+                    "end": 203,
+                    "text": "Table S3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Polymerase Assays. All polymerase reactions were preincubated for 30 min at 30\u00b0C, containing 0.5 \u03bcM radiolabeled primer annealed to a template in reaction buffer [20 mM Tris (pH 8), 10 mM KCl, 1 mM DTT, 2 mM MgCl 2 ] supplemented with the SARS-CoV polymerase complex [\u223c0.5 \u03bcM, as determined using UV absorption (\u03bb = 280 nm) and Bradford analysis using BSA as a standard]. The percentage of active enzyme was estimated at <10% using titration of primer/template with increasing enzyme concentrations and manual burst analysis. Reactions were performed at 30\u00b0C using indicated concentrations of either one NTP, Rbv-TP (Jena Bioscience), or all NTPs (at 500 \u03bcM each). For incorrect nucleotides, product formation followed a linear increase of incorporation product up to 20 min, and 18 min was chosen as a suitable time for steady-state kinetic studies. Reactions were quenched by the addition of an equal volume of loading buffer (formamide with 10 mM EDTA). RNA polymerization products were analyzed in polyacrylamide/7 M urea gels. RNA products were visualized using photostimulated plates and a phosphorimager (Fuji).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Sequencing of cDNA Clones from Newly Polymerized RNA Products. RNA products to be sequenced were excised and electroeluted using a GEBAFLEX extraction kit (Interchim), following the manufacturer's instructions. Recovered RNAs were precipitated and resuspended in H 2 O, and RT was performed with a forward primer (5\u2032-GTATCCCCATCTCATTTTA-3\u2032) using a OneStep RT-PCR Kit (QIAGEN). After heating to 95\u00b0C (to switch from the RT reaction to the PCR, following the manufacturer's instructions), the reverse primer was added (5\u2032-GTCATTCTCCTAAGAAGC-3\u2032). Cloning of the PCR products was performed with the CloneJET PCR Cloning Kit (Thermo Fisher Scientific), and plasmid DNAs were sequenced using a third primer (5\u2032-CGATGAGTTTTCGGTATTATC-3\u2032) by Eurofins Genomics. The reported P value was calculated using a Z-test for comparison of two proportions. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Rates of spontaneous mutation among RNA viruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Drake",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "90",
+            "issn": "",
+            "pages": "4171--4175",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Pacing a small cage: Mutation and RNA viruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Belshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pybus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Trends Ecol Evol",
+            "volume": "23",
+            "issn": "",
+            "pages": "188--193",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Belshaw R (2010) Viral mutation rates",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanju\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Nebot",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chirico",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mansky",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "9733--9748",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Broad-spectrum antiviral activity of Virazole: 1-Beta-Dribofuranosyl-1,2,4-triazole-3-carboxamide",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Sidwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Science",
+            "volume": "177",
+            "issn": "",
+            "pages": "705--706",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Metabolism and antiviral activity of ribavirin",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Parker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virus Res",
+            "volume": "107",
+            "issn": "",
+            "pages": "165--171",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The broad-spectrum antiviral ribonucleoside ribavirin is an RNA virus mutagen",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Crotty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nat Med",
+            "volume": "6",
+            "issn": "",
+            "pages": "1375--1379",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Interferon alfa-2b alone or in combination with ribavirin as initial treatment for chronic hepatitis C",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mchutchison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Hepatitis Interventional Therapy Group",
+            "volume": "339",
+            "issn": "",
+            "pages": "1485--1492",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Ribavirin treatment of experimental respiratory syncytial viral infection. A controlled double-blind study in young adults",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hruska",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Betts",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "JAMA",
+            "volume": "249",
+            "issn": "",
+            "pages": "2666--2670",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Lassa fever. Effective therapy with ribavirin",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Mccormick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "N Engl J Med",
+            "volume": "314",
+            "issn": "",
+            "pages": "20--26",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS: Systematic review of treatment effects",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stockman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bellamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Garner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Med",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Expert Rev Anti Infect Ther",
+            "volume": "15",
+            "issn": "",
+            "pages": "269--275",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "SARS-Beginning to understand a new virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stadler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat Rev Microbiol",
+            "volume": "1",
+            "issn": "",
+            "pages": "209--218",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adme",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ram",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Coronaviruses post-SARS: Update on replication and pathogenesis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Netland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Rev Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "439--450",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Mol Biol",
+            "volume": "331",
+            "issn": "",
+            "pages": "991--1004",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "One severe acute respiratory syndrome coronavirus protein complex integrates processive RNA polymerase and exonuclease activities",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Subissi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "111",
+            "issn": "",
+            "pages": "3900--3909",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Functional screen reveals SARS coronavirus nonstructural protein nsp14 as a novel cap N7 methyltransferase",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "106",
+            "issn": "",
+            "pages": "3484--3489",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "In vitro reconstitution of SARS-coronavirus mRNA cap methylation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Crystal structure and mechanistic determinants of SARS coronavirus nonstructural protein 15 define an endoribonuclease family",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ricagno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "103",
+            "issn": "",
+            "pages": "11892--11897",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Biochemical and genetic analyses of murine hepatitis virus Nsp15 endoribonuclease",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "13587--13597",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Early endonuclease-mediated evasion of RNA sensing ensures efficient coronavirus replication",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kindler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS Pathog",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Discovery of an RNA virus 3\u2032\u21925\u2032 exoribonuclease that is critically involved in coronavirus RNA synthesis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Minskaia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "103",
+            "issn": "",
+            "pages": "5108--5113",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Inhibition of the type I interferon response by the nucleoprotein of the prototypic arenavirus lymphocytic choriomeningitis virus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mart\u00ednez-Sobrido",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Z\u00fa\u00f1iga",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rosario",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garc\u00eda-Sastre",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "De La Torre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "9192--9199",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Cap binding and immune evasion revealed by Lassa nucleoprotein structure",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "468",
+            "issn": "",
+            "pages": "779--783",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Nidovirales: Evolving the largest RNA virus genome",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res",
+            "volume": "117",
+            "issn": "",
+            "pages": "17--37",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The footprint of genome architecture in the largest genome expansion in RNA viruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Pathog",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "High fidelity of murine hepatitis virus replication is decreased in nsp14 exoribonuclease mutants",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sperry",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "12135--12144",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Infidelity of SARS-CoV Nsp14-exonuclease mutant virus replication is revealed by complete genome sequencing",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Eckerle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Coronaviruses lacking exoribonuclease activity are susceptible to lethal mutagenesis: Evidence for proofreading and potential therapeutics",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Blanc",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Surdel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vignuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "e1003565, and erratum",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "RNA 3\u2032-end mismatch excision by the severe acute respiratory syndrome coronavirus nonstructural protein nsp10/nsp14 exoribonuclease complex",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "109",
+            "issn": "",
+            "pages": "9372--9377",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Structural basis and functional analysis of the SARS coronavirus nsp14-nsp10 complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "112",
+            "issn": "",
+            "pages": "9436--9441",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Crystal structure of nonstructural protein 10 from the severe acute respiratory syndrome coronavirus reveals a novel fold with two zinc-binding motifs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Joseph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "7894--7901",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Dodecamer structure of severe acute respiratory syndrome coronavirus nonstructural protein nsp10",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "7902--7908",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Crystal structure and functional analysis of the SARScoronavirus RNA cap 2\u2032-O-methyltransferase nsp10/nsp16 complex",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Biochemical and structural insights into the mechanisms of SARS coronavirus RNA ribose 2\u2032-O-methylation by nsp16/nsp10 protein complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Genetic and crystallographic studies of the 3\u2032,5\u2032-exonucleolytic site of DNA polymerase I",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Derbyshire",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Science",
+            "volume": "240",
+            "issn": "",
+            "pages": "199--201",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Crystallographic structure of the nuclease domain of 3\u2032hExo, a DEDDh family member, bound to rAMP",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Mol Biol",
+            "volume": "343",
+            "issn": "",
+            "pages": "305--312",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Crystal structure of RNase T, an exoribonuclease involved in tRNA maturation and end turnover",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Structure",
+            "volume": "15",
+            "issn": "",
+            "pages": "417--428",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Structural disorder and protein elasticity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rauscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pom\u00e8s",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Adv Exp Med Biol",
+            "volume": "725",
+            "issn": "",
+            "pages": "159--183",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Structure-function analysis of severe acute respiratory syndrome coronavirus RNA cap guanine-N7-methyltransferase",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "6296--6305",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "RNA methyltransferases involved in 5\u2032 cap biosynthesis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Byszewska",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Smieta Nski",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Purta",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bujnicki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "RNA Biol",
+            "volume": "11",
+            "issn": "",
+            "pages": "1597--1607",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Comparison of super-secondary structures in proteins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rossmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "J Mol Biol",
+            "volume": "76",
+            "issn": "",
+            "pages": "241--256",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Proteopedia: Rossmann fold: A beta-alpha-beta fold at dinucleotide binding sites",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hanukoglu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Biochem Mol Biol Educ",
+            "volume": "43",
+            "issn": "",
+            "pages": "206--209",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "The SARS-coronavirus PLnc domain of nsp3 as a replication/ transcription scaffolding protein",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virus Res",
+            "volume": "133",
+            "issn": "",
+            "pages": "136--148",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Coronavirus Nsp10, a critical co-factor for activation of multiple replicative enzymes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Biol Chem",
+            "volume": "289",
+            "issn": "",
+            "pages": "25783--25796",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Characterization of the elongation complex of dengue virus RNA polymerase: Assembly, kinetics of nucleotide incorporation, and fidelity",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Deval",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Swinney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Biol Chem",
+            "volume": "286",
+            "issn": "",
+            "pages": "2067--2077",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Rates of spontaneous mutation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Drake",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Charlesworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Charlesworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Crow",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Genetics",
+            "volume": "148",
+            "issn": "",
+            "pages": "1667--1686",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "The nonstructural proteins directing coronavirus RNA synthesis and processing",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Adv Virus Res",
+            "volume": "96",
+            "issn": "",
+            "pages": "59--126",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Mutagenesis of coronavirus nsp14 reveals its potential role in modulation of the innate immune response",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Becares",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "5399--5414",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in rhesus monkeys",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Warren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nature",
+            "volume": "531",
+            "issn": "",
+            "pages": "381--385",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Transl Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Data processing and analysis with the autoPROC toolbox",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vonrhein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "67",
+            "issn": "",
+            "pages": "293--302",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Automated structure solution with autoSHARP",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vonrhein",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Blanc",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Roversi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bricogne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Methods Mol Biol",
+            "volume": "364",
+            "issn": "",
+            "pages": "215--230",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "The Buccaneer software for automated model building. 1. Tracing protein chains",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "62",
+            "issn": "",
+            "pages": "1002--1011",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Coot: Model-building tools for molecular graphics",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Emsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "60",
+            "issn": "",
+            "pages": "2126--2132",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Refinement of severely incomplete structures with maximum likelihood in BUSTER-TNT",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Blanc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "60",
+            "issn": "",
+            "pages": "2210--2221",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Improved low-resolution crystallographic refinement with Phenix and Rosetta",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dimaio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Methods",
+            "volume": "10",
+            "issn": "",
+            "pages": "1102--1104",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "MolProbity: All-atom structure validation for macromolecular crystallography",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "66",
+            "issn": "",
+            "pages": "12--21",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "UCSF Chimera-A visualization system for exploratory research and analysis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Pettersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Comput Chem",
+            "volume": "25",
+            "issn": "",
+            "pages": "1605--1612",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "RNA methylation under heat shock control",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "B\u00fcgl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol Cell",
+            "volume": "6",
+            "issn": "",
+            "pages": "349--360",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "The methyltransferase domain of dengue virus protein NS5 ensures efficient RNA synthesis initiation and elongation by the polymerase domain",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Potisopon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nucleic Acids Res",
+            "volume": "42",
+            "issn": "",
+            "pages": "11642--11656",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Structure model of SARS-CoV nsp10/nsp14 complex. (A, Top) Ribbon structures of nsp10 (green) and nsp14 (purple) from a side view and 90\u00b0rotation with respect to the side view. Amino terminus and carboxyl terminus extremities of each protein are indicated by the letters N and C with their respective colors. (A, Bottom) Surface of the nsp10/nsp14 complex structure in similar orientation as the top view. (B) Ribbon structure of nsp14 shown as colored subdomains: cyan (nsp10-binding site), orange (exonuclease), gray (flexible linker or hinge), and purple (N7-MTase). Amino and carboxy domains are separated by a black dashed line, and terminal extremities are indicated by the letters N and C (black). (C) Closeup view of the nsp14 hinge region: carboxyl extremity of the exonuclease (orange), hinge (gray), and amino extremity of the N7-MTase (purple). The hinge region is formed by the flexible interdomain loop ('FIDL') wrapping around the \u03b2-sheet protruding from the MTase domain (inserted \u03b2-sheet). Right and left orientations are rotated 90\u00b0.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Structure model and topology of nsp14 exonuclease domain. (A) Ribbon model of the exonuclease domain colored by secondary structures: loop (green), \u03b1-helix (purple), and \u03b2-strand (orange). The two zinc-binding sites are shown with a zinc atom (red sphere). (B) Topology of nsp14-ExoN domain: \u03b2-strand (triangles) and \u03b1-helix (circles). The area of interaction of the nsp14-ExoN domain with nsp10 is indicated.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Structure model and topology of the nsp14 N7-MTase domain. (A) Ribbon model of the N7-MTase domain in three orientations (90\u00b0rotation apart) and colored by secondary structures as in Fig. 2A. The third zinc-binding site is shown with a zinc atom (purple sphere). (B) Organization analysis of the nsp14 N7-MTase domain. (Left) Ribbon model of the MTase domain in two orientations (of 90\u00b0rotation). Secondary structures are colored to highlight the topology: loop (green), \u03b1-helix (gray and salmon), and \u03b2-strand (purple, orange, gold, green, light blue, red, and salmon). (Right) Topology diagram of the nsp14 N7-MTase domain: \u03b2-strand (triangles) and \u03b1-helix (circles), with the corresponding secondary structures following the same color code as for the ribbon presentation. (C) Organization analysis of a canonical Rossmann fold FtsJ MTase (60). (Left) Ribbon model in two orientations (of 90\u00b0rotation), with the same color code as in B. (Right) Standard topology of MTase (so-called Rossmann fold). Secondary structures that align with those in the nsp14 N7-MTase domain have the same color as used in the B. The structural motif \u03b2-\u03b1-\u03b2 defining the Rossmann fold is surrounded in purple.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Single-nucleotide incorporation catalyzed by either the SARS-CoV polymerase complex or the DENV RdRp. (A) Sequence of the RNA primer/template used is shown: The 20-nt primer LS2 was 5\u2032-radiolabeled (marked by an asterisk) and annealed to the 40-nt template LS15. The RNA template corresponds to the last 40 nt of the SARS-CoV 3\u2032-nontranslated region before the polyA tail. (B) Single-nucleotide primer extension with the SARS-CoV polymerase complex (0.5 \u03bcM), LS2*/LS15 (0.5 \u03bcM), and increasing concentrations of the indicated NTP, added after 30 min of preincubation at 30\u00b0C. Next, reactions were incubated for 18 min at 30\u00b0C. (C) Single-nucleotide primer extension with DENV NS5 (1 \u03bcM), LS2*/LS15 (1 \u03bcM), and increasing concentrations of the indicated NTP. Reactions were incubated for 15 min at 37\u00b0C. Conditions of enzyme purification and polymerase assay are described by Potisopon et al. (61). Watson-Crick base pairs are indicated in gray, and mismatches are indicated in black.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "In vitro RNA proofreading by the SARS-CoV polymerase complex (SARS-Pol) and exonuclease enzymatic activities. (A) Schematic view of the reaction setup: SARS-Pol (0.5 \u03bcM) was incubated with the RNA primer/template LS3*/LS8 (0.5 \u03bcM) in the presence of ATP, UTP, GTP, and 3\u2032-dCTP (500 \u03bcM each) and, once indicated, with nsp14 (100 nM) and nsp10 (300 nM). Indeed, to prevent dsRNA product degradation by the highly potent nsp10/nsp14-ExoN activity(30), the RNA template bears only a single G at its 5\u2032-end. In the polymerase reaction, only ATP, UTP, GTP and 3\u2032-dCTP are provided as substrates for RNA synthesis. Hence, when the radiolabeled LS3 primer is extended by the polymerase complex, only 3\u2032-dCMP can be incorporated at the 3\u2032-end of the extended primer, preventing nsp10/nsp14-ExoN-mediated degradation of newly synthesized dsRNA(30). Part of the primer is shown with the same color code as the sequencing of the extended primer presented in C. (B) Radiolabeled primer extension by SARS-Pol alone (lane b) or with nsp10 + nsp14 (lanes c-f). RNA products were separated by denaturing gel electrophoresis and analyzed by autoradiography. The positions of the primer (20-mer) and the full-length extension product (40-mer) are indicated. \u03b1, dsRNA product degradations by nsp14-ExoN activity. These degradation products may not have biological significance, since replication is uncoupled from excision in the present reconstituted pathway. (C) Part of the Sanger sequencing chromatogram of the extended LS3 from the RT-PCR products formed after incubation of LS3/LS8 with the polymerase complex, nsp10, and nsp14. The surrounding T base corresponds to the corrected base (A to U).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Incorporation and excision of Rbv 5\u2032-monophosphate into/from RNA. (A) Incorporation efficiency of different concentrations of Rbv monophosphate (Rbv), by the SARS-CoV polymerase complex (SARS-Pol), opposite CMP, AMP, UMP, and GMP in the template, using LS2/LS15, LS2/LS1, LS2/LS17, and LS2/ LS16 as the primer/template, respectively",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "(Inset) Rbv incorporation by the SARS-Pol opposite CMP in the template, after denaturing gel electrophoresis and autoradiography. (B) Quantification of Rbv and GMP incorporation opposite CMP in the RNA template, from reactions presented in A and Fig. 4B, respectively. Data were found to fit best to the classic Michaelis-Menten equation: V i = V max [NTP]/(K m + [NTP]) where V max and K m are the maximal velocity and the affinity constant of NTP incorporation by the SARS-Pol, respectively. Using GraphPad Prism software, the Rbv-TP K m value is 136 \u03bcM, while the GTP K m value is 1.5 \u03bcM. (C) Excision of 3\u2032-Rbv (corresponding to synthetic RNA named LS2-Rbv annealed to the RNA template LS15; Table S3) by the nsp10/nsp14-ExoN activity. The primer/template LS2-Rbv*/LS15 (0.5 \u03bcM) was incubated with either nsp14 alone (Left) or with increasing concentrations of nsp10 (Right), at 37\u00b0C for a time course. Protein concentrations used are indicated in the panel. RNA products were analyzed as in A. \u03b1, dsRNA degradation products by the nsp14-ExoN activity. (D) Time course of excision of either Rbv:C (LS2-Rbv*/LS15 template used) or A:A (LS3*/LS8 template used) base pairs of RNA substrate in presence of nsp10 (0.5 \u03bcM) and nsp14 (0.25 \u03bc\u03bcM).The tests were done in triplicate, and an example of the data is shown inFig. S8.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Model of the CoV RNA proofreading enzymes. Surface representation of the complex nsp10 (in green) with nsp14 (in beige), modeled with dsRNA (blue ribbon) in the exonuclease active site (yellow). (A) Side view of the complex showing the DEED ExoN catalytic site. (B) Top view of the complex showing the N7-MTase catalytic tunnel. (C ) Proposed surface of interaction of nsp14 with the nsp12-RdRp. The position of the Y498 residue of nsp14 is highlighted in orange; when mutated in Ala, it abolishes the interaction with nsp12-RdRp.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors declare no conflict of interest. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

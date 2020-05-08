@@ -1,0 +1,2674 @@
+{
+    "paper_id": "6314943df23e3c79ded21bd2d5ced6bfd35be893",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The review on basic sciences aims to clarify the jargon in virology, describe the virion structure of SARS-CoV-2 and present pertinent details relevant to clinical practice. Another component discussed is the brief history on the series of experiments used to explore the origins and evolution of the phylogeny of the viral genome of SARS-CoV-2. Additionally, the clinical and epidemiological differences between COVID-19 and other infections causing outbreaks (SARS, MERS, H1N1) are elucidated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Emphasis is placed on evidence-based medicine to evaluate the frequency of presentation of various symptoms to create a stratification system of the most important epidemiological risk factors for COVID-19. These can be used to triage and expedite risk assessment. Furthermore, the limitations and statistical strength of the diagnostic tools currently in clinical practice are evaluated. Criteria on rapid screening, discharge from hospital and discontinuation of selfquarantine are clarified. Epidemiological factors influencing the rapid rate of spread of the SARS-CoV-2 virus are described. Accurate information pertinent to improving prevention strategies is also discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The penultimate portion of the review aims to explain the involvement of micronutrients such as vitamin C and vitamin D in COVID19 treatment and prophylaxis. Furthermore, the biochemistry of the major candidates for novel therapies is briefly reviewed and a summary of their current status in the clinical trials is presented. Lastly, the current scientific data and status of governing bodies such as the Center of Disease Control (CDC) and the WHO on the usage of controversial therapies such as angiotensin-converting enzyme (ACE) inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs) (Ibuprofen), and corticosteroids usage in COVID-19 are discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The composite collection of accredited studies on each of these subtopics of COVID-19 within this review will enable clarification and focus on the current status and direction in the",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "History of the outbreak On 31st December 2019, Wuhan health commission in the Hubei province of the Republic of China notified the National Health Commission, China CDC and WHO of a cluster of 27 cases of pneumonia of unknown etiology [1] . These patients presented with a constellation of symptoms such as fever, dyspnea, dry cough, and radiological findings showed bilateral lung glassy opacities. Furthermore, the public health office traced all these 27 cases to Huanan Seafood Wholesale Market which trades live species of bats, snakes, pangolins, and badgers [1] . Multiple intrinsic variables led to rapid early transmission dynamics, and this made Wuhan the flashpoint of the pandemic. In 2018, Wuhan had a documented population of 11.08 million, this made Wuhan one of the top five most populated cities in China [2] . Wuhan's large population density and proximity of the marketplace that sold live animals made it the epicenter for the human-animal interface. Additionally, the lack of early containment due to the inability to accurately trace the history of exposure in the early patient cases contributed to the rapid rate of spread in Wuhan. This eventually precipitated into the WHO declaring this viral pneumonia as an outbreak on 30th January 2020. On 11th March 2020, due to the global logarithmic expansion of the cases the coronavirus disease 2019 (COVID-19) was declared as a pandemic by the WHO.",
+            "cite_spans": [
+                {
+                    "start": 235,
+                    "end": 238,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 565,
+                    "end": 568,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 822,
+                    "end": 825,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction And Background"
+        },
+        {
+            "text": "On the 7th January 2020, the China CDC discovered the virus called novel coronavirus 2019 (2019-nCoV) which was colloquially noted as the \"Wuhan Coronavirus\". The WHO renamed it to SARS-CoV-2 to destigmatize the association of the virus with any geographic location or nationality and relate it to the disease symptomatology. The SARS-CoV-2 virus is genetically similar to the SARS Coronavirus of 2002 (SARS-CoV-1). There are a myriad of other coronaviruses that cause the common cold. These coronaviruses can become infective when they attain an animal reservoir that provides an adequate cellular environment wherein the virus can multiply and acquire a series of advantageous genetic mutations. These mutations can then enable the virus to cross-species and infect and multiply within human hosts effectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virology"
+        },
+        {
+            "text": "SARS-CoV2 is from the beta Coronavirus family, it is a positive-sense, single-stranded RNA, enveloped virus that is 50-200 nm in diameter [3] . The genomic RNA is 30 Kb, one vital encoded structural protein is the Spike Glycoprotein (S) that consists of three S1-S2 heterodimers that bind to angiotensin-converting enzyme 2 (ACE2) receptor on type II pneumocyte [3, 4] . The other surface protein such as the hemagglutinin-esterase (HE) dimer is shown in Figure 1 . The entry of SARS-CoV-2 into the type II pneumocyte is via endocytosis and then multiplies in the cytoplasm. The high protein manufacturing stress induced upon the type II pneumocytes leads to apoptosis. Additionally, the RNA from the SARS-CoV-2 acts as a pathogen-associated molecular pattern (PAMP) and will be recognized by the pattern recognition receptor or toll-like receptors. This leads to a chemokine surge which causes neutrophil migration and activation. This leads to the destruction of the alveolar-capillary walls. At a microscopic level, this leads to a loss in the interface between the intra-alveolar space and the surrounding stroma. Therefore, fluid leaks through and fills into the alveolar sacs. ",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 362,
+                    "end": 365,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 366,
+                    "end": 368,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 455,
+                    "end": 463,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "The virion structure and pathophysiology of infection"
+        },
+        {
+            "text": "The origin of the SARS-CoV-2 genome has been linked to bats akin to the SARS-CoV-1 and MERS-CoV viruses [5] . Interestingly, the SARS-CoV-2 whole-genome aligned with the genomes of viruses (Bat-CoV and Bat-CoV RaTG13) in Rhinolophus affinis species of Yunnan province with 96% similarity [6] . As seen previously in SARS-CoV-1 and MERS-CoV viruses that undertake residence in the intermediate hosts shown in Figure 2 , it was suspected that in SARS-CoV-2 pangolins were the natural reservoir. This was based on the analysis of the genome contig alignment of SARS-CoV-2 like CoV (Renamed: Pangolin-CoV) harbored in the lung tissue of two dead Malayan pangolins [7] . This Pangolin-CoV's whole genome had 91.02% similarity with SARS-CoV-2 and 90.55% similarity with Bat-CoV RaTG13 [8] . Proteomic analysis revealed that the S1 subunit of Spike glycoprotein (S) was more closely related to that of SARS-CoV-2 compared to BaT-CoV RaTG13. Furthermore, five amino acid residues of the S protein of SARS-CoV-2 interacting with the ACE2 receptor are identical in Pangolin-CoV [8] . Contrastingly, only four amino acid residues are identical in the S protein of BaT-CoV RaTG13. Interestingly, both Pangolin-CoV and BaT-CoV RaTG13 have lost the furin recognition motif, vital to the S1/S2 cleavage [8] . This putative furin recognition sequence is still intact within the SARS-CoV-2. A compilation of all these findings portrays that pangolins are the intermediate hosts for SARS-CoV-2. ",
+            "cite_spans": [
+                {
+                    "start": 104,
+                    "end": 107,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 288,
+                    "end": 291,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 779,
+                    "end": 782,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1068,
+                    "end": 1071,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1288,
+                    "end": 1291,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 408,
+                    "end": 416,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Origin of SARS-CoV-2"
+        },
+        {
+            "text": "The phylogenetic analysis by Tang et al. of 103 genomes with SARS-CoV-2 indicated that the two major lineages co-exist. These lineages are designated as L-type (T28,144 is in the codon of Leucine) and S-type (C28,144 is in the codon of Serine) and these are defined by the significant linkage (r2 = 0.954, and LOD = 50.13) of their SNPs at positions 8782 (orf1ab: T8517C, synonymous) and 28144 (ORF8: C251T, S84L) [9] . Furthermore, the S-type (28.7%, n = 29 out of 101) is indicated as the ancestral strain which attained a single-nucleotide polymorphism (SNP) that led to the formation of the L-type (71.9%, n = 72 out of 101). The resultant amino acids from the SNPs in the open reading frame (ORF8) have an undefined functional role in the SARS-CoV-2 life cycle and virulence. Therefore, Tang et al.'s initial labeling of the L-type as the aggressive lineage based on its higher frequency was misleading. This aggressive lineage label has now been removed in their current addendum and the L-type is only defined as having a higher frequency. It must be noted that the 30% and 70% frequencies of the S-type and L-type correspond to patients in Wuhan. Moreover, although the S-type is ancestral lineage it was surprising that the majority of the early cases in Wuhan were of the L-type lineage and globally the S-type is more prominent. One patient (USA_2020/01/21.a, GISAID ID: EPI_ISL_404253) in the USA tested positive for coinfection with S-type and L-type SARS-CoV-2, but it is unclear if this will cause any significant clinical severity due to the coinfection. It is also notable that there is no current evidence indicating that immunity against one of the lineages will provide cross-reactivity against the other lineage. This implies that a patient recovering from one COVID-19 lineage can sustain another separate COVID-19 infection from the other strain. Therefore, future vaccines must target a conserved region in both lineages. Alternatively, a separate vaccine for each lineage must be designed.",
+            "cite_spans": [
+                {
+                    "start": 414,
+                    "end": 417,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Evolution of SARS-CoV-2"
+        },
+        {
+            "text": "Modes of transmission traced in an imported case are through droplet transmission, fecal-oral route, conjunctiva and fomites [10, 11] . Additionally, local transmission can be traced back to the patient's bodily fluids such as respiratory droplets, saliva, feces, and urine [11] . The virion is stabilized at lower temperatures, i.e., 4\u00b0C has higher survival than 22\u00b0C [12, 13] . As SARS-CoV-2 virions are shed throughout the clinical course, patients with COVID-19 can spread the infection prior to symptom presentation, during the symptomatic course and during the clinical recovery period. Additional considerations must be made regarding the residence time of the SARS-CoV-2 virion on surfaces. The half-life of SARS-CoV-2 in aerosols, copper, cardboard, stainless steel, and plastic are 1.5 h, 1 h, 3.4 h, 5.6 h, and 6.8 h, respectively. The viable residence time of SARS-CoV-1 in aerosols, copper, cardboard, stainless steel, and plastic are 3 h, 4 h, 24 h, 48 h, and 72 h, respectively [14] .",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 130,
+                    "end": 133,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 274,
+                    "end": 278,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 374,
+                    "end": 377,
+                    "text": "13]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 993,
+                    "end": 997,
+                    "text": "[14]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Mode of transmission"
+        },
+        {
+            "text": "Common cold is caused by a myriad of viruses. Majority of which are Rhinoviruses, and benign forms of coronaviruses. Common cold and COVID-19 both have a gradual course to symptom presentation in comparison to the flu which is caused by the various strains of Influenza (Orthomyxovirus family). Pyrexia is rare in the common cold but is the most notable symptom in both COVID-19 and flu [15] . Presentation of cough and fatigue is rare in the common cold. Coryzal symptoms such as rhinorrhea and nasal congestion are predominant in the common cold and are rare in flu and COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Differences between COVID-19, common cold, and flu"
+        },
+        {
+            "text": "COVID-19 presents similar to Influenza flu as both these are diseases of the respiratory system. In both diseases, the clinical presentation can vary from asymptomatic to severe pneumonia. Furthermore, both COVID-19 and Influenza are transmitted by contact, droplets, and fomites. Therefore, similar hand hygiene techniques and respiratory etiquettes will be beneficial in preventing the spread. Another factor that influences the rate of spread of any infection is the Basic Reproduction Number (R\u2092). The influenza virus has an R\u2092 of ~1.3 whereas the SARS-CoV-2 virus has an R\u2092 of ~2.3. Therefore, each COVID-19 patient can spread 1.8-fold more new contacts compared to influenza patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Differences between COVID-19, common cold, and flu"
+        },
+        {
+            "text": "In comparison to SARS (caused by SARS-CoV-1 virus), some patients with COVID-19 (caused by SARS-CoV-2 virus) can be infectious during their incubation period even in their asymptomatic stage [14] . The time elapsed from the advent of exposure to a pathogen to clinical manifestation of the disease is termed as the incubation period. Table 1 shows the variance in the incubation periods of each coronavirus and common orthomyxovirus. The larger incubation for the manifestation of COVID along with the ability to transmit infection during this period explains how rapid the potential spread of SARS-CoV-2 can be.",
+            "cite_spans": [
+                {
+                    "start": 191,
+                    "end": 195,
+                    "text": "[14]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 334,
+                    "end": 341,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Differences between COVID-19, common cold, and flu"
+        },
+        {
+            "text": "Coronavirus",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus Family Virus (Disease) Incubation Period References"
+        },
+        {
+            "text": "MERS-CoV (MERS) 5 days [18] Orthomyxovirus H1N1 Influenza A (swine flu) 1-4 days [19] Influenza A (Seasonal flu) 2 days [15] ",
+            "cite_spans": [
+                {
+                    "start": 23,
+                    "end": 27,
+                    "text": "[18]",
+                    "ref_id": null
+                },
+                {
+                    "start": 81,
+                    "end": 85,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 120,
+                    "end": 124,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virus Family Virus (Disease) Incubation Period References"
+        },
+        {
+            "text": "The infection caused by the virus SARS-CoV-2 is termed as Coronavirus Disease 2019 (COVID- 19) . The symptomatology of COVID-19 was extensively discussed in WHO-China joint report on COVID-19 (n = 55,924) [16] . Patients with COVID-19 present with pyrexia in 85% of cases during their illness course, but only 45% are febrile on early presentation [20] . Moreover, cough is seen in 67.7% of patients and sputum is produced in 33.4%. Respiratory symptoms such as dyspnea, sore throat, and nasal congestion present in 18.6%, 13.9%, and 4.8% of cases, respectively [20] . Constitutional symptoms such as muscle or bone aches, chills, and headache are seen in 14.8%, 11.4% and 13.6% of the cases, respectively [20] . Gastrointestinal (GI) symptoms such as nausea or vomiting and diarrhea are seen in 5% and 3.7% of the cases, respectively. These clinical manifestations of COVID-19 were consistent in other similar studies on COVID-19 patients in China (n = 41, n = 81, n = 99, n = 138) [21] [22] [23] [24] .",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 94,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 348,
+                    "end": 352,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 562,
+                    "end": 566,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 706,
+                    "end": 710,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 983,
+                    "end": 987,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 988,
+                    "end": 992,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 993,
+                    "end": 997,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 998,
+                    "end": 1002,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Review Clinical presentation of COVID-19"
+        },
+        {
+            "text": "More severe insult on the lung tissue can result in acute respiratory distress syndrome (ARDS) which can further precipitate septic shock. These two complications are the major contributors to intensive care unit (ICU) care and mortality from COVID-19 in patients older than 60 years, with smoking history, and comorbid medical conditions. Smoking and older age group patients tend to have a higher density of ACE2 receptors. A list of chronic medical conditions affecting the clinical course of COVID-19 is summarized in Table 2 . Our overall analysis (N = 1458) showed that the leading comorbid conditions include hypertension, cardiovascular and cerebrovascular disease, and diabetes. In the largest study (n = 1099), the median age of the patients with COVID-19 is 47 years [20] . The presentation of COVID-19 is predominantly mild and asymptomatic in the age group <14. There is no explanation for this phenomenon yet. Perhaps the ACE2 receptor is not highly expressed in this age group. A preliminary unpublished single-cell transcriptomics study suggested that Asian cell donors have higher ACE2 receptor density than Caucasian and African American donors. This variance in distribution could explain the higher susceptibility of the Asian population to the SARS-nCoV-2 virus.",
+            "cite_spans": [
+                {
+                    "start": 778,
+                    "end": 782,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 522,
+                    "end": 529,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Review Clinical presentation of COVID-19"
+        },
+        {
+            "text": "The official incubation period for SARS-CoV-2 is 2-14 days and therefore 14 days is the chosen cut-off for self-quarantine. Guan = 138) showed that the median time from preliminary symptoms to dyspnea, hospital admission and ARDS was 5, 7, and 8 days, respectively. The median hospital stay was 10 days in patients that were discharged [21] . ",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 128,
+                    "text": "Guan",
+                    "ref_id": null
+                },
+                {
+                    "start": 336,
+                    "end": 340,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 129,
+                    "end": 135,
+                    "text": "= 138)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Clinical disease course of COVID-19"
+        },
+        {
+            "text": "As of March 21, there have been 304,900 cases of which 94,793 have recovered and 13,001 have died [26] . Therefore, the worldwide case fatality rate (CFR) within this time period is 12%. The current estimate of COVID-19 R\u2092 is 2-2.5 [16, 27] . This can be interpreted as every case of COVID-19 can spread to two to three new people. Table 3 shows a comparison between the epidemiological parameters of the major infectious outbreaks from 2000-2020 [19, 28, 29] . *Accurate as of As shown in Figure 4 , a total of 188 countries and territories along with the Diamond Princess cruise ship (currently harbored in Japan) have been affected [26, 30] . The major cluster of active cases has been in the USA, Italy, Spain, Germany, and France. This data is accurate as of 22nd March 2020. The image is modified from the source [30] .",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 232,
+                    "end": 236,
+                    "text": "[16,",
+                    "ref_id": null
+                },
+                {
+                    "start": 237,
+                    "end": 240,
+                    "text": "27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 447,
+                    "end": 451,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 452,
+                    "end": 455,
+                    "text": "28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 456,
+                    "end": 459,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 635,
+                    "end": 639,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 640,
+                    "end": 643,
+                    "text": "30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 819,
+                    "end": 823,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 332,
+                    "end": 339,
+                    "text": "Table 3",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 490,
+                    "end": 498,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Epidemiology"
+        },
+        {
+            "text": "Countries with the highest mortality rates are Italy, Spain, Iran, France, and the USA [30] . Mortality rate increases in the 60 years and above cohort to 8.8% in comparison to 0.46% for patients under 60 years old [16] . The mortality rate has a predilection for the male gender (M:F = 1.7:1). Furthermore, the mortality rate also increases in patients with additional comorbidities. The cardiovascular, diabetes and hypertension leading the cohort with mortality rates of 13.2%, 9.2%, and 8.4%, respectively [31] .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 91,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 215,
+                    "end": 219,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 510,
+                    "end": 514,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virus (Disease)"
+        },
+        {
+            "text": "There are two prominent screening tools, one developed by the CDC and the other by the WHO.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Screening tool"
+        },
+        {
+            "text": "Both criteria charts have evolved over the progression of the outbreak. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Screening tool"
+        },
+        {
+            "text": "On 12th January 2020, the China CDC shared the genetic sequence of the SARS-CoV-2. This enabled countries to develop primers against the SARS-CoV-2 genome and utilize reverse transcriptase polymerase chain reaction (RT-PCR) assays to make a diagnosis of COVID-19. Therefore, RT-PCR has become the gold standard for the diagnosis of COVID-19, but it is only 66-80% sensitive [33] . Essentially, this means that 20-34% of patients with COVID-19 out of 100 would test negative despite being infected. This variance in the sensitivity can be attributed to the patients being tested early in the disease course wherein the viral load is beneath detection level or due to lack of automation in sample preparation for RT-PCR. Furthermore, a single negative RT-PCR does not rule out COVID-19, hence a repeat RT-PCR must be performed. The concern rises regarding the timeframe of the repeat RT-PCR, the ideal window lies between 24 to 72 hours of the negative test.",
+            "cite_spans": [
+                {
+                    "start": 374,
+                    "end": 378,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnostic tools"
+        },
+        {
+            "text": "The largest study (n = 1014) showed that CT-chest had a 95% sensitivity in making an early diagnosis of COVID-19 through the identification of ground-glass opacities [33] . This can be interpreted as five out of 100 tested will be falsely ruled out. This finding was also consistent in a case series of 51 COVID-19 patients wherein the sensitivity of CT was 98% and RT-PCR was 71% (p < 0.001) for patients investigated with imaging and assay within three days of admission [33] . The utilization of the CT scan would prevent an infected patient from being discharged back to the community. The cons of increased CT usage are the huge economic burden on the healthcare resources and the potential to contaminate the CT scanners. In the management algorithm, CT radiology can be used to stratify patients into those that require further investigation and isolation. Utilization of radiology can be directive for management plans in hospitals with ease of accessibility to CT radiology and lack of access to laboratory services or in countries that utilize a centralized laboratory service with large turnaround time.",
+            "cite_spans": [
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 473,
+                    "end": 477,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnostic tools"
+        },
+        {
+            "text": "Contrastingly, chest X-rays have poor sensitivity, but if there are ground-glass opacities then the patient must be isolated. The pathophysiology of this radiological finding is that the SARS-CoV-2 virus induces an inflammatory response in the alveolar sacs leading to the accumulation of exudative fluid. In the severe progression of the disease, this moves to the lobes and the radiological finding is a solid white consolidation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostic tools"
+        },
+        {
+            "text": "Standard blood investigations revealed that most patients with COVID-19 have normal or decreased leucocytes, and lymphocytopenia. Furthermore, there is a systemic elevation of the pyrogenic cytokines such as IL-6, IL-10, and TNF-\u03b1 [20] [21] [22] [23] [24] . In critical COVID-19 patients, neutrophilia, elevated D-dimer, increase in plasma blood urea nitrogen (BUN) and creatinine are also documented [20] [21] [22] [23] [24] 33] . Patients admitted to the ICU will also have elevated plasma levels of the interleukins (IL-2, IL-7, and IL-10), and other chemokines such as Granulocyte Colony Stimulating Factor, 10 kD Interferon-gamma-induced-protein-10, Monocyte Chemoattractant Protein-1, and Macrophage Inflammatory Protein 1-\u03b1 [24] .",
+            "cite_spans": [
+                {
+                    "start": 231,
+                    "end": 235,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 236,
+                    "end": 240,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 241,
+                    "end": 245,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 246,
+                    "end": 250,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 251,
+                    "end": 255,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 401,
+                    "end": 405,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 411,
+                    "end": 415,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 416,
+                    "end": 420,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 421,
+                    "end": 425,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 731,
+                    "end": 735,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Laboratory examination"
+        },
+        {
+            "text": "The management of viral pneumonia is predominantly supportive amidst the absence of validated antiviral drugs. The most primary symptoms managed in COVID-19 are fever and non-productive cough, therefore the first-line antipyretic agent is Paracetamol and antitussive of choice is guaifenesin [21] . Supplementary oxygen at 5 L/min must be administered for patients that require management of severe respiratory distress and the oxygen saturation (SaO2) target must be \u226592-95% in pregnant patients and \u226590% in all other patients [34] . Complications such as septic shock and AKI should be managed with sepsis protocol and renal replacement therapy (RRT) respectively. Renal function tests and fluid balance measurements will enable the identification of patients indicated for RRT [21] . Some patients may develop superimposed bacterial or fungal infection in the middle to later course of COVID-19, as such appropriate empiric antimicrobial coverage must be provided. The latest version (6th edition) of the Guidelines for the Prevention, Diagnosis, and Treatment of COVID-19 by the National Health Commission (NHC) of China has recommended a combination regimen of protease inhibitors (lopinavir and ritonavir) with INF-\u03b1. The rationale for this combination treatment is based on experience with this regimen in reducing the mortality rates in SARS. The WHO recommends usage of extracorporeal membrane oxygenation (ECMO) in patients that sustain hypoxia refractory to supplementary oxygen [31] . Alternatively, convalescent plasma and IgG are used as rescue therapy in critical cases but there is no robust evidence for this practice.",
+            "cite_spans": [
+                {
+                    "start": 292,
+                    "end": 296,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 528,
+                    "end": 532,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 780,
+                    "end": 784,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1490,
+                    "end": 1494,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Management"
+        },
+        {
+            "text": "In the majority of the cases, public health measures are vital for the management of the spread of COVID-19. If public health measures for containment are not adequate, then there will be a patient burden that supersedes the capacity of available ICU beds and mechanical ventilation, as seen in the crisis taking place in Italy. Therefore, the entire objective of the COVID-19 management rests on the premise of social distancing to suppress the rapid emergence influx of new cases in a short time frame. This epidemiological concept is referred to as the \"flattening of the curve\". The mainstay of public health must be to identify the infective cases, isolate these cases, attain contact tracing and isolate contacts that present with symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Management"
+        },
+        {
+            "text": "Four major discharge criteria exist, and these are from Italy (Ministero della salute, Consiglio Superiore di Sanit\u00e0), China (China CDC), USA (CDC), and Singapore (National Centre for Infectious Diseases). These models differ only in their cutoffs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "The China CDC discharge criteria state that all four conditions must be met to satisfy a discharge from the hospital [35] .",
+            "cite_spans": [
+                {
+                    "start": 117,
+                    "end": 121,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "1. A patient must remain apyrexic for at least three consecutive days.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "2. All respiratory symptoms (cough, dyspnea, sore throat, and nasal congestion) must be resolved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "3. Chest CT must demonstrate marked resolution of the exudative lesion.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "4. Two serial RT-PCRs must be negative for SARS-CoV-2 RNA from the nasopharyngeal collection, these assays must be spaced by 24 hours.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discharge criteria and quarantine discontinuation"
+        },
+        {
+            "text": "Two separate quarantine discontinuation criteria for COVID patients in self-quarantined at home have been developed by Italy (Ministero della salute, Consiglio Superiore di Sanit\u00e0) and USA (CDC).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine discontinuation criteria"
+        },
+        {
+            "text": "The CDC quarantine discontinuation criteria state that both conditions must be met to satisfy the criteria [35] .",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 111,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Quarantine discontinuation criteria"
+        },
+        {
+            "text": "1. At least two serial RT-PCRs must be negative for SARS-CoV-2 RNA. These swabs must be nasopharyngeal collections, these assays must be spaced by 24 hours.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine discontinuation criteria"
+        },
+        {
+            "text": "2. The patient must remain apyrexic for at least 72 hrs without antipyretic medication use, and resolution of respiratory signs and symptoms. A minimum of seven days have passed since the preliminary symptom appeared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine discontinuation criteria"
+        },
+        {
+            "text": "Hand washing for at least 20 seconds after visiting public spaces. Soap or hand sanitizer with at least 60% of ethanol is recommended [36] . It is also recommended to avoid touching the denoted facial T-zone (eyes, nose, mouth) as this is the access point for virions into the upper respiratory tract [36] . Avoiding contact with people who are already presenting with symptoms, as well as avoiding gathering or crowded places. Travel to outbreak areas must be prohibited. A healthy individual must maintain at least six feet distance from individuals presenting with symptoms [36] . The sterilization of frequently handled surfaces is beneficial.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 138,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 301,
+                    "end": 305,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 577,
+                    "end": 581,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Self-Protection"
+        },
+        {
+            "text": "All healthcare workers managing COVID-19 patients require full personal protective equipment (PPE) containing surgical masks, double gloves, full-sleeved procedural gowns, and eye shield [36] . The N95 masks which prevent 95% of the droplets from entering the mask must be exclusively dawned prior to performing procedures associated with a higher risk for aerosol exposure such as tracheostomy, tracheal intubation, bronchoscopy, cardiopulmonary resuscitation (CPR), and noninvasive ventilation (NIV) [36] . These procedures have the potential to aerosolize the virus.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 191,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 502,
+                    "end": 506,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Self-Protection"
+        },
+        {
+            "text": "Containment of community transmissions is achieved by the closure of educational institutions, businesses, airspace, and sports events. High-risk individuals such as those older than 65 or having chronic comorbidities without any symptoms are also required to selfquarantine to decrease the likelihood of COVID-19 contraction [36] .",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Self-Protection"
+        },
+        {
+            "text": "On the development of any symptoms, the potential patient should remain quarantined in selfisolation away in a separate room with a separate bathroom for at least 14 days. This selfisolation must be extended to pets as well, as there is a recorded case of a human-to-dog transmission [31] . If there are any further concerns about COVID-19, then immediate contact with the public health hotline or general practice clinic via telemedicine must be established to attain a potential diagnosis. Face masks (N95) are needed for COVID-19 patients to prevent droplet spread [31] .",
+            "cite_spans": [
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 568,
+                    "end": 572,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Herd Protection"
+        },
+        {
+            "text": "Vitamin C Vitamin C (L-ascorbic acid) has a pleiotropic physiological role, but there is evidence supporting the protective effect of high dose intravenous vitamin C (HDIVC) during sepsisinduced ARDS. Vitamin C reinforces the maintenance of the alveolar epithelial barrier and transcriptionally upregulates the protein channels (CFTR, aquaporin-5, ENaC, and Na+/K+ ATPase) regulating the alveolar fluid clearance [37] . HDIVC has been implicated in reducing plasma cell-free DNA formed from the neutrophil extracellular trap (NET) which is the facilitator of systemic inflammation in sepsis-induced multi-organ failure [38, 39] . Interestingly, elevated levels of syndecan-1 in the plasma correlate with increased mortality in severe sepsis and ARDS, and this endothelial glycocalyx can be reduced significantly by HDIVC [39] . As of 14 February 2020, there is a randomized controlled trial (RCT) undertaken at the Zhongnan Hospital (NCT04264533) that aims to evaluate the clinical efficacy and safety of vitamin C in viral pneumonia from SARS-CoV-2. They hypothesize that vitamin C infusion can improve the prognosis of severe acute respiratory tract infections. The treatment arm includes a 12 g vitamin C infusion (q12h) for seven days and the primary outcome measures the ventilation-free days. The estimated completion time is September 2020.",
+            "cite_spans": [
+                {
+                    "start": 413,
+                    "end": 417,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 619,
+                    "end": 623,
+                    "text": "[38,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 624,
+                    "end": 627,
+                    "text": "39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 821,
+                    "end": 825,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Role of vitamins"
+        },
+        {
+            "text": "Vitamin D is known to mitigate the scope of acquired immunity and regenerate endothelial lining. This may be beneficial in minimizing the alveolar damage caused in ARDS. Level I evidence (N = 11,321) showed that there is a 12% overall protective effect of vitamin D supplementation against bacterial and viral acute respiratory tract infection (adjusted OD = 0.88, p < 0.001) [40] . These protective effects increased to 19% in those individuals on the daily or weekly regimen of vitamin D compared to those dosing on a monthly bolus of vitamin D (adjusted OD = 0.81, p < 0.001). Furthermore, there is a 70% protective effect when vitamin D deficiency is corrected with supplementation (adjusted OD = 0.30, p = 0.006) [40] . This result is pertinent to the majority of individuals residing in the northern latitudes that experience vitamin D deficiency (serum 25-hydroxyVitamin D <25 nmol/L) due to extended periods of lack of sunlight. ",
+            "cite_spans": [
+                {
+                    "start": 376,
+                    "end": 380,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 718,
+                    "end": 722,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Vitamin D"
+        },
+        {
+            "text": "Currently, multiple avenues for therapies are being explored. Summarized below are some of the more prominent candidates.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Novel therapeutics"
+        },
+        {
+            "text": "Remdesivir (GS-5734) is a nucleoside inhibitor that is the strongest candidate from COVID-19 treatment. Remdesivir is a monophosphoramide prodrug that causes premature termination of viral RNA replication and was originally developed against Ebola, MERS-CoV, and SARS-CoV. Furthermore, an in vitro study on human cell line (human liver cancer Huh-7 cells) showed potent interference of remdesivir with the NSP12 polymerase of SARS-CoV-2 despite intact ExoN proofreading activity [41] . There are eight clinical trials currently underway in China (NCT04252664, NCT04257656), France (NCT04314817, NCT04315948) and the USA (NCT04315948, NCT04292730, NCT04280705, NCT04302766). The suggested dosing is for a 10day course, IV 200 mg for the first day and then IV 100 mg for nine following days.",
+            "cite_spans": [
+                {
+                    "start": 479,
+                    "end": 483,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Remdesivir"
+        },
+        {
+            "text": "The protease inhibitors lopinavir and ritonavir combination is usually a part of the HAART regimen to treat HIV. The lopinavir and ritonavir combination has also been shown to be effective against SARS in vitro [42] . The current Chinese guidelines for COVID-19 treatment include a PO 50 mg-200 mg dose BID for a duration of 10 days [43] . The lopinavir and ritonavir are used as a regimen single-agent or combination with either ribavirin or interferon-\u03b1. Currently, an RCT (Chinese Clinical Trial Register number: ChiCTR 2000029308) with 199 patients in Wuhan aims to evaluate the safety and efficacy of lopinavir and ritonavir regimen in severe COVID-19 patients. This was a two-arm study comparing lopinavir-ritonavir (n = 99) to standard care (n = 100). There was a statistically significant difference in the time to clinical improvement between the two groups on day 14 but this result was not statistically significant on day 28. The mortality at 28 days reduced by 5.8% and the length of stay in the ICU reduced by five days with the lopinavir-ritonavir treatment [44] . There are 12 clinical trials currently underway in South Korea (NCT04307693), Thailand (NCT04303299), and China (NCT04286503, NCT04255017, NCT04261907, NCT04261907, NCT04295551, NCT04315948, NCT04275388, NCT04251871, NCT04276688, NCT04291729, NCT04306497).",
+            "cite_spans": [
+                {
+                    "start": 211,
+                    "end": 215,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 333,
+                    "end": 337,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1073,
+                    "end": 1077,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lopinavir and Ritonavir"
+        },
+        {
+            "text": "Umifenovir is a non-nucleoside broad-spectrum antiviral licensed for influenza treatment and prophylaxis in Russia and China. It has not received FDA approval yet. Umifenovir is a membrane fusion inhibitor. Current regimens of Umifenovir used in China include a PO dose of 200 mg TDS for a duration of 10 days [43] . One large Chinese RCT (GDCT0379047) aims to evaluate the safety and efficacy of combination treatment of Umifenovir with immunostimulatory recombinant cytokine gene-derived protein. Another Chinese RCT (NCT04246242) aims to evaluate the safety and efficacy of single-agent treatment of Umifenovir.",
+            "cite_spans": [
+                {
+                    "start": 310,
+                    "end": 314,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Umifenovir"
+        },
+        {
+            "text": "Chloroquine is an anti-malarial medication. In viruses, chloroquine can inhibit pH-dependent stages of replication. Furthermore, chloroquine's immunomodulation is dependent on the suppression of cytokines (IL-6 and TNF-\u03b1) production and dissemination. Moreover, experiments with monkey cell line (Vero E6) showed that chloroquine interferes with the receptor glycosylation and thereby affects the entry mechanism of SARS-CoV-2. This treatment was especially successful in the in vitro experiments with SARS-CoV-2 infection of a human cell line (human liver cancer Huh-7 cells) [41] . Interestingly, pharmacological modeling utilizing dosing from another in vitro study showed that hydroxychloroquine has a higher potency than chloroquine at inhibiting the SARS-CoV-2 infection. The suggested dosing from this study was PO hydroxychloroquine 400 mg BID for the first day and then 200 mg BID for the following four days [45] .",
+            "cite_spans": [
+                {
+                    "start": 577,
+                    "end": 581,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 918,
+                    "end": 922,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Chloroquine"
+        },
+        {
+            "text": "Secondary COVID-19 rates can be minimized with pre-exposure prophylaxis and post-exposure prophylaxis in an individual with document exposure to SARS-CoV-2. Therefore, hydroxychloroquine has been hypothesized to be an adequate chemoprophylaxis candidate to reduce secondary COVID-19. There are six clinical trials currently underway in Mexico (NCT04315896), South Korea (NCT04307693), China (NCT04261517, NCT04307693), Spain (NCT04304053), Norway (NCT04316377), and USA (NCT04308668). The first Chinese study (NCT04261517) has shown positive outcomes in its preliminary data. Although the sample size is small (n = 30), this is still promising. The current Chinese guidelines recommend dosing of chloroquine as PO 300 mg or 500 mg (Chloroquine phosphate) BID for a duration of 10 days [43] .",
+            "cite_spans": [
+                {
+                    "start": 785,
+                    "end": 789,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Chloroquine"
+        },
+        {
+            "text": "SARS-CoV-2 enters the type II pneumocytes via the ACE2 receptor, and this is also a functional receptor. The functional role of the ACE2 receptor has a reciprocal physiological action to ACE1, it converts the angiotensin II back into angiotensin I. Therefore, patients taking ARBs will have an increased plasma level of angiotensin II. Contrastingly, patients taking ACEi will have low levels of angiotensin II. There is an upregulation of ACE2 receptors in the kidney and heart in response to ACEi or ARB dosing in rats and humans [46] [47] [48] . There is no data available on its effect in the alveolar tissue. If there is a similar upregulation of ACE2 receptors then there will be heightened infectivity of SARS-CoV-2 along with subsequent clinical illness severity. Discontinuation of ACEi or ARBs is not recommended yet as hypertension is an acute risk of discontinuation and can exacerbate the clinical course and increase mortality of COVID-19 if infected by SARS-CoV-2. This view of not discontinuing ACEi and ARBs has been supported by the council on hypertension from the European Society of Cardiology.",
+            "cite_spans": [
+                {
+                    "start": 532,
+                    "end": 536,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 537,
+                    "end": 541,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 542,
+                    "end": 546,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "ACE Inhibitor (ACEi) and Angiotensin Receptor-1 Blocker (ARBs)"
+        },
+        {
+            "text": "Ibuprofen has shown to upregulate ACE2 receptors [49] . There is no current evidence indicating that ibuprofen worsens the clinical course of COVID-1. The current standpoint of the WHO is to continue the use of ibuprofen as antipyretic agent. The first-line antipyretic remains to be acetaminophen.",
+            "cite_spans": [
+                {
+                    "start": 49,
+                    "end": 53,
+                    "text": "[49]",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antipyretics"
+        },
+        {
+            "text": "The use of systemic corticosteroids such as glucocorticoid in the management of ARDS secondary to viral pneumonia is controversial. The rationale behind this approach is that the corticosteroids prolong the viral shedding time and maintain a systemic anti-inflammatory state that will minimize the precipitation of ARDS, dyspnea, and severe pneumonia. The WHO states that the use of corticosteroid is not recommended outside of clinical trials (NCT04273321) or otherwise indicated [31] . Moreover, the MERS patients that received systemic corticosteroids had a higher likelihood of receiving invasive mechanical ventilation and a raised mortality rate at day 90 [50] .",
+            "cite_spans": [
+                {
+                    "start": 481,
+                    "end": 485,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 662,
+                    "end": 666,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Systemic Corticosteroids"
+        },
+        {
+            "text": "This COVID-19 pandemic is a reminder of the volatility in the ongoing planning to manage the primary and secondary infection of SARS-CoV-2. This planning can be improved by accurate modeling of current data and by eliminating the misinformation in our era of data surplus. Additional variables that can strengthen countermeasure to this pandemic are rapidly updating surveillance data, availability of robust accredited information, and a multidisciplinary approach that bridges the gap in knowledge between basic sciences and clinical sciences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Outbreak of pneumonia of unknown etiology in Wuhan, China: the mystery and the miracle",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stratton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "401--402",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25678"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1199--1207",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Sci China Life Sci",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-020-1637-5"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gui",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLOS Pathog",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1007236"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676--679",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1118391"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Nature",
+            "volume": "2020",
+            "issn": "",
+            "pages": "270--273",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2012-7"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Viral metagenomics revealed Sendai virus and coronavirus infection of Malayan pangolins (Manis javanica)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-P",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11110979"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Probable pangolin origin of SARS-CoV-2 associated with the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Curr Biol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--6",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cub.2020.03.022"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "On the origin and continuing evolution of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Nat Sci Rev",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nsr/nwaa036"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Conjunctival polymerase chain reaction-tests of 2019 novel coronavirus in patients in Shenyang, China. medRxiv",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Xu L",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.23.20024935"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Air, surface environmental, and personal protective equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from a symptomatic patient",
+            "authors": [
+                {
+                    "first": "Swx",
+                    "middle": [],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.3227"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Persistence of coronaviruses on inanimate",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kampf",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Todt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pfaender",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2020.01.022"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "surfaces and their inactivation with biocidal agents",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Kakodkar",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Hosp Infect",
+            "volume": "12",
+            "issn": "4",
+            "pages": "246--251",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2020.01.022"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Otter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Donskey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yezli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Douthwaite",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goldenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Weber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Hosp Infect",
+            "volume": "92",
+            "issn": "",
+            "pages": "235--250",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2015.08.027"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bushmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2004973"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Report of the WHO-China joint mission on coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Eccles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Lancet Infect Dis",
+            "volume": "5",
+            "issn": "",
+            "pages": "718--725",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(05)70270-X"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Preliminary clinical description of severe acute respiratory syndrome",
+            "authors": [],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Blower S: Modeling influenza epidemics and pandemics: insights into the future of swine flu (H1N1)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Coburn",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wagner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1741-7015-7-30"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. JAMA. 2020",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "323",
+            "issn": "",
+            "pages": "1061--1069",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet",
+            "volume": "2020",
+            "issn": "",
+            "pages": "507--513",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30211-7"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet Infect Dis",
+            "volume": "2020",
+            "issn": "",
+            "pages": "425--434",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30086-4"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1054--1062",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30566-3"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Novel coronavirus (COVID-19) situation",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bushman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0822-7"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wallinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Teunis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Epidemiol",
+            "volume": "160",
+            "issn": "",
+            "pages": "509--516",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/aje/kwh255"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Althaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Coronavirus COVID-19 global cases by the Center for Systems Science and Engineering",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Clinical management of severe acute respiratory infection when COVID-19 is suspected: interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Evaluating and testing persons for coronavirus disease 2019 (COVID-19)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Correlation of chest CT and RT-PCR testing in Coronavirus Disease 2019 (COVID-19) in China: a report of 1014 cases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200642"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "809--815",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30360-3"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Discharge criteria for confirmed COVID-19 cases -When is it safe to discharge COVID-19 cases from the hospital or end home isolation",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Updated IPAC recommendations for use of personal protective equipment for care of individuals with suspect or confirmed COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Beneficial effects of ascorbic acid to treat lung fibrosis induced by paraquat",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schapochnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Leal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS ONE",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0205535"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Neutrophil extracellular traps are elevated in patients with pneumonia-related acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Bendib",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "De Chaisemartin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Granger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Anesthesiology",
+            "volume": "130",
+            "issn": "",
+            "pages": "581--591",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/ALN.0000000000002619"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "The emerging role of vitamin C as a treatment for sepsis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kashiouris",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "&apos;heureux",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cable",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nutrients",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/nu12020292"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Martineau",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jolliffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ",
+            "volume": "356",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.i6583"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cell Res",
+            "volume": "2020",
+            "issn": "",
+            "pages": "269--271",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Vcc",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ifn",
+                    "middle": [],
+                    "last": "Hung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Thorax",
+            "volume": "59",
+            "issn": "",
+            "pages": "252--256",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/thorax.2003.012658"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Discovering drugs to treat coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Drug Discov Ther",
+            "volume": "2020",
+            "issn": "",
+            "pages": "58--60",
+            "other_ids": {
+                "DOI": [
+                    "10.5582/ddt.2020.01012"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001282"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "In vitro antiviral activity and projection of optimized dosing design of hydroxychloroquine for the treatment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa237"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Upregulation of angiotensin-converting enzyme 2 after myocardial infarction by blockade of angiotensin II receptors",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ishiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Gallagher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Averill",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tallant",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Brosnihan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferrario",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Hypertension",
+            "volume": "43",
+            "issn": "",
+            "pages": "970--976",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/01.HYP.0000124667.34652.1a"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Perinatally administered losartan augments renal ACE2 expression but not cardiac or renal Mas receptor in spontaneously hypertensive rats",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Klimas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Olvedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ochodnicka-Mackovicova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Cell Mol Med",
+            "volume": "19",
+            "issn": "",
+            "pages": "1965--1974",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jcmm.12573"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Urinary angiotensin-converting enzyme 2 in hypertensive patients may be increased by olmesartan, an angiotensin II receptor blocker",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Furuhashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Moniwa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am J Hypertens",
+            "volume": "28",
+            "issn": "",
+            "pages": "15--21",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ajh/hpu086"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Karakiulakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "",
+            "issn": "",
+            "pages": "30116--30124",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600(20)30116-8"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Critically ill patients with the Middle East respiratory syndrome: a multicenter retrospective cohort study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Omari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Mandourah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Crit Care Med",
+            "volume": "45",
+            "issn": "",
+            "pages": "1683--1695",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/CCM.0000000000002621"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "3-D model of the SARS-CoV-2 virion and a schematic diagram of its structural proteins and genome.Image component modified from CDC Public Health Image Library (ID 23312: Alissa Eckert and Dan Higgins)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Summary of the natural reservoir, intermediate host and target in major coronaviruses.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "shows a comprehensive summary of the clinical course of COVID-19 patients (n = 191) and this is stratified based on survivors and non-survivors[25].Zhou et al.  showed that the survivors group developed ARDS and sepsis on days 9 and 10, respectively. Conversely, the non-survivors group developed ARDS and sepsis later, on days 10 and 12, respectively. Furthermore, the non-survivors group developed more complications such as acute kidney injury (AKI) and secondary infection by days 15 and 17, respectively. Lastly, the survivor groups were discharged from the hospital by day 22 and the non-survivor groups died by day 19.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Summary of the clinical course of COVID-19 patients. The solid colors and cross-hatched patterns indicate the survivors (n = 137) and non-survivors (n = 54), respectively.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Illustration of the geographical spread of active COVID-19.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Unfortunately, there is no approved vaccine against COVID-19 as of March 2020. One of the leading candidates is the mRNA-1273 vaccine manufactured by ModernaTx Inc (Cambridge, MA, USA). The mRNA-1273 is encapsulated within a lipid nanoparticle and encodes for a fulllength, prefusion stabilized spike glycoprotein (S) of the SARS-CoV-2 virus. This vaccine is currently in Phase I, Open-Label, Dose-Ranging, clinical trial (NCT04283461) to evaluate the safety profile, reactogenicity, and immunogenicity in healthy subjects. The estimated completion time is June 2021.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Summary of incubation times of various coronaviruses and orthomyxovirus.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Summary of co-morbidity history from COVID-19 patients in China.CAD: Coronary artery disease; CVA: Cerebrovascular accident; GI: Gastrointestinal; CNS: Central nervous system; COPD: Chronic obstructive pulmonary disease; CRF: Chronic renal failure.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "et al. (n = 1324) estimated that the mean incubation period is",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Summary of cases, mortality rate, and basic reproductive number of major",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Summary of CDC COVID-19 screening criteria.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This paper is dedicated to Dr. Li Wenliang (died: February 7, 2020) and his team that was the first to courageously alert the authorities of a SARS-like outbreak in Wuhan.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "This literature review comprehensively summarizes the most relevant study relating to the individual parameters that influence the clinical course and management of COVID-19. Due to the lack of available and validated therapeutics, most of the countermeasures rely on the usage of public health containment and quarantine approaches. Primary learning points from this COVID-19 pandemic are to upheld transparency to prevent delays in threat identification. Secondly, delays in travel restriction and self-quarantine measures led to a logarithmic expansion of cases. Lastly, there is a need to increase investments towards research and development in COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of interest:"
+        }
+    ]
+}

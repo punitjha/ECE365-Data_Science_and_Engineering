@@ -1,0 +1,185 @@
+{
+    "paper_id": "3d8c32ca85f775492b317e5afc664200019e0cc4",
+    "metadata": {
+        "title": "Estimating the infection and case fatality ratio for coronavirus disease (COVID-19) using age- adjusted data from the outbreak on the Diamond Princess cruise ship, February 2020 Supplementary Material Detailed Methods",
+        "authors": []
+    },
+    "abstract": [
+        {
+            "text": "To account for the uncertainty in the fitted parameters of the hospitalisation-to-death delay distribution from Linton et al.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "[1], we calculate the CFR and IFR estimates with distributions parameterised using all four combinations of the minimum and maximum mean and SD reported. We then choose the smallest and largest CIs out of the four possible combinations as the resulting lower and upper CI respectively. We are able to do this rather than anything more sophisticated, as the relationship between the mean (and SD) of the delay distribution and the overall CFR or IFR estimate is very simple.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "After performing the sensitivty analysis exercise, we find that the confidence intervals originally determined by a 95% exact binomial test (calculated using the number of cases and the \"known outcomes\" quantity derived in the correction) widen slightly at the top end only. We therefore report the wider CI interval and use it in any subsequent calculation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "When fitting the hospitalisation-to-death distribution to data, Linton et al. performed some analysis which accounted for right-truncation of the data [1] . This truncated distribution is most likely a more accurate estimate of the true distribution, which is why it was used in the analysis reported in the main text. However, for completeness, we present the difference in the two distributions here [ Figure S1 ] and the effect the difference in distribution has on the results of the cCFR and cIFR calculated on the cruise ship [ Table S1 ]. As was to be expected, a shorter mean delay produces fewer corrected for \"known outcomes\", meaning that the correction doesn't increase the na\u00efve estimate by as much. Therefore, using the truncated distribution (with a higher mean and standard deviation) in the calculation results in higher values for the cCFR and cIFR.",
+            "cite_spans": [
+                {
+                    "start": 151,
+                    "end": 154,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 404,
+                    "end": 413,
+                    "text": "Figure S1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 534,
+                    "end": 542,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Non-truncated distribution"
+        },
+        {
+            "text": "We standardise the age-stratified estimates for the CFR in China using what we believe to be an estimate of the effect the many biases present in such a value if it is estimated during an on-going outbreak. Arguably the largest such bias is the underreporting of cases, which is inevitable in a country with an overwhelmed healthcare. To this end, we treat the ratio between the CFR calculated based on the observed number of deaths on the Diamond Princess cruise ship and the expected number (if the nCFR in China had been true on the cruise ship) as the scaling factor by which we adjust the China data. In doing so, we are able to use all of the information in their age-stratified data with a high sample size along with the information in our CFR estimates calculated in a setting with no underreporting bias.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Indirect-standardisation"
+        },
+        {
+            "text": "The assumption that the delay between hospitalisation-to-death is equivalent to the delay between confirmation-to-death was undertaken as the data was reported by date of confirmation [1] . However, we implicitly test how sensitive our estimates are to this assumption by bootstrapping over the uncertainty range given in Linton et al. [1] and by calculating the estimates using both the truncated and non-truncated distributions. This is an inexact and indirect way to test the sensitivity of the estimates against this assumption. However, it is clear it makes very little difference (at the two significant figures level of precision reported) to the estimates.",
+            "cite_spans": [
+                {
+                    "start": 184,
+                    "end": 187,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 336,
+                    "end": 339,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "We performed the analysis based on the data at the time of 5 th March, using primarily the data in [2, 3] , as we required symptomatic/asymptomatic level data to estimate the IFR as well as the CFR. At this point, there has been a total of 7 deaths and 634 cases, of which ew have the breakdown of syptomatics to asyptomatics for 619 cases [2, 3] . Since there have been a further two deaths and 62 more cases. We are entering the phase where the correction does not need to correct for much, given that most outcomes are now known. This gives us a unique opportunity to test our corrected value against the na\u00efve calculation, which after enough time should converge. We find that using the current available data, the nIFR: 1.6% (CI 95%: 0.79%-2.8%), which is consistent with our more accurate estimate calculated using the truncated distribution for all ages. ",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 102,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 103,
+                    "end": 105,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 340,
+                    "end": 343,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 344,
+                    "end": 346,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "More recent data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Linton",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Clinical Medicine",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "The time-to-death distributions and case and death data used to calculate the cCFR estimates. Panel A: the delay distributions of hospitalisation-to-death; both are a lognormal distributions fitted and reported in Linton et al.(Table 2) using data from the outbreak in Wuhan, China. The non-truncated distribution has a mean of 8.6 days and SD of 6.7 days; the righttruncated distribution has a mean of 13 days and SD of 12.7 days. Panels B and C: the case and death time series (respectively) of passengers on-board the ship.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Age stratified data of symptomatic (symp.) and asymptomatic (asymp.) cases on-board the Diamond Princess[2],[3], along with the nCFR estimates given in[9], the expected number of cases in each age group if the nCFR estimates were correct where the total number of expected deaths under these estimates was 15.15 and age stratified observed/expected death ratios.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

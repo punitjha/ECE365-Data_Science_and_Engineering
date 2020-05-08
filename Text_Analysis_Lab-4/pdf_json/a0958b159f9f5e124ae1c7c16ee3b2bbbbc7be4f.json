@@ -1,0 +1,275 @@
+{
+    "paper_id": "a0958b159f9f5e124ae1c7c16ee3b2bbbbc7be4f",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "To the editor:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Letter to the editor: Headline stress disorder caused by Netnews during the outbreak of COVID-19"
+        },
+        {
+            "text": "In December 2019, an ongoing outbreak of a novel coronavirus (COVID-19 or 2019-nCoV) pneumonia hit Wuhan, a major city of China, and then quickly spread to other provinces/regions of China and even the whole world. It has attracted worldwide attention, and for a long time, the news coverage was overwhelming. The news coverage made the general public feel dazed and even plunged into anxiety and panic. The use of instant-messaging technology and mobile phones makes the news spread faster and exacerbates the anxiety and panic of public. The psychological disorder caused by too many news coverage was named as 'headline stress disorder'. It 1 was first defined by psychologist Dr Steven Stosny as a high emotional response to endless reports from the news media, such as feeling anxiety and stress.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Letter to the editor: Headline stress disorder caused by Netnews during the outbreak of COVID-19"
+        },
+        {
+            "text": "Although it is not a medical diagnosis, the continued anxiety or stress may cause physical functionals disorders, including palpitation, chest tightness and insomnia, and further progression may lead to physical and mental diseases, such as anxiety disorders, depression disorders, endocrine disorders and hypertension. 2,3 On 30 September 2014, after the first laboratory-diagnosed Ebola virus was diagnosed in the United States, a media firestorm erupted with constant updates of the Ebola 'crisis'. 4 The public anxiety and panic ensued after the report was frequently attributed to the media's dramatized and sensational coverage. 5 Subsequently, media reports from unauthorized sources during the ongoing monkeypox outbreak in Nigeria were sensationalized and led to increased anxiety in the population. 6 The result of this type of coverage could lead to stress and panic among the general public. This ",
+            "cite_spans": [
+                {
+                    "start": 502,
+                    "end": 503,
+                    "text": "4",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 635,
+                    "end": 636,
+                    "text": "5",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 809,
+                    "end": 810,
+                    "text": "6",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Letter to the editor: Headline stress disorder caused by Netnews during the outbreak of COVID-19"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Anxiety and new onset of cardiovascular disease: critical review and meta-analysis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Batelaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Seldenrijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bot",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ajlm",
+                    "middle": [],
+                    "last": "Van Balkom",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bwjh",
+                    "middle": [],
+                    "last": "Penninx",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Br J Psychiatry",
+            "volume": "208",
+            "issn": "",
+            "pages": "223--231",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Association between psychosocial stress and hypertension: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "M-Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Khan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Neurol Res",
+            "volume": "39",
+            "issn": "",
+            "pages": "573--580",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Spreading Ebola panic: Newspaper and social media coverage of the 2014 Ebola Health Crisis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kilgo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Health Commun",
+            "volume": "34",
+            "issn": "",
+            "pages": "811--817",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Doctor Says Media Coverage of Ebola Fanned the hysteria. Association of Health Care Journalists",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Innes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Lay media reporting of monkeypox in Nigeria",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Oyebanji",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ofonagoro",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Akande",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMJ Global Health",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Disaster media coverage and psychological outcomes: descriptive findings in the extant research",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Pfefferbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niti\u00e9ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pfefferbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Curr Psychiatry Rep",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "is an important issue because concerns about media coverage during a health crisis may likely re-emerge.7 During the outbreak of COVID-19, we conducted an online in-vestigation on the perception of online news in China. A total of 1206 general public participated in the survey, including 478 males and 728 females. The results are listed in Table 1. From the results, we known that most of general public thought unofficial news about COVID-19 was too much and less reliable, and most of them suggested government to take some control of unofficial news coverage and release COVID-19 related information timely. Media organizations play an important role in the dissemination of news pertaining to public health crises, and media coverage has a direct or indirect impact on public behaviours. On the one hand, media publicity could increase public's knowledge and prevention tips about COVID-19. For example, our survey showed that 88.5% of residents thought that people should be restricted and stayed at home as possible during the current outbreak of COVID-19. On the other hand, exaggerated news reports would bring panic, stress and anxiety to public. In this survey, 42.4% participants thought public were too nervous and seeking for any possible way for prevent or treatment. For example, a report entitled 'SHUANGHUANGLIAN which is traditional Chinese drug could inhibits novel coronavirus This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. \u00a9 2020 The Authors Health Expectations published by John Wiley & Sons Ltd TA B L E 1 Publics' attitude to online news coverage during the outbreak of COVID-19",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,1128 @@
+{
+    "paper_id": "7a9333d1362a5cea5d7bccf227cf049f8fbca0ee",
+    "metadata": {
+        "title": "Clinical Medicine Prediction of the Epidemic Peak of Coronavirus Disease in Japan, 2020",
+        "authors": [
+            {
+                "first": "Toshikazu",
+                "middle": [],
+                "last": "Kuniya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kobe University",
+                    "location": {
+                        "addrLine": "1-1 Rokkodai-cho, Nada-ku",
+                        "postCode": "657-8501",
+                        "settlement": "Kobe",
+                        "country": "Japan"
+                    }
+                },
+                "email": "tkuniya@port.kobe-u.ac.jp"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The first case of coronavirus disease 2019 in Japan was reported on 15 January 2020 and the number of reported cases has increased day by day. The purpose of this study is to give a prediction of the epidemic peak for COVID-19 in Japan by using the real-time data from 15 January to 29 February 2020. Taking into account the uncertainty due to the incomplete identification of infective population, we apply the well-known SEIR compartmental model for the prediction. By using a least-square-based method with Poisson noise, we estimate that the basic reproduction number for the epidemic in Japan is R 0 = 2.6 (95%CI, 2.4-2.8) and the epidemic peak could possibly reach the early-middle summer. In addition, we obtain the following epidemiological insights: (1) the essential epidemic size is less likely to be affected by the rate of identification of the actual infective population;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(2) the intervention has a positive effect on the delay of the epidemic peak; (3) intervention over a relatively long period is needed to effectively reduce the final epidemic size.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In December 2019, the first case of respiratory disease caused by a novel coronavirus was identified in Wuhan City, Hubei Province, China. The outbreak of the disease is ongoing worldwide and the World Health Organization named it coronavirus disease 2019 (COVID-19) on 11 February 2020 [1] . In Japan, the first case was reported on 15 January 2020 and the number of reported laboratory-confirmed COVID-19 cases per week has increased day by day (see Table 1 ). As seen in Table 1 , the number of newly reported cases per week has increased and a serious outbreak in Japan is a realistic outcome. One of the greatest public concerns is whether the epidemic continues until summer so that it affects the Summer Olympics, which is planned to be held in Tokyo. The purpose of this study is to give a prediction of the epidemic peak of COVID-19 in Japan, which might help us to act appropriately to reduce the epidemic risk.",
+            "cite_spans": [
+                {
+                    "start": 287,
+                    "end": 290,
+                    "text": "[1]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 452,
+                    "end": 459,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 474,
+                    "end": 481,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "The epidemic data as shown in Table 1 would have mainly twofold uncertainty. The first one is due to the fact that asymptomatic infected people could spread the infection [3] . The second one is due to the lack of opportunity for the diagnostic test as sufficiently simple diagnostic test kits have not been developed yet and the diagnosis in the early stage in Japan was mainly restricted to people who visited Wuhan [4] . In this study, taking into account such uncertainty, we apply a simple and well-known mathematical model for the prediction. More precisely, we assume that only p (0 < p \u2264 1) fraction of infective individuals can be identified by diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 418,
+                    "end": 421,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 30,
+                    "end": 37,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "We apply the following well-known SEIR compartmental model (see, e.g., [5] ) for the prediction.",
+            "cite_spans": [
+                {
+                    "start": 71,
+                    "end": 74,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "where S(t), E(t), I(t) and R(t) denote the susceptible, exposed, infective and removed populations at time t, respectively. \u03b2, \u03b5 and \u03b3 denote the infection rate, the onset rate and the removal rate, respectively. Note that 1/\u03b5 and 1/\u03b3 imply the average incubation period and the average infectious period, respectively. Let the unit time be 1 day. Based on the previous studies [6, 7] , we fix 1/\u03b5 = 5, and thus, \u03b5 = 0.2 and \u03b3 = 0.1, respectively. We fix S + E + I + R to be 1 so that each population implies the proportion to the total population. We assume that one infective person is identified at time t = 0 among total N = 1.26 \u00d7 10 8 number of people in Japan [8] . That is,",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 381,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 382,
+                    "end": 384,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 667,
+                    "end": 670,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "denotes the number of infective individuals who are identified at time t. Thus, we obtain I(0) = 1/(p \u00d7 1.26 \u00d7 10 8 ). We assume that there is no exposed and removed populations at t = 0, that is, E(0) = R(0) = 0, and hence,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "It was estimated in [9] that 77 cases were confirmed among the possible 940 infected population in February in Hokkaido, Japan. Based on this report, we assume that p ranges from 0.01 to 0.1. The basic reproduction number R 0 , which means the expected value of secondary cases produced by one infective individual [10] , is calculated as the maximum eigenvalue of the next generation matrix FV \u22121 [11] , where",
+            "cite_spans": [
+                {
+                    "start": 20,
+                    "end": 23,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 315,
+                    "end": 319,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 398,
+                    "end": 402,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "Thus, we obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "(2)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Model"
+        },
+        {
+            "text": "It is obvious that the basic reproduction number R 0 is independent from the onset rate \u03b5. The sensitivity of R 0 to other parameters \u03b2, \u03b3 and p are calculated as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity of the Basic Reproduction Number"
+        },
+        {
+            "text": "where A \u03b2 , A \u03b3 and A p denote the normalized sensitivity indexes with respect to \u03b2, \u03b3 and p, respectively. We see from Equation (3) that the k time's increase in \u03b2 (resp. \u03b3) results in the k (resp. k \u22121 ) time's increase in R 0 . In particular, we see from the third equation in Equation (3) ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity of the Basic Reproduction Number"
+        },
+        {
+            "text": "This implies that the identification rate p in a realistic range almost does not affect the size of R 0 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity of the Basic Reproduction Number"
+        },
+        {
+            "text": "Let y(t), t = 0, 1, . . . , 45 be the number of daily reported cases of COVID-19 in Japan from 15 January (t = 0) to 29 February (t = 45) 2020. We perform the following least-square-based procedure with Poisson noise to estimate the infection rate \u03b2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimation of the Infection Rate"
+        },
+        {
+            "text": "(P1) Fix \u03b2 > 0 and calculate the numerical value of Y(t), t = 0, 1, . . . , 45 by using model Equation (1).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Description 1."
+        },
+        {
+            "text": "where (t), t = 0, 1, . . . , 45 denote random variables from a normal distribution with mean zero and variance 1 [12] . Note that for the reason stated above, the value of 0.01 \u2264 p \u2264 0.1 does not affect this estimation procedure. By (P1)-(P6), we obtain a normal distribution with mean 0.26 and standard derivation 0.01. Thus, we obtain an estimation of \u03b2 as 0.26 (95%CI, 0.24-0.28) (see Figure 1) . Moreover, by Equation (2), we obtain an estimation of R 0 as 2.6 (95%CI, 2.4-2.8) (see Table 2 ). ",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 117,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 388,
+                    "end": 397,
+                    "text": "Figure 1)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 487,
+                    "end": 494,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Description 1."
+        },
+        {
+            "text": "We define the epidemic peak t * by the time such that Y attains its maximum in 1 year, that is, Y(t * ) = max 0\u2264t\u2264365 Y(t). We first set p = 0.1. In this case, we obtain the following figure on the long time behavior of Y(t) for \u03b2 = 0.28, 0.26 and 0.24.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Peak Prediction"
+        },
+        {
+            "text": "We see from Figure 2 that the estimated epidemic peak is t * = 208 (95%CI, 191-229). That is, starting from 15 January (t = 0), the estimated epidemic peak is 10 August (t = 208) and the uncertainty range is from 24 July (t = 191) to 31 August (t = 229). We next set p = 0.01. In this case, we obtain the following figure. We see from Figure 3 that the estimated epidemic peak is t * = 179 (95%CI, . That is, starting from January 15 (t = 0), the estimated epidemic peak is July 12 (t = 179) and the uncertainty range is from June 28 (t = 165) to July 30 (t = 197). In contrast to R 0 , the epidemic peak and the (apparent) epidemic size are sensitive to the identification rate p. Note that the essential epidemic size, which is characterized by R 0 , is almost the same in both of p = 0.1 and p = 0.01. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 12,
+                    "end": 20,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 335,
+                    "end": 343,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Peak Prediction"
+        },
+        {
+            "text": "We next discuss the effect of intervention. In Japan, school closure has started in almost all prefectures from the beginning of March [13] and many social events have been cancelled off to reduce the contact risk. However, the exact effect of such social efforts is unclear and might be limited as the proportion of young people to the whole infected people of COVID-19 seems not so high (2% of 72, 314 reported cases in China [14] ). In this simulation, we assume that such social efforts successfully reduce the infection rate \u03b2 = 0.26 to 75% during a period from 1 March (t = 46) to a planned day (t = T \u2265 47).",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 428,
+                    "end": 432,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Possible Effect of Intervention"
+        },
+        {
+            "text": "In what follows, we fix p = 0.01. First, we set T = 77, that is, the intervention is carried out for 1 month (from 1 March to 1 April). In this case, the epidemic peak t * is delayed from 179 (12 July) to 190 (23 July). However, the epidemic size is almost the same. On the other hand, if T = 220, that is, the intervention is carried out for 6 months (from 1 March to 1 September), then the epidemic peak t * is delayed from 179 (12 July) to 243 (14 September) and the epidemic size is effectively reduced (see Figure 4 ). More precisely, we see from Figure 5a that the epidemic peak t * is delayed almost linearly for 47 \u2264 T \u2264 239 and fixed to t * = 237 for T \u2265 240. This implies that the intervention has a positive effect on the delay of the epidemic peak, which would contribute to improve the medical environment utilizing the extra time period. On the other hand, we see from Figure 5b that the number of accumulated cases at t = 365, which is calculated as pR(365) \u00d7 1.26 \u00d7 10 8 , is monotonically decreasing and converges to 0.99 \u00d7 10 6 as T increases. However, it almost does not change for small T \u2264 180. This implies that the intervention over a relatively long duration is required to effectively reduce the final epidemic size.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 512,
+                    "end": 520,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 552,
+                    "end": 561,
+                    "text": "Figure 5a",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 883,
+                    "end": 892,
+                    "text": "Figure 5b",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Possible Effect of Intervention"
+        },
+        {
+            "text": "In this study, by applying the SEIR compartmental model to the daily reported cases of COVID-19 in Japan from 15 January to 29 February, we have estimated that the basic reproduction number R 0 is 2.6 (95%CI, 2.4-2.8) and the epidemic peak could possibly reach the early-middle summer. Of course, this kind of long range peak prediction would contain the essential uncertainty due to the possibility of some big changes in the social and natural (climate) situations. Nevertheless, our result suggests that the epidemic of COVID-19 in Japan would not end so quickly. This might be consistent with the WHO's statement on 6 March 2020 that it is a false hope that COVID-19 will disappear in the summer like the flu [15] .",
+            "cite_spans": [
+                {
+                    "start": 713,
+                    "end": 717,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The estimated value of the basic reproduction number R 0 in this study is not so different from early estimations: 2.6 (95%CI, 1.5-3.5) [ [20] . In addition, in this study, we have obtained the following epidemiological insights:",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 137,
+                    "text": "[",
+                    "ref_id": null
+                },
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The essential epidemic size, which is characterized by R 0 , would not be affected by the identification rate p in a realistic parameter range 0.01-0.1, in particular, p \u2265 1.0 \u00d7 10 \u22126 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u2022"
+        },
+        {
+            "text": "The intervention exactly has a positive effect on the delay of the epidemic peak, which would contribute to improve the medical environment utilizing the extra time period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u2022"
+        },
+        {
+            "text": "Intervention over a relatively long period is needed to effectively reduce the final epidemic size.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u2022"
+        },
+        {
+            "text": "The first statement implies that underestimation of the actual infective population would not contribute to the reduction of the essential epidemic risk. Correct information based on an adequate diagnosis system would be desired for people to act appropriately. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u2022"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Available online",
+            "authors": [],
+            "year": 2019,
+            "venue": "for Disease Control and Prevention. Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "COVID-19) Situation Reports",
+            "authors": [],
+            "year": 2019,
+            "venue": "Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schunk",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sothmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bretzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Froeschl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wallrauch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zimmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jankem",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guggemos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New Eng. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001468"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Japan Sets up Emergency Measures for Coronavirus",
+            "authors": [
+                {
+                    "first": "Japan",
+                    "middle": [],
+                    "last": "Nhk World",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Age-Structured Populatin Dynamics in Demography and Epidemiology",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Inaba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Linton",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Akhmetzhanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kinoshita",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J. Clin. Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/jcm9020538"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Tracking and predicting COVID-19 epidemic in China mainland",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.17.20024257"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Population Estimates Monthly Report",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Statistics Bureau Japan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Japan's Hokkaido may Have 940 Infected, Researcher Says",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bloomberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "On the definition and the computation of the basic reproduction ratio R 0 in models for infectious diseases in heterogeneous populations",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A P"
+                    ],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A J"
+                    ],
+                    "last": "Metz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Math. Biol",
+            "volume": "28",
+            "issn": "",
+            "pages": "365--382",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00178324"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Reproduction numbers and sub-threshold endemic equilibria for compartmental models of disease transmission",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Den Driessche",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Watmough",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Math. Biosci",
+            "volume": "180",
+            "issn": "",
+            "pages": "29--48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0025-5564(02)00108-6"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Parameter estimation and uncertainty quantification for an epidemic model",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Capaldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Behrend",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Math. Biosci. Eng",
+            "volume": "9",
+            "issn": "",
+            "pages": "553--576",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The Japan Times. Nearly All Prefectures in Japan Shut Schools Amid Coronavirus Outbreak",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Characteristics of and imoprtant lessons from the coronavirus disease 2019 (COVID-19) outbreak in China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Am. Med. Assoc",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "It's a 'false hope' Coronavirus will Disappear in the Summer like the Flu, WHO Says",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Cnbc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Report 3: Transmissibility of 2019-nCoV",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cori",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Connelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Novel coronavirus 2019-nCoV: Ealry estimation of epidemiological parameters and epidemic predictions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Read",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R E"
+                    ],
+                    "last": "Bridgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A T"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jewell",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.01.23.20018549"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Musa",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Infect. Dis",
+            "volume": "92",
+            "issn": "",
+            "pages": "214--217",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.01.050"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Travel. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa021"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "P4) Run (P1)-(P3) for 0.2 \u2264 \u03b2 \u2264 0.4 and find \u03b2 * such that J(\u03b2 * ) = min 0.2\u2264\u03b2\u22640.4 J(\u03b2). (P5) Repeat (P1)-(P4) 10, 000 times and obtain the distribution of \u03b2 * . (P6) Approximate the distribution of \u03b2 * by a normal distribution and obtain a 95% confidence interval.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Comparison of Y(t) with the estimated infection rate \u03b2 and the number of daily reported cases of COVID-19 in Japan from 15 January (t = 0) to 29 February (t = 45).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Time variation of the number Y(t) of infective individuals who are identified at time t (0 \u2264 t \u2264 365) for p = 0.1. The dot lines represent the epidemic peak t * .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Time variation of the number Y(t) of infective individuals who are identified at time t (0 \u2264 t \u2264 365) for p = 0.01. The dot lines represent the epidemic peak t * .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Time variation of the number Y(t) of infective individuals who are identified at time t (0 \u2264 t \u2264 365) for p = 0.01 and no intervention, 1 month intervention (T = 77) and 6 months intervention (T = 220). The dot lines represent the epidemic peak.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "The relation between the planned final day for intervention T and (a) the epidemic peak t * ; (b) the number of accumulated cases at time t = 365: pR(365) \u00d7 1.26 \u00d7 10 8 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "This research was funded by the Japan Society for the Promotion of Science (JSPS) KAKENHI grant number 19K14594.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Number of newly reported COVID-19 cases in Japan until 1 March 2020[2].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Parameter values for model Equation (1).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "16], 2.90 (95%CI, 2.32-3.63) [17], 3.11 (95%CI, 2.39-4.13) [18], 3.58 (95%CI, 2.89-4.39) [19] and 3.28 (average of estimations in 12 studies)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The author would like to thank the associate editor and the anonymous reviewers for their helpful comments that allowed me to improve the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments:"
+        },
+        {
+            "text": "The author declares no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ]
+}

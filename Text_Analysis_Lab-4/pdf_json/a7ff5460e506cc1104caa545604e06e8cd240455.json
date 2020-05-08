@@ -1,0 +1,147 @@
+{
+    "paper_id": "a7ff5460e506cc1104caa545604e06e8cd240455",
+    "metadata": {
+        "title": "The model of epidemic (COVID-19) prevention and control in rural of China",
+        "authors": [
+            {
+                "first": "Bao",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Affiliated Hospital of Zunyi Medical University",
+                    "location": {
+                        "addrLine": "Dalian Road 149",
+                        "postCode": "563000",
+                        "settlement": "Zunyi City, Guizhou Province",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiaoyun",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Affiliated Hospital of Zunyi Medical University",
+                    "location": {
+                        "addrLine": "Dalian Road 149",
+                        "postCode": "563000",
+                        "settlement": "Zunyi City, Guizhou Province",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The model of epidemic prevention and control in rural of China Bao Fu and Xiaoyun Fu * Dear editor, In December 2019, novel coronavirus disease 2019 (COVID-19) broke out in Wuhan and then quickly spread to various places in China [1] . The outbreak of COVID-19 coincides with the Chinese Lunar New Year. About 5 million people left Wuhan and returned to their hometown [2] . The vast majority of the five million returned to rural in China. China's rural population is 577.61 million, and it is widely distributed in more than 691,510 villages. Therefore, the prevention and control of the epidemic in villages were facing great challenges.",
+            "cite_spans": [
+                {
+                    "start": 230,
+                    "end": 233,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 369,
+                    "end": 372,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The local government acted quickly and formulated some effective measures. Firstly, they checked the returnees from Hubei Province and isolated them at homes. During isolation, body temperature and symptoms were reported daily. Secondly, they minimize the flow of people. The Chinese government encouraged people to stay at home and discouraged mass gatherings. The village set up checkpoints at all intersections in the countryside to persuade the migrants to return (Fig. 1) . Thirdly, they popularized the knowledge of epidemic prevention and let people know how to do well in selfprotection. The unmanned aerial vehicle was used to supervise and publicize epidemic prevention knowledge. Fourthly, they fought panic with information. The government prevented people's panic by sharing the latest information through the media. Fifthly, for COVID-19, the government implemented free medical treatment to reduce patients' worries. This can promote patients to see a doctor as soon as possible and timely treatment, to prevent further aggravation of the condition. Sixthly, they guarantee the daily needs of the people. Seventhly, they delayed return to work and school. Schools in rural areas have also been delayed, with teachers teaching online through the Internet. Eighthly, people diagnosed with COVID-19 were isolated and treated in designated hospitals. Ninthly, they use big data to perfect tracking management. The app that can query the flights and trains that the confirmed patients have taken has also been developed. Finally, the discharged patients need to continue medical isolation and observation for half a month before they can enter the society.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 468,
+                    "end": 476,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "At present, China's epidemic prevention and control has achieved great success. This success is the result of the joint efforts of all Chinese people. We hope that China's experience can help other countries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "National Health Commission of the People's Republic of China. Updates on the epidemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The press conference on COVID-19 in Hubei",
+            "authors": [
+                {
+                    "first": "China",
+                    "middle": [],
+                    "last": "News",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "Authors' contributions B. F drafted the manuscript. X. F. was responsible for conceptualization. The authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "Not applicable.Availability of data and materials Not applicable.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Written informed consent for publication was obtained from all participants.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declared that they have no conflicts of interest to this work.Received: 24 March 2020 Accepted: 6 April 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

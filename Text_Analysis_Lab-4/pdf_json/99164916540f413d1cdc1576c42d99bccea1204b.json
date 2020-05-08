@@ -1,0 +1,1956 @@
+{
+    "paper_id": "99164916540f413d1cdc1576c42d99bccea1204b",
+    "metadata": {
+        "title": "5 challenges in understanding the role of the virome in health and disease",
+        "authors": [
+            {
+                "first": "David",
+                "middle": [],
+                "last": "Wangid",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Washington University in St. Louis School of Medicine",
+                    "location": {
+                        "settlement": "St. Louis",
+                        "region": "Missouri",
+                        "country": "United States of America"
+                    }
+                },
+                "email": "*davewang@wustl.edu"
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Comprehensive census of the bacterial and fungal microbiome can be achieved through consensus PCR approaches that target the 16S rRNA and internal transcribed spacer (ITS) loci, respectively. By contrast, there is no such analogous conserved sequence present in all viruses. The lack of a consensus sequence poses a significant challenge for efforts to systematically define the set of viruses present in a given specimen. Rather than simply amplifying and sequencing a signature target locus, metagenomic sequencing of nucleic acid in a sample is required for virus sequences to be represented in a sequencing library. The increased sequencing depth necessary dramatically increases the cost compared to 16S or ITS sequencing. Moreover, the relative abundance of viral to nonviral nucleic acids is an important parameter that drives sensitivity. To mitigate this problem, physical enrichment for viral particles by filtration and/or nuclease treatment is often necessary. Another consequence of the requirement for metagenomic sequencing is that the subsequent bioinformatic analysis is also much more complex; the metagenomic sequences must be aligned at both nucleotide and amino acid levels to large reference databases of viral sequences (not just to a database of reference amplicon nucleic acid sequences). Thus, the experimental sequencing depth, computational infrastructure requirements, and computing costs are significantly higher for virome analyses. The precise experimental and bioinformatic analysis steps utilized can contribute significantly to variability and, in some instances, potentially incorrect conclusions. However, a detailed discussion of both of these is beyond the scope of this review.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inability to identify all viruses due to the absence of a universal viral sequence: The challenge of viral \"dark matter\""
+        },
+        {
+            "text": "Currently, classification of sequence reads as being viral in origin relies primarily upon detectable primary sequence alignment to reference viruses. One challenge is that, among a1111111111 a1111111111 a1111111111 a1111111111 a1111111111 those that are alignable to reference viruses, sequences can be misclassified due to the remoteness of the similarity and/or low stringency. An even more significant problem is that in most virome studies, more than 50% of the sequences in virus-enriched preparations have no detectable sequence similarity to any known reference sequences; these unalignable sequences are referred to as viral \"dark matter\" [8] and may include novel, highly divergent viruses that are unrecognizable. Thus, most current virome studies are presenting only a partial view of the virome because the dark matter sequences are typically ignored. The dark matter clearly harbors hidden treasures because mining of the dark matter has led to discoveries such as crAssphage, the most abundant bacteriophage in human enteric viromes [9] .",
+            "cite_spans": [
+                {
+                    "start": 648,
+                    "end": 651,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1048,
+                    "end": 1051,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Inability to identify all viruses due to the absence of a universal viral sequence: The challenge of viral \"dark matter\""
+        },
+        {
+            "text": "To computationally address the dark matter, new and improved data mining strategies are needed. One approach is to apply methods superior at detection of remote homologies, such as hidden Markov models customized for viral proteins [10] . Other machine learning strategies may include development of primary sequence-alignment-independent classification approaches [11] or development of artificial neural networks [12] . Experimentally, as described below, expanding the set of culturable viruses will provide additional reference sequences that should also decrease the amount of viral dark matter.",
+            "cite_spans": [
+                {
+                    "start": 232,
+                    "end": 236,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 365,
+                    "end": 369,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 415,
+                    "end": 419,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Inability to identify all viruses due to the absence of a universal viral sequence: The challenge of viral \"dark matter\""
+        },
+        {
+            "text": "One bias in many virome studies to date is a focus only on sequencing of DNA. This is due in part to the bacterial microbiome being the primary driver of many studies, and thus at the time of sampling, experimental measures to extract DNA were employed without regard to trying to either preserve or recover the RNA. In addition, some studies utilize DNA-specific amplification strategies such as phi29-mediated whole-genome amplification. These studies are unable to assess the RNA component of the virome. Yet the majority of the known eukaryotic viral denizens of the human enteric tract are RNA viruses, such as enteroviruses, rotaviruses, noroviruses, and astroviruses. On the phage side, while it is true that the vast majority of known phages have DNA genomes, the bias of sequencing exclusively DNA has served as a self-reinforcing positive feedback loop; however, recent studies examining samples that have sequenced RNA have demonstrated that there is a much greater abundance and diversity of RNA phages in the world [13] . Thus, in order achieve a more complete view of the virome, it is critical that virome studies be designed such that RNA viruses are preserved in the specimens and that the RNA fraction is incorporated into the sequencing and analysis.",
+            "cite_spans": [
+                {
+                    "start": 1028,
+                    "end": 1032,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Inadequate sampling strategies bias towards DNA viruses and against RNA viruses"
+        },
+        {
+            "text": "The advent of metagenomics has greatly enhanced our ability to detect known and novel viral sequences in unbiased fashion and to establish novel associations of these sequences with various disease [1] [2] [3] [4] [5] [6] [7] . However, it is not known whether the virome plays a causative role or not. Koch's postulates remain the gold standard for microbial disease causality, and thus the first step is to establish culture systems for viruses associated with the disease of interest. The lack of culture systems for viruses identified in virome studies, for both eukaryotic viruses and phages, is pronounced. As an example, although dozens of novel eukaryotic viruses have been identified in the mammalian enteric tract by metagenomic sequencing, culture systems for only a very limited number have been described to date [14, 15] . Likewise, for phages, genomic sequences of thousands of novel phages can be identified in a single study [16, 17] , but very few have been isolated [18] . Thus, while (in the past) discovery of novel viruses was rate limiting, today the rate-limiting step has shifted to development of culture systems for the viruses that have been molecularly identified.",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 202,
+                    "end": 205,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 206,
+                    "end": 209,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 210,
+                    "end": 213,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 214,
+                    "end": 217,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 222,
+                    "end": 225,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 826,
+                    "end": 830,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 831,
+                    "end": 834,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 942,
+                    "end": 946,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 947,
+                    "end": 950,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 985,
+                    "end": 989,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lack of culture systems to propagate components of the virome"
+        },
+        {
+            "text": "How can this be addressed? To some extent, this is simply a matter of effort. In all likelihood, no effort has been made to culture the vast majority of the novel viruses identified in virome studies, and some will surely succumb to standard culture conditions once applied. Limitations in quantity or quality of primary specimens containing viable virus can contribute to the problem. In part, it is challenging for labs to obtain funding to culture novel viruses, particularly in the absence of any strong disease association. Moreover, the risk of a negative result, exemplified by many decades of unsuccessful attempts to culture human norovirus, is substantial. Nonetheless, given that the lack of ability to culture a virus is perhaps the most fundamental barrier to progress in the study of that virus, dedicated efforts to develop culture systems are absolutely necessary.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lack of culture systems to propagate components of the virome"
+        },
+        {
+            "text": "For some of the more recently discovered eukaryotic viruses, the advent of primary, differentiated culture systems has been key to unlocking this riddle. For example, the respiratory viruses bocavirus and coronavirus HKU1 can be propagated using primary airway epithelial cells [19, 20] . In the enteric tract, the development of enteroids and organoids and recognition of the need for additional enteric tract components have opened the frontier for propagation of human norovirus [21, 22] . Broader application of these systems will undoubtedly lead to increased success in culture of some eukaryotic viruses. On the phage front, one significant challenge is that many of the bacterial host species are themselves unculturable using standard bacterial-growth media. Thus, efforts to propagate novel phages will also entail improving systems for bacterial in vitro growth. Some approaches toward this include development of bioreactors [23, 24] and other systems that better mimic the natural environment [25] , but additional new and innovative strategies are needed.",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 282,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 283,
+                    "end": 286,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 482,
+                    "end": 486,
+                    "text": "[21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 487,
+                    "end": 490,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 937,
+                    "end": 941,
+                    "text": "[23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 942,
+                    "end": 945,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1006,
+                    "end": 1010,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lack of culture systems to propagate components of the virome"
+        },
+        {
+            "text": "For the majority of complex diseases, in vitro systems are not adequate to assess viral contributions to pathogenicity, and thus appropriate animal-disease models are required that also reflect the potentially complex interactions with the host, bacteria, and eukaryotic microbes that may be present. In bacterial microbiome studies, a powerful approach has been the ability to colonize mice with either a single defined bacteria of interest or a consortia of bacteria. By analogy, it would be ideal if the virome could be functionally interrogated in similar fashion. However, a prerequisite for eukaryotic viruses is that one must first be able to establish infection in the relevant animal model. As with establishing cell-culture systems, the paucity of animal-infection models for novel viruses stems in part from lack of effort to develop such systems. Moreover, the challenge is exacerbated by the multitude of potential infection routes that need to be evaluated, need to overcome the immune response, cross-species transmission barriers, and (even within a species) potential impact of varying genetic backgrounds. Use of transgenic animals that are immunodeficient [26] or that have been partially humanized [27] has enabled development of murine models for some viruses. In an ideal world, animal models for all eukaryotic viruses identified in virome studies would be established, enabling the roles of any single virus (or cocktail of viruses) to be functionally evaluated. Likewise, having an extensive library of cultivated phages (see above) will allow them to be combined in defined proportions along with eukaryotic viruses for experimental studies. For phages, presuming they act by modulating the bacterial community, the animal model must harbor the relevant bacterial host species, and thus the bacterial microbiome may need to be manipulated as well. Notably, some recent studies have suggested that phages may also interact directly with eukaryotic host cells [28, 29] . Overall, significant effort and resources must be expended to establish robust animal-infection models suitable to define the role of the virome. This is a step that is absolutely necessary in order to move virome studies beyond the realm of mere association studies.",
+            "cite_spans": [
+                {
+                    "start": 1175,
+                    "end": 1179,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1218,
+                    "end": 1222,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1984,
+                    "end": 1988,
+                    "text": "[28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1989,
+                    "end": 1992,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The need for experimental animal-infection models"
+        },
+        {
+            "text": "A barrier to progress in the virome field is the division between virologists who study viruses infecting eukaryotes versus those that infect bacteria. Very few scientists today have expertise in both. This balkanization of virology leads to challenges when an eukaryotic virologist discovers in a virome study that the strongest disease association is with a phage (or vice versa). Lack of familiarity with the field and relevant experimental approaches often limits further investigation. These communities have been largely segregated, often holding separate conferences and distinct grant-review panels. To illustrate this point, the United States National Institutes of Health (NIH) virology study sections address only \"non-bacteriophage viral genetics, infection and replication, cellular and host responses to viral infections, and mechanisms of viral disease pathogenesis.\" Thus, there is a great need to bring these disparate communities together in order to collectively attack questions associated with the virome, especially as more complex trans-kingdom interactions are identified linking phages, bacteria, eukaryotic viruses, and eukaryotic cells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dichotomy between eukaryotic virus and phage communities"
+        },
+        {
+            "text": "In conclusion, the coming years will undoubtedly be witness to many more studies demonstrating associations of the virome with various diseases. Hopefully, there will be commensurate development of new computational approaches that significantly decrease the fraction of viral dark matter and an increase in the fraction of studies that holistically evaluate the virome. With new cell-culture systems and animal models for novel viruses, there will ideally be studies that attribute causal roles for some of the associations. Finally, it may be that virome studies will serve as a catalyst to help integrate the eukaryotic viral and phage communities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dichotomy between eukaryotic virus and phage communities"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Pathogenic simian immunodeficiency virus infection is associated with expansion of the enteric virome",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Handley",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Thackray",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Presti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Droit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Cell",
+            "volume": "151",
+            "issn": "2",
+            "pages": "253--66",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2012.09.024"
+                ],
+                "PMID": [
+                    "23063120"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Altered Virome and Bacterial Microbiome in Human Immunodeficiency Virus-Associated Acquired Immunodeficiency Syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Monaco",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gootenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Handley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ghebremichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Host Microbe",
+            "volume": "19",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2016.02.011"
+                ],
+                "PMID": [
+                    "26962942"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Disease-specific alterations in the enteric virome in inflammatory bowel disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Norman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Handley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Baldridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Droit",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Keller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cell",
+            "volume": "160",
+            "issn": "3",
+            "pages": "447--60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2015.01.002"
+                ],
+                "PMID": [
+                    "25619688"
+                ],
+                "PMCID": [
+                    "PMC4312520"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Gut DNA viromes of Malawian twins discordant for severe acute malnutrition",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Blanton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Manary",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Trehan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "112",
+            "issn": "38",
+            "pages": "11941--11947",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1514285112"
+                ],
+                "PMID": [
+                    "26351661"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The eukaryotic gut virome in hematopoietic stem cell transplantation: new clues in enteric graft-versus-host disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Legoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Resche-Rigon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bouquet",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Robin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Naccache",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mercier-Delarue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nature medicine",
+            "volume": "23",
+            "issn": "9",
+            "pages": "1080--1085",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm.4380"
+                ],
+                "PMID": [
+                    "28759053"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Distinct Gut Virome Profile of Pregnant Women With Type 1 Diabetes in the ENDIA Study. Open forum infectious diseases",
+            "authors": [
+                {
+                    "first": "Wook",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Couper",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Colman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ofid/ofz025"
+                ],
+                "PMID": [
+                    "30815502"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Intestinal virome changes precede autoimmunity in type I diabetes-susceptible children",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Vatanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Droit",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kostic",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "114",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1706359114"
+                ],
+                "PMID": [
+                    "28696303"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Origins and challenges of viral dark matter",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Krishnamurthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Virus Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2017.02.002"
+                ],
+                "PMID": [
+                    "28192164"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "A highly abundant bacteriophage discovered in the unknown sequences of human faecal metagenomes",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dutilh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cassman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcnair",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Boling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nature communications",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ncomms5498"
+                ],
+                "PMID": [
+                    "25058116"
+                ],
+                "PMCID": [
+                    "PMC4111155"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Profile hidden Markov models for the detection of viruses within metagenomic sequence data",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Skewes-Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sharpton",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pollard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Derisi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS ONE",
+            "volume": "9",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0105067"
+                ],
+                "PMID": [
+                    "25140992"
+                ],
+                "PMCID": [
+                    "PMC4139300"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ahlgren",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fuhrman",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Microbiome",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40168-017-0283-5"
+                ],
+                "PMID": [
+                    "28683828"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Artificial neural networks trained to detect viral and phage structural proteins",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Seguritan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Alves",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arnoult",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Raymond",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lorimer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Burgin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jr",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Comput Biol",
+            "volume": "8",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.1002657"
+                ],
+                "PMID": [
+                    "22927809"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Hyperexpansion of RNA Bacteriophage Diversity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Krishnamurthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Janowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Barouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS Biol",
+            "volume": "14",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.1002409"
+                ],
+                "PMID": [
+                    "27010970"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Cultivation and serological characterization of a human Theiler's-like cardiovirus associated with diarrheal disease",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Greninger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Haggerty",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Parsonnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Delwart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of virology",
+            "volume": "84",
+            "issn": "9",
+            "pages": "4407--4421",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02536-09"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Propagation of astrovirus VA1, a neurotropic human astrovirus, in cell culture",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Janowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Holtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00740-17"
+                ],
+                "PMID": [
+                    "28701405"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Marine DNA Viral Macro-and Microdiversity from Pole to Pole",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gregory",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zayed",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Conceicao-Neto",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Temperton",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bolduc",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alberti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Cell",
+            "volume": "177",
+            "issn": "5",
+            "pages": "1109--1132",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2019.03.040"
+                ],
+                "PMID": [
+                    "31031001"
+                ],
+                "PMCID": [
+                    "PMC6525058"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Viral dark matter and virus-host interactions resolved from publicly available microbial genomes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roux",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hallam",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Woyke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7554/eLife.08490"
+                ],
+                "PMID": [
+                    "26200428"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "PhiCrAss001 represents the most abundant bacteriophage family in the human gut and infects Bacteroides intestinalis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Shkoporov",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Khokhlova",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stockdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Draper",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nature communications",
+            "volume": "9",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41467-018-07225-7"
+                ],
+                "PMID": [
+                    "30429469"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Human bocavirus can be cultured in differentiated human airway epithelial cells",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dijkman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Koekkoek",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Molenkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schildgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Der Hoek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of virology",
+            "volume": "83",
+            "issn": "15",
+            "pages": "7739--7787",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00614-09"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Culturing the Unculturable: Human Coronavirus HKU1 Infects, Replicates, and Produces Progeny Virions in Human Ciliated Airway Epithelial Cell Cultures",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pyrc",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dijkman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jebbink",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deming",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00947-10"
+                ],
+                "PMID": [
+                    "20719951"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Replication of human noroviruses in stem cell-derived human enteroids",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ettayebi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Crawford",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Broughman",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Karandikar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tenge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "353",
+            "issn": "6306",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aaf5211"
+                ],
+                "PMID": [
+                    "27562956"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Enteric bacteria promote human and mouse norovirus infection of B cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graves",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Keyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Grau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Science",
+            "volume": "346",
+            "issn": "6210",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1257147"
+                ],
+                "PMID": [
+                    "25378626"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Cultivation of stable, reproducible microbial communities from different fecal donors using minibioreactor arrays (MBRAs)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Auchtung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40168-015-0106-5"
+                ],
+                "PMID": [
+                    "26419531"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Chemostat culture systems support diverse bacteriophage communities from human feces",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Santiago-Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ly",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Daigneault",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mcdonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bonilla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Microbiome",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40168-015-0124-3"
+                ],
+                "PMID": [
+                    "26549756"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "A new antibiotic kills pathogens without detectable resistance",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Peoples",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Spoering",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Engels",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Conlon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nature",
+            "volume": "517",
+            "issn": "7535",
+            "pages": "455--464",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature14098"
+                ],
+                "PMID": [
+                    "25561178"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A Mouse Model of Zika Virus Pathogenesis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lazear",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Govero",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Platt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Miner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Host Microbe",
+            "volume": "19",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2016.03.010"
+                ],
+                "PMID": [
+                    "27066744"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Precision mouse models with expanded tropism for human pathogens",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "De",
+                    "suffix": ""
+                },
+                {
+                    "first": "Abad",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lenarcic",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cockrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat Biotechnol",
+            "volume": "37",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41587-019-0225-9"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Expansion of Bacteriophages Is Linked to Aggravated Intestinal Inflammation and Colitis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gogokhia",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Buhrke",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hanke-Gogokhia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Cell Host Microbe",
+            "volume": "25",
+            "issn": "2",
+            "pages": "285--99",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2019.01.008"
+                ],
+                "PMID": [
+                    "30763538"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Bacteriophage trigger antiviral immunity and prevent clearance of bacterial infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sweere",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Van Belleghem",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ishak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Popescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sunkari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Science",
+            "volume": "",
+            "issn": "6434",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aat9691"
+                ],
+                "PMID": [
+                    "30923196"
+                ],
+                "PMCID": [
+                    "PMC6656896"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

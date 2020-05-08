@@ -1,0 +1,577 @@
+{
+    "paper_id": "503e1f3f46f9ab6c560d68ff75a56ec5c779c7f1",
+    "metadata": {
+        "title": "Anti-IL6R role in treatment of COVID-19-related ARDS",
+        "authors": [
+            {
+                "first": "Franco",
+                "middle": [
+                    "Maria"
+                ],
+                "last": "Buonaguro",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Cancer Immunotherapy and Development Therapeutics Unit",
+                    "institution": "Istituto Nazionale Tumori IRCCS Fondazione \"G. Pascale\"",
+                    "location": {
+                        "addrLine": "Via Mariano Semmola",
+                        "postCode": "80131",
+                        "settlement": "Melanoma, Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Igor",
+                "middle": [],
+                "last": "Puzanov",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Cancer Immunotherapy and Development Therapeutics Unit",
+                    "institution": "Istituto Nazionale Tumori IRCCS Fondazione \"G. Pascale\"",
+                    "location": {
+                        "addrLine": "Via Mariano Semmola",
+                        "postCode": "80131",
+                        "settlement": "Melanoma, Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Paolo",
+                "middle": [
+                    "Antonio"
+                ],
+                "last": "Ascierto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Cancer Immunotherapy and Development Therapeutics Unit",
+                    "institution": "Istituto Nazionale Tumori IRCCS Fondazione \"G. Pascale\"",
+                    "location": {
+                        "addrLine": "Via Mariano Semmola",
+                        "postCode": "80131",
+                        "settlement": "Melanoma, Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The COVID-19 pandemic, which has exhausted the momentum in China, is still in the exponential phase in the rest of the world, without even reaching the peak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "What have we learned so far? What did Chinese scientists and doctors teach us?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "SARS-CoV-2 infection is not like the seasonal flu. While the range of symptoms for the two viruses is similar, the fraction with severe disease appears to be different. For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections characterized by acute respiratory distress syndrome (ARDS), requiring mechanical ventilation. These fractions of severe and critical infection would be higher than what is observed for influenza infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There are currently no effective prophylactic or postexposure therapies. In patients infected with SARS-CoV-2, it has been described that disease severity and outcomes are related to the characteristics of the immune response. Interleukin (IL)-6 and other components of the inflammatory cascade contribute to host defense against infections. However, exaggerated synthesis of IL-6 can lead to an acute severe systemic inflammatory response known as cytokine release syndrome (CRS). In the pathogenesis of SARS-CoV-2 pneumonia, a study found that a CRS involving a considerable release of proinflammatory cytokines occurred, including IL-6, IL-12, and tumor necrosis factor \u03b1 (TNF-\u03b1).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The paper published in this issue by Fu et al., reports preliminary data collected from 21 patients with SARS-CoV-2-induced ARDS treated with tocilizumab [1] .",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 157,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In this single arm study, patients with moderate to severe COVID-19 disease received one or two doses of tocilizumab (400 mg/dose) in addition to standard therapies used including lopinavir and methylprednisolone as reported in the Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (6th interim edition) [2] . Most patients experienced clinical improvement including lower oxygen requirement (15/21, 75%), decrease of CRP, increase in lymphocyte levels, decreased fever and improved chest tightness. Two patients were taken off the ventilator within 5 days after the treatment with tocilizumab, another one improved significantly [1] .",
+            "cite_spans": [
+                {
+                    "start": 319,
+                    "end": 322,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Based on this data, on March 3rd, 2020, National Health Commission of China included tocilizumab in its 7th edition of COVID-19 therapy recommendations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Limited experience in Italian centers obtained using tocilizumab for patients with moderate to severe COVID-19 revealed anecdotal evidence of time-correlated clinical improvements in oxygenation, decreased CRP, increased lymphocyte counts 24-48 h post administration, similar to the Chinese experience. Better outcomes were observed in non-intubated patients with elevated baseline level of IL-6 CRP, ferritin and LDH. arm study with primary endpoint of overall mortality 1 month after registration. Secondary endpoints include predictive/prognostic markers of baseline and on treatment level of IL-6 and CRP, lymphocyte count changes, radiological response, and other cytokine changes. Study will include patients with SARS-CoV-2-induced interstitial pneumonia, respiratory insufficiency (O2sat \u2264 93% or PaO2/FiO2 ratio \u2264 300). Patients should be intubated less than 24 h before registration. In parallel, observational cohort with less stringent enrollment criteria will proceed as well.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the US, an adaptive Phase 2/3, randomized, doubleblind, placebo-controlled study assessing efficacy and safety of sarilumab (NCT04315298), another anti-IL-6R antibody started on March 16, 2020, sarilumab binds to both membrane-bound and soluble forms of IL-6R.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The clinical presentation of patients with severe forms of COVID-19 resembles cytokine release syndrome (CRS) observed in some oncology patients treated with CAR-T cell therapies. There, IL-6R inhibition with tocilizumab (anti-IL-6R antibody) proved effective and was FDA approved in 2017. IL-6 and its receptor signaling were shown to play a role in immune response to H1N1 influenza and prevention of lung damage [3] [4] [5] . However, administration of tocilizumab has not prevented influenza vaccination immune response in patients with rheumatoid arthritis [6] . its role in patients infected with SARS-CoV-2 has not yet been fully studied and is awaiting completion of clinical trials under way.",
+            "cite_spans": [
+                {
+                    "start": 415,
+                    "end": 418,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 419,
+                    "end": 422,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 423,
+                    "end": 426,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 562,
+                    "end": 565,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Until that time, it seems plausible to speculate that the anti-IL6R mAb plays a protective role if given at the time of overly elevated immune response to the virus, thus preventing \"anaphylactic toxicity\". Such extreme cytokine reaction is accompanied by infiltration of inflammatory monocytes/macrophages (IMM) into the lung and elevated production of the pro-inflammatory cytokines (IL-1, IL-6, IL-8, CXCL-10, and MCP-1). These events are associated with severe lung damage, characterized by profound vascular leakage, and death [7] . In this context the anti-IL6R may only be controlling the \"cytokine storm\" without deleterious effect on virus replication.",
+            "cite_spans": [
+                {
+                    "start": 532,
+                    "end": 535,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Why tocilizumab could be an effective treatment for severe COVID-19?",
+            "authors": [
+                {
+                    "first": "Binqing",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiaoling",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wei",
+                    "middle": [],
+                    "last": "Haiming",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Trans Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12967-020-02339-3"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The General Office of National Health Commission Office of State TCM Administration. Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (Trial Version 6, Revised)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Interleukin-6 limits influenza-induced inflammation and protects against fatal lung pathology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lauder",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Smart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Eur J Immunol",
+            "volume": "43",
+            "issn": "10",
+            "pages": "2613--2638",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/eji.201243018"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Interleukin-6 is crucial for recall of influenza-specific memory CD4 + T cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Longhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lauder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Pathog",
+            "volume": "4",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000006"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Essential role of IL-6 in protection against H1N1 influenza virus by promoting neutrophil survival in the lung",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Dienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rud",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Impact of tocilizumab therapy on antibody response to influenza vaccine in patients with rheumatoid arthritis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ueki",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hirakata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Ann Rheum Dis",
+            "volume": "71",
+            "issn": "",
+            "pages": "2006--2016",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Anti-spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kwok",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tongjin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-W",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-H",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lackner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JCI Insight",
+            "volume": "4",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/jci.insight.123158"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Thus, Italian Pharmaceutical Agency (AIFA) approved a Phase II trial in 330 patients with COVID-19 induced ARDS using tocilizumab started on March 19, 2020 (https ://www.aifa.gov.it/docum ents/20142 /11279 01/ TOCIV ID-19_Proto col_v1.3_18Mar zo202 0.pdf/68439 30d-9f31-185d-9812-29f02 ebebd 76) identified in USA as NCT04317092. This is a multicenter, open label, single *Correspondence: paolo.ascierto@gmail.com 1 Melanoma, Cancer Immunotherapy and Development Therapeutics Unit, Istituto Nazionale Tumori IRCCS Fondazione \"G. Pascale\", Via Mariano Semmola, 80131 Naples, Italy Full list of author information is available at the end of the article",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions FMB, IP, and PAA wrote and edited the editorial. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "All relevant data are included in the article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and consent to participate"
+        },
+        {
+            "text": "Not applicable. Received: 2 April 2020 Accepted: 8 April 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        }
+    ]
+}

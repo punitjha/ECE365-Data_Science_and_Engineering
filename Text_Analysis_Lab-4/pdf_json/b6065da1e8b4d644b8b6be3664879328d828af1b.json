@@ -1,0 +1,669 @@
+{
+    "paper_id": "b6065da1e8b4d644b8b6be3664879328d828af1b",
+    "metadata": {
+        "title": "Translating transmissibility measures into recommendations for coronavirus prevention",
+        "authors": [
+            {
+                "first": "Fredi",
+                "middle": [
+                    "Alexander"
+                ],
+                "last": "Diaz-Quijano I",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alfonso",
+                "middle": [],
+                "last": "Javier",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rodriguez-Morales",
+                "middle": [],
+                "last": "Iii",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Eliseu",
+                "middle": [],
+                "last": "Alves",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Waldman",
+                "middle": [
+                    "I"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alexander",
+                "middle": [],
+                "last": "Fredi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Diaz Quijano",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The rapid increase in clinical cases of the new coronavirus disease, COVID-19, suggests high transmissibility. However, the estimates of the basic reproductive number reported in the literature vary widely. Considering this, we drew the function of contact-rate reduction required to control the transmission from both detectable and undetectable sources. Based on this, we offer a set of recommendations for symptomatic and asymptomatic populations during the current pandemic. Understanding the dynamics of transmission is essential to support government decisions and improve the community's adherence to preventive measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The rapid increase in clinical cases of the new coronavirus disease, COVID-19, suggests that its transmissibility is high. Several studies indicated that the most probable basic reproductive number (R 0 ) is between two and four for the coronavirus (meaning that each infectious individual may directly generate two to four others) [1] [2] [3] [4] [5] [6] . However, some estimates suggested R 0 higher than four with confidence intervals that reach values close to eight 2, 7 . A reproductive number higher than one implies a progressive increase in cases, which translates into epidemics. Therefore, the reduction in this value must guide preventive strategies towards transmission control. In this study, we applied some simple calculations to translate the transmissibility measures into goals for contact rate reduction to support preventive recommendations during the coronavirus pandemic.",
+            "cite_spans": [
+                {
+                    "start": 332,
+                    "end": 335,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 336,
+                    "end": 339,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 340,
+                    "end": 343,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 344,
+                    "end": 347,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 348,
+                    "end": 351,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 352,
+                    "end": 355,
+                    "text": "[6]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 472,
+                    "end": 474,
+                    "text": "2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 475,
+                    "end": 476,
+                    "text": "7",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The R 0 results from the product of three factors, such as R 0 = dpc; where d is the duration of infectiousness (the period when a case can be a source of transmission), p is the probability of transmission by contact, and c is the contact rate 8 . The duration of infectiousness and the transmission probability by contact are practically inherent to the pathology and, therefore, difficult to modify. However, the contact rate is more feasible to control 9 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS AND RESULTS"
+        },
+        {
+            "text": "A theoretically effective strategy would be to eliminate any kind of contact between people, which is impractical. Therefore, a reasonable goal is to reduce contacts to the point that the reproductive number is lower than one. If we consider a R 0 of eight, it would be necessary to minimize the contact rate for each infectious case by about 90% (> 87.5%, i.e., > 1 -1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS AND RESULTS"
+        },
+        {
+            "text": "As it is difficult to test all the suspected patients, a sensible recommendation during the epidemic is to apply this goal to all people with respiratory symptoms, which means domestic confinement as long as they do not need specialized care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS AND RESULTS"
+        },
+        {
+            "text": "Asymptomatic people must also be considered because they represent the majority of infections. Recent studies suggested that about 86% of infections can be undocumented. Although the transmission probability from them appears to be 45% lower than from documented cases, undocumented infections are the source of 79% of clinical cases 10 . Given the limitations of both logistics and resources to carry out mass testing, in epidemic situations, everyone must be considered a potential carrier of the infection. Thus, a reasonable goal for asymptomatic people is to reduce the contact rate by more than 78% (> 77.3%, i.e., 1 -1 0.55R 0 ).",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 336,
+                    "text": "10",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS AND RESULTS"
+        },
+        {
+            "text": "These estimates were based on extrapolations from different studies 2,7,10 , for which we assumed the worst-case scenarios. Considering this, we represented the relationship between the baseline R 0 of identifiable cases and the minimum necessary reduction in their contact rate to decrease that reproductive number to less than one (solid line in the figure) . Additionally, we represented the minimum contact-rate reduction that should be concomitantly adopted by the undetectable infection cases to achieve the same goal (dotted line). According to these functions, even in a more optimistic scenario, for example, with a R 0 of 4, contact rate should be reduced by at least 75% and 55% for symptomatic and asymptomatic people, respectively (Figure) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 352,
+                    "end": 359,
+                    "text": "figure)",
+                    "ref_id": null
+                },
+                {
+                    "start": 744,
+                    "end": 752,
+                    "text": "(Figure)",
+                    "ref_id": null
+                }
+            ],
+            "section": "METHODS AND RESULTS"
+        },
+        {
+            "text": "Although it is challenging to quantify how many contacts people usually have, the estimates presented help to understand the need for physical isolation, even among asymptomatic people. The minimum contact-rate reduction refers to that necessary only to decelerate the increasing transmission trend. Consequently, to achieve effective control, reduction must far exceed the minimum recommended and involve the entire community at risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The virus is transmitted by aerosols that could remain suspended in the air for many minutes after coughing or sneezing 11 . Moreover, it can remain viable for a few days on multiple surfaces. Therefore, proper cleaning of shared spaces and personal hygiene are critical. During the epidemic, even asymptomatic people should avoid crowding and reduce all activities that imply proximity to others, including public transportation, as well as social, cultural, and academic events.",
+            "cite_spans": [
+                {
+                    "start": 120,
+                    "end": 122,
+                    "text": "11",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Whenever possible, work and study activities should be carried out virtually, and commercial activities and travel should be reduced to what is strictly essential, such as the purchase of food or medicines. Cases with mild respiratory symptoms should be treated at home with hydration and paracetamol when needed. Visits to health centers should only be made when justified by the presence of risk factors (underlying severe disease) or warning signs (such as breathing difficulties or cognitive impairment).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Older patients are especially susceptible to complications 12 . However, to reduce transmission, people of all ages must be committed to prevention. Thus, in the absence of vaccines or other preventive strategies, reducing the contact rate will be the only strategy to slow the progression of this pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "If these measures are adequately applied, the number of new cases is expected to decrease. It is difficult to predict for how long these preventive measures must be maintained. Nevertheless, the earlier and more rigorously they are incorporated, the faster the epidemiological conditions will be reversed and our regular routines resumed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: a data-driven analysis in the early phase of the outbreak",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Musa",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "92",
+            "issn": "",
+            "pages": "214--221",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.01.050"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Reporting, epidemic growth, and reproduction numbers for the 2019 novel Coronavirus (2019-nCoV) epidemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tuite",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Fisman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ann Intern Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7326/m20-0358"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Prediction of the epidemic peak of Coronavirus Disease in Japan, 2020",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kuniya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Med",
+            "volume": "9",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/jcm9030789"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Serial interval in determining the estimation of reproduction number of the novel coronavirus disease (COVID-19) during the early outbreak",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Transmission dynamics of the COVID-19 outbreak and effectiveness of government interventions: a data-driven analysis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Penny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Unique epidemiological and clinical features of the emerging 2019 novel coronavirus pneumonia (COVID-19) implicate special control measures",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Estimating the reproductive number and the outbreak size of novel Coronavirus Disease (COVID-19) using mathematical model in Republic of Korea",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Epidemiol methods for the study of infectious diseases",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Halloran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "56--85",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gimma",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bosse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jarvis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob Health",
+            "volume": "8",
+            "issn": "4",
+            "pages": "30074--30081",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2214-109X(20)30074-7"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pei",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb3221"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bushmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Holbrook",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Williamson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The minimum contact-rate reduction required according to the basic reproductive number (R 0",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ").",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

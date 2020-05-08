@@ -1,0 +1,1008 @@
+{
+    "paper_id": "561e6549b9c7b4112f59ca84a79657f99dd1d2cf",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Acute rhinosinusitis (ARS) is the most common infectious disease and apart from personal discomfort with reduced quality of life, it has a vast social and economic impact [1] . The concept of \"rhinosinusitis\" was introduced in the recent years as inflammation had been proved to occur simultaneously in the nose and paranasal sinuses. Each case of common cold with rhinitis symptoms should be considered as ARS. According to the European Position Paper on Rhinosinusitis and Nasal Polyps (EPOS 2012), ARS is characterised, apart from inflammation of nasal passages and paranasal sinuses, by two or more specific symptoms: nasal congestion or nasal discharge; besides facial pain/pressure, or anosmia/hyposmia may occur [2] . Additional symptoms such as fever, asthenia, or headache may be observed.",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 719,
+                    "end": 722,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "As a rule, ARS is a self-limiting disease lasting for 7 to 14 days. ARS includes a viral phase (acute viral rhinosinusitis) and a post-viral phase. In EPOS 2007, the term \"viral ARS\" was chosen to indicate that most of the ARS cases are not bacterial. Only about 5% of ARS may be diagnosed as acute bacterial rhinosinusitis (ABRS). Typical ABRS symptoms include nasal discharge, unilateral facial pain, or tenderness on palpation in the area of sinus projection (in children older than 9-12 years), toothache, subsequent exacerbation after primary amelioration, hyperthermia, and neutrocytosis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Acute rhinosinusitis is the fifth frequent diagnosis for antibiotic prescription, although there is no evidence that antibacterial therapy reduces the duration of the disease. Frequent and groundless use of antibiotics causes increased resistance resulting in the need for alternative therapeutic strategies based on the scientific data. The main cause of ARS in the first 10 days of the disease is basically a number of viruses (rhinovirus, parainfluenza virus type 1 and type 2, coronavirus, influenza virus), all of which increase the concentration of proinflammatory cytokines and neutrophils [3] . In addition, their activity leads to disorders of mucociliary clearance due to damage of ciliated cells, as well as to increase of thick secretion. These changes lead to the gradual deterioration in the quality of the ostiomeatal complex, disorder of ventilation and drainage of paranasal sinuses. The similar type of reaction is also observed in the context of bacterial infection. Thus, ARS may be easily misdiagnosed as a bacterial infection and therefore groundlessly treated with antibiotics, which do not contribute to recovery at this stage of the disease.",
+            "cite_spans": [
+                {
+                    "start": 597,
+                    "end": 600,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "A common strategy for the treatment of acute viral rhinosinusitis is to reduce symptom severity, to minimise disease duration, to prevent transformation into post-viral and bacterial rhinosinusitis, as well as to prevent further progression into a chronic disease. The use of antibiotics, nasal decongestants, antihistamines, homeopathic medicines, and mucolytic agents in acute viral rhinosinusitis is groundless as their benefit has not yet been proved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "According to EPOS 2012, pharmaceutical symptomatic treatment for acute viral rhinosinusitis includes: therapeutic irrigation with isotonic sea salt solution and non-steroidal anti-inflammatory drugs or antipyretics (NSAIDs, aspirin or paracetamol). An alternative strategy is the use of herbal medicines, which are able to suppress a number of pathological processes [4] [5] [6] .",
+            "cite_spans": [
+                {
+                    "start": 367,
+                    "end": 370,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "[6]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "One example is the complex herbal medicine Sinupret\u00ae, which includes gentian, primula, elder, verbena, and sorrel. It has been proven that this herbal medicine intensifies ciliary activity in vitro [7] and it shows anti-inflammatory activity in experiments on animals [8] . It has a wide range of pharmacologic properties including mucolytic, secretomotor, antiviral, anti-inflammatory, and immunomodulatory action. Jund et al. [9] conducted a randomised double-blind, placebo-controlled study with 386 adult patients with acute viral rhinosinusitis. The active treatment group received a daily dose of 3 \u00d7 160 mg of the phytopreparation within 15 days. The active treatment group showed a significant improvement compared to the placebo group based on the results of a sinonasal test including total index, nasal symptoms, rhinogenous symptoms and overall quality of life.",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 268,
+                    "end": 271,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 428,
+                    "end": 431,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "A study on the efficacy of Sinupret\u00ae syrup in the treatment of viral ARS in school-aged children (6 to 11 years old) has not been conducted previously. Here, we report the results of a randomised controlled study in children aged 6 to 11 years applying Sinupret\u00ae as a syrup. Our study is similar to the trial conducted in adults by Jund et al.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "This study was a prospective, multicentre, interventional, randomised study of viral ARS treatment in children aged 6 to 11 years. This study compared complex phytotherapeutic treatment with Sinupret\u00ae syrup in combination with therapeutic irrigation to standard therapeutic irrigation (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 285,
+                    "end": 294,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Study plan"
+        },
+        {
+            "text": "Sinupret\u00ae is a herbal medicine widely used for the treatment of different respiratory tract diseases including rhinosinusitis. The composition is a mixture derived from parts of four plants: gentian root (Radix Gentianae), primrose flowers with calyx (Flores Primulae cum Calibus), flowers of elderberry (Flores Sambuci), European vervain herb (Herba Verbenae), and sorrel grass (Herba Rum\u0456\u0441\u0456s) (1:3:3:3:3).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study plan"
+        },
+        {
+            "text": "Both groups received symptomatic medications (paracetamol or nasal decongestants if necessary), and both groups were applied therapeutic irrigation with isotonic sea salt solution four times daily. The Sinupret\u00ae group additionally received the herbal medicine Sinupret\u00ae syrup three times daily in an age-specific dosage of 3.5 mL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study plan"
+        },
+        {
+            "text": "The study population consisted of 184 children, 98 boys and 86 girls. Using the method of opaque sealed and sequentially numbered envelopes, 96 children were distributed to the Sinupret\u00ae group, and 88 children to the control group.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study population"
+        },
+        {
+            "text": "The main inclusion criteria were acute viral rhinosinusitis with acute symptoms up to 48 h and a total score of sinusitis severity of 8 to 15 points according to major sinusitis severity score (MSS score). For assessment of the MSS score, the five key symptoms were rated by the physicians (0 to 4 points per symptom; summing up to a maximum MSS score of 20 points): nasal discharge, nasal congestion, post-nasal drip, headache, facial pain with (0absent, 1 slight, 2moderate, 3severe, 4very severe).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inclusion criteria"
+        },
+        {
+            "text": "Administration of herbal medicine within 30 days prior to first manifestation of rhinosinusitis. Diagnosis of allergic rhinosinusitis. Known intolerance to primrose drugs. Severe acute disease requiring hospitalisation or treatment with antibiotics. Administration of topical corticosteroids. Immune deficiency. Chronic pathology and anatomical anomalies of ostiomeatal complex, which may influence the outcome of the disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Exclusion criteria"
+        },
+        {
+            "text": "During the study period, four visits were conducted: visit 1 (day 0), visit 2 (day 5), visit 3 (day 7), and visit 4 (day 10). Symptoms were assessed by the physicians and the patients. The five key symptoms (nasal discharge, nasal congestion, post-nasal drip, headache, facial pain) were assessed by the physicians (0 to 4 points per symptom) at each visit. In addition, the key complaints: rhinorrhoea, headache, and facial pain were assessed daily by the patients and their parents using a 10-point visual analogue scale.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methodology"
+        },
+        {
+            "text": "The primary criteria were the improvements in symptoms. The secondary criteria were the frequency of transition to antibiotic prescription, exacerbation after day 5 or persistence of symptoms after day 10, and the duration of the disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Efficacy criteria"
+        },
+        {
+            "text": "The data were analysed descriptively. Differences between the two groups were analysed using the paired t-test, using a two-sided 95% confidence interval (95%-CI) with p < 0.05 indicating statistical significance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data analysis"
+        },
+        {
+            "text": "This trial was registered in German Clinical Trials Register retrospectively 27. March 2018.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Trial registration"
+        },
+        {
+            "text": "Trial Acronym ARSiCh DRKS-ID: DRKS00000765",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Trial registration"
+        },
+        {
+            "text": "One hundred sixty-nine patients out of 184 completed the study period of 10 days. In total, 4 patients in the Sinupret\u00ae group and 12 patients in the control group were excluded from the study due to protocol violations, and data of these patients were excluded from analysis. Thus, data of 92 patients in the Sinupret\u00ae group and 76 patients in the control group were used for analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study population"
+        },
+        {
+            "text": "By visit 4 (day 10), 1 patient (1.08%) in the Sinupret\u00ae group and 4 patients (5.26%) in the control group showed continuation or exacerbation of symptoms after day 5 with no signs of bacterial inflammation. Post-viral rhinosinusitis was diagnosed in these patients. However, these differences were not statistically significant. A similar trend without statistical significance was also observed regarding the terms of recovery (in the Sinupret\u00ae group the duration of the disease was 7.85 days vs. 8.88 days in the control group).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Follow-up outcome"
+        },
+        {
+            "text": "In total, 2 patients (2.17%) in the Sinupret\u00ae group had to take antibiotics compared to 4 patients (5.26%) in the control group. This difference was not statistically significant (p > 0.05). In all cases (6 patients) antibiotics administration was initiated at the time of visit 3 due to rise in body temperature (39\u00b0C and higher), sinusitis symptoms exacerbation. Symptoms assessed by the physicians Figure 1 shows the physicians' assessment (by rhinoscopy) of dynamics of nasal congestion symptoms at visits 1 to 4. Both groups showed comparable symptoms at visit 1. At visit 2 and visit 3 nasal congestion was significantly lower in the Sinupret\u00ae group than in the control group (p = 0.044 and p = 0.048 respectively). From visit 3 to visit 4 nasal congestion in both groups showed further symptom reduction and patients were symptom-free at visit 4 . Figure 2 shows the physicians' assessment of nasal discharge symptoms at visits 1 to 4. Differences of indexes at visit 2 are statistically significant (p = 0.037). At visit 3 and visit 4, there is a further decrease of symptom intensity, however, between-group differences did not reach statistical significance anymore. Figure 3 shows that physicians assessed post-nasal drip symptoms (by pharyngoscopy) to be less severe in the Sinupret\u00ae group than in the control group at visit 2 (1.02 vs. 1.51 points, p = 0.034). At visit 3 and visit 4 in both groups showed further symptom reduction but without statistical significance.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 401,
+                    "end": 409,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 855,
+                    "end": 863,
+                    "text": "Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1177,
+                    "end": 1185,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Antibiotics treatment"
+        },
+        {
+            "text": "The physicians' assessment of headache also showed that this symptom was slightly less severe in the Sinu-pret\u00ae group compared to the control group at visit 2 (0.3 vs. 0.4), but the difference was not significant. No statistically significant difference was observed regarding facial pain between the groups. Figure 4 shows the physicians' assessment of consolidated figures (in points) of sinusitis severity for all five symptoms. At visit 2 (day 5), a significant difference between the groups (p = 0.037) in favour of the treatment group was observed. Symptom reduction persisted over time. However, the between-group comparison becomes statistically insignificant at visit 3 and visit 4. Figure 5 shows patients' self-assessment (with parental help) of their condition (average score) during the first 10 days of the treatment for three symptoms: rhinorrhoea, facial pain, and headache (0-10 score per symptom). At the beginning of the study (days 1 to 4), patients' assessment in both groups was similar. A significantly lower level of the main complaints was found in the Sinupret\u00ae group on days 5, 6, 7, and 8 (all p < 0.05). In general, the patients' self-assessment of symptom dynamics is consistent with the assessments provided by the physicians at visit 2 (statistically significant difference between groups).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 309,
+                    "end": 317,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 692,
+                    "end": 700,
+                    "text": "Figure 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Antibiotics treatment"
+        },
+        {
+            "text": "Acute viral rhinosinusitis is a prevalent and economically important disease, involving inflammation of nasal mucosa and paranasal sinuses [1, 2] . Now there is no conventional Fig. 1 Physicians' assessment of dynamics of nasal congestion symptoms at visits 1 to 4. Average score (MSS scale: 0-4 points). * p < 0.05: Significant difference between groups Fig. 2 Physicians' assessment of nasal discharge symptoms at visits 1 to 4. Average score (MSS scale: 0-4 points). * p < 0.05: Significant difference between groups gold standard for ARS treatment. Antibiotics are not indicated in the treatment of uncomplicated ARS. Saline irrigation proved efficient for improving the symptoms in randomised, placebo-controlled studies [10] . Since 2016, complex herbal preparation Sinupret\u00ae has been included in the national clinical guidelines for the treatment of acute rhinosinusitis in Ukraine. There is extensive evidence from in vitro and in vivo studies that the complex herbal medicine Sinupret\u00ae possesses a variety of such relevant activities: anti-inflammatory action [8] ; stimulation of transepithelial chloride transport, and enhances ciliary beat frequency [7, 11] ; antiviral activity [12] .",
+            "cite_spans": [
+                {
+                    "start": 139,
+                    "end": 142,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 143,
+                    "end": 145,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 726,
+                    "end": 730,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1069,
+                    "end": 1072,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1162,
+                    "end": 1165,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1166,
+                    "end": 1169,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1191,
+                    "end": 1195,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 177,
+                    "end": 183,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 355,
+                    "end": 361,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Until now there has been limited knowledge of the beneficial effects of herbal medicines in the treatment of ARS in children. In our previous study, we investigated the effectiveness of Sinupret\u00ae in children with acute postviral RS with a positive effect [13] . Our current study result shows that administration of the herbal drug Sinupret\u00ae syrup (3.5 ml / 3 times daily) is effective in the treatment of acute viral rhinosinusitis in children aged 6 to 11. Application of this herbal preparation together with saline irrigation and symptomatic treatment gives faster recovery from symptoms, gives a higher rate of complete recovery without the use of antibiotics. In our study, we used irrigation therapy in both groups as a component of the basic therapy with local activity. Impact of irrigation therapy can be assumed as similar in both groups, since the group parameters are comparable. Evaluated differences in severity of symptoms dynamic between both groups can therefore be assumed to the herbal medicine action. An additional herbal medicine with multiple systematic activities could be useful in alleviating the symptoms of acute viral rhinosinusitis and might inhibit the transition to a bacterial infection or postviral rhinosinusitis. Compared to the standard treatment, in the Sinupret group, significant improvements were observed in three out of five key symptoms as assessed by the physician, and nasal congestion as assessed by the patient. In general, assessment of symptoms dynamics by physicians and by patients were consistent. A reduction in the number of patients taking antibiotics and a trend towards the reduction of the disease duration and of the transition of disease to the post-viral rhinosinusitis were also observed. However, the difference in these two parameters is considered not to be statistically significant. During the study in patients with postviral rhinosinusitis the similar results were observed [12] . During the present study, none of the patients showed any adverse reactions to Sinupret\u00ae syrup. This fact may be due to a relatively small number of participants however it confirms the good tolerability of the medicine in the form of syrup for use in children.",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 259,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1945,
+                    "end": 1949,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This was an open-label, randomised, interventional study. Limitations include the absence of virological information and radiologic data. Further, the small sample size limits the accuracy of the results on the disease duration and frequency of antibiotics prescription in the groups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Sinupret\u00ae is an effective treatment of acute viral rhinosinusitis in children, and it accelerates the relief of the main symptoms. Sinupret\u00ae can also help to reduce extensive antibiotics prescription under this condition and reduce the possibility of disease progression to the phase of post-viral rhinosinusitis. This seems to be important in view of the necessity to reduce the undue prescription of antibiotics and the development of bacterial resistance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Abbreviations ABRS: acute bacterial rhinosinusitis; ARS: acute rhinosinusitis; CFTR: cystic fibrosis transmembrane conductance regulator; EPOS: European Position Paper on Rhinosinusitis and Nasal Polyps;; MSS score: major sinusitis severity score; V1, 2, 3, 4: visits 1, 2, 3, 4.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Bionorica, SE supported the presenting of the results of the study: covered the costs for a medical writer, statistical data processing and translation of the article into English.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Availability of data and materials All relevant data are presented in the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Patients' self-assessment of their condition during the first 10 days of the treatment for three symptoms (rhinorrhea, facial pain, and headache). * p < 0.05: Significant difference between groups",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 5"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Allergic rhinitis and the common cold -high costs to society",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellgren",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cervin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nordling",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bergman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-O",
+                    "middle": [],
+                    "last": "Cardell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Allergy",
+            "volume": "65",
+            "issn": "",
+            "pages": "776--83",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "European position paper on rhinosinusitis and nasal polyps 2012",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fokkens",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mullol",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bachert",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Alobid",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Baroody",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Rhinology Suppl",
+            "volume": "23",
+            "issn": "",
+            "pages": "1--298",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Acute rhinosinusitis in adults: an update on current management",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Masood",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Maoumoulidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Panesar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Postgrad Med",
+            "volume": "83",
+            "issn": "",
+            "pages": "402--410",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Herbal medicines for the treatment of rhinosinusitis: a systematic review",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Canter",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ernst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Otolaryngol Head Neck Surg",
+            "volume": "135",
+            "issn": "",
+            "pages": "496--506",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The effect of herbal combination of primrose, gentian root, vervain, elder flowers, and sorrel on olfactory function in patients with a sinonasal olfactory dysfunction",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reden",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "El-Hifnawi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zahnert",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hummel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Rhinology",
+            "volume": "49",
+            "issn": "3",
+            "pages": "342--348",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Sinupret activates CFTR and TMEM16A-dependent transepithelial chloride transport and improves indicators of mucociliary clearance",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Skinner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Bevensee",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sorscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lazrak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matalon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcnicholas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS One",
+            "volume": "9",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The novel Sinupret\u00ae dry extract exhibits effectiveness in vivo",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dehm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kiesselbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haunschild",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sautebin",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Werz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Fitoterapia",
+            "volume": "83",
+            "issn": "",
+            "pages": "715--735",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Klinische Wirksamkeit eines pflanzlichen Kombinationspr\u00e4parates in der Behandlung der akuten viralen Rhinosinusitis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mondigler",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Steindl",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stammer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Stierna",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bachert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "MMW-Fortschritte der Medizin",
+            "volume": "157",
+            "issn": "S4",
+            "pages": "6--11",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Nasal saline for chronic sinonasal symptoms: a randomized controlled trial",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pynnonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mukerji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Terrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Arch Otolaryngol Head Neck Surg",
+            "volume": "133",
+            "issn": "11",
+            "pages": "1115--1135",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Quercetin increases CFTR mediated chloride transport and ciliary beat frequency: therapeutic implications for chronic rhinosinusitis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schuster",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Azbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sorscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Am J Rhinol Allergy",
+            "volume": "25",
+            "issn": "5",
+            "pages": "307--319",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Antiviral activity in vitro of two preparations of the herbal medicinal product Sinupret\u00ae against viruses causing respiratory infections",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Glatthaar-Saalm\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Rauchhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rode",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haunschild",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saalm\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Phytomedicine",
+            "volume": "19",
+            "issn": "",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Sinupret\u00ae as add-on therapy to saline irrigation for children with acute post-viral rhinosinusitis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Popovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Koshel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clin Phytoscience",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "WMA Declaration of Helsinki -Ethical principles for medicinal research involving human patients",
+            "authors": [],
+            "year": 1964,
+            "venue": "World Medical Association",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "EMEA -The European Agency for the Evaluation of Medicinal Products: ICH Topic E6. Note for Guidance on Good Clinical Practice (CPMP/ ICH/ 135/ 95). Step 5. Consolidated Guideline 1 May 1996/ Date for coming into operation",
+            "authors": [],
+            "year": 1997,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Physicians' assessment of dynamics of the post-nasal drip symptoms (average score on the MSS scale: 0-4 points). * p < 0.05: Significant difference between groups",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Physicians' assessment of sinusitis severity for all five symptoms (average summary score, of the MSS scale: 0-20 points). * p < 0.05: Significant difference between groups",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Study treatments",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors show their appreciation to Professor Olha Tsodikova, Professor Aleksandra Abaturova, Professor Tetiana Kriuchko, Associate Professor Liudmyla Vakulenko, Associate Professor Ivanna Koshel for their contribution to the planning and conduct of the study. 1 Department of Otorhinolaryngology, Ivano-Frankivsk University, 76000, Galitskaya str. 2, Ivano-Frankivsk, Ukraine. 2 Department of Paediatrics, Kiev National Medical Academy of Postgraduate Education, Dorogojitskaya str. 9, Kiev 02000, Ukraine.",
+            "cite_spans": [
+                {
+                    "start": 264,
+                    "end": 265,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions VP: development of the study plan, protocol, data processing, and interpretation. HB: work with patients, data collection. Both authors have read and confirmed the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The study was conducted in accordance with the Declaration of Helsinki [14] and the ICH Harmonised Tripartite Guideline for Good Clinical Practice (CPMP/ICH/135/ 95) [15] . Before enrolment of the first patient, the trial was approved by the local ethics commission of the Department of Otolaringology of Ivano-Franskivsk National Medical University (protocol No. 26 dd. November 26, 2015) , Ukraine and received a favourable opinion by the ethics committee competent for the coordinating investigator. Written informed consent was received from all legal representatives of the patients prior to any study related measures.",
+            "cite_spans": [
+                {
+                    "start": 71,
+                    "end": 75,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 360,
+                    "end": 389,
+                    "text": "No. 26 dd. November 26, 2015)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Ethics approval and consent to participate"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The trial was carried out on the initiative of the authors. The author received an honorarium for preparing the manuscript based on the results of this study. The authors state that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Author details",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Publisher's Note"
+        }
+    ]
+}

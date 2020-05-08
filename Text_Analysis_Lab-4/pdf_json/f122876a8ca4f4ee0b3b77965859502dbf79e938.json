@@ -1,0 +1,896 @@
+{
+    "paper_id": "f122876a8ca4f4ee0b3b77965859502dbf79e938",
+    "metadata": {
+        "title": "Morbidity and Mortality Weekly Report Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility - King County, Washington, March 2020",
+        "authors": [
+            {
+                "first": "Anne",
+                "middle": [],
+                "last": "Kimball",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kelly",
+                "middle": [
+                    "M"
+                ],
+                "last": "Hatfield",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Melissa",
+                "middle": [],
+                "last": "Arons",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Allison",
+                "middle": [],
+                "last": "James",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joanne",
+                "middle": [],
+                "last": "Taylor",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kevin",
+                "middle": [],
+                "last": "Spicer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ana",
+                "middle": [
+                    "C"
+                ],
+                "last": "Bardossy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lisa",
+                "middle": [
+                    "P"
+                ],
+                "last": "Oakley",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sukarma",
+                "middle": [],
+                "last": "Tanwar",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Mmed",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zeshan",
+                "middle": [],
+                "last": "Chisty",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeneita",
+                "middle": [
+                    "M"
+                ],
+                "last": "Bell",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [
+                    "Mark"
+                ],
+                "last": "Methner",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Josh",
+                "middle": [],
+                "last": "Harney",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jesica",
+                "middle": [
+                    "R"
+                ],
+                "last": "Jacobs",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Christina",
+                "middle": [
+                    "M"
+                ],
+                "last": "Carlson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Heather",
+                "middle": [
+                    "P"
+                ],
+                "last": "Mclaughlin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nimalie",
+                "middle": [],
+                "last": "Stone",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Shauna",
+                "middle": [],
+                "last": "Clark",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Claire",
+                "middle": [],
+                "last": "Brostrom-Smith",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [],
+                "last": "Libby",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C",
+                "middle": [],
+                "last": "Page",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Meagan",
+                "middle": [],
+                "last": "Kay",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "James",
+                "middle": [],
+                "last": "Lewis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Denny",
+                "middle": [],
+                "last": "Russell",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Brian",
+                "middle": [],
+                "last": "Hiatt",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jessica",
+                "middle": [],
+                "last": "Gant",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeffrey",
+                "middle": [
+                    "S"
+                ],
+                "last": "Duchin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [
+                    "A"
+                ],
+                "last": "Clark",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Margaret",
+                "middle": [
+                    "A"
+                ],
+                "last": "Honein",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sujan",
+                "middle": [
+                    "C"
+                ],
+                "last": "Reddy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [
+                    "A"
+                ],
+                "last": "Jernigan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "On March 27, 2020, this report was posted as an MMWR Early Release on the MMWR website (https: //www.cdc.gov/mmwr) .",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 114,
+                    "text": "//www.cdc.gov/mmwr)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Older adults are susceptible to severe coronavirus disease 2019 (COVID-19) outcomes as a consequence of their age and, in some cases, underlying health conditions (1) . A COVID-19 outbreak in a long-term care skilled nursing facility (SNF) in King County, Washington that was first identified on February 28, 2020, highlighted the potential for rapid spread among residents of these types of facilities (2) . On March 1, a health care provider at a second long-term care skilled nursing facility (facility A) in King County, Washington, had a positive test result for SARS-CoV-2, the novel coronavirus that causes COVID-19, after working while symptomatic on February 26 and 28. By March 6, seven residents of this second facility were symptomatic and had positive test results for SARS-CoV-2. On March 13, CDC performed symptom assessments and SARS-CoV-2 testing for 76 (93%) of the 82 facility A residents to evaluate the utility of symptom screening for identification of COVID-19 in SNF residents. Residents were categorized as asymptomatic or symptomatic at the time of testing, based on the absence or presence of fever, cough, shortness of breath, or other symptoms on the day of testing or during the preceding 14 days. Among 23 (30%) residents with positive test results, 10 (43%) had symptoms on the date of testing, and 13 (57%) were asymptomatic. Seven days after testing, 10 of these 13 previously asymptomatic residents had developed symptoms and were recategorized as presymptomatic at the time of testing. The reverse transcription-polymerase chain reaction (RT-PCR) testing cycle threshold (Ct) values indicated large quantities of viral RNA in asymptomatic, presymptomatic, and symptomatic residents, suggesting the potential for transmission regardless of symptoms. Symptombased screening in SNFs could fail to identify approximately half of residents with COVID-19. Long-term care facilities should take proactive steps to prevent introduction of SARS-CoV-2 (3). Once a confirmed case is identified in an SNF, all residents should be placed on isolation precautions if possible (3) , with considerations for extended use or reuse of personal protective equipment (PPE) as needed (4) .",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "(1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 234,
+                    "end": 239,
+                    "text": "(SNF)",
+                    "ref_id": null
+                },
+                {
+                    "start": 403,
+                    "end": 406,
+                    "text": "(2)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 2098,
+                    "end": 2101,
+                    "text": "(3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 2199,
+                    "end": 2202,
+                    "text": "(4)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Immediately upon identification of the index case in facility A on March 1, nursing and administrative leadership instituted visitor restrictions, twice-daily assessments of COVID-19 signs and symptoms among residents, and fever screening of all health care personnel at the start of each shift. On March 6, Public Health -Seattle and King County, in collaboration with CDC, recommended infection prevention and control measures, including isolation of all symptomatic residents and use of gowns, gloves, eye protection, facemasks, and hand hygiene for health care personnel entering symptomatic residents' rooms. A data collection tool was developed to ascertain symptom status and underlying medical conditions for all residents.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On March 13, the symptom assessment tool was completed by facility A's nursing staff members by reviewing screening records of residents for the preceding 14 days and by clinician interview of residents at the time of specimen collection. For residents with significant cognitive impairment, symptoms were obtained solely from screening records. A follow-up symptom assessment was completed 7 days later by nursing staff members. Nasopharyngeal swabs were obtained from all 76 residents who agreed to testing and were present in the facility at the time; oropharyngeal swabs were also collected from most residents, depending upon their cooperation. The Washington State Public Health Laboratory performed one-step real-time RT-PCR assay on all specimens using the SARS-CoV-2 CDC assay protocol, which determines the presence of the virus through identification of two genetic markers, the N1 and N2 nucleocapsid protein gene regions (5) . The Ct, the cycle number during RT-PCR testing when detection of viral amplicons occurs, is inversely correlated with the amount of RNA present; a Ct value <40 cycles denotes a positive result for SARS-CoV-2, with a lower value indicating a larger amount of viral RNA.",
+            "cite_spans": [
+                {
+                    "start": 934,
+                    "end": 937,
+                    "text": "(5)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Residents were assessed for stable chronic symptoms (e.g., chronic, unchanged cough) as well as typical and atypical signs and symptoms of COVID-19. Typical COVID-19 signs and symptoms include fever, cough, and shortness of breath (3); potential atypical symptoms assessed included sore throat,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "What is already known about this topic?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "Once SARS-CoV-2 is introduced in a long-term care skilled nursing facility (SNF), rapid transmission can occur.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "What is added by this report?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "Following identification of a case of coronavirus disease 2019 (COVID-19) in a health care worker, 76 of 82 residents of an SNF were tested for SARS-CoV-2; 23 (30.3%) had positive test results, approximately half of whom were asymptomatic or presymptomatic on the day of testing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "What are the implications for public health practice?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "Symptom-based screening of SNF residents might fail to identify all SARS-CoV-2 infections. Asymptomatic and presymptomatic SNF residents might contribute to SARS-CoV-2 transmission. Once a facility has confirmed a COVID-19 case, all residents should be cared for using CDC-recommended personal protective equipment (PPE), with considerations for extended use or reuse of PPE as needed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "chills, increased confusion, rhinorrhea or nasal congestion, myalgia, dizziness, malaise, headache, nausea, and diarrhea. Residents were categorized as asymptomatic (no symptoms or only stable chronic symptoms) or symptomatic (at least one new or worsened typical or atypical symptom of COVID-19) on the day of testing or during the preceding 14 days. Residents with positive test results and were asymptomatic at time of testing were reevaluated 1 week later to ascertain whether any symptoms had developed in the interim. Those who developed new symptoms were recategorized as presymptomatic. Ct values were compared for the recategorized symptom groups using one-way analysis of variance (ANOVA) for all residents with positive test results for SARS-CoV-2. Analyses were conducted using SAS statistical software (version 9.4; SAS Institute).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "On March 13, among the 82 residents in facility A; 76 (92.7%) underwent symptom assessment and testing; three (3.7%) refused testing, two (2.4%) who had COVID-19 symptoms were transferred to a hospital before testing, and one (1.2%) was unavailable. Among the 76 tested residents, 23 (30.3%) had positive test results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        },
+        {
+            "text": "Demographic characteristics were similar among the 53 (69.7%) residents with negative test results and the 23 (30.3%) with positive test results (Table 1) . Among the 23 residents with positive test results, 10 (43.5%) were symptomatic, and 13 (56.5%) were asymptomatic. Eight symptomatic residents had typical COVID-19 symptoms, and two had only atypical symptoms; the most common atypical symptoms reported were malaise (four residents) and nausea (three). Thirteen (24.5%) residents who had negative test results also reported typical and atypical COVID-19 symptoms during the 14 days preceding testing.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 145,
+                    "end": 154,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Summary"
+        },
+        {
+            "text": "One week after testing, the 13 residents who had positive test results and were asymptomatic on the date of testing were reassessed; 10 had developed symptoms and were recategorized as presymptomatic at the time of testing ( Table 2 ). The most common signs and symptoms that developed were fever (eight residents), malaise (six), and cough (five). The mean interval from testing to symptom onset in the presymptomatic residents was 3 days. Three residents with positive test results remained asymptomatic.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 225,
+                    "end": 232,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Summary"
+        },
+        {
+            "text": "Real-time RT-PCR Ct values for both genetic markers among residents with positive test results for SARS-CoV-2 ranged from 18.6 to 29.2 (symptomatic [typical symptoms]), 24.3 to 26.3 (symptomatic [atypical symptoms only]), 15.3 to 37.9 (presymptomatic), and 21.9 to 31.0 (asymptomatic) (Figure) . There were no significant differences between the mean Ct values in the four symptom status groups (p = 0.3).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 285,
+                    "end": 293,
+                    "text": "(Figure)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Summary"
+        },
+        {
+            "text": "Sixteen days after introduction of SARS-CoV-2 into facility A, facility-wide testing identified a 30.3% prevalence of infection among residents, indicating very rapid spread, despite early adoption of infection prevention and control measures. Approximately half of all residents with positive test results did not have any symptoms at the time of testing, suggesting that transmission from asymptomatic and presymptomatic residents, who were not recognized as having SARS-CoV-2 infection and therefore not isolated, might have contributed to further spread. Similarly, studies have shown that influenza in the elderly, including those living in SNFs, often manifests as few or atypical symptoms, delaying diagnosis and contributing to transmission (6) (7) (8) . These findings have important implications for infection control. Current interventions for preventing SARS-CoV-2 transmission primarily rely on presence of signs and symptoms to identify and isolate residents or patients who might have COVID-19. If asymptomatic or presymptomatic residents play an important role in transmission in this population at high risk, additional prevention measures merit consideration, including using testing to guide cohorting strategies or using transmission-based precautions for all residents of a facility after introduction of SARS-CoV-2. Limitations in availability of tests might necessitate taking the latter approach at this time.",
+            "cite_spans": [
+                {
+                    "start": 749,
+                    "end": 752,
+                    "text": "(6)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 753,
+                    "end": 756,
+                    "text": "(7)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 757,
+                    "end": 760,
+                    "text": "(8)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Although these findings do not quantify the relative contributions of asymptomatic or presymptomatic residents to SARS-CoV-2 transmission in facility A, they suggest that these residents have the potential for substantial viral shedding. Low Ct values, which indicate large quantities of viral RNA, were identified for most of these residents, and there was no statistically significant difference in distribution of Ct values among the symptom status groups. Similar Ct values were reported in asymptomatic adults in China who were known to Abbreviations: COVID-19 = coronavirus disease 2019; IQR = interquartile range, SD = standard deviation. * Testing performed on March 13, 2020. \u2020 Unknown for one resident with negative test results. \u00a7 Typical symptoms include fever, cough, and shortness of breath. \u00b6 Atypical symptoms include chills, malaise, sore throat, increased confusion, rhinorrhea or nasal congestion, myalgia, dizziness, headache, nausea, and diarrhea. ** Residents might have multiple conditions. transmit SARS-CoV-2 (9) . Studies to determine the presence of viable virus from these specimens are currently under way.",
+            "cite_spans": [
+                {
+                    "start": 1034,
+                    "end": 1037,
+                    "text": "(9)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "SNFs have additional infection prevention and control challenges compared with those of assisted living or independent living long-term care facilities. For example, SNF residents might be in shared rooms rather than individual apartments, and there is often prolonged and close contact between residents and health care providers related to the residents' medical conditions and cognitive function. The index patient in this outbreak was a health care provider, which might have contributed to rapid spread in the facility. In addition, health care personnel in all types of long-term care facilities might have limited experience with proper use of PPE. Symptom ascertainment and room isolation can be exceptionally challenging in elderly residents with neurologic conditions, including dementia. In addition, symptoms of COVID-19 are common and might have multiple etiologies in this population; 24.5% of facility A residents with negative test results for SARS-CoV-2 reported typical or atypical symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The findings in this report are subject to at least two limitations. First, accurate symptom ascertainment in persons with cognitive impairment and other disabilities is challenging; however, this limitation is estimated to be representative of symptom data collected in most SNFs, and thus, these findings might be generalizable. Second, because this analysis was conducted among residents of an SNF, it is not known whether findings apply to the general population, including younger persons, those without underlying medical conditions, or similarly aged populations in the general community. This analysis suggests that symptom screening could initially fail to identify approximately one half of SNF residents with SARS-CoV-2 infection. Unrecognized asymptomatic and presymptomatic infections might contribute to transmission in these settings. During the current COVID-19 pandemic, SNFs and all long-term care facilities should take proactive steps to prevent introduction of SARS-CoV-2, including restricting visitors except in compassionate care situations, restricting nonessential personnel from entering the building, asking staff members to monitor themselves for fever and other symptoms, screening all staff members at the beginning of their shift for fever and other symptoms, and supporting staff member sick leave, including for those with mild symptoms (3) . Once a facility has a case of COVID-19, broad strategies should be implemented to prevent transmission, including restriction of resident-to-resident interactions, universal use of facemasks for all health care personnel while in the facility, and if possible, use of CDC-recommended PPE for the care of all residents (i.e., gown, gloves, eye protection, N95 respirator, or, if not available, a face mask) (3) . In settings where PPE supplies are limited, strategies for extended PPE use and limited reuse should be employed (4) . As testing availability improves, consideration might be given to test-based strategies for identifying residents with SARS-CoV-2 infection for the purpose of cohorting, either in designated units within a facility or in a separate facility designated for residents with COVID-19. During the COVID-19 pandemic, collaborative efforts are crucial to protecting the most vulnerable populations. * Ct values are the number of cycles needed for detection of each genetic marker identified by real-time reverse transcription-polymerase chain reaction testing. A lower Ct value indicates a higher amount of viral RNA. Paired values for each resident are depicted using a different shape. Each resident has two Ct values for the two genetic markers (N1 and N2 nucleocapsid protein gene regions). \u2020 Typical symptoms include fever, cough, and shortness of breath. \u00a7 Atypical symptoms include chills, malaise, sore throat, increased confusion, rhinorrhea or nasal congestion, myalgia, dizziness, headache, nausea, and diarrhea.",
+            "cite_spans": [
+                {
+                    "start": 1371,
+                    "end": 1374,
+                    "text": "(3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1783,
+                    "end": 1786,
+                    "text": "(3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1902,
+                    "end": 1905,
+                    "text": "(4)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Public Health -Seattle & King County",
+            "authors": [
+                {
+                    "first": "Shelly",
+                    "middle": [],
+                    "last": "Mckeirnan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Sargis Pogosjans",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "CDC COVID-19 Investigation Team",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Corresponding author: Anne Kimball, opu7@cdc.gov",
+            "authors": [
+                {
+                    "first": "Noah",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cdc; Rachael",
+                    "middle": [],
+                    "last": "Cdc; Farrell Tobolowsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cdc; Suzanne",
+                    "middle": [],
+                    "last": "Zacks",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cdc",
+                    "middle": [],
+                    "last": "Zane",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "770--488",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "CDC COVID-19 Investigation Team; 2 Epidemic Intelligence",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Severe outcomes among patients with coronavirus disease 2019 (COVID-19)-United States",
+            "authors": [],
+            "year": 2020,
+            "venue": "CDC COVID-19 Response Team",
+            "volume": "69",
+            "issn": "",
+            "pages": "343--349",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6912e2"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "COVID-19 in a long-term care facility-King County",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcmichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pogosjans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "69",
+            "issn": "",
+            "pages": "339--381",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6912e1"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Preparing for COVID-19: long-term care facilities, nursing homes",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "GA: US Department of Health and Human Services, CDC",
+            "authors": [],
+            "year": 2020,
+            "venue": "Atlanta",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Interim guidelines for collecting, handling, and testing clinical specimens from persons for coronavirus disease",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "US Department of Health and Human Services, CDC",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Atlanta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Predictors of influenza among older adults in the emergency department",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12879-016-1966-4"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Influenza in long-term care facilities",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lansbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Nguyen-Van-Tam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Influenza Other Respir Viruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "356--66",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/irv.12464"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "High morbidity and mortality associated with an outbreak of influenza A(H3N2) in a psycho-geriatric facility",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sayers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Igoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Epidemiol Infect",
+            "volume": "141",
+            "issn": "",
+            "pages": "357--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0950268812000659"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "SARS-CoV-2 viral load in upper respiratory specimens of infected patients",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1177--1186",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001737"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Cycle threshold (Ct) values* for residents of a long-term care skilled nursing facility with positive test results for SARS-CoV-2 by real-time reverse transcription-polymerase chain reaction on March 13, 2020 (n = 23), by symptom status \u2020, \u00a7 at time of test -facility A, King County",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographics and reported symptoms for residents of a long-term care skilled nursing facility at time of testing* (N = 76), by SARS-CoV-2 test results -facility A, King County, Washington, March 2020",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Follow-up symptom assessment 1 week after testing for SARS-CoV-2 among 13 residents of a long-term care skilled nursing facility who were asymptomatic on March 13, 2020 (date of testing) and had positive test results -facility A, King County, Washington, March 2020",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Nursing and administrative leaders at facility A; Washington State Public Health Laboratory's SARS-CoV-2 testing team.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "All authors have completed and submitted the International Committee of Medical Journal Editors form for disclosure of potential conflicts of interest. No potential conflicts of interest were disclosed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Public Health -Seattle & King County"
+        }
+    ]
+}

@@ -1,0 +1,843 @@
+{
+    "paper_id": "2306965e5ade6b4f24779fc475b1e85e6aa0b40f",
+    "metadata": {
+        "title": "Thoracic and Cardiac Imaging / Imagerie cardiaque et imagerie thoracique CT Imaging and Differential Diagnosis of COVID-19",
+        "authors": [
+            {
+                "first": "Wei-Cai",
+                "middle": [],
+                "last": "Dai",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Han-Wen",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Juan",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hua-Jian",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Huan",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Si-Ping",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hong",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Li-Hong",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiao-Liu",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Lei",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fan",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Since the beginning of 2020, coronavirus disease 2019 (COVID-19) has spread throughout China. This study explains the findings from lung computed tomography images of some patients with COVID-19 treated in this medical institution and discusses the difference between COVID-19 and other lung diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Depuis le d\u00e9but de l'ann\u00e9e 2020, la maladie \u00e0 coronavirus 2019 (COVID-19) s'est r\u00e9pandue dans toute la Chine. Cette\u00e9tude analyse les r\u00e9sultats tir\u00e9s des images de TDM pulmonaire de certains patients atteints de COVID-19 trait\u00e9s dans cet\u00e9tablissement m\u00e9dical et examine la diff\u00e9rence entre le COVID-19 et d'autres maladies pulmonaires.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Since December 2019, cases of coronavirus disease 2019 (COVID-19) have been emerging in Wuhan, Hubei Province, China, and the epidemic has swiftly spread to other parts of China and beyond. 1 As of February 25, there were a total of 77 779 cases of diagnosed COVID-19, 2824 cases of suspected COVID-19, 27 361 cured cases, and 2666 deaths from it in China, and there were 2464 cases of diagnosed COVID-19, 189 cured cases, and 43 deaths outside China. Compared with severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), COVID-19 has lower mortality, a stronger occult nature, and a greater transmission capacity. 2 Like the former two, COVID-19 can be transmitted through the respiratory tract and by contact and has evidence of humanhuman transmission. Another possible transmission route, fecal-oral transmission, has not been confirmed.",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 191,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 645,
+                    "end": 646,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In the initial screening, computed tomography (CT) examination is needed for the auxiliary diagnosis. 3 The diagnosis is then confirmed by the positive results of the nucleic acid amplification test (NAAT) of the respiratory tract or blood specimens using reverse transcription real-time fluorescence polymerase chain reaction (RT-PCR). 2 However, this diagnosis method is highly limited: (1) When the viral load is low, the detection rate is low, leading to false-negative results. (2) Only a positive diagnosis can be made, but the severity of COVID-19 and its progression cannot be judged (in contrast, CT imaging can reveal disease progression). ( 3) The supply of the reagents cannot keep up with the demand, and the quality of new products of major companies awaits to be studied and improved. (4) It takes 1 day or longer to obtain the results after sampling. For these reasons, Chinese researchers strongly recommend CT imaging as the main basis for the diagnosis of COVID-19 in the current situation. 4 An academician of the American Society for Radiation Oncology called for the immediate establishment of a CT-based diagnostic method for COVID-19 and improvement of the detection rate of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 5 If a patient with clinically suspected COVID-19 has negative NAAT results but positive imaging results, the patient should be isolated and treated as soon as possible. The advantage of CT examination in the diagnosis of COVID-19 is obvious. Below, we analyze some typical patients who were examined and diagnosed by our institution.",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 103,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 337,
+                    "end": 338,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 389,
+                    "end": 392,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 483,
+                    "end": 486,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 650,
+                    "end": 651,
+                    "text": "(",
+                    "ref_id": null
+                },
+                {
+                    "start": 1010,
+                    "end": 1011,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1265,
+                    "end": 1266,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Case 1 was a 52-year-old male who had long been working in Wuhan, China. He arrived in Shenzhen, China, on January 22, 2020. He sought treatment in our hospital due to fever for half a day, with nasal congestion and headache but without rhinorrhea, pharyngalgia, cough, expectoration, or diarrhea. Laboratory tests showed a low lymphocyte count (0.58 \u00c2 10 9 /L), a high neutrophil percentage (81.3%), a high procalcitonin concentration (0.130 ng/mL), a high high-sensitivity C-reactive protein (hs-CRP) concentration (7.80 mg/L), a normal white blood cell (WBC) count (6.62 \u00c2 10 9 /L), and normal concentrations of creatine kinase-myocardial band, cardiac troponin I, and myoglobin. Unenhanced CT scan revealed patchy pure ground-glass opacities (GGOs) at the lateral basal segment of the right lower lobe and vascular dilation inside the lesion ( Figure 1 ). The patient was suspected to have early-stage COVID-19. The NAAT result obtained by RT-PCR detection of SARS-CoV-2 from respiratory tract specimens of the patient was positive, and the patient was diagnosed with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 848,
+                    "end": 856,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Case 2 was a 63-year-old male who took a high-speed train from Wuhan to Beijing on January 10, 2020, and arrived in Shenzhen by plane from Beijing on January 26, 2020. He was hospitalized due to fever for 5 days after catching cold, with a highest body temperature of 37.7 C, occasional cough, and myalgia but without expectoration or dyspnea. Laboratory tests showed elevated hs-CRP (33.57 mg/L), normal procalcitonin (0.072 ng/mL), a normal neutrophil count (2.50 \u00c2 10 9 /L), a normal lymphocyte count (1.11 \u00c2 10 9 /L), a normal WBC count (3.99 \u00c2 10 9 /L), and a normal lymphocyte percentage (27.8%). Unenhanced CT scan showed multiple pure GGOs in the right lower lobe, a distribution of lesions in the subpleural area and lung periphery, a ''crazy-paving'' pattern, and interlobular septal thickening ( Figure 2 ). On the basis of CT findings, the patient was suspected to have advanced-stage COVID-19. The NAAT result obtained by RT-PCR detection of SARS-CoV-2 from blood specimens of the patient was positive, and the patient was diagnosed with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 807,
+                    "end": 815,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Case 3 was a 48-year-old male patient who was quarantined at home after driving by himself from Wuhan to Shenzhen on January 24, 2020. He was hospitalized due to pharyngalgia for 4 days and fever for 1 day. The patient's temperature at admission was 38.5 C. He had no cough, expectoration, headache, myalgia, nasal congestion, rhinorrhea, or dyspnea. Laboratory tests showed elevated serum hs-CRP (73.99 mg/L), increased procalcitonin concentration (0.100 ng/mL), a decreased lymphocyte count (0.92 \u00c2 10 9 /L), and a normal WBC count (5.54 \u00c2 10 9 /L). The unenhanced CT scan showed multiple GGOs in multiple lobes of both lungs, interlobular septal thickening, and a crazy-paving pattern ( Figure 3 ). On the basis of CT findings, the patient was suspected to have advanced-stage COVID-19. The NAAT result obtained by RT-PCR detection of SARS- CoV-2 from pharyngeal swabs of the patient was positive, and the patient was diagnosed with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 690,
+                    "end": 698,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Case 4 was a 47-year-old male resident of Shenzhen who had recently been in close contact (distance <2 m) with a driver from Wuhan. He had fever for 4 days even though he used nonprescription antipyretic medications, so he sought treatment in our hospital. He had a body temperature up to 40 C and diarrhea twice but had no cough, expectoration, myalgia, dysuria, or dyspnea. Laboratory tests showed a low percentage of lymphocytes (14.4%), a low lymphocyte count (0.90 \u00c2 10 9 /L), a high hs-CRP concentration (136.51 mg/L), a high procalcitonin concentration (0.180 ng/mL), a normal neutrophil percentage (72.2%), and a normal WBC count (6.27 \u00c2 10 9 /L). Unenhanced CT scan showed patchy consolidations on the left upper lobe, partially consolidated lung tissue, GGOs on the edge, and air bronchograms in the lesion ( Figure 4 ). The NAAT result obtained by RT-PCR detection of SARS-CoV-2 from blood specimens of the patient was positive, and the patient was diagnosed with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 819,
+                    "end": 827,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Computed tomography imaging does have the limitation that some imaging signs of COVID-19 are the same as those of other lung diseases. The following 2 patients had suspected COVID-19 in our institution and were paid special attention but were finally diagnosed with other diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Case 1 was a 60-year-old female who had no recent history of exposure to the epidemic area. She was admitted to the hospital due to cough for 10 days, chest pain and wheezing for 3 days, and yellow sputum. She took cephalosporin antibiotics by herself before seeking treatment in our hospital, but her symptoms were not relieved. She had no fever, headache, rhinorrhea, nausea, vomiting, or hemoptysis. She had a history of rheumatoid arthritis for more than 10 years. Laboratory tests showed a normal WBC count (4.96 \u00c2 10 9 /L), a normal neutrophil percentage (48.6%), a normal procalcitonin concentration, and a normal lymphocyte count. Plain chest CT scan revealed extensive patchy exudates and consolidation of both lungs, faint GGOs on the edge, and interlobular septal thickening ( Figure 5 ). The NAAT result obtained by RT-PCR detection of SARS-CoV-2 from respiratory tract specimens of the patient was negative. Additional laboratory tests showed high hs-CRP (40.20 mg/L), high D-dimer (2.22 mg/L), high immunoglobulin G (19.3 g/L), and positive rheumatoid factor. The patient was diagnosed with rheumatic pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 788,
+                    "end": 796,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "Case 2 was a 58-year-old female from Henan who recently passed through Wuhan. She had recurrent chest pain for 1 month. She was admitted to our hospital 2 hours after aggravation of chest pain. She had no fever, cough, dizziness, or headache but a previous history of hypertension for more than 10 years. Chest CT showed extensive GGOs in both lungs, which were mainly distributed along the hila, interlobular septal thickening, and interlobar pleural thickening ( Figure 6 ). Computed tomography findings could not rule out the possibility of COVID-19. The NAAT result obtained by RT-PCR detection of SARS-CoV-2 from respiratory tract specimens of the patient was negative. Laboratory tests showed no abnormality in D-dimer concentration, WBC count, or hs-CRP concentration. Echocardiography indicated low-amplitude left ventricular wall motion and low diastolic function. Electrocardiography showed ST elevation in lead aVR of 0.05 mV and multilead ST depression of 0.1 to 0.2 mV. Digital subtraction angiography suggested occlusion of the left anterior descending coronary artery. Eventually, the patient was diagnosed with heart failure and pulmonary edema caused by coronary heart disease and acute myocardial infarction.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 465,
+                    "end": 473,
+                    "text": "Figure 6",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Case Reports"
+        },
+        {
+            "text": "To date, our institution has examined a total of 50 suspected patients with COVID-19, 15 of whom were diagnosed with COVID-19. The main clinical manifestations of confirmed cases have been fever (100%; >38 C in most cases and >37.5 C in a few cases), cough and expectoration (46.7%), headache (20%), and diarrhea (13.3%). No confirmed patients have had dyspnea. Imaging findings have mainly included single or multiple lesions, patchy or segmental GGOs (93.3%), and reticular markings that mainly followed peribronchovascular and subpleural distributions. Interlobular septal thickening might be present, and pleural effusion and enlarged mediastinal lymph nodes were rarely seen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Currently, 90% to 95% of the medical imaging examinations for suspected patients with COVID-19 are chest CT, which has a high detection rate of viral pneumonia. In contrast, the quality of available SARS-CoV-2 nucleic acid detection kits differs greatly, and the reliability of NAAT is still questionable. Moreover, NAAT has a low detection rate for SARS-CoV-2 and thus needs to be repeated 2 to 3 times in many cases. Some patients had negative NAAT results for the detection of SARS-CoV-2 from pharyngeal swabs but positive NAAT results for the detection of SARS-CoV-2 from bronchoalveolar lavage, leading to false-negative results. Second, the number of people awaiting NAATs for the detection of SARS-CoV-2 greatly exceeds the capacity of medical institutions. Many patients have not been diagnosed in a timely manner and thus have missed the chance of early isolation and early treatment. Compared with various limitations of NAAT, chest CT examination is timely and rapid and has a high positive rate. 1 The extent of lung lesions is closely related to clinical symptoms. Therefore, chest CT examination is irreplaceable in the preliminary screening of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 1008,
+                    "end": 1009,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Coronavirus disease 2019 has different imaging manifestations at different stages, which are mainly related to pathogenesis. The lesions at the early stage of COVID-19 are relatively localized and mainly manifest as inflammatory infiltration restricted to the subpleural or peribronchovascular regions of one lung or both lungs, exhibiting patchy or segmental pure GGOs with vascular dilation (Figure 1 ). Very few cases have negative CT findings at the early stage. In the progressive stage, CT shows mainly an increased range of pure GGOs (Figure 2) , the involvement of multiple lobes (Figure 3) , consolidations of some lesions, and GGOs surrounding consolidated lesions (the characteristic change of the progressive stage). Interlobular septal thickening and an obvious crazy-paving pattern are often present, and air bronchograms are common (Figure 4) . At the advanced stage, the CT manifestations of patients are similar to those in other types of pneumonia and mainly include diffuse lesions in both lungs, which are mostly consolidated lesions, and GGOs surrounding consolidated lesions, which are mostly accompanied by parenchymal bands and occasionally by a small amount of pleural effusion. This CT appearance is called lung whiteout. Different imaging manifestations at different stages may be associated with the pathological mechanism of viral pneumonia, which at first is prone to affect the terminal bronchioles and their surrounding pulmonary parenchyma and then develop into infiltration of pulmonary lobules and, lastly, diffuse alveolar damage. 6 In imaging diagnosis, COVID-19 is difficult to distinguish from pneumonias caused by influenza A virus, influenza B virus, cytomegalovirus, adenovirus, respiratory syncytial virus, SARS-CoV, MERS coronavirus, and other viral pneumonias as well as bacterial pneumonia. 2 Luckily, their treatment methods are similar. There are no medicines specifically targeting COVID-19. Viral pneumonias other than COVID-19 mainly manifest as peribronchial and perivascular interstitial inflammation that moves toward the inner part of the pulmonary interstitium, and their CT manifestations are multiple interlaced or parallel high-attenuation fibrous streaks or highattenuation reticular patterns caused by infiltration of the interlobular septa. The lesions mainly occur in the hilar and subpleural regions. 7 If the pneumonia is secondary to bronchitis and does not involve the alveoli, inflammation often further develops into the bronchial wall. When the bronchioles are partially or completely blocked, CT images show localized pulmonary edema and/or atelectasis. The occurrence of viral pneumonia is correlated with the virulence of the virus, the transmission route, and the age and immunological status of the host. In general, the incidence of viral pneumonias is higher in children than in adults. In contrast, COVID-19 commonly occurs in 40-to 60-year-old patients with multiple comorbidities. Compared to patients with SARS and MERS, patients with COVID-19 have no obvious complications or infections, and the disease progression is relatively slow. 8 Coronavirus disease 2019 also needs to be differentiated from bacterial pneumonia, mycoplasma pneumonia (MPP), and chlamydia pneumonia. 9 Bacterial pneumonia occurs in the lung parenchyma and mainly manifests as bronchial pneumonia or lobar pneumonia with many inflammatory secretions in the bronchioles and alveoli. Its CT manifestations are mainly extensive patchy consolidations of the lung parenchyma, and GGOs are less common. Mycoplasma pneumonia commonly occurs in school-age children and adolescents but rarely occurs in adults. The chest CT findings of MPP in adults are mostly bronchial wall thickening and centrilobular nodules; bronchial wall thickening is considered the manifestation of lobular pneumonia, and centrilobular nodules are small airway lesions. The proportion of lung consolidation is as high as 61% in MMP. In contrast, CT manifestations of COVID-19 are mainly pure GGOs at the early stage and visible consolidations in the center of the lesions at the progressive stage, but the proportion of consolidations in COVID-19 is less than that in MMP. In addition, COVID-19 needs to be differentiated from lung disease caused by other diseases. 10 For example, the 2 suspected patients reported above were given completely different treatments, which mainly aimed to control pneumonia and primary diseases. Heart failure-induced pulmonary edema manifests differently at different stages of the disease. It can be divided into 2 subtypes: pulmonary alveolar edema (type I) and interstitial pulmonary edema (type II). Computed tomography manifestations of type I pulmonary edema mainly include local or multiple GGOs, patchy high-attenuation patterns, and large patchy high-attenuation patterns in both lungs, which typically exhibit the highattenuation butterfly sign with both hila as the center, accompanied by signs of interstitial pulmonary edema such as sporadic or local interlobular septal thickening. Computed tomography manifestations of type II pulmonary edema mainly include extensive or local interlobular septal thickening in both lungs, peribronchial cuffing, and redistribution of blood flow in both lungs, which may be accompanied by signs of pulmonary alveolar edema, including high-attenuation patterns such as GGOs. 11 Although various types of pneumonias have certain imaging features, COVID-19 and other viral pneumonias, bacterial pneumonia, and some lesions share some common imaging features. 12 In some cases, it is difficult to differentiate COVID-19 from them by imaging alone, and first clinical manifestations, contact history, and laboratory tests should also be considered to make the final diagnosis. The conclusions are listed in Table 1 .",
+            "cite_spans": [
+                {
+                    "start": 1567,
+                    "end": 1568,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1837,
+                    "end": 1838,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 2365,
+                    "end": 2366,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 3118,
+                    "end": 3119,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 3256,
+                    "end": 3257,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 4288,
+                    "end": 4290,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 5377,
+                    "end": 5379,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 5559,
+                    "end": 5561,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 393,
+                    "end": 402,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 541,
+                    "end": 551,
+                    "text": "(Figure 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 588,
+                    "end": 598,
+                    "text": "(Figure 3)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 847,
+                    "end": 857,
+                    "text": "(Figure 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 5805,
+                    "end": 5812,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, in contrast to NAAT of SARS-CoV-2, which is restricted by false-negative results and detection limitations, chest CT, which is simple to perform and readily available, can quickly detect lung lesions and make imaging diagnoses at the early stage. Therefore, it has great value in early screening, differential diagnosis, and disease severity assessment of COVID-19. For patients with fever as the first symptom and with a history of exposure to COVID-19, chest CT examination should be performed as soon as possible. If imaging shows the presence of typical manifestations of 2019-nCoV, even if the NAAT result for the detection of SARS-CoV-2 is unavailable or negative, it is still necessary to take isolation measures to avoid the spread of the epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Wei-cai Dai, Han-wen Zhang, and Juan Yu contributed equally to this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' Note"
+        },
+        {
+            "text": "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of Conflicting Interests"
+        },
+        {
+            "text": "The author(s) received no financial support for the research, authorship, and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Han-wen Zhang https://orcid.org/0000-0001-5731-7429 ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ORCID iD"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "383",
+            "issn": "8",
+            "pages": "727--733",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Radiographic and CT features of viral pneumonia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Koo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Do",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Radiographics",
+            "volume": "38",
+            "issn": "3",
+            "pages": "719--739",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Receptor recognition by novel coronavirus from Wuhan: an analysis based on decadelong structural studies of SARS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-20"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Spectrum of imaging findings in pulmonary infections. Part 1: Bacterial and viral",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garg",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Prabhakar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gulati",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Agarwal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dhooria",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Pol J Radiol",
+            "volume": "84",
+            "issn": "",
+            "pages": "205--218",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The novel Chinese coronavirus (2019-nCoV) infections: challenges for fighting the storm",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bassetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vena",
+                    "suffix": ""
+                },
+                {
+                    "first": "Roberto",
+                    "middle": [],
+                    "last": "Giacobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Clin Invest",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Community-acquired pneumonia caused by Mycoplasma pneumoniae: how physical and radiological examination contribute to successful diagnosis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kishaba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front Med (Lausanne)",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: a data-driven analysis in the early phase of the outbreak",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "92",
+            "issn": "",
+            "pages": "214--217",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Viral pneumonia requiring differentiation from acute and progressive diffuse interstitial lung diseases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ishiguro",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Uozumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Intern Med",
+            "volume": "58",
+            "issn": "24",
+            "pages": "3509--3519",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The fight against the 2019-nCoV outbreak: an arduous march has just begun",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yoo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Korean Med Sci",
+            "volume": "35",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Outbreak of pneumonia of unknown etiology in Wuhan, China: the mystery and the miracle",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stratton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "401--402",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "441--447",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "A 52-year-old male: Computed tomography scan revealed patchy pure ground-glass opacities (red arrow) at the lateral basal segment of the right lower lobe and vascular dilation inside the lesion.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "A 63-year-old male: High-resolution computed tomography scan showed multiple pure ground-glass opacities in the right lower lobe, a distribution of lesions in the subpleural area and lung periphery, a ''crazy-paving'' pattern, and interlobular septal thickening (red arrow).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "A 48-year-old male: High-resolution computed tomography scan showed multiple ground-glass opacities in multiple lobes of both lungs, interlobular septal thickening, and a crazy-paving pattern (red arrow).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "A 47-year-old male: High-resolution computed tomography scan showed patchy consolidations on the left upper lobe, partially consolidated lung tissue, ground-glass opacities on the edge, and air bronchograms in the lesion (red arrow).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "A 60-year-old female: High-resolution chest computed tomography scan revealed extensive patchy exudates and consolidation of both lungs, faint ground-glass opacities on the edge, and interlobular septal thickening (red arrow).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "A 58-year-old female: High-resolution chest CT showed extensive GGOs in both lungs, which were mainly distributed along the hila, interlobular septal thickening, and interlobar pleural thickening (red arrow).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Manifestations of Various Types of Pneumonia.In winter and spring, common in children, and less common in adults or the community Common in winter, common in children and the community Abbreviations: COVID-19, coronavirus disease 2019; CRP, C-reactive protein; CT, computed tomography; GGO, ground-glass opacity; NAAT, nucleic acid amplification test; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2; WBC, white blood cell.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

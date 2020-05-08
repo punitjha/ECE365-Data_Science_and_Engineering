@@ -1,0 +1,663 @@
+{
+    "paper_id": "4370a15121a5e0bf0b204c903409735a2ce3479e",
+    "metadata": {
+        "title": "Is Sub-Saharan Africa prepared for COVID- 19?",
+        "authors": [
+            {
+                "first": "Edwin",
+                "middle": [],
+                "last": "Nuwagira",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infectious Diseases Unit",
+                    "institution": "Mbarara University of Science and Technology",
+                    "location": {
+                        "postBox": "P.O Box 1410",
+                        "settlement": "Mbarara",
+                        "country": "Uganda"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Conrad",
+                "middle": [],
+                "last": "Muzoora",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infectious Diseases Unit",
+                    "institution": "Mbarara University of Science and Technology",
+                    "location": {
+                        "postBox": "P.O Box 1410",
+                        "settlement": "Mbarara",
+                        "country": "Uganda"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "To the Editor, A number of big cities in Asia and Europe have been deserted due to the fear of COVID-19, the most recent emerging infectious viral illness. Apart from the Antarctica, Africa is one of the least affected continents with less than 1000 cases across the continent and only 27 deaths as of March 21, 2020 [2] . This is probably a matter of time since there were until recently frequent and large travel volumes between Asia and Africa due to the good commercial relationships between the two continents and a number of countries in Africa receiving a high number of airline travelers from high-risk cities within China [4] . In fact, over the past decade, air transport between China and Africa has risen to about 630% as a result of the rapid expansion of Chinese investment in Africa [5] .",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 320,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 631,
+                    "end": 634,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 798,
+                    "end": 801,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "SSA, however, already faces several health challenges such as limited access to intensive care units, for example, in Uganda, there are only 55 intensive care unit (ICU) beds to serve 40 million people, 80% of which are located in the capital, and the nurse to patient ratio of 1:8 making it the worst in the region [6] . High-income countries (HICs) that have been affected by the disease are also facing inadequacy of ICUs. For example, Italy, which has the eighth-highest nominal gross domestic product (GDP) in the world [7] , and one of the greatest health systems with approximately 3.2 hospital beds per 1000 people (compared to 2.8 in USA), has found it hard to meet the needs of the overwhelming numbers of critically ill patients, some of whom are specialized health workers [8, 9] . This shows that no one was adequately prepared for the alarming numbers of COVID-19 cases.",
+            "cite_spans": [
+                {
+                    "start": 316,
+                    "end": 319,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 525,
+                    "end": 528,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 785,
+                    "end": 788,
+                    "text": "[8,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 789,
+                    "end": 791,
+                    "text": "9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Worse still, there is inadequate manpower especially of critical care doctors and consultant anesthetists to run the few ICUs in SSA. There is also a high burden of infectious diseases with emerging viral illnesses such as Ebola hemorrhagic fever and Lassa hemorrhagic fever in addition to the \"priority infections\" HIV, malaria, and tuberculosis, and for all disease models, mortality has always been the highest in SSA compared to HICs. These infections present with fever, a screening symptom and sign for the COVID-19 making it hard to determine which patients to screen. In the West African Ebola outbreak, fever was used as a screening test, but 10% of the confirmed cases did not have fever, and a number of them are with malaria co-infection [10] .",
+            "cite_spans": [
+                {
+                    "start": 750,
+                    "end": 754,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We therefore anticipate human-to-human transmission due to undiagnosed, symptomatic, and asymptomatic patients due to the limited access to personal protective equipment such as N95 masks, respiratory isolation rooms, goggles, and powered air-purifying respirators (PAPR). The application of the prevention measures such as heightened surveillance, rapid identification of cases, patient transfer to isolation, rapid diagnosis, and tracing and follow-up of contacts varies and needs to be improved at all entry points, but this comes at a cost that may not be sustainable. Modeling studies have shown that travel restrictions of up to 90% have a minimal effect on transmission if not coupled with other public health and behavioral change interventions [11] . The travel bans because of COVID-19 will also greatly affect the economy and delay achieving development goals given that most countries in SSA depend on foreign aid [12] .",
+            "cite_spans": [
+                {
+                    "start": 753,
+                    "end": 757,
+                    "text": "[11]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 926,
+                    "end": 930,
+                    "text": "[12]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "It is therefore important for African governments and WHO to invest immediately in preparedness for the worst-case scenario given that each African country is at a risk of importing COVID-19 from China or other affected countries because of the high volume of air traffic and trade between China and Africa [5] . The WHO, Centers for Disease Control and Prevention in Africa (Africa CDC), and other humanitarian organizations should be ready for an African crisis which we anticipate to be greater than it is in other regions due to its weak health systems. On Thursday, March 19, 2020, the Director-General of WHO, Dr. Tedros, stated that this was an opportunity for Africa to wake up and prepare for the worst [13] .",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 310,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 712,
+                    "end": 716,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Epidemiologists should provide accurate predictions that will prepare African governments and political leaders with information that will guide them design control measures at different health centers and regional and national levels. Lastly, there is a lot that we can learn from the Ebola success story to save Africa especially by community engagement. The WHO noted the lack of capacity to contain the West Africa Ebola outbreak in 2014, making it difficult to implement infection prevention procedures [14] . We expect the same barriers from the community as noted in the recent Ebola hemorrhagic fever outbreak in the Democratic Republic of Congo (DRC), such as mistrust of response teams, beliefs that the virus was fabricated, and noncompliant intentions such as hiding from health authorities with discourse [15] . Behaviors like hand shaking, social gatherings, breach of quarantine rules, and contact with the dead may see the number of cases increase in Sub-Saharan Africa. ",
+            "cite_spans": [
+                {
+                    "start": 508,
+                    "end": 512,
+                    "text": "[14]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 818,
+                    "end": 822,
+                    "text": "[15]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bogoch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tatem",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Air traffic between China and Africa has jumped 630% in the last decade",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Assessment of the current capacity of intensive care units in Uganda; a descriptive study",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Atumanya",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sendagire",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wabule",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mukisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ssemogerere",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kwizera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Crit Care",
+            "volume": "55",
+            "issn": "",
+            "pages": "95--104",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Top 25 Developed and developing countries",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Investopedia",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Investopedia",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Facing COVID-19 in Italy-ethics, logistics, and therapeutics on the epidemic's front line",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rosenbaum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "COVID-19 and Italy: what next? The Lancet",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The Lancet: van Griensven J. Ebola virus disease",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Malvy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mcelroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "De Clerck",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "G\u00fcnther",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chinazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ajelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gioannini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Litvinova",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Merler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The impact of COVID-19 on key African sectors",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Baker Mckenzie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "WHO head tells Africa to \"wake up",
+            "authors": [],
+            "year": null,
+            "venue": "BBC",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Barriers to rapid containment of the Ebola outbreak",
+            "authors": [],
+            "year": 2014,
+            "venue": "WHO. Barriers to rapid containment of the Ebola outbreak",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Social resistance drives persistent transmission of Ebola virus disease in Eastern Democratic Republic of Congo: a mixed-methods study",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Claude",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Underschultz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hawkes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PloS One",
+            "volume": "14",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "COVID-19: towards controlling of a pandemic. The Lancet",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Enria",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Giesecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ihekweazu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kobinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Nuwagira and Muzoora Tropical Medicine and Health",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "48",
+            "issn": "",
+            "pages": "18--21",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Abbreviations CDC: Centers for Disease Control and Prevention; COVID-19: Coronavirus disease 2019; DRC: Democratic Republic of Congo; GDP: Gross domestic product; PAPR: Powered air-purifying respirators; SSA: Sub-Saharan Africa; WHO: World Health Organization",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank the editor for their time in editing and accepting this letter for publication.Ethical approval and consent to participate Not applicable",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions EN prepared all the information, C.M edited the work. The authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "No funding was used to write this letter.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "All the data used in this in this letter are drawn from the references provided.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.Received: 19 March 2020 Accepted: 30 March 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

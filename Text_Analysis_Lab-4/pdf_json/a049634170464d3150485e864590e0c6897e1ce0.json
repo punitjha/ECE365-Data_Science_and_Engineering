@@ -1,0 +1,650 @@
+{
+    "paper_id": "a049634170464d3150485e864590e0c6897e1ce0",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Medical misinformation and unverifiable content pertaining to the global COVID-19 epidemic are being propagated at an alarming rate on social media. We provide an early quantification of the magnitude of misinformation spread and highlight the importance of early interventions in order to curb this phenomenon that endangers public safety at a time when awareness and ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Since December 2019, the coronavirus disease 2019 (COVID-19) epidemic has swept the world, causing significant burden and an increasing number of hospitalizations [1, 2] . While public health and healthcare officials rushed to identify and contain the spread of the virus, information was spreading uninhibited over traditional and social media platforms at a strikingly rapid pace. Both the impact of the disease and the lack of information associated with it allowed medical misinformation to rapidly surface and propagate on various social media platforms. Previous reports have highlighted a similar trend during recent public health emergencies, mainly the Ebola and Zika outbreaks [3, 4] . Such a phenomenon is alarming on both individual and public health levels to an extent that governing bodies are realizing its gravity and attempting to limit its effects [5] [6] [7] .",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 167,
+                    "end": 169,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 687,
+                    "end": 690,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 691,
+                    "end": 693,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 867,
+                    "end": 870,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 871,
+                    "end": 874,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 875,
+                    "end": 878,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Misinformation can be defined as a \"claim of fact that is currently false due to lack of scientific evidence\" [5] . It propagates without constraints, does not entail any curation or peer-review, and does not require any professional verifications. This makes it ideal to spread on social media and become amplified by the information silos and echo chambers of personally tailored content, particularly during times of public tension like the current COVID-19 epidemic [8] . To our knowledge, attempts to quantify misinformation during the current COVID-19 epidemic are still lacking. Hence, in this report, we seek to analyze the magnitude of misinformation that is being spread on Twitter (Twitter, Inc., San Francisco, CA) regarding the coronavirus epidemic.",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 113,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We performed an online search of the Twitter social media platform on February 27, 2020. We used the Twitter Archiver add-on to search Twitter for tweets containing one or more of 11 common hashtags and three common key terms pertaining to the COVID-19 epidemic that were identified by the Symplur (Symplur LLC, Los Angeles, CA) analytical tool ( Figure 1 ). Our search was limited to tweets in the English language and to those that initially received at least five retweets. We excluded tweets that had four or fewer retweets. We selected a random sample of 50 tweets from search terms, which yielded more than 100 tweets that fit our inclusion criteria. Samples were selected based on computer-generated random sequences.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 347,
+                    "end": 355,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Data collection"
+        },
+        {
+            "text": "For every individual tweet, a set of predetermined variables were collected. The different tweet/account characteristics were either automatically extracted by Twitter Archiver or manually collected from the tweets on Twitter by the authors. All data were publicly available, and hence this study did not require institutional review board approval.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIGURE 1: Details of the most common hashtags and search terms pertaining to the COVID-19 epidemic"
+        },
+        {
+            "text": "User accounts were classified based on content into the following categories: informal individual/group, business/NGO/government, news outlet/journalist, and healthcare/public health/medical ( Table 1) . Accounts' verified status was additionally noted. A verified account is defined as one of public interest that is deemed to be authentic by Twitter. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 193,
+                    "end": 201,
+                    "text": "Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIGURE 1: Details of the most common hashtags and search terms pertaining to the COVID-19 epidemic"
+        },
+        {
+            "text": "Tweets were categorized based on content tone into the following categories: serious, humorous, and opinions. Tweets labeled as serious were those with information pertaining to COVID-19 or revolving around it, while humorous tweets consisted of jokes or memes. Tweets labeled as opinions were posts that conveyed the account's viewpoint and did not relay any novel information. Tweets were further classified based on content type into medical/public health, financial, and/or sociopolitical.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "TABLE 1: Twitter account characteristics"
+        },
+        {
+            "text": "Tweets that contained genuine information regarding the COVID-19 epidemic were identified. Such information was cross-matched with the information presented by the World Health Organization (WHO), the Center for Disease Control and Prevention (CDC), peer-reviewed scientific journals, and prominent news outlets [9] [10] [11] [12] . Tweets that included information that could be clearly refuted using one of the above-mentioned references were considered under misinformation. Tweets that could not be proven correct or incorrect by the references were designated as unverifiable information.",
+            "cite_spans": [
+                {
+                    "start": 312,
+                    "end": 315,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 316,
+                    "end": 320,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 321,
+                    "end": 325,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "TABLE 1: Twitter account characteristics"
+        },
+        {
+            "text": "Descriptive statistics were conducted to analyze the Twitter accounts and tweets' characteristics. Bar graphs were generated using Microsoft Office Excel version 16 (Microsoft Corporation, Redmond, WA). Chi-square statistic was used to calculate p-values for the association between account/tweet characteristics and the presence of misinformation or unverifiable information. Statistical significance was set a priori at a two-sided p-value of 0.05. All analyses were performed using IBM SPSS Statistics Version 26 (IBM Corporation, Armonk, NY).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "A total of 673 tweets were included and analyzed in this study. Most tweets were posted by informal individuals or groups (448, 66.6%), followed by news outlets or journalists (111, 16.5%). Of all accounts, 129 (19.2%) were Twitter verified accounts. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Account and tweet characteristics"
+        },
+        {
+            "text": "In total, after excluding humorous/non-serious posts, 153 tweets (24.8%) included misinformation, and 107 (17.4%) included unverifiable information. When analyzing Twitter accounts by user category, informal personal/group accounts had more misinformation when compared to other (33.8% vs 15.0%, p: <0.001) ( Table 3) . Business/NGO/government, news outlets/journalists, and healthcare/public health accounts all had a lower rate of misinformation (6.1%, 18.6%, and 12.3% respectively). Furthermore, tweets posted by unverified Twitter accounts included more misinformation when compared to those posted by verified accounts (unverified account: 31.0%, verified account: 12.6%, p: <0.001). Accounts with a higher number of followers had fewer tweets with misinformation (20.1%, p: <0.001). A bigger number of likes or retweets was not associated with a higher rate of misinformation (p: 0.98 and 0.36 respectively). Lastly, the frequency of misinformation differed between hashtags/search terms, with the hashtag \"#2019_nCov\" having the most misinformation, and the search terms \"#nCov19\" \"COVID-19\" having the least rate of misinformation (Figure 2A) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 309,
+                    "end": 317,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1140,
+                    "end": 1151,
+                    "text": "(Figure 2A)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Misinformation and unverifiable information"
+        },
+        {
+            "text": "Healthcare/public health accounts had the lowest rate of unverifiable information compared to other types of accounts (12.3%, p: 0.04). Moreover, verified twitter accounts had fewer tweets with unverifiable information (8.6%, p: 0.001). The number of followers per account, number of likes per tweet, and the number of retweets per tweet were not associated with any significant difference in terms of unverifiable information rates (p: >0.05 for all). Among search terms, the term \"Corona\" was associated with the highest rate of unverifiable information, while the search terms \"COVID-19\" and \"#coronavirusoutbreak\" had the lowest levels of unverifiable information ( Figure 2B ). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 670,
+                    "end": 679,
+                    "text": "Figure 2B",
+                    "ref_id": null
+                }
+            ],
+            "section": "Misinformation and unverifiable information"
+        },
+        {
+            "text": "A: rate of misinformation by hashtags and keywords -\"#ncov2019\" had the highest rate of misinformation while \"Covid-19\" had the lowest; B: rate of unverifiable information by hashtags and keywords -\"Corona\" had the highest rate of unverifiable information while \"Covid-19\" and \"#coronavirusoutbreak\" had the lowest",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIGURE 2: Rate of misinformation and unverifiable information by hashtags and keywords"
+        },
+        {
+            "text": "Our results raise a disturbing issue in light of the global COVID-19 epidemic plagued by a \"tsunami of information\" [1] . In the present study, we show that the rate of misinformation and unverifiable information is alarmingly high. Some tweets or Twitter account characteristics were seen to be associated with a higher chance of spreading unverifiable and false information. Similarly, some terms and hashtags were associated with a higher rate of misinformation compared to others. Our data quantify the pervasive spread of false or unverifiable information and provide metrics that would allow early interventions to limit its spread.",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 119,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our results are in line with those published in studies of similar recent epidemics, where social media played an important role in the propagation of misinformation [3, 4, 13] . However, our study has a few limitations that are worth mentioning. Firstly, our study was limited to the English language, which might have an impact on the generalizability of the findings to tweets spread by other languages. Second, the use of specific hashtags and keywords might have resulted in missing other tweets that do not necessarily utilize them. However, we selected the most common terms and hashtags that were trending on Twitter during the period of study. Third, our search timeframe was limited and hence might not capture the changing topics that evolve with the epidemic. This invites further research on the longitudinal evolution of misinformation as an epidemic or other global issue evolves and expands internationally. Nevertheless, we believe that our study offers robust and timely data on a serious challenge during the current COVID-19 epidemic and fills an important information gap.",
+            "cite_spans": [
+                {
+                    "start": 166,
+                    "end": 169,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 170,
+                    "end": 172,
+                    "text": "4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 173,
+                    "end": 176,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Tweet quality (misinformation vs correct information) did not differ based on the number of likes or retweets, indicating that misinformation is as likely to spread and engage users as the truth. This implies that misinformation has the ability to spread with ease on a social media platform. This phenomenon endangers public safety at a time when awareness and appropriate preventive actions are paramount. Public health organizations, governments, and private corporations should recognize this threat and rapidly launch measures to ensure the veracity of information circulating on social media platforms. In addition to public health agencies' endeavors to promote evidence-based information, physicians, medical associations, and scientific journals all have a role in addressing misinformation during these critical times [14] . Through global collaboration and multidisciplinary partnerships, misinformation could be contained, debunked, and replaced by facts presented by medical publications and accurate information pertaining to the topic.",
+            "cite_spans": [
+                {
+                    "start": 828,
+                    "end": 832,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Medical misinformation and unverifiable content pertaining to the global COVID-19 epidemic are being propagated at an alarming rate on social media. We provided an early quantification of the magnitude of misinformation spread and highlighted some of the characteristics that might be associated with it. Interventions from multiple stakeholders are essential in order to curb this phenomenon and harness the power of social media to disseminate reliable and vetted information.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Human subjects: All authors have confirmed that this study did not involve human participants or tissue. Animal subjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Additional Information Disclosures"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--760",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72,314 cases from the Chinese Center for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "What are people tweeting about Zika? An exploratory study concerning its symptoms, treatment, transmission, and prevention",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Muppalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Romine",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sheth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2196/publichealth.7157"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Ebola, Twitter, and misinformation: a dangerous combination",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Oyeyemi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gabarron",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wynn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMJ",
+            "volume": "349",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.g6178"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Addressing health-related misinformation on social media",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Oh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wmp",
+                    "middle": [],
+                    "last": "Klein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "JAMA",
+            "volume": "320",
+            "issn": "",
+            "pages": "2417--2425",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2018.16865"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The biggest pandemic risk? Viral misinformation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nature",
+            "volume": "562",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/d41586-018-07034-4"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Protecting the value of medical science in the age of social media and \"fake news",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Merchant",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Asch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "JAMA",
+            "volume": "320",
+            "issn": "",
+            "pages": "2415--2421",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2018.18416"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "What next for the coronavirus response",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zarocostas",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet",
+            "volume": "2020",
+            "issn": "",
+            "pages": "30292--30292",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30292-0"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "WHO: Q&A on coronaviruses",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "European Centre for Disease Prevention and Control: COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "WHO: Coronavirus disease (COVID-2019) situation reports",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Centers for Disease Control and Prevention: About coronavirus disease 2019 (COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Yellow fever outbreaks and Twitter: rumors and misinformation",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ortiz-Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jim\u00e9nez-Arcia",
+                    "middle": [],
+                    "last": "Lf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Am J Infect Control",
+            "volume": "45",
+            "issn": "",
+            "pages": "816--823",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajic.2017.02.027"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Counteracting health misinformation: a role for medical journals",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Armstrong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Naylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA",
+            "volume": "321",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2019.5168"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF1": {
+            "text": "presents the characteristics of the tweets analyzed. The majority of tweets included",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Individual tweet characteristics",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Tweet and account characteristics associated with misinformation and",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

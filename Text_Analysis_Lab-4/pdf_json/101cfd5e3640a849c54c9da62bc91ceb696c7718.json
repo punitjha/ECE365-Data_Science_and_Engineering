@@ -1,0 +1,479 @@
+{
+    "paper_id": "101cfd5e3640a849c54c9da62bc91ceb696c7718",
+    "metadata": {
+        "title": "Environmental Research and Public Health Editorial COVID-19 Outbreak: An Overview on Dentistry",
+        "authors": [
+            {
+                "first": "Gianrico",
+                "middle": [],
+                "last": "Spagnuolo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Naples \"Federico II\"",
+                    "location": {
+                        "addrLine": "Via Pansini 5",
+                        "postCode": "80131",
+                        "settlement": "Naples",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Danila",
+                "middle": [],
+                "last": "De Vito",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bari \"Aldo Moro\"",
+                    "location": {
+                        "postCode": "70124",
+                        "settlement": "Bari",
+                        "country": "Italy"
+                    }
+                },
+                "email": "danila.devito@uniba.itd.d.v."
+            },
+            {
+                "first": "Sandro",
+                "middle": [],
+                "last": "Rengo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bari \"Aldo Moro\"",
+                    "location": {
+                        "postCode": "70124",
+                        "settlement": "Bari",
+                        "country": "Italy"
+                    }
+                },
+                "email": "sanrengo@unina.its.r."
+            },
+            {
+                "first": "Marco",
+                "middle": [],
+                "last": "Tatullo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bari \"Aldo Moro\"",
+                    "location": {
+                        "postCode": "70124",
+                        "settlement": "Bari",
+                        "country": "Italy"
+                    }
+                },
+                "email": "marco.tatullo@tecnologicasrl.comm.t."
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Coronavirus disease 2019, also called COVID-19, is the latest infectious disease to rapidly develop worldwide. COVID-19 has as its etiologic agent the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): the 2019 coronavirus is different from SARS-CoV, but it has the same host receptor: human angiotensin-converting enzyme 2 (ACE2). SARS-CoV-2 was first discovered in 2019 in Wuhan, China, unfortunately spreading globally, resulting in the 2019-2020 pandemic, as declared by the World Health Organization (WHO) and the Public Health Emergency of International Concern (PHEIC). The infection started in Asia, but it has rapidly spread across the world: according to the WHO, this is the first pandemic caused by a coronavirus. Against this landscape, the treatment of COVID-19 is based on containment measures: in China and South Korea, the severe application of such interventions has regularly and drastically reduced new cases, and this experience shows that a reversion of epidemic growth is possible in the short-term.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On the other hand, in Italy, the reported cases have grown impressively over time, leading to the country obtaining a prominent position in the international scenario of the infected patients. This emerging pandemic and its severe outbreak in the Italian population have induced the Italian Government first and then the European Union to promote drastic impact measures to \"flatten the curve\" of the COVID-19 infection and in turn avoid health systems (in particular, intensive care units) being overwhelmed, resulting in fewer deaths [1] . The limitation of people circulating outside their home, social distancing, the cessation of almost all working activities and the request to the population to use protective masks and gloves all have the aim of minimizing the likelihood that people who are not infected come into contact with others who are already infected and probably still asymptomatic [2] . As always happens, healthcare professionals have been immediately involved in the national emergency, working hard, often day and night: unfortunately, small numbers of them have also become infected, and some have tragically died. Dentists are often the first line of diagnosis, as they work in close contact with patients. On 15 March 2020, the New York Times published an article entitled \"The Workers Who Face the Greatest Coronavirus Risk\", where an impressive schematic figure described that dentists are the workers most exposed to the risk of being affected by COVID-19, much more than nurses and general physicians [3] . To take significant actions against this harmful disease, the American Dental Association updated its webpage in March, including a link to frequently asked questions from member dentists covering topics such as personal protective equipment and patient communications. Recently, an interesting paper written by researchers from Wuhan University School and Hospital of Stomatology was published with several recommendations for dentists and dental students to manage COVID-19 patients [4] . Dentists have been recommended to take several personal protection measures and avoid or minimize operations that can produce droplets or aerosols; moreover, the use of saliva ejectors with a low volume or high volume can reduce the production of droplets and aerosols. Taking into consideration the severity of the pandemic COVID-19, and in the light of the massive commitment of several dental associations and the most prestigious dental journals, it is essential to give clear and easy guidelines to manage dental patients and to make working dentists safe from any risk. A fundamental concept is that the transmission of the virus is mainly through inhalation/ingestion/direct mucous contact with saliva droplets; it is also critical to remember that the virus can survive on hands, objects or surfaces that were exposed to infected saliva in the previous nine days [4, 5] . Since the viral load contained in the human saliva is very high, rinses with antiseptic mouthwashes can only reduce the infectious amount but are not able to eliminate the virus in the saliva [4, 5] . In this light, a few important concepts would be useful to briefly report and discuss here.",
+            "cite_spans": [
+                {
+                    "start": 536,
+                    "end": 539,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 900,
+                    "end": 903,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1530,
+                    "end": 1533,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 2021,
+                    "end": 2024,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 2898,
+                    "end": 2901,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 2902,
+                    "end": 2904,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 3099,
+                    "end": 3102,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 3103,
+                    "end": 3105,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The most recommended guidelines indicate that dentists should avoid the scheduling of any patient: only such urgent dental diseases can be considered during the COVID-19 outbreak. This action will drastically limit the interpersonal contact, the waiting time of patients in dental cabinets and, in general, the conditions predisposing patients to be infected. When the dentists treat patients, they should intercept the potentially infected person before they reach the operating areas; for example, those with a fever measuring >37.5 \u2022 C and the posing of a few questions about the patient's general health status in the last 7 days, and about the risk of having been in contact with other infected persons.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The management practice of the operating area should be quite similar to what happens with other patients affected by infectious and highly contagious diseases. As often as possible, the staff should work at an adequate distance from patients; furthermore, handpieces must be equipped with anti-reflux devices to avoid contaminations, improving the risk of cross-infections. Finally, during the operating sessions, the dentist should prefer procedures reducing the quantity of aerosol produced in the environment [4, 5] .",
+            "cite_spans": [
+                {
+                    "start": 513,
+                    "end": 516,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 517,
+                    "end": 519,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Personal prevention, both for health personnel and for patients, must be associated with the prevention of the spread of the virus through environmental remediation. In particular, due to the high proliferation of the virus in the particles exhaled by coughing and sneezing, every surface in the waiting room must be considered at risk; therefore, in addition to providing adequate periodic air exchange, all surfaces, chairs, magazines, and doors that come into contact with healthcare professionals and patients must be considered \"potentially infected\". It may be useful to make an alcoholic disinfectant and masks available to patients in the waiting room. The entire air conditioning system must be sanitized very frequently [4, 5] .",
+            "cite_spans": [
+                {
+                    "start": 730,
+                    "end": 733,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 734,
+                    "end": 736,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A recent study indicates that copper and paper can allow the virus to survive for 4 to over 24 hours. On the other hand, the infectious charge can be drastically reduced only after at least 48 hours for steel and 72 hours for plastic [6] . Therefore, the virus remains longer on steel instruments, or disposable material exposed to the flows of contaminated air, than in a magazine in the waiting room. In light of this reflection, the substantial action to be taken is to promote maximum hand and surface hygiene, given that the virus is completely inactivated by water, soap, and other detergents.",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 237,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In conclusion, the significant limitation of clinical and surgical activities in the medical and dental sector has represented a very impactful measure on the economy of the sector. Nevertheless, this drastic intervention has made it possible to protect the health and safety of citizens and contain the expansion of the coronavirus. Therefore, the policies and measure packages adopted by governments are addressed to all dental associations, stating clear guidelines to prevent and to control COVID-19 infection in oral diagnosis and treatment in daily practice until a vaccine or a drug becomes available. Funding: This editorial work received no special funding.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Why Outbreaks like Coronavirus Spread Exponentially, and How to",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb3221"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The Workers Who Face the Greatest Coronavirus Risk",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gamio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19): Emerging and Future Challenges for Dental and Oral Medicine",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Hua",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Z. Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0022034520914246"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Transmission routes of 2019-nCoV and controls in dental practice",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Oral Sci",
+            "volume": "12",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41368-020-0075-9"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bushmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Holbrook",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tamin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harcourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Thornburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gerber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2004973"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Contributions: Conceptualization, M.T. and G.S..; methodology, D.D.V. and S.R.; writing-original draft preparation, M.T. and G.S.; writing-review and editing, D.D.V. and S.R. All authors have read and agreed to the published version of the manuscript.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors want to acknowledge the IJERPH Editorial Office and all the anonymous reviewers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments:"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ]
+}

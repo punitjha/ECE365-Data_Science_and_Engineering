@@ -1,0 +1,1240 @@
+{
+    "paper_id": "f3fd19a4af384ba223acaef01f9c3792b76e8bc8",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Anthony",
+                "middle": [
+                    "C"
+                ],
+                "last": "Smith",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Queensland",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": "asmith@uq.edu.au"
+            },
+            {
+                "first": "Emma",
+                "middle": [],
+                "last": "Thomas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Queensland",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Centaine",
+                "middle": [
+                    "L"
+                ],
+                "last": "Snoswell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Queensland",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Helen",
+                "middle": [],
+                "last": "Haydon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Queensland",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ateev",
+                "middle": [],
+                "last": "Mehrotra",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Anthony C Smith, Centre for Online Health, Centre for Health Services Research, The University of Queensland, Ground Level",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "addrLine": "Building 33, Princess Alexandra Hospital, Woolloongabba",
+                        "postCode": "4102",
+                        "region": "QLD",
+                        "country": "USA, Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jane",
+                "middle": [],
+                "last": "Clemensen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hans Christian Andersen Children's Hospital",
+                    "location": {
+                        "country": "Denmark"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Liam",
+                "middle": [
+                    "J"
+                ],
+                "last": "Caffery",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Queensland",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The current coronavirus pandemic is again reminding us of the importance of using telehealth to deliver care, especially as means of reducing the risk of cross-contamination caused by close contact. For telehealth to be effective as part of an emergency response it first needs to become a routinely used part of our health system. Hence, it is time to step back and ask why telehealth is not mainstreamed. In this article, we highlight key requirements for this to occur. Strategies to ensure that telehealth is used regularly in acute, post-acute and emergency situations, alongside conventional service delivery methods, include flexible funding arrangements, training and accrediting our health workforce. Telehealth uptake also requires a significant change in management effort and the redesign of existing models of care. Implementing telehealth proactively rather than reactively is more likely to generate greater benefits in the longterm, and help with the everyday (and emergency) challenges in healthcare.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The number of cases of coronavirus disease 2019 is increasing rapidly and, as of 11 March 2020, the World Health Organization has declared that this can be characterised as a pandemic. 1 Governments are preparing for the worst, quickly realising the impact that COVID-19 is having on health services and the global economy. Amidst the avalanche of reports concerning the spread of the virus, there is also recognition (again) that telehealth 'could' play a critical role in the global response.",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 186,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Of course, telehealth is ideal for the management of communicable diseases. A key factor in slowing the transmission of a virus is 'social distancing' 2 thus decreasing person-to-person contact. For patients with COVID-19, or those concerned that they might be infected, telehealth can help with remote assessment (triage) and the provision of care. For people not infected with the COVID-19 virus, especially those at higher risk of being affected (e.g. older adults with preexisting medical conditions), telehealth can provide convenient access to routine care without the risk of exposure in a congested hospital or in medical practice waiting rooms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "However, for telehealth to be effective during the current COVID-19 pandemic and future events, we must ensure that telehealth is appropriately integrated into our health service, and treated as a 'business as usual' modality. The aim of this article is to outline key requirements to ensure that the value of telehealth is fully realised, not only in emergencies (such as pandemics) but also in everyday practice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Telehealth has a number of key strengths that can enhance an emergency response when environmental or biological hazards present. During infectious disease outbreaks, telehealth can enable remote triaging of care and provide rapidly accessible information through technology -such as chatbots, as seen in Singapore during Telehealth can also assist with disease diagnosis via video consultations with health professionals. Various applications exist for providing ongoing care as demonstrated by a hospital in the USA where physicians are currently using telehealth to care for COVID-19 patients remotely. 4 Additionally, telehealth can enable people to navigate the health system and access routine care during an infectious disease outbreak.",
+            "cite_spans": [
+                {
+                    "start": 606,
+                    "end": 607,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Previous use of telehealth in emergency situations"
+        },
+        {
+            "text": "The current COVID-19 event is not the first time that government agencies and healthcare providers have turned to telehealth in response to disaster situations. The North Atlantic Treaty Alliance (NATO) (an intergovernmental military alliance between 29 members including North American and European countries), developed a Multinational Telemedicine System in 2000 that has been deployed with their military forces during various crises. 5 Through solutions such as person-deployable portable telemedicine kits and satellite linkage, areas in need have received health support from medical experts located in other countries. 6 During hurricanes Harvey and Irma, 7 private telemedicine companies provided care to victims relocated from their homes and primary care providers. Following the Severe Acute Respiratory Syndrome (SARS) pandemic in 2003, China began exploring telehealth and integrated electronic medical systems for use in similar situations in the future. 8 During severe prolonged droughts in Australia, the health department introduced new funding through the Medicare Benefits Schedule (MBS) to allow clinicians to provide additional mental health services via videoconferencing. 9 In 2019, similar mental health services were also offered to people affected by the bushfires. 9 Whilst the potential benefits of telehealth are clear, 10-12 the uptake of telehealth in emergency situations has been limited. As an example, the funding provided by the Australian government to support the delivery of online (videoconference) mental health services to people affected in the bushfire crisis seems to have had little impact. 13 Despite the availability of MBS funding, claims data shows only four telehealth visits were provided in the first three months.",
+            "cite_spans": [
+                {
+                    "start": 439,
+                    "end": 440,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 627,
+                    "end": 628,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 970,
+                    "end": 971,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1197,
+                    "end": 1198,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1294,
+                    "end": 1295,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1639,
+                    "end": 1641,
+                    "text": "13",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Previous use of telehealth in emergency situations"
+        },
+        {
+            "text": "Outside of emergency situations, the overall uptake of telehealth has been slow and fragmented. 14, 15 Substantial efforts have gone into scaling-up the routine use of telehealth, often with limited success. In Australia, despite the introduction of generous financial incentives for specialist videoconsultations, telehealth represented less than 1% of all specialist consultations provided. 16 The experience in the USA has been similar, where less than 1% of people living in rural areas have ever experienced telehealth. Reasons for the low uptake of telehealth are multifaceted and diverse, but factors such as clinician willingness, financial reimbursement and (re)organisation of the health system may be to blame.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 99,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 100,
+                    "end": 102,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 393,
+                    "end": 395,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Barriers to the use of telehealth and strategies to address them"
+        },
+        {
+            "text": "The limited uptake of telehealth services is mostly attributable to clinician's unwillingness to adopt telehealth. 17 A timely telehealth response to emergencies such as the COVID-19 outbreak, calls for a health workforce that is skilled and capable of switching delivery modes, as required. Relying just on sporadic uptake of telehealth, as in times of emergency, is problematic.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 117,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinician willingness and acceptance of telehealth"
+        },
+        {
+            "text": "Why the unwillingness to adopt telehealth? Telehealth is disruptive, 18 complex 19 and requires clinicians to learn new methods of consulting. 20 Clinician acceptance of telehealth relies on them perceiving telehealth as effective, safe and normal. 17 Clinicians may not be knowledgeable and aware of telehealth, 21 which is not surprising given there is limited telehealth training in medical, nursing and allied health preregistration curricula. 22 Regular telehealth practice leads to more sustainable models of care, 23 and a telehealth-ready workforce. Ensuring the health workforce is telehealth-ready will require telehealth to be included in training and education. 24 Therefore, it is imperative to include telehealth in curricula and to mandate post-graduate telehealth accreditation. This will send a clear message to current and future healthcare professionals that telehealth is a legitimate part of usual care. Furthermore it may increase readiness to use telehealth in every day practice, and in times of emergency.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 145,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 249,
+                    "end": 251,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 448,
+                    "end": 450,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 521,
+                    "end": 523,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 674,
+                    "end": 676,
+                    "text": "24",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinician willingness and acceptance of telehealth"
+        },
+        {
+            "text": "Appropriate remuneration is needed for all telehealth services. Traditionally, the lack of funding has been blamed for the slow uptake of telehealth. 25 Constraints for funding associated with geographical location and service type have also limited expansion of telehealth in city locations. For example, in Australia, funding is predominantly focused on medical consultations delivered by videoconference for patients in rural and remote locations. This is problematic because telehealth is just as useful for people living in metropolitan locations. In the case of COVID-19, city locations are most at risk because of greater population density. 26 In other emergencies, certain communities may be affected and therefore require increased access to specialist health services, hence the importance of telehealth capability, irrespective of rurality.",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 152,
+                    "text": "25",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 649,
+                    "end": 651,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Reimbursement"
+        },
+        {
+            "text": "Temporary funding methods may be an appropriate way of dealing with ad-hoc emergencies such as COVID-19. Depending on the nature of the emergency, prioritising telehealth funding for specific services or for a selected patient group (such as older people with a respiratory illness) could help address high-risk and high-demand situations. This funding could be authorised by the government at short notice and decommissioned after the emergency.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Reimbursement"
+        },
+        {
+            "text": "Countries have begun to address the reimbursement barriers associated with COVID-19. In March 2020, emergency supplemental funding legislation for coronavirus was passed in the USA which allows the federal government to expand telehealth to patients in metropolitan areas and also allows physicians to care for patients in their homes. 27 In Australia, there have been similar calls to relax restrictions on generalpractitioner-provided telehealth consultations. 28 Whilst remuneration for telehealth services is an important requirement, a focus on funding alone will not generate an effective telehealth service. Other critical factors need to be considered.",
+            "cite_spans": [
+                {
+                    "start": 336,
+                    "end": 338,
+                    "text": "27",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 463,
+                    "end": 465,
+                    "text": "28",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Reimbursement"
+        },
+        {
+            "text": "Dependency on individual clinicians to lead telehealth is not a sustainable approach to the expansion of telehealth. Telehealth adoption requires a whole-system strategy. Embedding telehealth into routine service delivery, by all healthcare providers, is the most effective way of ensuring telehealth can be readily used during emergencies. This requires operational telehealth networks, telehealth policies and procedures, and technology infrastructure that can be scaled-up during times of disaster. Telehealth is a disruptive process, so there is a need for effective changemanagement strategies to support clinicians with limited telehealth experience. Furthermore, simulated testing of telehealth applications for emergency situations is also a useful way of ensuring that workflow processes are clear and effective. 29 Multiple resources are available to support disaster preparedness and response strategies. For example, the American Telemedicine Association Emergency and Response special interest group has developed a framework and infrastructure checklist that could be used at local, regional and national levels during disaster events. 30 The NATO Multinational Telemedicine System (described above) resulted in the development of a system, supported by guidelines and technology solutions, which is able to interconnect various national telemedicine capabilities for use during disasters. 5 In the absence of any formal telehealth strategy, it is important to make telehealth guidelines available to assist with co-ordination and delivery of telehealth services during an emergency event. This information needs to suit all stakeholders, including patients, clinicians, health service providers and funders. 31 International health agencies such as the World Health Organization, national centres for disease control, and health departments have been disseminating real-time information about COVID-19 via their websites and social media outlets 32, 33 and have a very important role to play in advocating for the use of telehealth via these channels. These organisations can increase awareness of telehealth, provide specific recommendations on effective telehealth use, and validate the importance of telehealth's role in the healthcare sector.",
+            "cite_spans": [
+                {
+                    "start": 822,
+                    "end": 824,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1150,
+                    "end": 1152,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1404,
+                    "end": 1405,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1723,
+                    "end": 1725,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1961,
+                    "end": 1964,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1965,
+                    "end": 1967,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Organisation of the healthcare system"
+        },
+        {
+            "text": "While we may not be able to accurately predict the timing of natural disasters and infectious pandemics, we can be sure that they will present again in the future. The COVID-19 experience is not a first, and nor will it be the last. Telehealth does have a critical role in emergency responses. Advantages of telehealth include the ability to: rapidly deploy large numbers of providers; facilitate triage so that front-line providers are not overwhelmed with new presentations; supply clinical services when local clinics or hospitals are damaged or unable to meet demand; and decrease the risk of communicable diseases which are transmitted by person-to-person contact.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "There are also limitations to the use of telehealth. Some consultations require physical examinations that may be difficult to perform remotely (e.g. auscultation) and diagnostics (e.g. imaging, cultures) which cannot be done remotely. It is important that clinician training highlights the limitations of telehealth and informs of alternative methods of information gathering that can be used in these situation. These situations also highlight the importance of providing care via telehealth to non-infected people during an infectious pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "It is important that the development of a telehealth strategy to deal with global and national emergency responses is built on the premise that telehealth becomes a mainstream component of our health system. The question is, 'How can this be realised?' The answer is quite straightforward. . .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "This can reduce contamination when it is necessary to see an infected patient in-person"
+        },
+        {
+            "text": "\u2022 Ensure that all health professionals receive appropriate education and training; \u2022 Introduce telehealth accreditation for health professionals; \u2022 Provide funding which adequately covers the cost of providing telehealth; \u2022 Redesign clinical models of care; \u2022 Support all stakeholders with an effective communication and change management strategy; \u2022 Establish systems to manage telehealth services on a routine basis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "This can reduce contamination when it is necessary to see an infected patient in-person"
+        },
+        {
+            "text": "With these important requirements in place, the consideration of whether telehealth could be used in emergencies will become redundant as it should just happen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "This can reduce contamination when it is necessary to see an infected patient in-person"
+        },
+        {
+            "text": "The author(s) declared no potential conflicts of interest with respect to the research, authorship and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of conflicting interests"
+        },
+        {
+            "text": "The author(s) disclosed receipt of the following financial support for the research, authorship and/or publication of this article: We acknowledge the support of the National Health and Medical Research Council (NHMRC) Partnership Centre for Health Sustainability (Grant ID #: 9100002 administered by the Australian Institute of Health Innovation, Macquarie University. Health System Sustainability disclaimer: available at: https://www.healthsys temsustainability.com.au/resources/our-publications/ acknowledgements-and-disclaimer/. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization. WHO Director-General's opening remarks at the media briefing on COVID",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus (COVID-19): What is social distancing?",
+            "authors": [
+                {
+                    "first": "Public",
+                    "middle": [],
+                    "last": "Health England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Singapore government launches COVID-19 chatbot",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Priya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Robotic medicine may be the weapon the world needs to combat the coronavirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rosenbaum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Development and validation of telemedicine for disaster response: The North Atlantic Treaty Organization multinational system",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Doarn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Latifi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Poropatich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Telemed e-health",
+            "volume": "24",
+            "issn": "",
+            "pages": "657--668",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A multinational telemedicine system for disaster response: Opportunities and challenges",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Doarn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Latifi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Hostiuc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Harvey's aftermath brings mHealth, telehealth to the forefront",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wicklund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "E-health in China: Challenges, initial directions, and experience",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Telemed e-health",
+            "volume": "16",
+            "issn": "",
+            "pages": "344--349",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Amended MBS mental health and wellbeing telehealth items",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Department",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Health",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "How telehealth facilitates the provision of culturally appropriate healthcare for Indigenous Australians",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Caffery",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Meiklejohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bradford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Telemed Telecare",
+            "volume": "24",
+            "issn": "",
+            "pages": "676--682",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Telehealth interventions for reducing waiting lists and waiting times for specialist outpatient services: A scoping review",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Caffery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Telemed Telecare",
+            "volume": "22",
+            "issn": "",
+            "pages": "504--512",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Telehealth services in rural and remote Australia: A systematic review of models of care and factors influencing success and sustainability",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bradford",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Caffery",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Rural Remote Health",
+            "volume": "16",
+            "issn": "",
+            "pages": "1--23",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Telehealth in context: Socio-technical barriers to telehealth use in Labrador",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Peddle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Canada. Comput Support Coop Work",
+            "volume": "16",
+            "issn": "",
+            "pages": "595--614",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Telemedicine across the ages",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Med J Aust",
+            "volume": "190",
+            "issn": "",
+            "pages": "15--19",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Uptake of telehealth services funded by Medicare in Australia",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Wade",
+                    "suffix": ""
+                },
+                {
+                    "first": "Soar",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gray",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Aust Health Rev",
+            "volume": "38",
+            "issn": "",
+            "pages": "528--532",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinician acceptance is the key factor for sustainable telehealth services",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wade",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eliott",
+                    "middle": [
+                        "Ja"
+                    ],
+                    "last": "Hiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Qual Health Res",
+            "volume": "24",
+            "issn": "",
+            "pages": "682--694",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Telemedicine in the acute health setting: A disruptive innovation for specialists (an example from stroke)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bagot",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cadilhac",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Telemed Telecare",
+            "volume": "21",
+            "issn": "",
+            "pages": "443--448",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Effectiveness of telemedicine: A systematic review of reviews",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ekeland",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bowes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flottorp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Int J Med Inform",
+            "volume": "79",
+            "issn": "11",
+            "pages": "736--771",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Service provider's experiences of service separation: The case of telehealth",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hartley",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gillespie",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Serv Res",
+            "volume": "19",
+            "issn": "",
+            "pages": "477--494",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Clinicians' knowledge and perception of telemedicine technology",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ayatollahi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Fzp",
+                    "middle": [],
+                    "last": "Sarabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Langarizadeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Perspect Health Inf Manag",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "It's important, but not important enough: eHealth as a curriculum priority in medical education in Australia",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Edirippulige",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Brooks",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Carati",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Telemed Telecare",
+            "volume": "24",
+            "issn": "",
+            "pages": "697--702",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Clinicians' perspectives of a novel home-based multidisciplinary telehealth service for patients with chronic spinal pain",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cottrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Leary",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Int J Telerehabil",
+            "volume": "10",
+            "issn": "",
+            "pages": "81--88",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Education and training to support the use of clinical telehealth: A review of the literature",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Edirippulige",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Armfield",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Telemed Telecare",
+            "volume": "23",
+            "issn": "",
+            "pages": "273--282",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "State of telehealth",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Dorsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Topol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "N Engl J Med",
+            "volume": "375",
+            "issn": "",
+            "pages": "154--161",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "From SARS to COVID-19, cities plagued by inequality bear brunt of outbreaks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chandran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Senate directs aid to American people amidst coronavirus crisis, sends package to President's desk",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Chief Medical Officer flags coronavirus telehealth expansion",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Woodley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Applying telehealth in natural and anthropogenic disasters",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alverson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Poropatich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Telemed J E Health",
+            "volume": "14",
+            "issn": "",
+            "pages": "968--971",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Telemedicine and e-health in disaster response",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Doarn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Merrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Telemed e-health",
+            "volume": "20",
+            "issn": "14",
+            "pages": "605--607",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Participatory design methods in telemedicine research",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Clemensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rothmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Telemed Telecare",
+            "volume": "23",
+            "issn": "",
+            "pages": "780--785",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "World Health Organization. Critical preparedness, readiness and response actions for COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "COVID-19) situation summary",
+            "authors": [],
+            "year": 2019,
+            "venue": "Centers for Disease Control and Prevention. Coronavirus disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Anthony C Smith https://orcid.org/0000-0002-7756-5136 Emma Thomas https://orcid.org/0000-0001-8415-0521 Centaine L Snoswell https://orcid.org/0000-0002-4298-9369 Helen Haydon https://orcid.org/0000-0001-9880-9358 Ateev Mehrotra https://orcid.org/0000-0003-2223-1582 Liam J Caffery https://orcid.org/0000-0003-1899-7534",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

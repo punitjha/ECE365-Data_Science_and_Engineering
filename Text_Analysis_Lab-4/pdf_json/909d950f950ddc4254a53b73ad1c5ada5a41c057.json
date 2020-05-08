@@ -1,0 +1,2787 @@
+{
+    "paper_id": "909d950f950ddc4254a53b73ad1c5ada5a41c057",
+    "metadata": {
+        "title": "Vaccination with single plasmid DNA encoding IL-12 and antigens of severe fever with thrombocytopenia syndrome virus elicits complete protection in IFNAR knockout mice",
+        "authors": [
+            {
+                "first": "Jun-Gu",
+                "middle": [],
+                "last": "Kang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kyeongseok",
+                "middle": [],
+                "last": "2\u262f",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Jeon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hooncheol",
+                "middle": [],
+                "last": "2\u262f",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Choi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yuri",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hong-Il",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hyo-Jin",
+                "middle": [],
+                "last": "Ro",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yong",
+                "middle": [
+                    "Bok"
+                ],
+                "last": "Seo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jua",
+                "middle": [],
+                "last": "Shin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "SL-VAXiGEN Inc",
+                    "location": {
+                        "settlement": "Seongnam, Gyeonggi"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Junho",
+                "middle": [],
+                "last": "Chung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yoon",
+                "middle": [
+                    "Kyung"
+                ],
+                "last": "Jeon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yang",
+                "middle": [
+                    "Soo"
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Ulsan College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hwa",
+                "middle": [],
+                "last": "Lee Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hanyang University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nam-Hyuk",
+                "middle": [],
+                "last": "Cho",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University College of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "Republic of Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "I",
+                "middle": [
+                    "D"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Severe fever with thrombocytopenia syndrome (SFTS) is an emerging tick-borne disease caused by SFTS virus (SFTSV) infection. Despite a gradual increase of SFTS cases and high mortality in endemic regions, no specific viral therapy nor vaccine is available. Here, we developed a single recombinant plasmid DNA encoding SFTSV genes, Gn and Gc together with NP-NS fusion antigen, as a vaccine candidate. The viral antigens were fused with Fmslike tyrosine kinase-3 ligand (Flt3L) and IL-12 gene was incorporated into the plasmid to enhance cell-mediated immunity. Vaccination with the DNA provides complete protection of IFNAR KO mice upon lethal SFTSV challenge, whereas immunization with a plasmid without IL-12 gene resulted in partial protection. Since we failed to detect antibodies against surface glycoproteins, Gn and Gc, in the immunized mice, antigen-specific cellular immunity, as confirmed by enhanced antigen-specific T cell responses, might play major role in protection. Finally, we evaluated the degree of protective immunity provided by protein immunization of the individual glycoprotein, Gn or Gc. Although both protein antigens induced a significant level of neutralizing activity against SFTSV, Gn vaccination resulted in relatively higher neutralizing activity and better protection than Gc vaccination. However, both antigens failed to provide complete protection. Given that DNA vaccines have failed to induce sufficient immunogenicity in human trials when compared to protein vaccines, optimal combinations of DNA and protein elements, proper selection of target antigens, and incorporation of efficient adjuvant, need to be further investigated for SFTSV vaccine development.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "a1111111111 a1111111111 a1111111111 a1111111111 a1111111111",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Severe fever with thrombocytopenia syndrome (SFTS) is an emerging tick-borne infectious disease caused by SFTS virus (SFTSV), belonging to the Phenuiviridae family of Bunyavirales [1, 2] . The genome of SFTSV is composed of three segmented RNAs: large (L) segment encoding RNA-dependent RNA polymerase (RdRp), medium (M) encoding the envelope glycoproteins, Gn/Gc, and small (S) encoding the nucleocapsid and nonstructural proteins (NP and NS) [1] . Clinical manifestations include fever, gastrointestinal symptoms, leukocytopenia, and thrombocytopenia [3, 4] . Disease mortality of SFTS patients have been estimated to be 52 0% [3] . Even though the majority of SFTS cases has been reported from China [3] , Korea [4] , and Japan [5] , SFTSV infections in southern Asia, including Vietnam, have been recently reported in a retrospective survey [6] . Currently, no specific viral therapy nor vaccine is available. An effective vaccine is needed to combat its relatively high mortality, especially in elderly patients, and spread of SFTSV between humans [7, 8] .",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 183,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 184,
+                    "end": 186,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 444,
+                    "end": 447,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 553,
+                    "end": 556,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 557,
+                    "end": 559,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 629,
+                    "end": 632,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 703,
+                    "end": 706,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 715,
+                    "end": 718,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 731,
+                    "end": 734,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 845,
+                    "end": 848,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1053,
+                    "end": 1056,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1057,
+                    "end": 1059,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Vaccine development for SFTS is at an early discovery phase and there have only been a few studies on vaccine candidates using animal infection models [8] [9] [10] [11] . Immunization of NS antigen with Freund's adjuvant in C57BL/6 mice, which are naturally resistant to SFTSV but partially mimic human infections [12] , failed to enhance viral clearance, although it induced high titer of anti-NS antibodies and significantly elevated IFN-\u03b3 levels in sera upon viral challenge [9] . Vaccination of plasmid DNAs encoding NP and NS peptides also enhanced antigen-specific cellular immunity of T cells, such as IFN-\u03b3 and TNF-\u03b1 secreting CD4 + and CD8 + T cells, in BALB/c mice when applied by nano-patterned microneedles [10] . However, the protective effect of cellular immunity induced by DNA vaccination was not confirmed by in vivo infection with SFTSV. Recently, Dong F. et al. reported that a single dose of live attenuated recombinant vesicular stomatitis virus (rVSV) vaccine expressing the SFTSV Gn/Gc glycoproteins elicited high titers of protective neutralizing antibodies in both wild type and interferon \u03b1/\u03b2 receptor knockout (IFNAR KO) mice [11] . They clearly showed that a single dose rVSV carrying SFTSV Gn/Gc could provide complete protection against lethal challenge with SFTSV in young and old IFNAR KO mice, a promising infection model for severe human infection of SFTSV [11, 13, 14] . Nevertheless, the potential role of cellular immunity against the viral antigens in complete protection was not examined in this study, although adoptive transfer of immune sera from mice immunized with rVSV-Gn/Gc to na\u00efve IFNAR KO mice provide partial (~60%) protection against lethal SFTSV challenge [11] .",
+            "cite_spans": [
+                {
+                    "start": 151,
+                    "end": 154,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 155,
+                    "end": 158,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 164,
+                    "end": 168,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 314,
+                    "end": 318,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 478,
+                    "end": 481,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 866,
+                    "end": 880,
+                    "text": "Dong F. et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 1153,
+                    "end": 1157,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1391,
+                    "end": 1395,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1396,
+                    "end": 1399,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1400,
+                    "end": 1403,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1708,
+                    "end": 1712,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In this study, we developed a recombinant plasmid DNA (pSFTSV) encoding extracellular domains of Gn and Gc, and NP-NS fusion antigen as a DNA vaccine candidate. We examined whether it could provide protective immunity against lethal SFTSV infection in IFNAR KO mice. In order to facilitate the processing and presentation of the SFTSV antigens by dendritic cells (DCs) and enhance antigen-specific T cell responses, these recombinant antigens were fused with Fms-like tyrosine kinase-3 ligand (Flt3L) [15, 16] . Moreover, we generated a recombinant DNA encoding IL-12\u03b1 and \u03b2 in addition to the recombinant viral antigens (pSFTSV-IL12) to further enhance cell-mediated immunity [17] . Vaccination of pSFTSV-IL12 provided complete protection of IFNAR KO mice upon lethal SFTSV challenge, whereas immunization with pSFTSV elicits only partial protection, indicating that antigen-specific cellular immune responses enhanced by co-expression of IL-12 could play a significant role in protection against lethal SFTSV infection. We confirmed significantly higher levels of Gn and NP-specific CD4 + and CD8 + T cell responses in mice vaccinated with pSFTSV-IL12 when compared to those in mock vector-immunized mice. Therefore, our results indicate that enhanced antigenspecific T cell immunity against multiple SFTVS antigens by DNA vaccination could be a promising direction for developing an effective vaccine against SFTSV infection.",
+            "cite_spans": [
+                {
+                    "start": 501,
+                    "end": 505,
+                    "text": "[15,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 506,
+                    "end": 509,
+                    "text": "16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 677,
+                    "end": 681,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Animal experiments were conducted in an Animal Biosafety Level 3 facility at Seoul National University Hospital and International Vaccine Institute. This study was approved by the Seoul National University Hospital and International Vaccine Institute Institutional Animal Care and Use Committee (SNUH IACUC No. 15-0095-C1A0 and IVI IACUC No. 2018-018) and conducted in strict accordance with the recommendations in the National Guideline for the care and use of laboratory animals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics statement"
+        },
+        {
+            "text": "In order to generate plasmids for DNA vaccination, genes encoding ectodomains of Gn, Gc (from Genebank accession no. AJO16082.1), and NP/NS fusion protein (from Genebank accession no. AJO16088.1 and AKI34298.1, respectively) were synthesized (GenScript, Piscataway, NJ, USA) and cloned into pGX27 vector (Genexine, Seongnam, Republic of Korea). All these genes were fused with signal peptide of tissue Plasminogen Activator (tPA, Uniport no. P00750) and Flt3L (Uniport no. P49771) in their N-terminus [15] (pSFTSV, Fig 1) . In addition, murine IL-12\u03b1 and \u03b2 genes (Uniport no. P43432) [17] were also synthesized (GenScript) and cloned into pSFTSV (pSFTSV-IL-12, Fig 1) .",
+            "cite_spans": [
+                {
+                    "start": 501,
+                    "end": 505,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 584,
+                    "end": 588,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 515,
+                    "end": 521,
+                    "text": "Fig 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 661,
+                    "end": 667,
+                    "text": "Fig 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Preparation of SFTSV DNA plasmid"
+        },
+        {
+            "text": "To confirm the expression of cloned genes in pSFTSV and pSFTSV-IL12, HEK 293T cells (ATCC CRL-1573, Manassas, VA, USA) were transfected with pGX27, pSFTSV, or pSFTSV-IL12 plasmid using the polyethylenimine (PEI) transfection method [18] . Briefly, plasmids and PEI were diluted with Opti-MEM media (Gibco, Gaithersburg, MD, USA) and incubated with HEK 293T cells. After 4 h of incubation, media were changed with Dulbecco's Modified Eagle medium (DMEM) (Gibco) containing 10% fetal bovine serum (FBS) and incubated in humidified CO 2 atmosphere at 37\u02daC. After 48 h of culture, cells and culture supernatants were harvested. Cells were washed with phosphate-buffered saline (PBS) and lysed with NP-40 lysis buffer (1% NP-40 in 50 mM Tris-HCl, pH 8.0, 150 mM NaCl) containing protease inhibitor cocktail (Sigma-Aldrich, St. Louis, MO, USA). Lysates and supernatants were stored at -80\u02daC until use.",
+            "cite_spans": [
+                {
+                    "start": 232,
+                    "end": 236,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gene expression of plasmid DNAs"
+        },
+        {
+            "text": "For quantification of Flt3L-fused proteins and mouse IL-12 in the supernatants of transfected HEK293T cells, human Flt3L and mouse IL-12p70 Quantikine ELISA kits (R&D systems, Minneapolis, MN, USA) were used according to manufacturer's instructions. Expression of Gc, Gn, and NP/NS fusion protein in the culture supernatants and cell lysates were examined by immunoblotting using rabbit anti-Gn, Gc (NBP2-41153 and NBP2-41156, NOVUS Biologicals, Centennial, Colorado, USA), and NP (produced by custom polyclonal antibody production service via Abclon, Seoul, Republic of Korea) antibodies, respectively. Each sample was separated on 8% polyacrylamide gels and transferred onto 0.45 \u03bcm PVDF membranes (Merck, Darmstadt, Germany). PVDF membranes were blocked with PBS containing 0.05% Tween 20 (PBST) and 5% skim milk at room temperature for 2 h. The membranes were sequentially incubated with primary and secondary antibodies conjugated with horse radish peroxidase (HRP, Invitrogen, Waltham, MA, USA). The membranes were then visualized using a LAS-4000 system (Fujifilm, Tokyo, Japan). ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Gene expression of plasmid DNAs"
+        },
+        {
+            "text": "The gene encoding the NP of the KASJH strain (Genbank Accession No. KP663733) was cloned into the pET28a (+) vector (Novagen, Gibbstown, NJ, USA). NP protein was then purified from E. coli strain BL21 (DE3) harboring the recombinant plasmid. Following induction with 0.1 mM isopropyl \u03b2-D-thiogalactoside (IPTG) for 18 h at 16\u02daC, the protein was purified using HisTrap HP histidine-tagged protein columns (GE healthcare, Chicago, IL, USA) according to the manufacturer's instruction. Recombinant Gn and Gc glycoproteins fused to Fc region of human immunoglobulin heavy chain were purified as previously described [19] . Briefly, vectors cloned with gene encoding Gn or Gc were transfected into HEK293F cells (Thermo Fisher Scientific, Waltham, MA, USA) using polyethylenimine. The transfected cells were cultured in FreeStyle 293 expression medium (Gibco) for 6 days. Overexpressed recombinant proteins in supernatants were purified by AKTA start affinity chromatography system HiTrap Mabselect (GE Healthcare) according to the manufacturer's instructions (S1 Fig).",
+            "cite_spans": [
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "[19]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Preparation of recombinant proteins"
+        },
+        {
+            "text": "To determine the antibody titers specific to Gc, Gn, and NP in sera of immunized mice, immunoassay plates (96-well plates; Nunc, Rochester, NY, USA) were coated with 100 ng/well of purified antigens at 4\u02daC overnight. His-tagged Gn and Gc recombinant proteins were purchased from Immune Technology Co. (New York, NY, USA). His-tagged NP recombinant protein was purified as mentioned above. After antigen coating, the immunoassay plates were blocked for 2 h at room temperature with PBST containing 5% skim milk. 100 \u03bcl of seriallydiluted serum samples were incubated for 1 h at room temperature and subsequently detected using HRP-conjugated goat anti-mouse IgG (Santa Cruz Biotechnology, Santa Cruz, CA, USA). 3,3',5,5'-tetramethylbenzidine peroxidase substrate solution (KPL, Gaithersburg, MD, USA) was then added to develop color for 7 min, and the reaction was stopped by the addition of 1 M H 3 PO 4 solution. Absorbance was measured at 450 nm using a microplate reader (TECAN, Mannedorf, Switzerland).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Enzyme-linked immunosorbent assays (ELISA)"
+        },
+        {
+            "text": "Spleen cells were released into RPMI 1640 media (Gibco) by mincing the spleen through a 70 \u03bcm cell strainer (BD Biosciences, San Jose, CA, USA). After lysis of red blood cell with a Red Blood Cell Lysing Buffer Hybri-Max (Sigma, St. Louis, MO, USA), splenocytes were cultured for 18 h in RPMI media containing 10% FBS (Gibco) and 1% penicillin/streptomycin (Gibco) in the presence of 10 \u03bcg of purified Gn or NP antigens in 96 well V-bottomed culture plates (Nunc, Roskilde, Denmark). For intracellular detection of IFN-\u03b3, splenocytes (2 \u00d7 10 6 cells/well) were treated with 1 \u03bcg of Golgiplug (BD Bioscience) for the final 6 h. Cells were then blocked with ultra-block solution (10% rat sera, 10% hamster sera, 10% mouse sera (Sigma), and 10 \u03bcg/ml of anti-CD16/32 (2.4G2) (BD Pharmingen, Franklin Lakes, NJ, USA), followed by staining with anti-CD3 (145-2c11) (BD Biosciences), CD4 (RM4-59) (BD Biosciences) and CD8 (53-6.7) (Biolegend, San Diego, CA, USA) antibodies conjugated to different fluorescent dyes. After surface staining, splenocytes were fixed and permeabilized with Cytofix/Cytoperm kit (BD Bioscience) and incubated with anti-IFN-\u03b3 antibody (XMG1.2) (BD Pharmingen). The stained cells were analyzed on a CytoFLEX S flow cytometer (Berkman Coulter Inc, Brea, CA, USA). Flow cytometry data were analyzed using FlowJo software version 10.6 (Tree Star, Ashland, OR, USA). Gating strategies for the flow cytometric analyses are summarized in S2 Fig.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Flow cytometric analysis"
+        },
+        {
+            "text": "SFTSV (Genbank accession no. MN329148-MN329150) isolated from a Korean SFTS patient was propagated in Vero E6 cells (ATCC CRL-1586). The supernatant of infected cells was harvested at 5 d after infection and stored at-80\u02daC after filtering with 0.45 \u03bcm syringe. Focusforming unit (FFU) of SFTSV was determined by plaque assay using methylcellulose media [20] . Briefly, the filtered supernatants were serially diluted and added to a monolayer of Vero E6 cells and incubated for 1 h at 37\u02daC. Viral supernatants were removed and cells were incubated under an overlay media (DMEM supplemented with 5% FBS and 1% methylcellulose) at 37\u02daC for 7 days. Cells were fixed with 4% paraformaldehyde (Intron, Seongnam, Republic of Korea) and 100% methanol (Merck, Darmstadt, Germany). The SFTSV foci were detected using rabbit anti-SFTS NP antibody (Abclon) and goat anti-rabbit IgG secondary antibody conjugated with alkaline phosphatase (Thermo Fisher Scientific). Viral plaques were visualized by incubation with NBT/BCIP solution (Roche, Mannheim, Germany).",
+            "cite_spans": [
+                {
+                    "start": 353,
+                    "end": 357,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Preparation of SFTSV"
+        },
+        {
+            "text": "To evaluate the neutralizing activity of immune sera, a focus reduction neutralization titer (FRNT) assay was performed using immunized mice sera [21] . SFTSV (0.0001 multiplicity of infection) was pre-incubated with serially diluted sera from mice at 4\u02daC for 1 h. The mixture of virus and sera was added onto a monolayer of Vero E6 cells in 24-well plate. After incubation for 2 h, supernatant of cells were removed and cells were cultured under an overlay media at 37\u02daC for 7 days. Viral foci were visualized as described above. The percentage of focus reduction was calculated as [(No. of plaques without antibody)-(No. of plaques with antibody)] / (No. of plaques without antibody) x 100. 50% focus reduction neutralization titers (FRNT 50 ) were calculated by a nonlinear regression analysis (log[inhibitor] versus normalized response method) embedded in GraphPad Prism Software v5.01 (GraphPad Software; https:// www.graphpad.com).",
+            "cite_spans": [
+                {
+                    "start": 146,
+                    "end": 150,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Neutralizing antibody assay"
+        },
+        {
+            "text": "Six to eight-week-old female Interferon \u03b1/\u03b2 receptor knockout (IFNAR KO, B57BL/6) mice [22] were used for immunization and challenge tests. They were housed and maintained in the specific pathogen-free facility at Seoul National University College of Medicine. Mice were intramuscularly immunized by electroporation using Orbijector EP-I model (SL Vaxigen Inc., Seongnam, Republic Korea) in the hind leg three times at two-week intervals. 4 \u03bcg of purified pGX27, pSFTSV, or pSFTSV-IL12 in 100 \u03bcl of PBS was used for each immunization. Mice were also subcutaneously immunized with 20 \u03bcg of Gn-Fc or Gc-Fc protein absorbed in aluminum hydroxychloride (Alhydrogel adjuvant 2%, InvivoGen, Hong Kong). Mice sera were collected from immunized mice at one week after the third immunization to determine the levels of specific antibody titers. Two weeks after the final immunization, mice were subcutaneously challenged with 1 x 10 5 FFU of SFTSV. Body weight and mice survival were monitored until surviving mice fully recovered. Blood and tissues of mice were collected at the indicated time after viral challenge and applied for viral quantitation using qRT-PCR, or hematological analysis.",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 91,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Immunization of mice and SFTSV challenge"
+        },
+        {
+            "text": "Total RNA was extracted from the plasma of SFTSV-infected mice using Trizol LS Reagent (Life Technologies, Carlsbad, CA, USA) according to the manufacturer's instruction. Total RNA was reverse transcribed into cDNA using HiSenScript RH (-) RT Premix kit (Intron, Seongnam, Republic of Korea). cDNA was quantified using TaqMan Universal Master Mix 2 (Applied Biosystems, Waltham, MA, USA). qRT-PCR was performed on BioRad CFX connect real-time system (Bio-Rad, Hercules, CA, USA) under following conditions: uracil-N-glycosylase incubation at 50\u02daC for 2 min, polymerase activation at 95\u02daC for 10 min, denaturation at 95\u02daC for 15 s, annealing and extension at 53\u02daC for 1 min. Amplification was performed for 45 cycles and the fluorogenic signal was measured during annealing/extension step. Primer set and detecting probe for qRT-PCR was derived from the NP gene of SFTSV: NP forward (5'-CCTTCAGGTCATGACAGCTGG-3'), NP reverse (5'-ACCAGGCTCTCAATCACTCCTG T-3') and detecting probe (5'-6FAM-AGCACATGTCCAAGTGGGAAGGCTCTG-BHQ1-3'). Copy numbers were calculated as a ratio with respect to the standard control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantitative reverse transcript-polymerase chain reaction (qRT-PCR)"
+        },
+        {
+            "text": "To collect hematological data, animals were euthanized and bled by cardiac puncture. Blood was prepared in tubes coated with 0.5 M EDTA (Enzynomics, Daejeon, Republic of Korea). Prior to evaluation of platelet counts, 4% paraformaldehyde was added to EDTA-anticoagulated whole blood samples at a 1:1 ratio to inactivate virus [23] . The platelet counts were analyzed using ADVIA 2012i Hematology System (Siemens Healthimeers, Erlangen, Germany).",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hematology"
+        },
+        {
+            "text": "Data was analyzed using the Graph Pad Prism 5.01 software (GraphPad Software, La Jolla, CA, USA). Statistical analysis was performed using two-tailed Student's t-test with 95% confidence interval or one-way analysis of variance (ANOVA) followed by Newman-Keuls t-test for comparisons of values among different groups. Data are expressed as the mean \u00b1 standard deviation (S.D.). Statistical analysis on survival rates were performed using the Mantel-Cox Log Rank test. A p-value of < 0.05 was considered statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "Four viral genes of SFTSV were cloned into pGX27 vector to be expressed in mammalian cells (Fig 1) . Extracellular domains of viral glycoproteins, Gn and Gc, were separately cloned into the plasmid vector under control of CMV promoter and IRES sequence. Full lengths of viral NP and NS genes fused with a linker peptide (GSGSGSGSGSGRA) were also cloned into the vector under control of RSV promoter. All the proteins were fused with the extracellular domain of Flt3L and the signal sequence of tissue plasminogen activator (tPA) in their N-terminus to promote antigen presentation and trafficking of the fusion proteins as previously described [15] . In addition, pSFTSV-IL12 plasmid also encodes murine IL-12\u03b1 and \u03b2 to enhance antigen-specific T cell responses [17] . Expression and secretion of the viral antigens and IL-12 in HEK293 cells transfected with the plasmids were confirmed by ELISA and immunoblot analysis (Fig 2) . All the viral antigens were detected in cell culture supernatants, as well as in cellular lysates (Fig 2B) .",
+            "cite_spans": [
+                {
+                    "start": 644,
+                    "end": 648,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 762,
+                    "end": 766,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 91,
+                    "end": 98,
+                    "text": "(Fig 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 920,
+                    "end": 927,
+                    "text": "(Fig 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1028,
+                    "end": 1036,
+                    "text": "(Fig 2B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Characterization of SFTS DNA vaccines and their gene expression"
+        },
+        {
+            "text": "Next, we assessed antigen-specific adaptive immunity against the viral antigens after vaccination in IFNAR KO mice. Antibody responses to NP antigen was significantly elevated (mean titer \u00b1 S.D.: 255 \u00b1 63, n = 3) only in mice immunized with pSFTSV-IL12, and not in mice vaccinated with mock vector or pSFTSV at two weeks after third immunization (Fig 3A) . Specific antibodies against Gn and Gc were barely detectable in all the vaccinated groups, suggesting that these DNA vaccines may not efficiently induce specific antibodies against Gn or Gc, but produce NP antibody responses in the presence of IL-12 expression.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 346,
+                    "end": 354,
+                    "text": "(Fig 3A)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Antibody and T cell responses against the viral antigens in IFNAR KO mice immunized with the DNA vaccines"
+        },
+        {
+            "text": "In order to characterize the potential difference in quality of cell-mediated immunity in IFNAR KO mice immunized with the DNA vaccines, we analyzed antigen-specific T cell responses by assessing IFN-\u03b3 secreting T cells in an antigen-dependent manner (Fig 3B and  3C ). Splenocytes collected from immunized mice were stimulated with Gn or NP antigens and cytokine-positive T cell subsets were analyzed by flow cytometry. The frequencies of cytokinepositive CD4 and CD8 T cells induced by splenocytes of pSFTSV-IL12-immunized mice were significantly higher than those of vector-immunized mice. Even though the cellular responses of immune splenocytes from pSFTSV-vaccinated mice were generally increased, the levels were not statistically significant, suggesting a potent role of IL-12 co-expression in enhancing cell-mediated immunity against the viral antigens.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 251,
+                    "end": 266,
+                    "text": "(Fig 3B and  3C",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Antibody and T cell responses against the viral antigens in IFNAR KO mice immunized with the DNA vaccines"
+        },
+        {
+            "text": "Since we observed significant elevation of T cell responses specific to the viral antigens in IFNAR KO mice immunized with pSFTSV-IL12 DNA vaccine, we tested whether it could provide protective immunity against lethal SFTSV infection. The susceptibility of IFNAR KO mice to a Korean SFTSV isolate was examined by inoculating the mice with 1 x 10 1 to 1 x 10 5 FFU (S3A Fig). Upon infection, all the mice gradually lost body weight and became moribund from the third to fifth day after infection, depending on the infection dose. All the infected mice died at 5~9 d after infection (S3A Fig). Similar survival kinetics were previously reported in IFNAR KO mice infected with other SFTSV strains [11, 14] , indicating that our Korean SFTSV isolate possesses an equivalent degree of virulence to prior Chinese isolates. The platelet counts in mice infected with 1 x 10 5 FFU of SFTSV significantly declined up to 4 d after infection, and the mean platelet volumes of the infected mice were significantly higher than those of control animals (S3B Fig), suggesting that platelet destruction and the activation of platelet production simultaneously occur during lethal infection [14] .",
+            "cite_spans": [
+                {
+                    "start": 694,
+                    "end": 698,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 699,
+                    "end": 702,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1173,
+                    "end": 1177,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 369,
+                    "end": 374,
+                    "text": "Fig).",
+                    "ref_id": null
+                },
+                {
+                    "start": 586,
+                    "end": 591,
+                    "text": "Fig).",
+                    "ref_id": null
+                },
+                {
+                    "start": 1043,
+                    "end": 1048,
+                    "text": "Fig),",
+                    "ref_id": null
+                }
+            ],
+            "section": "Vaccination with pSFTSV-IL12 provides complete protection against lethal infection of SFTSV"
+        },
+        {
+            "text": "To assess the protective efficacy of the DNA vaccine, groups of mice were immunized with mock vector, pSFTSV, or pSFTSV-IL12 three times and then subcutaneously challenged with a lethal dose (10 5 FFU/mouse) of SFTSV (Fig 4) . All the mock-immunized mice expired by 5 d after SFTSV infection. In contrast, all the mice immunized with pSFTSV-IL12 were protected from lethal viral challenge, and 40% (2 of 5) of mice vaccinated with pSFTSV survived ( Fig  4A) . Consistently, pSFTSV-IL12-vaccinated animals lost weight until 4 d after the viral challenge and recovered thereafter, whereas decrease in body weight of pSFTSV-immunized mice was observed up to 8 d after the challenge and the surviving mice gradually recovered. When we examined the progression of thrombocytopenia during the acute phase of infection in the mice, platelet counts in vector-immunized mice rapidly declined until expiration (Fig 4B, left  panel) . However, platelet counts only marginally decreased in mice vaccinated with pSFTSV or pSFTSV-IL12 and counts rebounded in pSFTSV-IL12-immunized mice at 4 d after viral infection. In addition, viral loads were significantly reduced in the plasma of pSFTSV or pSFTSV-IL12-vaccinated mice when compared to those of vector-immunized control at 4 d after infection. Notably, despite similar initial viral loads (~10 6 copies/ml of plasma) at 2 d after viral challenge among the mice groups, pSFTSV-IL12-vaccinated mice (mean \u00b1 S.D. = 4.2 \u00d7 10 6 \u00b1 4.6 \u00d7 10 6 ) were approximately five and fifty times lower than those of pSFTSVvaccinated mice (mean \u00b1 S.D. = 2.1 \u00d7 10 7 \u00b1 1.7 \u00d7 10 7 ) and vector-immunized mice (mean \u00b1 S.D. = 2.0 \u00d7 10 8 \u00b1 1.9 \u00d7 10 8 ) at 4 d, respectively.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 224,
+                    "text": "(Fig 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 449,
+                    "end": 457,
+                    "text": "Fig  4A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 900,
+                    "end": 921,
+                    "text": "(Fig 4B, left  panel)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Vaccination with pSFTSV-IL12 provides complete protection against lethal infection of SFTSV"
+        },
+        {
+            "text": "Since antibody responses against the viral glycoproteins, Gn and Gc, were poorly induced in IFNAR KO mice immunized with the DNA vaccines, we further investigate the potential protective role of neutralizing antibodies against Gn or Gc protein by immunization with the protein antigens fused with human Fc fragment (Fig 5) . Vaccination with Gn-Fc or Gc-Fc protein with Alum adjuvant efficiently induced specific antibodies against the immunized antigens in IFNAR KO mice; levels of antibody titers against both antigens were fairly similar (mean titer \u00b1 S.D. = 3,584 \u00b1 1,024, n = 4). In addition, levels of neutralizing antibodies against SFTSV in immune sera from mice immunized with either protein antigen were significantly higher than those from Fc-immunized controls, when assessed by focus reduction neutralization test (FRNT, Fig 5B) . FRNT 50 titers of immune sera from mice immunized with Gc-Fc (mean titer \u00b1 S.D. = 209 \u00b1 140, n = 4) and Gn-Fc (mean titer \u00b1 S.D. = 929 \u00b1 1,134, n = 4) were approximately five and twenty folds higher than those of Fc-immunized mice (mean titer \u00b1 S.D. = 42 \u00b1 29, n = 4). It is also notable that FRNT 50 titers of Gn-Fc immune sera were generally higher than those of Gc-Fc sera, although the difference was not statistically significant. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 315,
+                    "end": 322,
+                    "text": "(Fig 5)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 834,
+                    "end": 841,
+                    "text": "Fig 5B)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Vaccination of Gn protein provides partial protection against lethal infection of SFTSV"
+        },
+        {
+            "text": "Finally, we examined the protective efficacy of the protein vaccines against lethal infection with SFTSV (Fig 5C) . All the control mice immunized with Fc antigen died at five days after infection, whereas 50% of Gn-Fc immunized mice were protected from lethal challenge and regained their lost body weight. Interestingly, weight loss of Gc-Fc vaccinated mice was delayed and observed from 4 d after infection, whereas the control mice lost weight from 2 d after infection. Even though all the mice immunized with Gc-Fc succumbed to death, they survived three days more than control mice and the extension of median survival time was statistically significant (p = 0.0046).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 105,
+                    "end": 113,
+                    "text": "(Fig 5C)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "PLOS NEGLECTED TROPICAL DISEASES"
+        },
+        {
+            "text": "DNA vaccination has been widely investigated for various infectious diseases, especially targeting viral infections, during the last two decades [24, 25] . Although, human clinical trials of DNA vaccines have yielded poor immunogenicity and less than optimal results, the approval of a few veterinary vaccines is a testimony of proof-of-concept and the hope that licensed DNA vaccines for human use may not be too far away [24] . While we were preparing this manuscript, Kwak J.E. et al. reported a promising demonstration of DNA vaccination against lethal SFTSV infection in old-aged (> 4-years-old) ferret model [26] . They used five plasmid DNAs encoding individual viral gene, Gn, Gc, NP, NS, or RdRp, and found that vaccination of old ferrets with a mixture of the five plasmids completely protected ferrets from lethal SFTSV challenge without developing any clinical symptoms and systemic viremia [26] . In addition, adoptive transfer of immune sera from ferrets immunized with two plasmids encoding Gn and Gc could not perfectly prevent the systemic viremia after SFTSV infection, but provided complete protection against lethal challenge, suggesting that Gn/Gc may be the most effective antigens for inducing protective immunity. They also found that non-envelop (NP, NS, and RdRp)-specific T cell responses also contribute to protection against SFTSV infection although it failed to induce neutralizing activity [26] . Here we also observed that vaccination with a plasmid encoding Gn, Gc, NP, and NS, together with murine IL-12, could provide protective immunity in IFNAR KO mice against lethal SFTSV challenge. However, our current DNA vaccine failed to suppress initial systemic viremia and weight loss (Fig 4) . This might be due to the lack of type I interferon signaling and/or poor antibody responses against Gn and Gc glycoproteins, which are required for viral neutralization during the early stage of viral infection. Inefficient generation of antibodies against Gn and Gc might be due to the absence of type I interferon signaling in IFNAR KO mice or fusion of Flt3L with the glycoproteins, resulting in conformation defect of the antigens and/or dysregulation of B cell responses. Given that immunization with Gn-Fc and Gc-Fc proteins can induce specific antibodies in IFNAR KO mice (Fig 5) , the absence of type I IFN signaling might not be the cause of inefficient antibody generation. Instead, Flt3L may suppress specific antibody responses as observed in other studies [16, [27] [28] [29] . Flt3L may exert tolerogenic effect on CD4 T cells via dendritic cells, thereby promoting B cell hypo-responsiveness in vivo; however, the underlying mechanisms of CD4 T cell dysregulation are still unclear [28] . Nevertheless, Flt3L can significantly enhance CD8 T cell responses when fused with a target antigen and promote persistent maintenance of antigen-specific CD8 T cells in vivo [16, 29] . In this study, we also observed significant enhancement of Gn and NP-specific CD8 T cell responses, as well as CD4 T cells, in the presence of IL-12 expression (Fig 3B and 3C) , which correlated well with vaccine protective efficacy in mice infected with lethal doses of SFTSV. The potent effect of antigen-specific T cell responses in protection against SFTSV infection is consistent with the results of the aforementioned ferret infection model [26] . In this study, we did not include a negative control using a plasmid encoding IL-12 alone, since it has been shown that IL-12 alone failed to boost antigen-specific cellular immunity [30] .",
+            "cite_spans": [
+                {
+                    "start": 145,
+                    "end": 149,
+                    "text": "[24,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 150,
+                    "end": 153,
+                    "text": "25]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 423,
+                    "end": 427,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 614,
+                    "end": 618,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 903,
+                    "end": 907,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1421,
+                    "end": 1425,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 2494,
+                    "end": 2498,
+                    "text": "[16,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2499,
+                    "end": 2503,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 2504,
+                    "end": 2508,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 2509,
+                    "end": 2513,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 2722,
+                    "end": 2726,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 2904,
+                    "end": 2908,
+                    "text": "[16,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2909,
+                    "end": 2912,
+                    "text": "29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 3362,
+                    "end": 3366,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 3552,
+                    "end": 3556,
+                    "text": "[30]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1715,
+                    "end": 1722,
+                    "text": "(Fig 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 2304,
+                    "end": 2311,
+                    "text": "(Fig 5)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 3075,
+                    "end": 3090,
+                    "text": "(Fig 3B and 3C)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Finally, we evaluated the degree of protective immunity provided by the individual glycoprotein, Gn or Gc, after protein antigen immunization for the first time (Fig 5) , since previous studies showed that vaccination with both antigens retained in a live viral vector [11] or DNA vaccine [26] can provide complete protection against lethal SFTSV challenge in IFNAR KO mice or old ferrets, respectively. Both protein antigens are immunogenic and induce significant levels of neutralizing activity against SFTSV, although anti-Gn antibodies retain relatively higher neutralizing capacity than anti-Gc antibodies. Consistently, the protective efficacy of Gn protein vaccination is relatively higher than Gc protein immunization. While vaccination with either protein antigen failed to provide complete protection against lethal SFTSV challenge, Gc vaccine prolonged the survival time of infected mice and Gn antigen can provide partial protection. Considering that Gn and Gc glycoproteins function as viral ligands for cellular receptor binding and viral membrane fusion in host endosome, respectively [31] [32] [33] , neutralization of both antigens might be required to completely block viral attachment and entry into host cells.",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 289,
+                    "end": 293,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1100,
+                    "end": 1104,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1105,
+                    "end": 1109,
+                    "text": "[32]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1110,
+                    "end": 1114,
+                    "text": "[33]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 168,
+                    "text": "(Fig 5)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Taken together, we confirmed that antigen-specific T cell responses against SFTSV induced by DNA vaccination can provide complete protection against lethal viral challenge and immunization with each individual glycoprotein of SFTSV can also confer partial protective immunity. Given that the Achilles heel of DNA vaccines remains their poor immunogenicity in human trials when compared to protein vaccines [25] , optimal combinations of DNA and/or protein vaccines, proper selection of target antigens, and incorporation of efficient vaccine adjuvant, need to be further investigated for development of the best SFTSV vaccine formulation for human application. ",
+            "cite_spans": [
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The Emergence of Severe Fever with Thrombocytopenia Syndrome Virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Silvas",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Aguilar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "97",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4269/ajtmh.16-0967"
+                ],
+                "PMID": [
+                    "28820686"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Taxonomy of the order Bunyavirales: update 2019",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abudurexiti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Adkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alioto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Alkhovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Avsic-Zupanc",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ballinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "164",
+            "issn": "",
+            "pages": "1949--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-019-04253-6"
+                ],
+                "PMID": [
+                    "31065850"
+                ],
+                "PMCID": [
+                    "PMC6641860"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Epidemiological and clinical features of laboratorydiagnosed severe fever with thrombocytopenia syndrome in China, 2011-17: a prospective observational study",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Lancet Infect Dis",
+            "volume": "18",
+            "issn": "10",
+            "pages": "30293--30300",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(18)30293-7"
+                ],
+                "PMID": [
+                    "30054190"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Severe fever with thrombocytopenia syndrome: comparison with scrub typhus and clinical diagnostic prediction",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Bae",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kwak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMC infectious diseases",
+            "volume": "19",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12879-019-3773-1"
+                ],
+                "PMID": [
+                    "30782137"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Viral load and inflammatory cytokine dynamics associated with the prognosis of severe fever with thrombocytopenia syndrome virus infection: An autopsy case",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Iwanaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hara",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shimada",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hayasaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Infect Chemother",
+            "volume": "25",
+            "issn": "6",
+            "pages": "480--484",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jiac.2019.01.013"
+                ],
+                "PMID": [
+                    "30824300"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Endemic Severe Fever with Thrombocytopenia Syndrome",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van An",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ntp",
+                    "middle": [],
+                    "last": "Thao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pkc",
+                    "middle": [],
+                    "last": "Man",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vietnam. Emerg Infect Dis",
+            "volume": "25",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2505.181463"
+                ],
+                "PMID": [
+                    "31002059"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Nosocomial person-to-person transmission of severe fever with thrombocytopenia syndrome",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wang",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Microbiol Infect",
+            "volume": "25",
+            "issn": "5",
+            "pages": "633--634",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmi.2019.01.006"
+                ],
+                "PMID": [
+                    "30677496"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Current status of Severe Fever with Thrombocytopenia Syndrome vaccine development. Current opinion in virology",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Reece",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Beasley",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Milligan",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Sarathy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Barrett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "29",
+            "issn": "",
+            "pages": "72--80",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.coviro.2018.03.005"
+                ],
+                "PMID": [
+                    "29642053"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Immunization with recombinant SFTSV/ NSs protein does not promote virus clearance in SFTSV-infected C57BL/6J mice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Viral Immunol",
+            "volume": "28",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/vim.2014.0100"
+                ],
+                "PMID": [
+                    "25594805"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Nano-patterning of a stainless steel microneedle surface to improve the dip-coating efficiency of a DNA vaccine and its immune response",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rejinold",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kwak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Colloids Surf B Biointerfaces",
+            "volume": "159",
+            "issn": "",
+            "pages": "54--61",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.colsurfb.2017.07.059"
+                ],
+                "PMID": [
+                    "28780461"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Single dose of a rVSV-based vaccine elicits complete protection against severe fever with thrombocytopenia syndrome virus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "NPJ Vaccines",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41541-018-0096-y"
+                ],
+                "PMID": [
+                    "30701094"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Pathogenesis of emerging severe fever with thrombocytopenia syndrome virus in C57/BL6 mouse model",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "109",
+            "issn": "25",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1120246109"
+                ],
+                "PMID": [
+                    "22665769"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The pathogenesis of severe fever with thrombocytopenia syndrome virus infection in alpha/beta interferon knockout mice: insights into the pathologic mechanisms of a new viral hemorrhagic fever",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Tesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Virol",
+            "volume": "88",
+            "issn": "3",
+            "pages": "1781--1787",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02277-13"
+                ],
+                "PMID": [
+                    "24257618"
+                ],
+                "PMCID": [
+                    "PMC3911604"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Animal Models of Emerging Tick-Borne Phleboviruses: Determining Target Cells in a Lethal Model of SFTSV Infection. Front Microbiol",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Matsuno",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Orba",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maede-White",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.00104"
+                ],
+                "PMID": [
+                    "28194148"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clearance of persistent HPV infection and cervical lesion by therapeutic DNA vaccine in CIN3 patients",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Hur",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Seo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nat Commun",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ncomms6317"
+                ],
+                "PMID": [
+                    "25354725"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Long-term maintenance of gp120-specific immune responses by genetic vaccination with the HIV-1 envelope genes linked to the gene encoding Flt-3 ligand",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sailaja",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Husain",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nayak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jabbar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Immunol",
+            "volume": "170",
+            "issn": "5",
+            "pages": "2496--507",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.170.5.2496"
+                ],
+                "PMID": [
+                    "12594275"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Engineering N-glycosylation mutations in IL-12 enhances sustained cytotoxic T lymphocyte responses for DNA immunization",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ha",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat Biotechnol",
+            "volume": "20",
+            "issn": "4",
+            "pages": "381--387",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt0402-381"
+                ],
+                "PMID": [
+                    "11923845"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Transient mammalian cell transfection with polyethylenimine (PEI)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Longo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kavran",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Leahy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Methods Enzymol",
+            "volume": "529",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-418687-3.00018-5"
+                ],
+                "PMID": [
+                    "24011049"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "An anti-Gn glycoprotein antibody from a convalescent patient potently inhibits the infection of severe fever with thrombocytopenia syndrome virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PLoS Pathog",
+            "volume": "15",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1007375"
+                ],
+                "PMID": [
+                    "30707748"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Methylcellulose media for plaque assay of murine leukemia virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Horikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Clin Microbiol",
+            "volume": "16",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "6290531"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Sequential Emergence and Wide Spread of Neutralization Escape Middle East Respiratory Syndrome Coronavirus Mutants, South Korea",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aigerim",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Rhee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "25",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2506.181722"
+                ],
+                "PMID": [
+                    "30900977"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "A Type I Interferon and IL-10 Induced by Orientia tsutsugamushi Infection Suppresses Antigen-Specific T Cells and Their Memory Responses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ha",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nth",
+                    "middle": [],
+                    "last": "Yen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Frontiers in immunology",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2018.02022"
+                ],
+                "PMID": [
+                    "30233599"
+                ],
+                "PMCID": [
+                    "PMC6131522"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Modeling Severe Fever with Thrombocytopenia Syndrome Virus Infection in Golden Syrian Hamsters: Importance of STAT2 in Preventing Disease and Effective Treatment with Favipiravir",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gowen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Westover",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Miao",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Wettere",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rigas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hickerson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Virol",
+            "volume": "91",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01942-16"
+                ],
+                "PMID": [
+                    "27881648"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "DNA Vaccine Delivery and Improved Immunogenicity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Raviprakash",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Current Issues in Molecular Biology",
+            "volume": "22",
+            "issn": "",
+            "pages": "129--167",
+            "other_ids": {
+                "DOI": [
+                    "10.21775/cimb.022.129"
+                ],
+                "PMID": [
+                    "27831541"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The future of human DNA vaccines",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Saade",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Petrovsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Journal of Biotechnology",
+            "volume": "162",
+            "issn": "2-3",
+            "pages": "171--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jbiotec.2012.08.012"
+                ],
+                "PMID": [
+                    "22981627"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Development of a SFTSV DNA vaccine that confers complete protection against lethal infection in ferrets",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kwak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat Commun",
+            "volume": "10",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41467-019-11815-4"
+                ],
+                "PMID": [
+                    "31444366"
+                ],
+                "PMCID": [
+                    "PMC6707330"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Intramuscular co-injection of naked DNA encoding HBV core antigen and Flt3 ligand suppresses anti-HBc antibody response",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Immunol Lett",
+            "volume": "81",
+            "issn": "3",
+            "pages": "229--263",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s0165-2478(02)00039-1"
+                ],
+                "PMID": [
+                    "11947930"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Co-expression of Flt-3 ligand gene ablates tumor immunity elicited by HER-2/neu DNA vaccine in transgenic mice",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Venanzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barucca",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Havas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Capitani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Provinciali",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Scotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vaccine",
+            "volume": "28",
+            "issn": "22",
+            "pages": "3841--3848",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2010.03.010"
+                ],
+                "PMID": [
+                    "20350624"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Enhancement of DNA vaccine potency by linkage of antigen gene to a gene encoding the extracellular domain of Fms-like tyrosine kinase 3-ligand. Cancer research",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "61",
+            "issn": "",
+            "pages": "1080--1088",
+            "other_ids": {
+                "PMID": [
+                    "11221836"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Enhanced protection against viral infection by co-administration of plasmid DNA coding for viral antigen and cytokines in mice",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Operschall",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Schuh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Heinzerling",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pavlovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moelling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Clin Virol",
+            "volume": "13",
+            "issn": "1-2",
+            "pages": "17--27",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s1386-6532(99)00008-6"
+                ],
+                "PMID": [
+                    "10405888"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The Role of Phlebovirus Glycoproteins in Viral Entry, Assembly and Release",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Spiegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Plegge",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Viruses-Basel",
+            "volume": "8",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "ARTN20210.3390/v8070202.WOS:000380766700024"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Structure of a phleboviral envelope glycoprotein reveals a consolidated model of membrane fusion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Halldorsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Behrens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Harlos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Huiskonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Elliott",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Crispin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "P Natl Acad Sci USA",
+            "volume": "113",
+            "issn": "26",
+            "pages": "7154--7163",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1603827113"
+                ],
+                "PMID": [
+                    "27325770"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Structures of phlebovirus glycoprotein Gn and identification of a neutralizing antibody epitope",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Oladejo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "P Natl Acad Sci",
+            "volume": "114",
+            "issn": "36",
+            "pages": "7564--73",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1705176114"
+                ],
+                "PMID": [
+                    "28827346"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Schematic diagrams of SFTSV DNA vaccines used in this study. pSFTSV was constructed by inserting genes encoding ectodomains of Gn and Gc, and NP-NS fusion protein into the pGX2 vector. The viral antigens are preceded by the secretory signal sequence of tPA and the extracellular domain of Flt3L. pSFTSV-IL-12 includes additional genes encoding murine IL-12\u03b1 and \u03b2 to promote cellular immunity. ColE1, ColE1-type bacterial origin of replication; gIVS, rabbit \u03b2-globin intervening sequence; Kan R , kanamycin resistance gene; IRES, internal ribosome entry site.https://doi.org/10.1371/journal.pntd.0007813.g001",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Characterization of gene expression after SFTSV DNA vaccine transfection. (A) Expression and secretion of the viral antigens and IL-12 in HEK293 cells transfected with the DNAs was confirmed by measuring the concentration of Flt3L and IL-12 in the cell culture supernatants by ELISA. Data are presented as mean + S.D. from triplicated experiments. (B) Expression of the viral antigens, Gn (~74 kDa), Gc (~71 kDa), and NP-NS fusion (~80 kDa) proteins, in cell lysates (left panels) and culture supernatants (right panels) of transfected HEK293 cells was assessed by immunoblot analysis using anti-Gn, Gc, or NP antibodies, respectively. The specific bands of antigens corresponding to their expected sizes are indicated with arrow heads. \u03b2-actin was used as loading control. https://doi.org/10.1371/journal.pntd.0007813.g002",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Generation of antigen-specific antibodies and T cell responses in IFNAR KO mice vaccinated with SFTSV DNA vaccines. (A) Anti-NP IgG response was measured by ELISA at two weeks after the third vaccination. The antibody titers of anti-NP IgG in sera of mice (n = 3) immunized with different DNA vaccines are presented. Cut-off titers (dashed line, mean O.D. + 3 x S.D. at 1:100 diluents) was determined using sera from vector-immunized mice. Error bar: mean \u00b1 S.D. (B and C) Splenocytes were collected from mice at two weeks after the third immunization with the indicated DNA vaccines. Production of IFN-\u03b3 by CD4 + T or CD8 + T cells were analyzed by flow cytometry after stimulation with the indicated antigens. Representative flow cytometric results are presented (B) and the percentile of cytokine positive cells among CD4 + or CD8 + T cell subsets are summarized (C). Data shown as mean + S.D. from duplicate assays with three mice per group. \ufffd , p < 0.05; \ufffd\ufffd , p < 0.01. https://doi.org/10.1371/journal.pntd.0007813.g003",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Complete protection of IFNAR KO mice after vaccination with pSFTSV-IL-12. (A) Survival rates (left panel) and body weight changes (right panel) of mice (n = 5/group) immunized three times with the indicated DNAs and challenged s.c. with 10 5 FFU of SFTSV at two weeks after vaccination. (B) Platelet counts (left panel) and viral loads in plasma (right panel) of mice vaccinated with the indicated DNA vaccines are presented. Blood samples were collected at 2 (D2) and 4 (D4) days after viral challenge. Uninf, uninfected; n = 3~4 mice/group. \ufffd , p < 0.05; \ufffd\ufffd , p < 0.01; \ufffd\ufffd\ufffd , p < 0.001. https://doi.org/10.1371/journal.pntd.0007813.g004",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Partial protection of IFNAR KO mice after vaccination with Gn-Fc antigen. (A) Anti-Gc (blue dots) or Gn (red dots) IgG response was measured by ELISA at two weeks after the third immunization with Gn-Fc or Gc-Fc in IFNAR KO mice (n = 4/group). Cut-off titers (dashed line, mean O.D. + 3 x S.D. at 1:100 diluents) was determined using Fc-immune sera (black dots). The antibody titers of anti-Gc or Gn IgG in sera of immunized mice are summarized in the right panel. Error bar, mean + S.D.; black line, mean. (B) Neutralizing antibody response to SFTSV generated by SFTSV DNA vaccines in IFNAR KO mice. The amount of neutralizing antibody against SFTSV was determined based on FRNT 50 (left panel) and summarized (right panel). (C) Survival rates (left panel) and body weight changes (right panel) of mice immunized three times with Fc (black dots, n = 6), Gc-Fc (blue dots, n = 4), or Gn-Fc (red dots, n = 6) antigen and challenged s.c. with 10 5 FFU of SFTSV at two weeks after vaccination. \ufffd , p < 0.05; \ufffd\ufffd , p < 0.01. https://doi.org/10.1371/journal.pntd.0007813.g005",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Fig. Purified Gn-Fc and Gc-Fc proteins were resolved by SDS-PAGE and stained with Coomassie blue. (TIF) S2 Fig. Gating strategies for T cell analysis by flow cytometry. (TIF) S3 Fig. Clinical manifestations in IFNAR KO mice infected with SFTSV. (A) IFNAR KO mice were subcutaneously infected with different doses (0, 10 1 , 10 3 , or 10 5 FFU/mouse) of SFTSV. The mice were monitored daily to assess survival rate (left) and body weight change (right) up to 10 d after infection when all the infected mice died. (B) The blood from the infected mice were collected and platelet counts and their volumes were examined by hematological analyzer. Red line: mean value, \ufffd : p < 0.05, \ufffd\ufffd : p < 0.01, compared with mock-infected controls. (TIF) Author Contributions Conceptualization: Keun Hwa Lee, Nam-Hyuk Cho. Data curation: Kyeongseok Jeon, Yuri Kim, Nam-Hyuk Cho. Formal analysis: Kyeongseok Jeon, Hooncheol Choi, Nam-Hyuk Cho. Funding acquisition: Yang Soo Kim, Keun Hwa Lee, Nam-Hyuk Cho.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

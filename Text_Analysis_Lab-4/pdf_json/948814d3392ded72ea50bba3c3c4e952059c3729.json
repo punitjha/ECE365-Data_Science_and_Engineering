@@ -1,0 +1,1047 @@
+{
+    "paper_id": "948814d3392ded72ea50bba3c3c4e952059c3729",
+    "metadata": {
+        "title": "Rapid communication Only strict quarantine measures can curb the coronavirus disease (COVID-19) outbreak in Italy, 2020",
+        "authors": [
+            {
+                "first": "Henrik",
+                "middle": [],
+                "last": "Sj\u00f6din\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Annelies",
+                "middle": [],
+                "last": "Wilder-Smith",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ume\u00e5 University",
+                    "location": {
+                        "settlement": "Ume\u00e5",
+                        "country": "Sweden"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sarah",
+                "middle": [],
+                "last": "Osman\u00b2",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zia",
+                "middle": [],
+                "last": "Farooq\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joacim",
+                "middle": [],
+                "last": "Rockl\u00f6v\u00b9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Several Italian towns are under lockdown to contain the COVID-19 outbreak. The level of transmission reduction required for physical distancing interventions to mitigate the epidemic is a crucial question. We show that very high adherence to community quarantine (total stay-home policy) and a small household size is necessary for curbing the outbreak in a lockeddown town. The larger the household size and amount of time in the public, the longer the lockdown period needed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Several Italian towns are under lockdown to contain the COVID-19 outbreak. The level of transmission reduction required for physical distancing interventions to mitigate the epidemic is a crucial question. We show that very high adherence to community quarantine (total stay-home policy) and a small household size is necessary for curbing the outbreak in a lockeddown town. The larger the household size and amount of time in the public, the longer the lockdown period needed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In February 2020, Italy became the epicentre for coronavirus disease in Europe, with many exportations to other countries, and widespread community transmission, particularly in Northern Italy [1] . As a public health response, on 22 February 2020, Italy imposed a lockdown with shutdown of businesses, schools and public places plus physical distancing in 'hotspot' regions close to Milan and Venice. Approximately 50,000 people could not enter or leave several towns in Veneto and Lombardy for 14 days without special permission. The population sizes in these towns range from 927 to 15,293 individuals [2] . As at 9 March 2020, 7,375 laboratory-confirmed cases of COVID-19 and 366 deaths had been observed in Italy, so on that date, the community quarantine was extended to include all of Northern Italy until 3 April. Here we aim to investigate the extent of physical distancing needed to effectively control the outbreak in a lockdown situation in a small size town setting typical of Italy. We specifically estimate the disease burden and the time required until the quarantine can be lifted, by taking into account the time spent by individuals in the public (i.e. outside of the home) and the household size.",
+            "cite_spans": [
+                {
+                    "start": 193,
+                    "end": 196,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 605,
+                    "end": 608,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "European epicentre"
+        },
+        {
+            "text": "To account for the importance of stochasticity in individual-based processes within smaller cities and within households, we modelled the outbreak progression as a continuous-time Markov process, specifically by developing a susceptible-exposed-infectious-recovered (SEIR) epidemiological model in the form of a Master equation [3] [4] [5] (Supplement 1). The model was parameterised to COVID-19 based on published data on incubation time and infectious period [6, 7] . We modelled a scenario where 0.1% of the population in the quarantined town would be in the latent period (i.e. the period of time between the point of infection and the onset of infectiousness) at the time of implementing the quarantine policy on 22 February, and that all symptomatic cases would have been moved out the locked-down town (e.g. placed in a hospital for care and isolation). This corresponds to five latent persons in a city of 5,000 persons. Further, we assumed that all persons were isolated after 1 day of symptoms. We also assumed a pre-symptomatic period of infectiousness of 1 day. Of all infected persons, we modelled different proportions of asymptomatic infections (scenarios of 10%, 20% or 50%) based on our preliminary knowledge on such proportions [8, 9] . Persons with asymptomatic infections would not be isolated and continue to contribute to transmission. Parameters are summarised in the Table. Importantly, the standard reproductive rate [5] , equal to the product between contact rate and the probability of transmission given a contact event, was set within a household to \u03b2 = c\u03c4 = 2.1 [10] , and within public locations in the community to \u03b2=c\u03c4=0.27 ; lower than in mainland China or on the cruise ship Diamond Princess [10, 11] , as population densities in European towns are lower. The within-household contact-rate, , was thus assumed to be eight times higher than the contact-rate \u0303 at public locations. We could then apply a quarantine adherence parameter , to model dynamically the amount of time spent in households relative to that in public locations (see Supplement 1 for a more detailed description).",
+            "cite_spans": [
+                {
+                    "start": 328,
+                    "end": 331,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 332,
+                    "end": 335,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 336,
+                    "end": 339,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 461,
+                    "end": 464,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 465,
+                    "end": 467,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1246,
+                    "end": 1249,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1250,
+                    "end": 1252,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1442,
+                    "end": 1445,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1592,
+                    "end": 1596,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1727,
+                    "end": 1731,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1732,
+                    "end": 1735,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1391,
+                    "end": 1397,
+                    "text": "Table.",
+                    "ref_id": null
+                }
+            ],
+            "section": "Stochastic individual based processes"
+        },
+        {
+            "text": "We modelled the effectiveness of quarantine based on the degree of adherence to quarantine, measured by the number of hours per person spent in the public per day. Complete noncompliance to community quarantine corresponds to a reference quarantine level, where individuals perform their every-day out-of-household activities (i.e. working, shopping, socialising) as normal, for an average 10 hours per day. Medium adherence to community quarantine restricts every-day out-of-household activities to 50% of normal, i.e. 5 hours a day. A complete community quarantine corresponds to no out-of-household activities at all, i.e. 0 hours a day. For any degree of quarantine adherence, we tested for four different average household sizes: (i) larger average households of six persons, (ii) medium average households of three persons, (iii) small average households of two persons, and lastly (iv) singleperson households.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quarantine scenarios"
+        },
+        {
+            "text": "Given that Italy had initially implemented a 14-days lockdown with community quarantine in several towns in Northern Italy, we estimated the number of secondary cases, including asymptomatic cases, in a town of 5,000 persons by the end of this time period in relation to the above scenarios ( Figure 1 ). For any degree of quarantine adherence between 0 and 10 hours, Figure1A, Figure 1B and Figure 1C Our model shows how the number of secondary cases within the town increases with the time spent in the public, and also with the average household size (i.e. the quarantine unit). Looking at the extremes, for a six-person household and no community quarantine, we predicted 43 new infections over the 14 days period. In contrast, for a single-person household and complete community quarantine (no time outside of homes), no secondary cases were predicted over the 14 days period. The average household size in Italy is 2.58 according to the Organisation for Economic Co-operation and Development (OECD) [12] . For an average household size of two persons with complete, near-complete, medium and no community quarantine (i.e. 0, 1, 5, and 10 hours respectively in the community), we predict 3, 4, 7 and 11 secondary infections during the lockdown. With an average three-person household size, 7, 8, 12 and 20 secondary infections are predicted, respectively. The average Italian household size 2.58 is thus in-between that of a two-person and three-person household size. With a six-person average household size, 16, 19, 29 and 43 secondary infections would be predicted to occur over the 14-days period, respectively. In addition, our model indicates that the number of secondary, latent and infected cases has a linear relationship with the population size of a lockdown region, provided same population densities apply between cities. In a locked-down area with 50,000 people, we would expect for an average household size of two persons with complete, near-complete, medium and no community quarantine 30, 40, 70 and 110 secondary infections over the 14-days period, respectively.",
+            "cite_spans": [
+                {
+                    "start": 1006,
+                    "end": 1010,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 293,
+                    "end": 301,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 378,
+                    "end": 387,
+                    "text": "Figure 1B",
+                    "ref_id": null
+                },
+                {
+                    "start": 392,
+                    "end": 401,
+                    "text": "Figure 1C",
+                    "ref_id": null
+                }
+            ],
+            "section": "Quarantine scenarios"
+        },
+        {
+            "text": "The objective of the lockdown with community quarantine is to contain the outbreak within a manageable duration. Figure 2 shows the results on lockdown durations required for average household sizes of 1, 2, 3 and 6, and for various degrees of strictness of quarantine restrictions. Assuming 10% asymptomatic infections (Figure 2a) , for a three-person average household-size situation, around 30 days will be a sufficient length under conditions of near-complete community quarantine adherence. With only medium adherence a duration of 54 days would be necessary. Less strict quarantine will result in much longer lockdown periods, which then become unfeasible for any society. These results are only marginally different to a situation with 50% asymptomatic cases (Figure 2b ). In addition, the definition to declare an outbreak over requires waiting two times the maximum incubation period after the last case, e.g. 2 \u00d7 14 days.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 113,
+                    "end": 121,
+                    "text": "Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 320,
+                    "end": 331,
+                    "text": "(Figure 2a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 766,
+                    "end": 776,
+                    "text": "(Figure 2b",
+                    "ref_id": null
+                }
+            ],
+            "section": "Duration of the quarantine"
+        },
+        {
+            "text": "These findings have major implications. A lockdown is designed to reduce spread beyond the lockdown area, and to also prevent further importation into a lockdown area. In a lockdown area, all measures need to be taken to curb transmission. We showed that transmission will continue to occur unless the most stringent community quarantine measures are being taken in a lockdown setting, which means near-complete reduction of all activities in the community. We also find that smaller household sizes, or quarantine group sizes, are associated with fewer secondary cases. Our model ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Estimation of the number of total secondary cases (panels A, D, G) during the 14-days period and the (panels B, E, H) latent and (panels C, F, I) infectious cases of COVID-19 at the end of a 14-days lockdown of a city with a population of 5,000 persons, depending on the degree of quarantine adherencea, the size of quarantine units and the proportion of asymptomatic cases Generally, higher adherence and smaller quarantine units help to minimise the number of (Panel A) secondary cases over the 14 days period, as well as (Panel B) latent and (Panel C) infectious cases at the end of a lockdown. This was shown for 10% asymptomatic cases. The same conclusion follows when also considering (Panels D-F) 20% asymptomatic cases and (Panels G-I) 50% asymptomatic cases. The number of cases, however, increases with the proportion of asymptomatic cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Figure 1"
+        },
+        {
+            "text": "results apply to any small-city population size, and can be generalised to larger towns and cities given the linear relationship between population size and secondary cases, assuming a similar population density. COVID-19 is driven by population densities [13] . For settings with higher population densities, which facilitate more intermixing within the population, higher number of secondary cases are expected. The population density in urban Italy is 205.45/km 2 [14] compared to Hubei Province, China, where it is 2,804/km 2 [15] . We note that with near 100% restriction of outdoor activities, all transmission will continue to occur within households. In the event of an average household size of three individuals, this would mean that, as a result of within-household transmission, seven secondary cases would be expected (Figure 1a ) in a population of 5,000 persons, or 70 secondary infections in a population of 50,000. Public health measures should be in place to immediately test and isolate infected persons.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 260,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 467,
+                    "end": 471,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 530,
+                    "end": 534,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 831,
+                    "end": 841,
+                    "text": "(Figure 1a",
+                    "ref_id": null
+                }
+            ],
+            "section": "Figure 1"
+        },
+        {
+            "text": "The lockdown in China with government enforced movement restriction outdoors combined with facility-based case isolation, rigorous contact tracing and quarantine of all contacts, had a substantial impact on interrupting the chain of human-to-human transmission in Wuhan, thus effectively containing the outbreak [16] . While the outbreak in Wuhan involved a highly urbanised setting, the current lockdown in Italy involves small villages with a different social culture and behaviour, and different mechanisms of quarantine enforcement. Our findings suggest that the degree of quarantine adherence needs to be very high regardless of population size in order to be effective. We note, however, that a less strict community quarantine could still flatten the curve of the outbreak compared to no quarantine [17] . In any case, quarantine adherence has an Important and notable impact on reducing the outbreak, but some transmission will still occur within households. We showed that in a theoretical scenario of a singleperson household with very strict community quarantine measures, no secondary infections would occur. While a single-person household does not reflect the reality of any society, it does suggest that if all cases could be isolated, e.g. moved out of the community, the epidemic curve would decline much faster and the lockdown duration could be reduced. This means that more efforts need to be done at household level:",
+            "cite_spans": [
+                {
+                    "start": 312,
+                    "end": 316,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 806,
+                    "end": 810,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Quarantine in the wider context"
+        },
+        {
+            "text": "Estimation of the required duration of a lockdown with quarantine, to contain a COVID-19 outbreak in a city of 5,000 inhabitants, depending on the quarantine adherence strictness and household size Assuming (panel A) 10% asymptomatic cases, and (panel B) 50% asymptomatic cases respectively, the quarantine duration required to successfully curb the outbreak is presented as a function of time spent out of the household (hours). This is based on that a period of at least 14 days since the last case is a sufficient criterium to suppress the outbreak. Four different quarantine unit group-sizes are shown. The y-axis was limited to 90 days to show the span within the most relevant time-horizon. At this relevant time scale, there are only marginal differences between 10% and 50% asymptomatic cases. keeping physical distance even within a household combined with wearing face masks and segregated within-household isolation, or better all symptomatic cases ideally need to be promptly moved out of the household, and isolated in a designated facility. Prompt testing is therefore needed for timely diagnosis and immediate isolation. We also show that a 14-days lockdown period is not sufficient for most scenarios; a longer lockdown duration is needed. On 8 March, Italy announced the need to extend the lockdown to include around 16 million people for 25 additional days until 3 April. Such longer duration should in fact be expected to be required, to have a positive impact, which is going to be very challenging for affected communities to be supplied in food, essential services and to be able to cope psychologically. If lockdown is enforced, it must be done rigorously to truly interrupt transmission, and this would mean near 100% restriction of contacts between persons within the community combined with prompt isolation of new cases. Less strict quarantine adherence would imply even longer lockdown periods, and longer lockdown periods will likely present even greater socioeconomic challenges. By implementing the world's largest lockdown combined with prompt case isolation, contact tracing of contacts and with strict enforcement of physical distancing [16] , containment of COVID-19 in China was shown to be feasible. Remarkably, in South Korea, the control of the outbreak, which had been temporarily lost, was regained without lockdown but with rigorous active case finding, by liberal testing, prompt isolation, and by using novel digital technologies to maximise contact tracing and quarantine of all contacts [18] . In certain places like Taiwan [19] , Singapore [20] and Hong Kong, a flat epidemic curve was maintained for COVID-19 by applying very liberal testing, prompt case isolation outside of the community (no home isolation even of the mildest cases), and technologically enhanced contact tracing, very early in the outbreak. If the lockdown in Italy, and meanwhile in many other European countries, is aimed at containment, close to 100% restriction of contact time within communities combined with prompt case detection and immediate isolation of infected persons need to be achieved.",
+            "cite_spans": [
+                {
+                    "start": 2171,
+                    "end": 2175,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2533,
+                    "end": 2537,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2570,
+                    "end": 2574,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2587,
+                    "end": 2591,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Figure 2"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The global community needs to swiftly ramp up the response to contain COVID-19",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "20",
+            "pages": "30679--30685",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ],
+                "PMID": [
+                    "32199470"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Wikipedia. the free encyclopedia. St. Petersburg (FL): Wikimedia Foundation, Inc. 2020 coronavirus pandemic in Italy",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Population-level consequences of heterospecific densitydependent movements in predator-prey systems",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sj\u00f6din",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Br\u00e4nnstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "S\u00f6derquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Englund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Theor Biol",
+            "volume": "342",
+            "issn": "",
+            "pages": "93--106",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2013.09.019"
+                ],
+                "PMID": [
+                    "24060621"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Stochastic Methods: A Handbook for the Natural and Social Sciences",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gardiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Modeling Infectious Diseases in Humans and Animals",
+            "authors": [
+                {
+                    "first": "Mjr",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "12",
+            "pages": "1177--1186",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001737"
+                ],
+                "PMID": [
+                    "32074444"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "13",
+            "pages": "1199--207",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ],
+                "PMID": [
+                    "31995857"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mizumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kagaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zarebski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32183930"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kinoshita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "30139--30148",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.03.020"
+                ],
+                "PMID": [
+                    "32179137"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The scaling of contact rates with population density for the infectious disease models",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nigmatulina",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Eckhoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Math Biosci",
+            "volume": "244",
+            "issn": "2",
+            "pages": "125--159",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2013.04.013"
+                ],
+                "PMID": [
+                    "23665296"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "COVID-19 outbreak on the Diamond Princess cruise ship: estimating the epidemic potential and effectiveness of public health countermeasures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sj\u00f6din",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "030",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa030"
+                ],
+                "PMID": [
+                    "32109273"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "OECD Family Database",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "High population densities catalyze the spread of COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sj\u00f6din",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "038",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa038"
+                ],
+                "PMID": [
+                    "32227186"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Population density from",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Statistica",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Italy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Population density in urban areas of China 2018, by region",
+            "authors": [],
+            "year": null,
+            "venue": "Statistica",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Khosrawipour",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kocbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mikolajczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bania",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "037",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa037"
+                ],
+                "PMID": [
+                    "32181488"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "How will country-based mitigation measures influence the course of the COVID-19 epidemic?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hollingsworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30567--30572",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ],
+                "PMID": [
+                    "32164834"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Epidemiology & Case Management Team, Korea Centers for Disease Control & Prevention. Contact Transmission of COVID-19 in South Korea: Novel Investigation Techniques for Tracing Contacts. Osong Public Health Res Perspect",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "11",
+            "issn": "",
+            "pages": "60--63",
+            "other_ids": {
+                "DOI": [
+                    "10.24171/j.phrp.2020.11.1.09"
+                ],
+                "PMID": [
+                    "32149043"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brook",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.3151"
+                ],
+                "PMID": [
+                    "32125371"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Interrupting transmission of COVID-19: lessons from containment efforts in Singapore",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Khong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "039",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa039"
+                ],
+                "PMID": [
+                    "32167146"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "provide the expected number of secondary infections over 14 days of lockdown, and the number of latent infectious persons and the number of infectious persons respectively at Day 14 of lockdown. These reported numbers relate to a population where 10% of all infected persons are asymptomatic, and would increase for 20% (Figure 1 D-F) or 50% (Figure 1 G-I) asymptomatic cases.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "adherence means that a large amount of time (up to 10 hours) is spent out of the household per day and per person.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "parameters and corresponding values used for the model of COVID-19 outbreak progression in this study",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "HS and ZF did the modelling and created the figures. AWS had the study idea. JR, HS and AWS conceptualized the study; AWS, JR and SO provided parameters. AWS, HS and JR wrote the first draft of the manuscript. All authors contributed to the final manuscript.This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0) Licence. You may share and adapt the material, but must give appropriate credit to the source, provide a link to the licence and indicate if changes were made.Any supplementary material referenced in the article can be found in the online version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        }
+    ]
+}

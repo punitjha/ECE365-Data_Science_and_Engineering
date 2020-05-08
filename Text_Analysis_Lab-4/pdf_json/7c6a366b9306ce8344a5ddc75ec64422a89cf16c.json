@@ -1,0 +1,782 @@
+{
+    "paper_id": "7c6a366b9306ce8344a5ddc75ec64422a89cf16c",
+    "metadata": {
+        "title": "End-of-life care in the emergency department for the patient imminently dying of a highly transmissible acute respiratory infection (such as COVID-19)",
+        "authors": [
+            {
+                "first": "Ariel",
+                "middle": [],
+                "last": "Hendin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Ottawa",
+                    "location": {
+                        "settlement": "Ottawa",
+                        "region": "ON"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "\u2020",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Christian",
+                "middle": [
+                    "G La"
+                ],
+                "last": "Rivi\u00e8re",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Ottawa",
+                    "location": {
+                        "settlement": "Ottawa",
+                        "region": "ON"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "M"
+                ],
+                "last": "Williscroft",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of British",
+                    "location": {
+                        "settlement": "Vancouver",
+                        "region": "BC"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Erin",
+                "middle": [],
+                "last": "O&apos;connor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Toronto",
+                    "location": {
+                        "settlement": "Toronto",
+                        "region": "ON"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jennifer",
+                "middle": [],
+                "last": "Hughes",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Calgary",
+                    "location": {
+                        "settlement": "Calgary",
+                        "region": "AB"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lisa",
+                "middle": [
+                    "M"
+                ],
+                "last": "Fischer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Ottawa",
+                    "location": {
+                        "settlement": "Ottawa",
+                        "region": "ON"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Coronavirus-19 disease (COVID-19) has quickly spread to cause a global pandemic, and produces a spectrum of disease from mild respiratory illness to severe acute respiratory distress syndrome. Current estimates indicate that 15% of patients with COVID-19 will develop severe disease, and 5 to 10% will require intensive care-level support. In certain scenarios, escalation of life-sustaining therapies (defined as intubation, mechanical ventilation, vasopressor support, and/or hemodialysis) will either not be within the patient's goals of care, or will unfortunately be unsuccessful. Overall mortality risk from COVID-19 is estimated to be between 3 and 5%. 1, 2 Decision-making around goals of care should, as always, be patient-centered and addressed early in the patient's illness trajectory. Concerns around overall resource use in COVID-19 should not affect individualized decision-making in the absence of clear guidance from administrators and ethicists. As the pandemic evolves, decisions around distributive justice and resource use may become necessary; however, this document focuses on the care of the individual patient before the emergency physician (EP).",
+            "cite_spans": [
+                {
+                    "start": 660,
+                    "end": 662,
+                    "text": "1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 663,
+                    "end": 664,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Here, we provide a framework for health care providers caring for emergency department (ED) patients with confirmed or suspected COVID-19 who are nearing end of life. The safety and health of care providers and family members of a patient with COVID-19 must be carefully balanced with meticulous symptom assessment and management to allow the patient to die comfortably and with dignity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Care of the imminently dying patient should not differ significantly from standard best palliative care practices, but there are some pertinent modifications in COVID-19 to consider with respect to: For all patients \u2022 Document the discussion around goals of care with the patient and/or substitute decision makers and update the patient's category status in the medical record.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Consider involving Spiritual Care, Social Work, and/ or Palliative Care if appropriate. Ensure you have communicated the patient's COVID-19 testing status, whether confirmed or pending, so that all providers are aware of the need for appropriate personal protective equipment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Place the patient in a private room if possible, with clear instructions to follow contact and droplet precautions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Visitation \u25cb Due to COVID-19, visitation in most centers is being restricted. Please refer to the most up-to-date local protocols.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u25cb When visiting, family members must follow droplet and contact precautions, including wearing a procedure mask with face shield, isolation gown, and gloves, and perform hand hygiene before and after their visit. 3 \u25cb Encourage visits with relatives by means of telephone or video conferencing, if possible, to minimize physical visitors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Nonpharmacological symptom management \u2022 Recognize that nursing assessments of patients dying of highly transmissible acute respiratory infections are intensive, time consuming, and require a high degree of cognitive load. This will likely require a lower patient to nurse ratio and/or frequent relief of nursing duties. \u25cb Assessments will involve:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u25aa Frequent symptom assessments using validated tools for signs of distress (pain, agitation, dyspnea) and provision of medication as appropriate for symptoms. [4] [5] [6] \u25aa Frequent patient repositioning.",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 162,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "[5]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 167,
+                    "end": 170,
+                    "text": "[6]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u25aa Eye and mouth care (avoiding deep suctioning).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u25aa Emotional support to patient and family.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Review all medications and discontinue those not contributing to patient comfort.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Discontinue devices not necessary for comfort or medication administration (i.e., monitors, nasogastric tubes, additional intravenous lines).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Discontinue or minimize intravenous fluids and enteral feeding as this does not contribute to patient comfort nearing end of life. 7, 8 If the decision is made to continue enteral feeding of intravenous fluids, monitor closely for complications, including aspiration and pulmonary or peripheral edema.",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 135,
+                    "text": "7,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 136,
+                    "end": 137,
+                    "text": "8",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Consider insertion of a subcutaneous lock for medication delivery.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Avoid the use of the following as they may generate aerosolized SARS-CoV2 virus particles and infect health care workers and family members. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There will be instances where decisions will be made to withdraw life-sustaining therapy, such as mechanical ventilation. Figure 1 provides a simplified overview of initial steps in weaning mechanical ventilatory support while ensuring patient comfort, but please also refer to local institutional resources where available for best practices to wean ventilatory support. Given that extubation is considered an aerosol generating procedure and thus can be high risk to health care workers and family members present in the room, our recommendation is to not extubate the patient in the ED, but to decrease ventilatory support and ensure comfort throughout (see Appendix). If extubation is being considered, the patient should be in a negative pressure room, and all providers should be prepared with airborne personal protective equipment. Before this, we recommend speaking with experts in Critical Care and following best practices for withdrawal of mechanical ventilation.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 122,
+                    "end": 130,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Withdrawal of life-sustaining therapy"
+        },
+        {
+            "text": "Being responsible for decisions around resource rationing and use, on top of witnessing an increased frequency of suffering and death means ED health care workers are at heightened risk of burnout, compassion fatigue, and moral injury during pandemics. 13 It will be imperative for workplace colleagues to support each other and to perform frequent debriefs. Resources to support ED staff will vary by region, and they should be made easily accessible to all. Additionally, resources can be accessed through various licensing authorities and should be strongly encouraged.",
+            "cite_spans": [
+                {
+                    "start": 253,
+                    "end": 255,
+                    "text": "13",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Support to staff who are providing end-of-life care"
+        },
+        {
+            "text": "The workup and care of patients with COVID-19 already is, and will increasingly become, the role of the EP as the global pandemic evolves. EPs can also expect to care for patients who will be near the end of their lives due to this illness, and some of these patients will either not want or not benefit from escalating levels of care. This document and the associated online appendix provide a framework for end-of-life care that focuses on symptom management as well as minimizing risks of transmission to health care providers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        },
+        {
+            "text": "Keywords: COVID-19, end of life, palliative care, pandemic",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Real estimates of mortality following COVID-19 infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baud",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nielsen-Saines",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Musso",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pomar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Favre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "3099",
+            "issn": "20",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30195-X"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Care for critically ill patients with COVID-19",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Gomersall",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fowler",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Updated IPAC Recommendations for Use of Personal Protective Equipment for Care of Individuals with Suspect or Confirmed Recommended Risk Assessments",
+            "authors": [
+                {
+                    "first": "Public",
+                    "middle": [],
+                    "last": "Health Ontario",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The Richmond Agitation-Sedation Scale: validity and reliability in adult",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Sessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gosnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Grap",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Approach to withdrawal of mechanical ventilation in the patient with suspected or confirmed COVID-19 in the ED. End-of-life care for the patient dying of a respiratory infection",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Validation of the critical care pain observation tool in critically ill patients with delirium",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kanji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Macphee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Crit Care Med",
+            "volume": "44",
+            "issn": "5",
+            "pages": "943--947",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A respiratory distress observation scale for patients unable to self-report dyspnea",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Templin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Walch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Palliat Med",
+            "volume": "13",
+            "issn": "3",
+            "pages": "285--290",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/jpm.2009.0229"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Nelson A. Symptom management, nutrition and hydration at endof-life: a qualitative exploration of patients', carers' and health professionals' experiences and further research questions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Baillie",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Anagnostou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sivell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Godwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Byrne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Palliat Care",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12904-018-0314-4"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Nutrition in palliative and end-oflife care",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gillespie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Raftery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nutrition",
+            "volume": "6",
+            "issn": "5",
+            "pages": "380--386",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11377-011-0548-7"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Staff safety during emergency airway management for COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eyk",
+                    "middle": [],
+                    "last": "Cham",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Aerosol generating procedures and risk of transmission of acute respiratory infections to healthcare workers: a systematic review",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Severn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pessoa-Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Conly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Why did outbreaks of severe acute respiratory syndrome occur in some hospital wards but not in others?",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tsoi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Infect Dis",
+            "volume": "44",
+            "issn": "8",
+            "pages": "1017--1025",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/512819"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "ANZICS. The Australian and New Zealand Intensive Care Society COVID-19 Guidelines. 2020. Available at",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Care of the dying patient",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Doherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hauser",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "A Field Manual for Palliative Care in Humanitarian Crises (eds Waldman E, Glass M)",
+            "volume": "2019",
+            "issn": "",
+            "pages": "1--17",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/med/9780190066529.001.0001"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Withdrawal of life sustaining treatments \u25cb Support for staff who are providing end-of-life careThe recommendations in this document were based on best evidence where available and by consensus from Canadian physicians who practice both Emergency and Palliative Medicine.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Oxygen flow greater than 6 L/minute \u25cb High-flow nasal cannula oxygen \u25cb Continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP) \u25cb All nebulized treatments (bronchodilators, epinephrine, saline solutions, etc) Pharmacologic symptom management While the information in online Appendix 1 provides recommended dosing of medications to manage common symptoms patients experience at end of life, dosing and frequency of medication administration should be individualized based on the patient's response. Consultation with Palliative Care is recommended if there is difficulty in managing symptoms.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Competing interests: No conflicts of interest to declare.Supplementary material: The supplemental material for this article can be found at https://doi.org/10.1017/cem.2020.352.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

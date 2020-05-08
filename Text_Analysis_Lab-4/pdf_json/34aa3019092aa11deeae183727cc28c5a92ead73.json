@@ -1,0 +1,1580 @@
+{
+    "paper_id": "34aa3019092aa11deeae183727cc28c5a92ead73",
+    "metadata": {
+        "title": "Establishment and validation of a pseudovirus neutralization assay for SARS-CoV-2",
+        "authors": [
+            {
+                "first": "Jianhui",
+                "middle": [],
+                "last": "Nie",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Qianqian",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jiajing",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chenyan",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Huan",
+                "middle": [],
+                "last": "Hao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Huan",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Li",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lingling",
+                "middle": [],
+                "last": "Nie",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Haiyang",
+                "middle": [],
+                "last": "Qin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Meng",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Qiong",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiaoyu",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qiyu",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Junkai",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Changfa",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Weijin",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Miao",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Youchun",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes for Food and Drug Control (NIFDC)",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Pseudoviruses are useful virological tools because of their safety and versatility, especially for emerging and re-emerging viruses. Due to its high pathogenicity and infectivity and the lack of effective vaccines and therapeutics, live SARS-CoV-2 has to be handled under biosafety level 3 conditions, which has hindered the development of vaccines and therapeutics. Based on a VSV pseudovirus production system, a pseudovirus-based neutralization assay has been developed for evaluating neutralizing antibodies against SARS-CoV-2 in biosafety level 2 facilities. The key parameters for this assay were optimized, including cell types, cell numbers, virus inoculum. When tested against the SARS-CoV-2 pseudovirus, SARS-CoV-2 convalescent patient sera showed high neutralizing potency, which underscore its potential as therapeutics. The limit of detection for this assay was determined as 22.1 and 43.2 for human and mouse serum samples respectively using a panel of 120 negative samples. The cutoff values were set as 30 and 50 for human and mouse serum samples, respectively. This assay showed relatively low coefficient of variations with 15.9% and 16.2% for the intra-and inter-assay analyses respectively. Taken together, we established a robust pseudovirus-based neutralization assay for SARS-CoV-2 and are glad to share pseudoviruses and related protocols with the developers of vaccines or therapeutics to fight against this lethal virus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Coronavirus is a member of coronavirus subfamily Coronaviridae. Its host is rich and varied. In addition to human beings, coronavirus can also infect many kinds of mammals and birds. Some coronaviruses can cause diseases in humans, livestock and poultry. Before 2019, there are six known human coronaviruses, belonging to \u03b1-coronavirus and \u03b2-coronavirus, causing respiratory diseases of different severity, including four common coronaviruses and two highly pathogenic emerging coronaviruses: severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV). In December 2019, unexplained pneumonia (later named as coronavirus disease 2019, COVID-19) broke out in Wuhan, China [1] [2] [3] [4] . The initial patient was related to a seafood wholesale market in Wuhan. A new type of \u03b2-coronavirus was found by unbiased high-throughput sequencing of samples from patients with pneumonia. A new type of coronavirus was isolated from human respiratory epithelial cells, which belongs to the subgenus Sabevirus of the subfamily Coronavirus [4] . Different from the previously isolated MERS-CoV and SARS-CoV, this virus is the seventh coronavirus that can infect humans and is named as SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 729,
+                    "end": 732,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 733,
+                    "end": 736,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 737,
+                    "end": 740,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 741,
+                    "end": 744,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1086,
+                    "end": 1089,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Coronavirus is an envelope virus with four structural proteins: spike (S) protein, membrane (M) protein, envelope (E) protein and nucleocapsid (N) protein [5] [6] [7] . S protein is responsible for the virus attachment and entry to the target cells, which initiate the infection process. S protein plays key roles in induction of protective humoral and cellular immunity during SARS-CoV infection. Consequently, the S protein was considered as the most attractive target for SARS-CoV vaccine and therapeutic development [8] [9] [10] [11] . In face of the novel coronavirus pneumonia epidemic, a variety of approaches have been employed to develop prophylactic and therapeutic measures, including whole inactivated vaccine, subunit vaccine, RNA-based vaccine, viral vectored vaccines, monoclonal neutralizing antibodies, fusion inhibitors, most of which was designed to target the S protein. However, due to its high infectivity and pathogenicity, SARS-CoV-2 should be handled in biosafety level 3 (BSL-3) facilities, which has limited the development of anti-viral measures. The accessibility of the live virus stain is another major barrier to develop candidate vaccines and therapeutics.",
+            "cite_spans": [
+                {
+                    "start": 155,
+                    "end": 158,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 159,
+                    "end": 162,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 520,
+                    "end": 523,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 524,
+                    "end": 527,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 528,
+                    "end": 532,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 533,
+                    "end": 537,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "To avoid dealing with infectious virus, we have developed a series of pseudovirus-based neutralization assays (PBNAs) for emerging and re-emerging viruses, including MERS-CoV [12] , rabies virus [13] , Ebola virus [14] , Marburg virus [15] , Lassa virus [16] , Chikungunya virus [17] , Nipah virus [18] , Rift valley virus [19] , and others. In this communication, we developed a PBNA for evaluation of anti-viral measures for SARS-CoV-2, which would be used to evaluate the inhibition of viral attachment and entry mediated by the S protein. The pseudoviruses and protocols for this PBNA are ready to be shared with research teams and manufactures engaging in the development of anti-viral products against SARS-CoV-2. VSV G specific antibody was generated by immunized Balb/c mouse with VSV G expressing plasmid at amount of 20 \u03bcg/mouse. Ten mice were immunized three times with two weeks interval. Two weeks after the final injection, serum samples from the ten mice were collected and pooled together as the VSV G specific antibody sample. The mice were housed and maintained in accordance with the relevant guidelines and regulations.",
+            "cite_spans": [
+                {
+                    "start": 175,
+                    "end": 179,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 214,
+                    "end": 218,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 254,
+                    "end": 258,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 279,
+                    "end": 283,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 298,
+                    "end": 302,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 323,
+                    "end": 327,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Two SARS-CoV-2 serum samples from convalescent patients, 2019-CS-1, 2019-CS-2 were generously provided by Mr. Qiang Gao from Sinovac Biotech Co., LTD. Written informed consents were obtained from all the volunteers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and methods"
+        },
+        {
+            "text": "For pseudoviruses construction, spike genes from strain Wuhan-Hu-1 (GenBank: MN908947) were codon-optimized for human cells and cloned into eukaryotic expression plasmid pcDNA3.1 to generate the envelope recombinant plasmids pcDNA3.1.S2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Production and titration of pseudoviruses"
+        },
+        {
+            "text": "The pseudoviruses were produced and titrated using methods similar to Rift valley fever pseudovirus, as described previously [19, 20] . For this VSV pseudovirus system, the backbone was provided by VSV G pseudotyped virus (G*\u0394G-VSV) that packages expression cassettes for firefly luciferase instead of VSV-G in the VSV genome. Briefly, 293T cells were transfected with pcDNA3.1.S2 (30 \u03bcg for a T75 flask) using Lipofectamine 3000 (Invitrogen, L3000015) following the manufacturer's instruction. Twenty-four hours later, the transfected cells were infected with G*\u0394G-VSV with a multiplicity of four. Two hours after infection, cells were washed with PBS three times, and then new complete culture medium was added. Twenty-four hours post infection, SARS-CoV-2 pseudoviruses containing culture supernatants were harvested, filtered (0.45-\u03bcm pore size, Millipore, SLHP033RB) and stored at \u221270\u00b0C in 2-ml aliquots until use. The 50% tissue culture infectious dose (TCID 50 ) of SARS-CoV-2 pseudovirus was determined using a single-use aliquot from the pseudovirus bank; all stocks were used only once to avoid inconsistencies that could have resulted from repeated freezing-thawing cycles. For titration of the SARS-CoV-2 pseudovirus, a 2-fold initial dilution was made in hexaplicate wells of 96-well culture plates followed by serial 3-fold dilutions (nine dilutions in total). The last column served as the cell control without the addition of pseudovirus. Then, the 96-well plates were seeded with trypsin-treated mammalian cells adjusted to a pre-defined concentration. After 24 h incubation in a 5% CO 2 environment at 37\u00b0C, the culture supernatant was aspirated gently to leave 100 \u03bcl in each well; then, 100 \u03bcl of luciferase substrate (Perkinelmer, 6066769) was added to each well. Two min after incubation at room temperature, 150 \u03bcl of lysate was transferred to white solid 96-well plates for the detection of luminescence using a microplate luminometer (PerkinElmer, Ensight). The positive well was determined as ten-fold relative luminescence unit (RLU) values higher than the cell background. The 50% tissue culture infectious dose (TCID 50 ) was calculated using the Reed-Muench method, as described previously [13, 18, 19] .",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 130,
+                    "end": 133,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 2220,
+                    "end": 2224,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2225,
+                    "end": 2228,
+                    "text": "18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2229,
+                    "end": 2232,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Production and titration of pseudoviruses"
+        },
+        {
+            "text": "Seven millilitres of SARS-CoV-2 pseudoviruses with a titre of 1.86 \u00d7 10 5 TCID 50 /ml were pelleted through a 25% sucrose cushion by ultra-centrifugation at 100,000\u00d7 g for 3 h. The layers of supernatant and sucrose were removed, and the resulting viral pellets were re-suspended in 100 \u03bcl PBS. Sixty microlitre prepared pseudoviruses were mixed with 15 \u03bcl 6\u00d7 SDSsample buffer. The mixture was heated for 5 min at 100\u00b0C. Fifteen microlitre samples were subjected to SDS-PAGE and immunoblotting. The VSV pseudotyped virus was prepared with the same procedure and used as the pseudovirus negative control, cell culture medium as negative control. The incorporation of the spike protein on the pseudovirus surface was confirmed using Western bolt with SARS-CoV-2 convalescent serum sample as the detection antibody with a 500-fold dilution. Goat anti-human IgG (Jackson ImmunoResearch, 109-035-0030) was used with a 1:8000 dilution as the secondary antibody.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Western blot analysis"
+        },
+        {
+            "text": "Neutralization was measured by the reduction in luc gene expression, as described previously for the HIV pseudovirus neutralization assay [21] . The 50% inhibitory dilution (EC 50 ) was defined as the serum dilution at which the relative light units (RLUs) were reduced by 50% compared with the virus control wells (virus + cells) after subtraction of the background RLUs in the control groups with cells only. In brief, pseudovirus was incubated with serial dilutions of the test samples (six dilutions in a 3-fold step-wise manner) in duplicate for 1 h at 37\u00b0C, together with the virus control and cell control wells in hexaplicate. Then, freshly trypsinized cells were added to each well. Following 24 h of incubation in a 5% CO 2 environment at 37\u00b0C, the luminescence was measured as described in the section for pseudovirus titration. The EC 50 values were calculated with non-linear regression, i.e. log (inhibitor) vs. response (four parameters), using GraphPad Prism 8 (GraphPad Software, Inc., San Diego, CA, USA).",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pseudovirus based neutralization assay"
+        },
+        {
+            "text": "Construction of the recombinant plasmid expressing SARS-CoV-2 spike protein. To generate the SARS-CoV-2 S pseudotyped virus, we optimized the fulllength S gene from strain Wuhan-Hu-1 (GenBank: MN908947) and inserted into the pcDNA3.1 to get pcDNA3.1.S2. The vesicular stomatitis virus (VSV) pseudovirus system was employed to produce the SARS-CoV-2 pseudovirus, which was expected to present the SARS-CoV-2 spike protein in the surface of the VSV particle [20] . To verify the incorporation of the spike protein, the surface protein in the SARS-CoV-2 pseudovirus was detected by using Westernblot with SARS-CoV-2 convalescent patient sera. As shown in Figure 1 (A), specific bands could be found in the lanes of SARS-CoV-2 pseudovirus whilst no specific band was found in the medium control and VSV pseudovirus in the corresponding position, which was generated with the same procedure as SARS-CoV-2 pseudovirus. Monomer S protein (S1 + S2) were observed at position of about 190 kDa. The results confirmed that the 110 kDa and 80 kDa polypeptides correspond to the S1 and S2 domains, respectively. Bands at position of around 70 kDa were observed in both lanes for VSV and SARS-CoV-2 pseudovirus, which may be attributed to the shared VSV core for these two pseudoviruses.",
+            "cite_spans": [
+                {
+                    "start": 456,
+                    "end": 460,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 652,
+                    "end": 660,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The SARS-CoV-2 pseudovirus, together with G*\u0394G-VSV, were tested against VSV G specific antibody (Figure 2(B) ). The SARS-CoV-2 pseudovirus could not been neutralized by the VSV G serum at a dilution of 1:100, with almost complete inhibition for G*\u0394G-VSV infection. It is indicated that almost no G*\u0394G-VSV was mixed in the SARS-CoV-2 pseudovirus stock.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 96,
+                    "end": 108,
+                    "text": "(Figure 2(B)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Having generated the SARS-CoV-2 S pseudotyped virus, we next set out to investigate the cell types for pseudovirus entry. The wide-type SARS-CoV-2 has been successfully isolated in both Vero (monkey kidney cell) and Huh7 (human hepatoma cell) [22] . Two similar cell lines, 293T (human kidney cell, similar to Vero) and Hep G2 (human hepatoma cell, similar to Huh7) were also included for the target cell investigation. In addition, another two mammal cell lines were also employed for target cell selection, including CHO (Chinese hamster ovary cell) and MDCK (dog kidney cell), which were widely employed in recombinant protein [23] or vaccine [24] production. Taken together, six types of cells were tested ( Figure 2 ). As expected, all the cell lines showed high susceptibility to VSV pseudotyped virus. Huh7, 293T and Vero showed high susceptibility for SARS-CoV-2 pseudotypes, which was similar to SARS-CoV reported previously [25] . Huh7 cells were identified as the best cell substrate for SARS-CoV-2 pseudovirus infection, yielding the highest signals.",
+            "cite_spans": [
+                {
+                    "start": 243,
+                    "end": 247,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 630,
+                    "end": 634,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 646,
+                    "end": 650,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 934,
+                    "end": 938,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 712,
+                    "end": 720,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Optimization of SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "We next determined the optimal number of Huh7 cells for SARS-CoV-2 pseudovirus infection. Towards this end, we titrated the SARS-CoV-2 pseudotyped virus at a range of cell numbers (6.25 \u00d7 10 3 -2.00 \u00d7 10 5 /well). The highest titre was observed in a range of 1.25 \u00d7 10 4 -2.50 \u00d7 10 4 /well when equal amount of pseudovirus preparations was tested (Figure 3(A) ). It is noted that the linear correlation coefficients (R 2 ) obtained at cell inoculum from 1.25 \u00d7 10 4 to 2.50 \u00d7 10 4 /well were found to be greater than 0.96, revealing an excellent linear curve fitting. Moreover, when neutralization assays were performed with different cell inocula, the EC 50 values were similar with cell numbers ranging from 6.25 \u00d7 10 3 to 5.00 \u00d7 10 4 /well (Figure 3 (B)). However, when the input cells numbers were more than 5.00 \u00d7 10 4 /well, the R 2 values for both titration and inhibition assay would decrease dramatically. Given these findings, we chose 5.00 \u00d7 10 4 /well for subsequent experiments. Although non-specific responses were observed in varied cell number conditions, the inhibition of pseudovirus have not reached 50% for normal human serum samples (Figure 3(B) ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 347,
+                    "end": 359,
+                    "text": "(Figure 3(A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 743,
+                    "end": 752,
+                    "text": "(Figure 3",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1154,
+                    "end": 1166,
+                    "text": "(Figure 3(B)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Optimization of SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "We next tested the viral inocula with a dose range starting from 41 to 1300 TCID 50 /well for SARS-CoV-2 PBNA. As expected, the absolute EC 50 values decreased gradually with the increasing amounts of the viral inocula (Figure 4 ). When the virus dose was lower than 325 TCID 50 /well, the curve fit value would decrease significantly. Therefore, the viral inocula of 650 TCID 50 /well was used as the optimal dose. Although non-specific responses were observed in varied viral inocula, the inhibition rate of pseudovirus have not reached 50% for normal human serum samples (Figure 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 219,
+                    "end": 228,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 574,
+                    "end": 583,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Optimization of SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "As the SARS-CoV-2 PBNA assay would be intended to be used for the analyses of both human and animal samples, a negative sample panel of seventy-four human and forty-six mouse sera were used to determine the specificity of this assay, with an initial dilution of 1:10 followed by 3-fold serial dilution. We first established the limit of detection (LOD) for SARS-CoV-2 PBNA assay. As shown in Figure 5 (A), when assayed by PBNA, human negative serum samples showed relatively low background compared to the mouse negative samples. When the mean titre value of the negative samples +1.96 standard deviation (SD) was used to calculate the limit of detection (LOD), the LOD was 22.1 for human serum samples and 42.3 for mouse serum samples. The cutoff values were set as 30 and 50 for human and mouse serum samples, respectively. The non-specific background of mouse sera was higher than human serum samples, which was unexpected.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 392,
+                    "end": 400,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Establishment and validation of the SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "The reason of the higher background for mouse sera would be investigated in future studies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Establishment and validation of the SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "Linear range means that there is a direct correlation between the signal and the concentration of the substance within a specific range. To determine the linear range of the SARS-CoV-2 PBNA, two SARS-CoV-2 convalescent patient serum samples were tested against the pseudovirus. Typical four-parameter inhibition curves were observed for these two positive samples between log-transformed dilution and inhibition rate ( Figure 5(B) ). When the inhibition rate is in the range of 20%-80%, there is a linear relationship between the readout of the test sample and its dilution for the positive samples, R 2 > 0.99 ( Figure 5(C) ). Nonspecific inhibition was observed for both human and mouse negative serum samples in a lower dilution (Figure 2(B) ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 419,
+                    "end": 430,
+                    "text": "Figure 5(B)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 613,
+                    "end": 624,
+                    "text": "Figure 5(C)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 732,
+                    "end": 744,
+                    "text": "(Figure 2(B)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Establishment and validation of the SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "In order to test the reproducibility of the PBNA, two SARS-CoV-2 coalescent patient serum samples were pooled together and used to test against the SARS-CoV-2 pseudovirus. This sample was tested a total of 18 times on individual plates in three independent runs ( Figure 5(D) ). The average coefficient of variation (CV) for the intra-and inter-assay was 15.9% and 16.2% respectively, which was acceptable for a cellbased assay.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 264,
+                    "end": 275,
+                    "text": "Figure 5(D)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Establishment and validation of the SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "Collectively, these data indicate that a robust PBNA assay has been established to test entry inhibition for SARS-CoV-2, which could be used for evaluation of candidate vaccine and therapeutics targeting the virus entry.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Establishment and validation of the SARS-CoV-2 PBNA"
+        },
+        {
+            "text": "Currently, the evaluation assays for the SARS-CoV-2 vaccines and therapeutics require the use of isolated live virus which must be handled at level 3 biocontainment facility. In addition, the live virus assay takes at least three days and is known to be labour intensive. Clearly, exploring alternative methods should facilitate the development and evaluation of SARS-CoV-2 vaccines and therapeutics targeting virus entry of the target cells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Pseudovirus-based neutralizing assays (PBNA) offer great advantages over the wide-type virus-based methods because they are versatile and much safer to handle. The versatility of pseudovirus is achieved by pseudotyping the virus with different outer membrane proteins or envelope proteins, mimicking the infectious process of the live virus providing the envelope proteins [26, 27] . Pseudovirus is much safer because the virus is essentially devoid of virulent viral components and involves in a single round of replication.",
+            "cite_spans": [
+                {
+                    "start": 373,
+                    "end": 377,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 378,
+                    "end": 381,
+                    "text": "27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "With respect to validation of neutralization assay, PBNA is a sensitive, accurate, reproducible and robust method. Compared with the live virus assay, PBNA is more objective and less labour intensive as the data were obtained through luminescent reading, while the operator of live virus assay has to read the results manually under the microscope. However, the EC 50 values of serum samples would change with the variation of the pseudovirus inoculum. It is important to fix the pseudovirus dose to make the results comparable between different laboratories. Besides, antibody standard development should be scheduled in near future to minimize the variation of data obtained from different teams.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In short, the absence of lethal wide type virus in the experimental procedure could greatly facilitate the development of SARS-CoV-2 vaccine and therapeutics. We would like to provide SARS-CoV-2 pseudovirus with related protocols to vaccine and therapeutic developers for the evaluation of their candidate products. A negative sample panel of seventy-four human and fortysix mouse serum samples were used to determine the specificity of this assay. (B) Inhibition curves for two SARS-CoV-2 convalescent patient serum samples and two negative serum samples derived from human and mouse. Typical four-parameter inhibition curves were observed for these two samples between log-transformed dilution and inhibition rate. The initial dilutions for positive and negative samples were 1:30 and 1:10 respectively, followed by 3-fold serial dilution. (C) Linear range for the PBNA. When the inhibition rate is in the range of 20%-80%, there is a linear relationship between the readout of the test sample and its dilution. (D) Reproducibility of the PBNA. A mixture of two SARS-CoV-2 coalescent patient serum samples was tested a total of 18 times on individual plates in three independent runs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health -the latest 2019 novel coronavirus outbreak in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Eia",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Madani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "91",
+            "issn": "",
+            "pages": "264--266",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The novel coronavirus originating in Wuhan, China: challenges for global health governance",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Phelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Gostin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1097"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "8",
+            "pages": "727--733",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microb Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "221--236",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Coronaviruses: genome structure, replication, and pathogenesis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "418--423",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Genome composition and divergence of the novel coronavirus (2019-nCoV) originating in China",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Host Microbe",
+            "volume": "27",
+            "issn": "3",
+            "pages": "325--328",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "SARS vaccine development",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Emerg Infect Dis",
+            "volume": "11",
+            "issn": "7",
+            "pages": "1016--1020",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The spike protein of SARS-CoV -a target for vaccine and therapeutic development",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Rev Microbiol",
+            "volume": "7",
+            "issn": "3",
+            "pages": "226--236",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS vaccines: where are we?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Roper",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rehm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Expert Rev Vaccines",
+            "volume": "8",
+            "issn": "7",
+            "pages": "887--898",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Molecular basis of coronavirus virulence and vaccine development",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zuniga",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Castano-Rodriguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Adv Virus Res",
+            "volume": "96",
+            "issn": "",
+            "pages": "245--286",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "A human DPP4-Knockin mouse's susceptibility to infection by authentic and pseudotyped MERS-CoV. Viruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v10090448"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Development of in vitro and in vivo rabies virus neutralization assays based on a hightiter pseudovirus system",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Rep",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Antibody-dependent-cellularcytotoxicity-inducing antibodies significantly affect the post-exposure treatment of Ebola virus infection",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Rep",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "A bioluminescent imaging mouse model for Marburg virus based on a pseudovirus system",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Hum Vaccin Immunother",
+            "volume": "13",
+            "issn": "8",
+            "pages": "1811--1817",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "An LASV GPC pseudotyped virus based reporter system enables evaluation of vaccines in mice under non-BSL-4 conditions",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "38",
+            "pages": "5172--5178",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Development and application of a bioluminescent imaging mouse model for Chikungunya virus based on pseudovirus system",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "47",
+            "pages": "6387--6394",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Nipah pseudovirus system enables evaluation of vaccines in vitro and in vivo using non-BSL-4 facilities",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Emerg Microbes Infect",
+            "volume": "8",
+            "issn": "1",
+            "pages": "272--281",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "In vitro and in vivo efficacy of a Rift valley fever virus vaccine based on pseudovirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hum Vaccin Immunother",
+            "volume": "15",
+            "issn": "10",
+            "pages": "2286--2294",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Generation of VSV pseudotypes using recombinant DeltaG-VSV for studies on virus entry, identification of entry inhibitors, and immune responses to vaccines",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Whitt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol Methods",
+            "volume": "169",
+            "issn": "2",
+            "pages": "365--374",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Development and optimization of a sensitive pseudovirus-based assay for HIV-1 neutralizing antibodies detection using A3R5 cells",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Hum Vaccin Immunother",
+            "volume": "14",
+            "issn": "1",
+            "pages": "199--208",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "7798",
+            "pages": "270--273",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The emerging role of systems biology for engineering protein production in CHO cells",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Shamie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Curr Opin Biotechnol",
+            "volume": "51",
+            "issn": "",
+            "pages": "64--69",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Systematic evaluation of suspension MDCK cells, adherent MDCK cells, and LLC-MK2 cells for preparing influenza vaccine seed virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vaccine",
+            "volume": "37",
+            "issn": "43",
+            "pages": "6526--6534",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "S protein of severe acute respiratory syndrome-associated coronavirus mediates entry into hepatoma cell lines and is targeted by neutralizing antibodies in infected patients",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hattermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "12",
+            "pages": "6134--6142",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Current status on the development of pseudoviruses for enveloped viruses",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Rev Med Virol",
+            "volume": "28",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/rmv.1963"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "HIV-1 pseudoviruses constructed in China regulatory laboratory",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microb Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "32--41",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Type Culture Collection [ATCC], HB-8065), Huh-7 (Japanese Collection of Research Bioresources [JCRB], 0403), 293T (ATCC, CRL-3216), Vero (ATCC, CCL-81), CHO (ATCC, CCL-61), and MDCK (ATCC, CCL-34) cells were maintained in high glucose DMEM (GIBCO) supplemented with 10% FBS (GIBCO), penicillin (100 IU/ml), streptomycin (100 \u03bcg/ml), and HEPES (20 mM) in a 5% CO 2 environment at 37\u00b0C and passaged every 2-3 days.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Verification of the incorporaiton of SARS-CoV-2 spike protein in the pseudovirus. The surface proteins of the particle were investigated using western blotting (A), from left to right lane showing VSV pseudovirus, medium control and SARS-CoV-2 pseudovirus. The VSV pseudotyped virus and cell culture medium were prepared with the same procedure and used as negative control and pseudovirus negative control. The SARS-CoV-2 pseudovirus, together with G*\u0394G-VSV, were tested against VSV G specific antibody (B).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Selection of the cell line. Six types of cells were tested for VSV (A), and SARS-CoV-2 (B) pseudoviruses. The y-axis showed the absolute RLU value detected 24 h after pseudovirus infection. Cell backgrounds without pseudovirus infection were shown in figure C.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Optimization of cell numbers for neutralization. (A) Effect of cells numbers on the titration of pseudovirus. The yaxis showed the RLU fold over the cell background. (B) Effect of cells numbers on the neutralization. Cell numbers and corresponding R 2 values were list in the tables. A serum sample from a healthy individual was tested as negative control shown in black lines and symbols.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Optimization of virus dose for neutralization. The viral inocula with a dose range starting from 41 to 1300 TCID 50 /well were tested for SARS-CoV-2 PBNA. A serum sample from a healthy individual was tested as negative control shown in black lines and symbols.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Validation of the SARS-CoV-2 PBNA. (A) Specificity of the PBNA.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The study was supported by the National Science and Technology Major Projects of Drug Discovery (grant number 2018ZX09101001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "No potential conflict of interest was reported by the author (s). ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclosure statement"
+        }
+    ]
+}

@@ -1,0 +1,674 @@
+{
+    "paper_id": "e806f21edca1fa66da4735aedcb37214de16d76f",
+    "metadata": {
+        "title": "Rapid communication Indications for healthcare surge capacity in European countries facing an exponential increase in coronavirus disease (COVID-19) cases, March 2020",
+        "authors": [
+            {
+                "first": "Frederik",
+                "middle": [],
+                "last": "Verelst",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Antwerp",
+                    "location": {
+                        "settlement": "Antwerp",
+                        "country": "Belgium"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Elise",
+                "middle": [],
+                "last": "Kuylen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Antwerp",
+                    "location": {
+                        "settlement": "Antwerp",
+                        "country": "Belgium"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Philippe",
+                "middle": [],
+                "last": "Beutels",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Antwerp",
+                    "location": {
+                        "settlement": "Antwerp",
+                        "country": "Belgium"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "European healthcare systems face extreme pressure from coronavirus disease (COVID-19). We relate country-specific accumulated COVID-19 deaths (intensity approach) and active COVID-19 cases (magnitude approach) to measures of healthcare system capacity: hospital beds, healthcare workers and healthcare expenditure. Modelled by the intensity approach with a composite measure for healthcare capacity, the countries experiencing the highest pressure on 25 March 2020 -relative to Italy on 11 March -were Italy, Spain, the Netherlands and France (www.covid-hcpressure.org).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the past weeks, it has become clear the new severe acute respiratory syndrome coronavirus (SARS-CoV-2) poses a considerable health threat on a global scale. Europe is currently the most affected continent in terms of detected COVID-19 cases and deaths [1] . The outbreak took off first in Italy, but has since spread to all other countries in the European Union (EU). We aimed to track pressure on healthcare systems in the EU by comparing healthcare base capacity with the impact of COVID-19 in terms of cumulative deaths over the past 21 days and reported active cases. The results of our analyses are updated in real time at www.covidhcpressure.org.",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 258,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Flattening the curve to reduce healthcare pressure in the EU Several institutions have communicated the necessity to decrease the exponential rise in COVID-19 cases and deaths in order to lower pressure on healthcare institutions and to buy time for antivirals and other medication to become available in the short term and vaccines in the longer term. Remuzzi and Remuzzi reported on 12 March 2020 that in Italy, bed occupation in intensive care units (ICU) would exceed capacity [2] . From around the same time, other countries increasingly implemented large-scale interventions such as household isolation and school closures [3, 4] . Important urgent questions as the epidemic unfolds are: (i) how close are other countries from reaching a pressure on the health system comparable to countries ahead of them and how should this impact their suppression and/or mitigation strategies, (ii) which countries are closest to such a situation and how should this impact international mobilisation of urgent logistical support, and (iii) what pressure will countries experience at the peak and how will that pressure affect treatment of cases. Furthermore, policymakers require information on the magnitude of additional healthcare capacity that is needed when at a later stage, new exponential growth may occur after some of the large-scale interventions are gradually eased and, perhaps, re-implemented.",
+            "cite_spans": [
+                {
+                    "start": 481,
+                    "end": 484,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 629,
+                    "end": 632,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 633,
+                    "end": 635,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We characterised healthcare base capacity at country level by four measures:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Healthcare base capacity measures in Europe"
+        },
+        {
+            "text": "1. Hospital beds: Three categories of hospital bed capacity were considered: (i) available hospital beds, (iii) curative hospital beds and (iii) critical care hospital beds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Healthcare base capacity measures in Europe"
+        },
+        {
+            "text": "We considered (i) the number of physicians and (ii) the number of generalist medical practitioners.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Physicians:"
+        },
+        {
+            "text": "In order to represent both healthcare workers and critical care beds, we composed two composite measures: Data on healthcare resources were derived from Eurostat [5] for the most recent year available for each country. We used data on the number of 'practicing nurses' where available and data on 'professionally active nurses' for Ireland, France, Portugal and Slovakia. Capacity of hospital beds in critical care was extracted from an article by Rhodes et al. [6] , the data for which was collected between July 2010 and July 2011.",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 462,
+                    "end": 465,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Composite measures:"
+        },
+        {
+            "text": "In a first approach, we compared the cumulative number of COVID-19-related deaths over the past 21 days relative to the capacity measures described in the previous paragraph. Yang et al. reported a median of 7 days in ICU for non-survivors, and at least 4 weeks for survivors [7] . Cumulative deaths over a 21-day time window therefore provide an approximation of the evolving burden of critical disease that is available in real time across EU countries. This approximation is likely to be less susceptible to inter-country variation in testing practices (and associated variations in under-reporting) than looking at the confirmed number of active cases.",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 279,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Intensity approach and magnitude approach"
+        },
+        {
+            "text": "We refer to the use of cumulative deaths over the last 21 days relative to healthcare system capacity as the 'intensity approach'. In a secondary approach, we compare the number of active COVID-19 cases, relative to the capacity measures. This latter approach is referred to as the 'magnitude approach'. Since the composite measure combines both healthcare staff and bed capacity, we focus our interpretation of pressure at the current stage of the epidemic in the first place on the intensity approach using the composite measure.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intensity approach and magnitude approach"
+        },
+        {
+            "text": "We chose to set the situation in Italy on 11 March 2020 as a benchmark, based on Remuzzi and Remuzzi [2] and media reports [8] . This benchmark acts as a reference for a 'soon to be overloaded' healthcare system. We used the number of active COVID-19 cases and cumulative number of COVID-19-related deaths in Italy on 11 March 2020 to parameterise our benchmark. These numbers, 10,590 active cases and 827 deaths were derived from official Italian reporting data [9] . For all other countries, we retrieved the number of active reported cases and the cumulative number of COVID-19-related deaths over the past 21 days in real time [10] and calculated the proportion per hospital bed, physician, the composite measures and healthcare expenditures. We calculated, for each country, 16 ratios by dividing the number of cumulative deaths and active reported cases, by each measure for both approaches. Afterwards, we normalised ratios by capacity measure benchmarks for Italy, which we defined as the cumulative number of COVID-19-related deaths (intensity approach) or active cases (magnitude approach) on 11 March, divided by capacity measures that were derived for Italy. As such, when a country scored 1 on a specific measure, this meant: \"currently similar pressure as in Italy on 11 March\" for this specific measure. Since the results of these measures are very time-sensitive, we constructed a website that tracks healthcare pressure in real time: www.covid-hcpressure.org.",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 104,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 463,
+                    "end": 466,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 631,
+                    "end": 635,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Italy as a benchmark for healthcare pressure"
+        },
+        {
+            "text": "In Italy, the concentration of critical care beds is at the higher end with 12.5 critical care beds per 100,000 population, compared with the European average of 11.5 [6] . Moreover, the physician density was found to be above average, at ca 400 physicians per 100,000 individuals [5] . In the Figure, we display the results of the composite measures using the intensity approach on 25 March. We found that the pressure on the Italian healthcare system was eight times higher on 25 March than on 11 March. Spain was, next to Italy, the most severely affected country at ca seven times the pressure, compared with the benchmark situation. The health systems in (in decreasing order by pressure) the Netherlands, France, Switzerland, the United Kingdom and Belgium were also experiencing pressure at similar or higher levels as in the benchmark situation. Note that these results can be consulted on the website and are updated every hour, for all combinations of measures and approaches.",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 170,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 294,
+                    "end": 301,
+                    "text": "Figure,",
+                    "ref_id": null
+                }
+            ],
+            "section": "Healthcare pressure indications in Europe derived on 25 March 2020"
+        },
+        {
+            "text": "The measures proposed in this article are approximations. We summed the number of deaths over a 21-day window, based on one of the first specific, but small size, studies on critical care patients [6] . We focused on this 'intensity' approach as mortality is both more comparable between countries than detected active cases and it is closely related to pressure exerted on critical care capacity. When the number of deaths summed over the past 3 weeks declines over time, we expect pressure on critical care to decline too. Furthermore, data on healthcare capacity are scarce and we had to rely on data from 2018, 2017 or even older. Data availability is even worse for critical care beds, for which we relied on multi-country data from 2010. Remuzzi and Remuzzi reported ICU capacity of 5,200 beds for Italy as a whole, which is lower than the 7,550 critical care beds reported by Rhodes et al. [1, 5] . It is likely that other EU countries had also downsized their critical bed capacity in the period between the two reports. In terms of curative beds per 100,000 population as reported by Eurostat, we observed for most countries (all except Bulgaria, Ireland, Poland and Romania), a downward trend in the past 10 years. Moreover, hospital capacity strain was recently found to be associated with increased mortality and decreased health outcomes [11] . Note that if we would assume that the extent of downsizing in Italy and other EU countries was the same, our relative comparisons would not change. Note that we compare these countries by their base capacity, while clearly many countries have expanded their base capacity to differing degrees in reaction to the COVID-19 pandemic (e.g. additional beds, mobilising volunteers or retired healthcare workers). We will therefore track at which relative pressure individual countries will probably be overwhelmed by the volume of critical patients and which pressure on their base capacity they experience at the peak. Note also that we do not account for healthcare workers' incapacitation from COVID-19 or other causes as the epidemic unfolds. Our analysis shows that many European countries could soon be confronted with a healthcare pressure that might exceed current healthcare capacity. Based on the intensity approach and the composite measures, we believe that the healthcare pressure in Spain is already at very high levels. For the Netherlands and France, the pressure on base healthcare capacity exceeds Italy's on 11 March. Countries that had more time to expand, prepare and optimise their health care capacity are able to cope better given the same level of pressure on their base capacity than Italy. Our analysis has the potential to inform policymakers on imminent risks of an overload of the healthcare system. As such, this information can be useful to plan ahead in order to relieve pressure on their national healthcare system. Pressure in this graph is estimated using the intensity approach, i.e. related to cumulative deaths over the last 21 days. Ratios are normalised to the cumulative number of COVID-19 related deaths in Italy on 11 March 2020. Ratios were calculated for the combination of critical care beds and either physicians, or physicians and nurses.",
+            "cite_spans": [
+                {
+                    "start": 197,
+                    "end": 200,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 897,
+                    "end": 900,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 901,
+                    "end": 903,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1351,
+                    "end": 1355,
+                    "text": "[11]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Usefulness and limitations of these comparisons"
+        },
+        {
+            "text": "Moreover, studying the pressure experienced by each country while approaching the peak, will be useful to plan for future peaks of COVID-19 or other future pandemics. In addition, this may inform future planning of buffers in healthcare capacity in between pandemics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Usefulness and limitations of these comparisons"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The countries affected, the number of deaths and the economic impact. London: The Financial Times",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bernard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tilford",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Burn-Murdoch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Covid-19 and Italy: what next?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet",
+            "volume": "2020",
+            "issn": "20",
+            "pages": "30627--30636",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The timing of one-shot interventions for epidemic control",
+            "authors": [
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Lauro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.02.20030007"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Public health interventions and epidemic intensity during the 1918 influenza pandemic",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hatchett",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "104",
+            "issn": "18",
+            "pages": "7582--7589",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0610941104"
+                ],
+                "PMID": [
+                    "17416679"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Hospital beds by type of care. Brussels: Eurostat",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Eurostat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The variability of critical care bed numbers in Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rhodes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ferdinande",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Flaatten",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Guidet",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Metnitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Moreno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Intensive Care Med",
+            "volume": "38",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00134-012-2627-8PMID"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "",
+            "issn": "20",
+            "pages": "30079--30084",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600"
+                ],
+                "PMID": [
+                    "32105632"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Il sistema sanitario \u00e8 al collasso\". [Coronavirus, in intensive care, there are no more beds: \"the health system is collapsing",
+            "authors": [
+                {
+                    "first": "Paolo",
+                    "middle": [],
+                    "last": "Russo",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Coronavirus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Rome:La Stampa. 5",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "COVID-19 Italia -Monitoraggio della situazione",
+            "authors": [
+                {
+                    "first": "Dipartimento",
+                    "middle": [],
+                    "last": "Della Protezione Civile",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "COVID-19 coronavirus pandemic. Dover, Delaware; Dadax",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Worldometer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The association between hospital capacity strain and inpatient outcomes in highly developed countries: a systematic review",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Stoner",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Eden",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Newgard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Guise",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Healthcare expenditures: We considered healthcare expenditure as a percentage of the gross domestic product (GDP).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Relative",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Funding statement: This work is funded by the Epipose project from the European Union's SC1-PHE-CORONAVIRUS-2020 programme, project number 101003688.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "PB initiated the study. FV and EK analysed the data and created the plots. FV wrote the manuscript. All authors reviewed the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0) Licence. You may share and adapt the material, but must give appropriate credit to the source, provide a link to the licence and indicate if changes were made.Any supplementary material referenced in the article can be found in the online version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "License, supplementary material and copyright"
+        }
+    ]
+}

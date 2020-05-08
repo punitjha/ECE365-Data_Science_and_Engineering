@@ -1,0 +1,3005 @@
+{
+    "paper_id": "b761a3d51d0465f08e7d4afb9d847df7226f73d4",
+    "metadata": {
+        "title": "Tracking progress towards malaria elimination in China: Individual-level estimates of transmission and its spatiotemporal variation using a diffusion network approach",
+        "authors": [
+            {
+                "first": "Isobel",
+                "middle": [],
+                "last": "Routledge",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "I",
+                "middle": [
+                    "D"
+                ],
+                "last": "1\u262f",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Imperial College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shengjie",
+                "middle": [],
+                "last": "Lai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Southampton",
+                    "location": {
+                        "settlement": "Southampton",
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Katherine",
+                "middle": [
+                    "E"
+                ],
+                "last": "Battle Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Azra",
+                "middle": [
+                    "C"
+                ],
+                "last": "Ghani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Imperial College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Manuel",
+                "middle": [],
+                "last": "Gomez-Rodriguez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kyle",
+                "middle": [
+                    "B"
+                ],
+                "last": "Gustafson Id",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Swapnil",
+                "middle": [],
+                "last": "Mishra Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Imperial College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Juliette",
+                "middle": [],
+                "last": "Unwin Id",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Imperial College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Joshua",
+                "middle": [
+                    "L"
+                ],
+                "last": "Proctor",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [
+                    "J"
+                ],
+                "last": "Tatem",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Southampton",
+                    "location": {
+                        "settlement": "Southampton",
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zhongjie",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Samir",
+                "middle": [],
+                "last": "Bhatt",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Imperial College London",
+                    "location": {
+                        "settlement": "London",
+                        "country": "United Kingom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "I",
+                "middle": [
+                    "D"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "In order to monitor progress towards malaria elimination, it is crucial to be able to measure changes in spatio-temporal transmission. However, common metrics of malaria transmission such as parasite prevalence are under powered in elimination contexts. China has achieved major reductions in malaria incidence and is on track to eliminate, having reporting zero locally-acquired malaria cases in 2017 and 2018. Understanding the spatio-temporal pattern underlying this decline, especially the relationship between locally-acquired and imported cases, can inform efforts to maintain elimination and prevent re-emergence. This is particularly pertinent in Yunnan province, where the potential for local transmission is highest. Using a geo-located individual-level dataset of cases recorded in Yunnan province between 2011 and 2016, we introduce a novel Bayesian framework to model a latent diffusion process and estimate the joint likelihood of transmission between cases and the number of cases with unobserved sources of infection. This is used to estimate the case reproduction number, Rc. We use these estimates within spatio-temporal geostatistical models to map how transmission varied over time and space, estimate the timeline to elimination and the risk of resurgence. We estimate the mean Rc between 2011 and 2016 to be 0.171 (95% CI = 0.165, 0.178) for P. vivax cases and 0.089 (95% CI = 0.076, 0.103) for P. falciparum cases. From 2014 onwards, no cases were estimated to have a Rc value above one. An unobserved source of infection was estimated to be moderately likely (p>0.5) for 19/ 611 cases and high (p>0.8) for 2 cases, suggesting very high levels of case ascertainment. Our estimates suggest that, maintaining current intervention efforts, Yunnan is unlikely to experience sustained local transmission up to 2020. However, even with a mean PLOS COMPUTATIONAL BIOLOGY PLOS Computational Biology | https://doi.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The estimated maximum-a-posteriori Rc estimates and results of of 0.005 projected up to 2020, locally-acquired cases are possible due to high levels of importation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Although malaria is still responsible for a great deal of death and illness in many parts of the world, many national control programmes have made great strides in controlling malaria and now are in a position to aim for elimination. However, in order to monitor progress towards elimination and plan interventions, it is crucial to measure malaria transmission and how it varies over space and time. However, traditional metrics used to measure malaria transmission are not suitable in elimination settings. China is one example of a country approaching elimination, with aims to eliminate the disease by 2020. Using a detailed individual level dataset of the times and locations of people showing symptoms of malaria, we use approaches adapted from the study of how information spreads through social networks to estimate the likelihood of transmission occurring between cases. This information is used to estimate how many people we expect each case to go on to infect. In elimination settings, this number is an indication of how quickly elimination will be reached and how likely we are to see a resurgence in cases once elimination is achieved. Our results show a decline in this metric over time, as well as seasonal changes in transmission which are different to the patterns in when the most cases were observed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Tracking progress towards malaria elimination in China using individual-level data PLOS Computational Biology | https://doi.org/10.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Introduction the World Health Organisation listed 21 countries for whom it would be realistic to achieve elimination of malaria by 2020, defined as zero indigenous cases over three consecutive years [1] . The largest of these is the People's Republic of China (thereafter called China). In 2017 China reported no indigenous malaria cases for the first time since malaria became a notifiable disease in 1956 [2, 3] . The country has experienced a major decline in the burden of malaria, from an annual incidence of 24 million cases (2961 cases per 100,000) in 1970 [4] . This reduction has been attributed to a combination of socioeconomic improvements and the scale-up of interventions to control malaria [5] . In 2010, China set out an ambitious plan for the national elimination of malaria by 2020 (the National Malaria Elimination Programme, NMEP). Elements of the plan included improved surveillance, timely response, more effective and sensitive risk assessment tools and improved diagnostics [6] . A key policy change implemented in 2010 as part of the NMEP was the introduction of the 1-3-7 system: aiming for case reporting in one day, which is then investigated within three days, with a focused investigation and action taken in under seven days [7] .",
+            "cite_spans": [
+                {
+                    "start": 199,
+                    "end": 202,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "[2,",
+                    "ref_id": null
+                },
+                {
+                    "start": 411,
+                    "end": 413,
+                    "text": "3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 564,
+                    "end": 567,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 705,
+                    "end": 708,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 998,
+                    "end": 1001,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1256,
+                    "end": 1259,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Although China is making rapid progress towards this goal, 2,675 imported cases were reported in 2017, highlighting the risk of re-introduction [3] . Large numbers of people move between China and malaria endemic countries, both from sub-Saharan Africa and from South East Asia [8, 9] , driven by tourism and Chinese oversea investment [10] . Concerns remain about re-emergence of malaria, which has occurred several times in the early 2000s as a result of importation and favourable climatic conditions for competent vectors [11] . Therefore, in order to achieve three consecutive years of zero indigenous cases (the requirement for WHO certification of elimination), a sustained and targeted investment in surveillance together with efficient treatment is necessary.",
+            "cite_spans": [
+                {
+                    "start": 144,
+                    "end": 147,
+                    "text": "[3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 278,
+                    "end": 281,
+                    "text": "[8,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 282,
+                    "end": 284,
+                    "text": "9]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 336,
+                    "end": 340,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 526,
+                    "end": 530,
+                    "text": "[11]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Yunnan province has recorded malaria outbreaks and remains an identified foci of residual transmission as other areas in the country have reached elimination [12] [13] [14] [15] [16] . The province shares borders with Myanmar, Vietnam and Laos and has a strong agricultural focus. Previous studies suggest that seasonal agricultural workers and farmers are at highest risk of contracting malaria in Yunnan, with rice yield and the proportion of rural employees being spatial factors positively associated with malaria incidence [17] . The border region of Myanmar and Yunnan is generally ecologically suitable for malaria transmission, has a large mobile population, with few natural geographic borders separating the two countries, as well as being a site of sociopolitical conflict and instability [18] . In this context, it can be unclear if there is any sustained local transmission or if all the observed cases are the result of short, stuttering transmission chains following importation into suitable areas. As the area of highest concern for re-emergence in China and the last to reach zero cases, we therefore sought to characterise the transmission dynamics of both Plasmodium vivax and Plasmodium falciparum in the region as China approaches elimination certification.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 168,
+                    "end": 172,
+                    "text": "[14]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[15]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "[16]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 528,
+                    "end": 532,
+                    "text": "[17]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 800,
+                    "end": 804,
+                    "text": "[18]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Methods from outbreak analysis and network research have recently been developed and applied to quantify the transmission of malaria and other infectious diseases in near-elimination and epidemic settings [19] [20] [21] . In near elimination contexts with strong surveillance systems, traditional metrics of malaria such as parasite prevalence are not appropriate due to small numbers and extremely sparse and spatiotemporally heterogeneous distributions of infections. However due to the strength of the surveillance system in China, detailed information is available about each individual case (including the time of symptom onset and location of residence), and case reporting is believed to be very high. By adapting and applying a diffusion network approach [22] within a Bayesian framework, we quantify case reproduction numbers [23] , R c , and uncertainty in these estimates for all P. vivax and P. falciparum cases of malaria recorded in Yunnan province between 2011 and 2016. We incorporate these estimates into geostatistical models and an additive regression model to estimate how R c varied over space and time which we use to estimate timelines to elimination and likelihood of resurgence.",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "[19]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 210,
+                    "end": 214,
+                    "text": "[20]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 215,
+                    "end": 219,
+                    "text": "[21]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 763,
+                    "end": 767,
+                    "text": "[22]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 835,
+                    "end": 839,
+                    "text": "[23]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Between 2011 and 2016, 3496 cases of probable and confirmed P. vivax infection including mixed infections were observed in Yunnan province (2881 imported, 615 locally acquired). Including mixed infections, 818 P. falciparum infections were observed, of which 75 were locally acquired. The mean R c value estimated for P. vivax during this period was 0.171 (95% CI = 0.165, 0.178) and 0.089 (95% CI = 0.076, 0.103) for P. falciparum cases (S1 Fig). We estimate a decline in R c over time for both P. vivax (Fig 1A and 1B) and P. falciparum (Fig 1C and  1D) , with the most rapid declines occurring between 2012 and 2014 ( Fig 1A and 1C) . No R c values above one were observed after 2014 for either species. These findings are consistent with varying levels of uncertainty about the serial interval distribution (S2 Fig). Observationally, the seasonal patterns of R c estimates also differ from observed incidence (S3 Fig). The case count shows a clear seasonal peak in May which is not reflected in the estimated R c values.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 442,
+                    "end": 447,
+                    "text": "Fig).",
+                    "ref_id": null
+                },
+                {
+                    "start": 505,
+                    "end": 520,
+                    "text": "(Fig 1A and 1B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 539,
+                    "end": 555,
+                    "text": "(Fig 1C and  1D)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 621,
+                    "end": 635,
+                    "text": "Fig 1A and 1C)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 815,
+                    "end": 820,
+                    "text": "Fig).",
+                    "ref_id": null
+                },
+                {
+                    "start": 917,
+                    "end": 922,
+                    "text": "Fig).",
+                    "ref_id": null
+                }
+            ],
+            "section": "R c estimates over time"
+        },
+        {
+            "text": "For all cases, there is a competing hazard, \u03b5,of infection from an unobserved source, for example an unreported case. For P. vivax, 19 out of 615 locally acquired cases were estimated to have a moderate chance of having an unobserved source of infection (defined as an estimated epsilon edge, \u03b5 of 0.5\ufffd \u03b5\ufffd0.8) and 2 cases were estimated to have a high chance of an unobserved source of infection (defined as an estimated epsilon edge, \u03b5 of \u03b5\ufffd0.8). Together, this represents 3% of locally acquired cases with a moderate to high chance of external infection sources. For P. falciparum, 2 out of 75 local cases were estimated to have a high chance of having an unobserved source of infection (estimated \u03b5\ufffd0.8) and no other cases were estimated to have a moderate change of having an unobserved source of infection (S4 Fig). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 815,
+                    "end": 820,
+                    "text": "Fig).",
+                    "ref_id": null
+                }
+            ],
+            "section": "Unobserved sources of infection"
+        },
+        {
+            "text": "As transmission declined between 2011 and 2016, we observed a reduction in the incidence of locally-acquired cases which is reflected in a reduction in our estimates of the reproduction number of each locally-acquired case for both species (Fig 2) . We estimate a decline in the probability of a reproduction number for a P. vivax case being above zero over this period ( Fig  3A and 3B) , with the central parts of the province being the first to reach lower risks of nonzero R c . The border area neighbouring Myanmar, where most cases were observed, had the lowest amount of uncertainty in the estimates. P. falciparum shows a decline in risk of R c > 0 across the province, with the more isolated areas in the north of the province showing both the highest predicted risk but also the most uncertainty, due to a lack of cases observed there (S5 Fig) . The main sources of uncertainty were small data sizes (Bernoulli observations) and clustered spatial locations. By 2016 all areas were estimated to have reached a low risk, although there is uncertainty in these estimates compared to P. vivax, due to the smaller sample size.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 240,
+                    "end": 247,
+                    "text": "(Fig 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 372,
+                    "end": 387,
+                    "text": "Fig  3A and 3B)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 849,
+                    "end": 853,
+                    "text": "Fig)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Spatial patterns of R c"
+        },
+        {
+            "text": "Using an additive regression method to make short-term predictions, we estimate a posterior mean R c of 0.005 (95% CI = 0-0.34) for Plasmodium vivax cases in the year leading up to 2020 ( Fig 4A) . We observe an overall declining trend, with the fitted trend for R c (which estimates the general trend, separate to the influence of seasonal and holiday effects) declining from 0.31 (95% CI = 0.31, 0.34) at the start of 2011 to 0.004 (95% CI = 0.002-0.006) by the end of 2019 ( Fig 4B) . We estimate a small effect of holiday periods to differences in R c observed, with Chinese New Year and National Day associated with small increase risk in R c of 16% (95% CI = -112%, 152%) and 39% (95% CI = -43%, 118%) ( Fig 4B) which in this very low transmission context could increase the probability of small outbreaks of local transmission in areas in which high rates of importation occur, although very wide credible intervals were associated with these estimates. We did not identify a clear seasonal trend, however two peaks were identified, with up to 20% (95% CI = 14%, 26%) increases and 28% decreases (95% CI -35%, -22%) in risk of R c associated with April/October and the beginning of January respectively ( Fig 4B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 188,
+                    "end": 195,
+                    "text": "Fig 4A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 478,
+                    "end": 485,
+                    "text": "Fig 4B)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 710,
+                    "end": 717,
+                    "text": "Fig 4B)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1212,
+                    "end": 1219,
+                    "text": "Fig 4B)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Short-term predictions and temporal patterns in time series of Plasmodium vivax cases"
+        },
+        {
+            "text": "Quantifying reproduction numbers and their spatio-temporal variation can provide useful information to inform strategies to achieve and maintain elimination in contexts where traditional measures of transmission intensity are not appropriate. We used individual level surveillance data to infer reproduction numbers by estimating the likelihood of cases being linked by transmission and applied this to a dataset of all confirmed and probable cases of P. vivax and P. falciparum occurring in Yunnan province between 2011 and 2016, which is a focus of concern for re-emergence. Our results suggest that transmission in this province decreased rapidly between 2011 and 2016 as shown by a declining risk of R c exceeding zero across the province. This decline is relatively robust to assumptions about the serial interval distribution. Extrapolating this trend produces an estimated mean R c of 0.005 by 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Given the consistently very low R c values estimated by 2014 onwards, and the future projections based on observed reproduction numbers over time, our results suggest that re-emergence or outbreaks of sustained transmissions are unlikely, provided interventions are continued. However, as all data analysed was collected whilst the NMEP was in place, we cannot draw conclusions about the impact of scaling back interventions or consider other counterfactuals. There is also some uncertainty in our estimates of current and future R c , although the 95% credible intervals of these estimates remain below 1. It is important to note that even with low R c values it is still possible for locally-acquired cases to occur following importation, however the probability of sustained chains of transmission decreases as R c decreases. There also is more uncertainty in our estimates of risk in areas that have not observed many cases. It is difficult to determine whether an absence of cases is due to a lack of detection, a lack of importation events occurring or a low underlying receptivity to transmission. However, it is worth noting that the greatest uncertainty in our spatiotemporal risk estimates of R c >0 tends to be in areas of high elevation (elevation > 3000m), where there is unlikely to be transmission. Given the large numbers of imported cases, it is important to highlight these uncertainties and ensure control measures are maintained. Nonetheless, our findings are promising for China to meet their 2020 elimination goal. Our results highlight the success the country has had in malaria control and highlights the difficulty of elimination certification in contexts where both distant and local cross border importation is common.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The results of the additive regression model is suggestive of two moderate seasonal increases in R c , one occurring in March/April, and one in October. This is a notably different pattern to a clear peak in the incidence of cases occurring in May (S4 Fig) . This is interesting to note, as the March/April increase in R c would be expected to occur prior to an increase in incidence, however the second apparent peak in R c is not reflected by an increase in incidence in the months following. This pattern could be an artefact of human movement, with both periods associated with seasonal movement and holiday periods-the Chunyun period occurs in China for Chinese New Year and the holiday week of the National Day in October and is associated with intranational travel to visit family. During this time, there is often movement from cities to rural areas, and so in these contexts there may be more opportunities for infection to occur as more people are exposed to bites from suitable vectors. This is supplemented by our finding that these specific holidays are associated with small to moderate increases in R c , however it is worth noting the very wide credible intervals and the great deal of uncertainty associated with these estimates, and therefore caution is required when interpreting this finding.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 252,
+                    "end": 256,
+                    "text": "Fig)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "There are several limitations to our study. Firstly, there is a limitation in the classification of local and imported cases used in this study. For instance, the definition of importation used in case classification is defined by travel to any malaria-endemic areas outside China in the month prior to illness onset. This definition might include people who travelled abroad within the week prior to illness onset, but biologically their infection could not have been obtained during that time given the incubation period. However, in the absence of alternative information, travel history may provide a better indication of the likely importation status of a case than attempting to infer importation without this information, however there could be scope in future work to allow for incorrect travel history. As certification of elimination is now tolerant of introduced (first generation imported-to-local transmission) but not indigenous (second generation local-to-local transmission) cases, being able to differentiate between the two, and understanding how much transmission is indigenous versus imported or introduced is an important area of focus for future work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It is important to consider unobserved cases and their potential contribution to transmission dynamics. We do account for unobserved cases via epsilon edges; however, this method is still more suited to scenarios where the majority of cases are observed. In contexts with a high level of asymptomatic infection contributing to transmission or with poor case detection and/ or reporting, these approaches would not be suitable. However, in the context considered here there is good evidence of strong case reporting, investigation and response. The Ministry of Health (MoH) in China has been measuring the timeliness of the recommended protocol and ability to meet the 1-3-7 targets for surveillance, case investigation and management. It was found that the one-day target for case reporting was almost always met because this is required by law. In the years following the introduction of the 1-3-7 policy, the proportion of cases investigated within three days increased from roughly 55% in 2011 to almost 100% by 2013.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "However the programme took longer to achieve the seven day focal point investigation goals, with just over 50% of foci investigated and treated within seven days by the end of 2013 [7] . Nevertheless, by 2015, adherence to the 1-3-7 strategy improved and this figure increased to an estimated 96% [24] . Whilst some cases could still be missed, the thoroughness of the approach means numbers of missing cases are likely to be small.",
+            "cite_spans": [
+                {
+                    "start": 181,
+                    "end": 184,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 297,
+                    "end": 301,
+                    "text": "[24]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Treatment seeking behaviours also are important to consider for cases with mild or no symptoms, both in terms of not seeking treatment, or finding alterative treatment though selfmedicating or informal providers. According to China CDC, Yunnan has achieved full coverage of basic healthcare at village/community level, and local residents and migrants can easily and timely access to health services. Following the National Malaria Elimination Action Plan, hospitals/CDCs provide free antimalarials to cure both local and imported malaria cases found in Chinese residents, mobile populations or foreigners, and pharmacies and non-medical institutions cannot sell antimalarials. Additionally, since China launched the Malaria Elimination Action Plan in 2010, Yunnan Province has special fund to support enhanced malaria surveillance with a high sensitivity, as it was identified as a key province with endemic malaria. The healthcare units at township level are required to screen malaria in febrile patients, so that the possibility of missed diagnosis or underreports of malaria in the patients with fever is likely to be low. Due to the low levels of malaria in China, immunity is likely to be low and therefore asyptomatic infection is less likely. For those who do have no fever or mild symptoms, we assume they have limited capacity to transmit malaria as their gametocyte density is likely to be low. Given the low levels of asymptomatic parasitaemia one would expect in this context, it is unlikely that these infections are contributing much to ongoing infection and therefore affecting our estimates, especially as we do estimate and allow for unobserved sources of infection in our approach.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "A further consideration is the potential for relapse within P. vivax cases, and whether this may bias our estimates. According to China's National Malaria Elimination Technology Program (2011), the epidemiological history of each case has been investigated to check the source of the infection and the history of previous infection and relapse malaria. The individual-based data recorded electronically allow us to compare and find out the relapse malaria, but no relapse cases were found during the study. In addition, all malaria cases received free antimalarial treatment, and each case of P. vivax malaria was treated for radical cure. Nonetheless, there is still a small chance of some relapse cases. In our approach we jointly estimate unobserved sources of infection but are agnostic as to the specific cause of the unobserved source, relapses are considered as one of the potential unobserved sources of infection. Although large amounts of relapse are unlikely for the reasons outlined above, if there were very large amounts of relapse, the estimated reproduction numbers could be over-estimated. However, given we find such low reproduction numbers, even if this unlikely situation were the case, this does not impact our key findings and in fact would be stronger evidence of China achieving large reductions in malaria transmission between 2011 and 2016.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "There is a limitation in the type of data available for inference. Although not available for this study, there are several data sources that increasingly are being collected and could enhance similar analyses in the future in eliminating and pre-eliminating contexts. Firstly, methods to make use of contact tracing data have been developed for emerging outbreaks [25] but have not to our knowledge been applied to endemic disease in the elimination. Although contact tracing for indirectly transmitted diseases is more difficult, identifying if the likely source of infection is a breeding site near the home or a place of work is carried out through active case detection schemes, but often the resulting data are not made available alongside line list data. This information could be used to weight certain connections. Genetic data are also increasingly available, and provide useful information about movement of parasites [26, 27] , the likelihood of two cases being linked by transmission, and can provide useful information to help distinguish imported from local cases and chains of transmission resulting from importation from on-going local transmission [21] . Such data were not available in this context; however, a similar methodological framework or approach could incorporate information such as genetic distance. Historical data on incidence at fine scale (e.g. village level) could also be used to inform likelihood of asymptomatic infection.",
+            "cite_spans": [
+                {
+                    "start": 365,
+                    "end": 369,
+                    "text": "[25]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 929,
+                    "end": 933,
+                    "text": "[26,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 934,
+                    "end": 937,
+                    "text": "27]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1166,
+                    "end": 1170,
+                    "text": "[21]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "We introduced a new framework for analysing individual level surveillance data and found that in Yunnan province, R c has seen a notable downward trend since 2011 and is expected to remain low with maintained interventions into 2020. This decline coincides with 1-3-7 strategy in improved adherence to guidelines. We predict a mean R c of 0.005 up to 2020, however even with such low R c values estimated, there may still be a need to continue to invest in detecting and rapidly responding to imported cases in order to achieve three consecutive years of zero cases and prevent resurgence. Nevertheless, China's elimination strategy and investment in surveillance provides a useful roadmap for other countries planning for malaria elimination by illustrating how coordinated and timely surveillance and response can be implemented, as well as sustained investment in surveillance, and region-focused international collaboration.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It was determined by the National Health and Family Planning Commission, China, that the collection of malaria case reports was part of continuing public health surveillance of a notifiable infectious disease. The ethical clearance of collecting and using second-hand malaria data from the surveillance was also granted by the institutional review board of the University of Southampton, UK (No. 18152). All data were supplied and analysed in an anonymous format, without access to personal identifying information.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics statement"
+        },
+        {
+            "text": "Anonymised case data for all confirmed (N = 4078) and probable (N = 285) malaria cases reported between 2011 and 2016 in Yunnan Province (N = 4390) were obtained from the Chinese Centre for Disease Control (CCDC). For each case, our data included date of symptom onset, GPS coordinates of symptom onset address, health facility address, travel history, and in some cases, the GPS coordinates of presumed location of infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data"
+        },
+        {
+            "text": "Of these cases, the majority were P. vivax (N = 3469, of which 2858 were classified as imported). Of all recorded P. falciparum cases (N = 791), 91% (N = 720) were imported. Small numbers of P. malariae (N = 8) and P. ovale (N = 1) were excluded from our analysis. Cases defined as \"untyped\" (N = 67) were also excluded. A small number (N = 27) of cases classified as mixed infection were included in the separate analyses of each species. A full breakdown of the cases and species composition across China and in Yunnan province between 2011 and 2016 is included in S1 Table.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data"
+        },
+        {
+            "text": "China has a sophisticated malaria surveillance system, described in detail elsewhere [7, 15, 16, 24, 28] and in S1 Text. Surveillance is carried out in both a passive and reactive manner, organised and administered at the national, provincial and county level. The centralised China Information System for Disease Control and Prevention (CISDCP) receives daily updates on case reports from health facilities.",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 88,
+                    "text": "[7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "15,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 93,
+                    "end": 96,
+                    "text": "16,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 97,
+                    "end": 100,
+                    "text": "24,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 101,
+                    "end": 104,
+                    "text": "28]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Surveillance system in China"
+        },
+        {
+            "text": "Passive detection occurs according to a protocol at the local level, such that cases are tested by microscopy or Rapid Diagnostic Test (RDT) and reported to the central information system within 24 hours. Case investigation is then pursued, where cases are confirmed via double readings of microscopy slides and in some cases polymerase chain reaction (PCR) confirmation at provincial laboratories. At this point it is also determined whether the case is locally acquired or imported by taking patient travel history-if a patient has travelled to a malaria endemic country within a month of symptom onset the case is then classified as imported [7] . Case investigation should be completed within three days.",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Surveillance system in China"
+        },
+        {
+            "text": "Foci investigation occurs once a case is detected to determine whether the foci is inactive, active or a pseudo-focus based upon the absence or presence of suitable vectors (inactive), and presence or absence of malaria in the resident area of the case if imported (pseudo-focus). Reactive Case Detection (RACD) of case contacts and populations with demographic similarities (for example individuals working in the same industry and vicinity as the case) is carried out. In active foci more intensive RACD screening of a larger pool of neighbours and contacts is carried out using Rapid Diagnostic Tests (RDTs) for immediate detection, followed by PCR testing of blood spots to detect low-density infections. IRS (Indoor Residual Spraying) is also carried out [6, 7, 24] .",
+            "cite_spans": [
+                {
+                    "start": 760,
+                    "end": 763,
+                    "text": "[6,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 764,
+                    "end": 766,
+                    "text": "7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 767,
+                    "end": 770,
+                    "text": "24]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Surveillance system in China"
+        },
+        {
+            "text": "The serial interval is defined as the time between a given case showing symptoms and the subsequent cases they infect showing symptoms [29] . For a given individual j at time t j , showing symptoms before individual i at time t i , the serial interval distribution specifies the normalised likelihood or probability density of case j infecting case i based on the time between symptom onsets, t i \u2212t j . The serial interval summarises several distributions including the distribution of a) the times between symptom onset and infectiousness onset, b) the time for humans to transmit malaria parasites to mosquito vectors, c) the period of mosquito infectiousness, and d) the human incubation period.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[29]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Defining the serial interval distribution"
+        },
+        {
+            "text": "Taking a similar approach to our previously developed work [20] using a greedy algorithm to estimate the reproduction numbers of malaria cases in El Salvador, we defined a prior distribution of possible serial interval distributions for malaria which were then used in the algorithm. The serial interval distribution of treated, symptomatic P. falciparum malaria, previously characterised using empirical and model based evidence [30, 31] was adapted to inform the prior distribution for the relationship between time and likelihood of transmission between cases in China. We analysed P. vivax cases and P. falciparum cases separately. The prior distribution was defined to be flexible enough to reflect both the biology of P. vivax and P. falciparum as well as the dominant vector species in Yunnan (recent surveys in Yunnan province have found Anopheles sinensis to be the dominant vector species in mid-elevation areas and rice paddies and Anopheles minimus s.l. the dominant species in low elevation areas [13, 32] and to allow for possible variation in transmission dynamics, for example due to untyped infections or delays in seeking treatment. In addition, there is a possibility of a small number of asymptomatic or undetected and therefore untreated infections contributing to ongoing transmission, which will typically have a longer serial interval. We use a shifted Rayleigh distribution (a special case of a Weibull distribution), to describe the serial interval of both species, which can be varied by changing two parameters: \u03b1 and \u03b3. The parameter \u03b1 governs the overall shape of the distribution, and \u03b3 is the shifting parameter accounting for the incubation period between receiving an infectious bite and the onset of symptoms (Fig 1A) . The \u03b3 shifting parameter was fixed at 15 days to account for the extrinsic incubation period within the mosquito and the minimum time between infection and suitable numbers of gametocytes in the blood to lead to symptom onset [33] . The prior for the \u03b1 parameter determining the shape of the distribution was given a Normal distribution with mean 0.003 and standard deviation 0.1 (illustrated in Fig 5) , giving an expected time between symptom onset of one case and symptom onset of the case it infects of 36 days, with the parameter value in the 2.5 percentile of prior having an expected serial interval of 21 days and the equivalent parameter from the 97.5 percentile having an expected serial interval of 60 days. By comparison the expected values for treated P. falciparum from existing literature range between 33 and 49.1 days (95% CI = 33-69) [30, 31] . Depending on how much uncertainty there is in the serial interval (SI) of malaria, the prior for \u03b1, the shaping parameter for the SI of malaria, may be varied. We explored the effects of different priors on the likelihood and posterior estimates. We used the same mean value for \u03b1 (0.003) but set the \u03b1 prior to standard deviation between 1 and 0.01. The results of considering different priors for \u03b1, the parameter shaping SI distribution on estimated R c values over time is shown in S2 Fig. ",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 63,
+                    "text": "[20]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 430,
+                    "end": 434,
+                    "text": "[30,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 435,
+                    "end": 438,
+                    "text": "31]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1010,
+                    "end": 1014,
+                    "text": "[13,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1015,
+                    "end": 1018,
+                    "text": "32]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1981,
+                    "end": 1985,
+                    "text": "[33]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 2607,
+                    "end": 2611,
+                    "text": "[30,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 2612,
+                    "end": 2615,
+                    "text": "31]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1744,
+                    "end": 1752,
+                    "text": "(Fig 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 2151,
+                    "end": 2157,
+                    "text": "Fig 5)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 3107,
+                    "end": 3111,
+                    "text": "Fig.",
+                    "ref_id": null
+                }
+            ],
+            "section": "Defining the serial interval distribution"
+        },
+        {
+            "text": "We assume cases were classified correctly from case investigation as imported or locallyacquired based on recent travel history. Following this assumption, locally-acquired cases ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determining the transmission likelihood"
+        },
+        {
+            "text": "Tracking progress towards malaria elimination in China using individual-level data could have both infected others and been infected themselves. However imported cases could only infect others, as we assume their infection was acquired outside of the country. Given the evidence [7, 15, 24] of strong adherence to the 1-3-7 policy for reporting and response to case detection, and no evidence of relapse within the dataset (as each patient is given a unique identifier), we assume that an individual can only be infected once by a case that has shown symptoms earlier in time.",
+            "cite_spans": [
+                {
+                    "start": 279,
+                    "end": 282,
+                    "text": "[7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 283,
+                    "end": 286,
+                    "text": "15,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 287,
+                    "end": 290,
+                    "text": "24]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PLOS COMPUTATIONAL BIOLOGY"
+        },
+        {
+            "text": "To estimate the underlying pathways of transmission and likelihood of cases being linked by infection, we adapt and extend the NetRate algorithm [22] . Our adapted model introduces the ability to model serial interval functions, account for imported vs local infections and provides provision for missing or unobserved sources of infection (called epsilon edges [20, 34] ). We also extended the NetRate algorithm from a frequentist to a Bayesian framework to incorporate prior knowledge about the serial interval of malaria.",
+            "cite_spans": [
+                {
+                    "start": 145,
+                    "end": 149,
+                    "text": "[22]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 362,
+                    "end": 366,
+                    "text": "[20,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 367,
+                    "end": 370,
+                    "text": "34]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "Consider a set of n infections/nodes I2(I 1 ,. . .,I n ) with associated times t \u00bc ft 1 ; . . . t n g 2 R \u00fe and binary yes/no importation status \u03c0 = {\u03c0 1 ,..,\u03c0 n }2{1,0}.The serial interval distribution of malaria, defining the probability individual I j infected individual I i at times t i >t j is defined through a shifted Rayleigh distribution f \u00f0t i jt j ; a; g\u00de \u00bc a\u00f0t i \u00c0 t j \u00c0 g\u00dee \u00c0 a\u00f0t i \u00c0 t j \u00c0 g\u00de for shaping parameters \u03b1 and \u03b3 [20] . For our analysis we fix \u03b3 = 15 days. If we assume that infections are conditionally independent given the parents of infected nodes then the likelihood of a given transmission chain can be defined as",
+            "cite_spans": [
+                {
+                    "start": 438,
+                    "end": 442,
+                    "text": "[20]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "Where \u03b1 is a parameter matrix. Computing the likelihood of a given transmission chain thus involves computing the conditional likelihood of the infection time of each infection (t i ) given all other infections (t 1 ,. . .,t n \\t i ). If we make the assumption that a node gets infected once the first parent infects it [35] and define a survival function",
+            "cite_spans": [
+                {
+                    "start": 320,
+                    "end": 324,
+                    "text": "[35]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "as the probability that infection I i is not infected by infection I j by time t i then we can simplify our transmission likelihood as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "In this conditional likelihood the first term computes the probability the I j infected I i and the second term computes the probability that I i was not infected by any other previous infections excluding I j . This likelihood therefore accounts for competing infectors and finds the infector most likely to have infected I i . To remove the k6 \u00bcj condition makes the product independent of j and results in the likelihood",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "In Eq 4, f \u00f0\ufffd\u00de= S\u00f0\ufffd\u00de \u00bc H is the hazard function or rate and represents the instantaneous infection rate between individuals I i and I j .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "Assuming all cases reaching health workers or health facilities are recorded, missing cases may be generated by two processes. Symptomatic cases may be missed by not seeking care or not being found through active case detection, or cases may be asymptomatic and therefore unlikely to seek care or be detected. The latter may have densities of parasites in their blood which are too low to be detectable by microscopy if active case detection occurs. These processes apply to both imported cases or locally acquired cases. We assume the pool of asymptomatic cases in the country is low and has a small contribution to ongoing transmission. To account for unobserved infectors within our framework we include a time-independent edge that can infect any individual. The survival and hazard functions for this edge are defined as S 0 \u00f0\ufffd i \u00de \u00bc e \u00c0 \ufffd i and H 0 = \ufffd i . As we will see below, as a consequence of our optimisation problem these edges are encouraged to be sparse and only invoked if no other infectors can continue the transmission chain.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "In addition to unobserved edges, we assume that observed imported infectors can infect other cases but cannot be infected themselves. The final likelihood incorporating these two modifications becomes",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "In order to find the optimal parameters for \u03b1, \ufffd we minimize the following log likelihood subject to positive constraints on the parameters:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "This optimisation problem is convex and guarantees a consistent maximum likelihood estimate [22] To prevent biologically implausible serial interval distributions we impose a truncated normal prior probability distribution on \u03b1~Normal(0.003,0.1) [0,0.01]. When optimising our likelihood we include this prior probability and therefore evaluate the Bayesian Maximum-a-Posteriori estimate.",
+            "cite_spans": [
+                {
+                    "start": 92,
+                    "end": 96,
+                    "text": "[22]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transmission model specifics"
+        },
+        {
+            "text": "We can establish individual reproduction numbers for each case by creating a matrix where each column represents a potential infector and the rows represent a potential infectee, describing which infector edges are connected to infectees and the normalised likelihood of the cases being connected by a transmission event. Intuitively then, by taking the row sums we get the (fractional) number of secondary infections and therefore a point estimate of the time varying reproduction number R c (t j ) This reflects for an individual, an expectation of how many people they are likely to have subsequently infected. When multiple individuals have been infected at a given time and/or place, we can take the mean individual R c and uncertainty in this value as an indicator of reproduction numbers for a given time and/or location.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating R c"
+        },
+        {
+            "text": "In contrast to traditional methods based on Wallinga and Teunis [36] using our method in this way encapsulates not only the pairwise likelihood of transmission between two cases, but conditions this likelihood on the impact of competing edges in the inferred network (the survival of an edge). Our estimates of R c therefore consider the overall transmission tree in optimisation and allow for missing cases within the tree.",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 68,
+                    "text": "[36]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Estimating R c"
+        },
+        {
+            "text": "In order to test the ability of the approach to recover the mean and distribution of R c estimates, and evaluate the impact of missing cases, we carried out two simulations, both simulating a susceptible infected model over a small world network and generating simulated datasets using a stochastic SEIR model with a negative binomial distribution of R c values of mean 0.5, and two different values for the overdispersion parameter, K(K = 0.1 and K = 1), which represents the amount of variability in individual reproduction numbers. The simulation regime and results are described fully in S2 Text.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Simulating data"
+        },
+        {
+            "text": "It is important for national malaria control programmes to have information about likely timelines to elimination, chances of resurgence and uncertainty in these estimates. Using the distribution of R c values and their seasonal and general trends, we analysed time series using the Prophet tool and R package [37] to explore general and seasonal trends as well as the impact of holidays on results.",
+            "cite_spans": [
+                {
+                    "start": 310,
+                    "end": 314,
+                    "text": "[37]",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Estimating timelines towards elimination and risks of resurgence"
+        },
+        {
+            "text": "This approach applies an additive regression model",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating timelines towards elimination and risks of resurgence"
+        },
+        {
+            "text": "which is composed of trend, seasonal and holiday functions, where y(t) is the observations at time t, g(t) is the general trend, modelled by a logistic growth model, s(t) is the seasonal effect, modelled by Fourier series, h(t) is the effect of specific holiday dates and \ufffd t is the error term.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating timelines towards elimination and risks of resurgence"
+        },
+        {
+            "text": "We explored the overall trend as well as seasonal trends, exploring the predicted R c between 2011 and the beginning of 2020. We also explored the impact of the national holiday periods, some of which involve large scale movement, such as the Chunyun period around the spring festival. We cross-validated predictions and calculated root mean squared error (RMSE) and mean absolute error (MAE) (S6 Fig). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 397,
+                    "end": 402,
+                    "text": "Fig).",
+                    "ref_id": null
+                }
+            ],
+            "section": "Estimating timelines towards elimination and risks of resurgence"
+        },
+        {
+            "text": "Transmission risk map estimates were constructed by separating individual reproduction numbers into those above and below R c = 1 The latitude and longitude of the reproduction numbers were included in a binomial Gaussian random field model implemented in rINLA [38] , described in the geostatistical model specifics section, in which demographic and environmental covariates (Table 1 ) were used to estimate the likelihood of a case having R c >0 in the area each year from 2011 to 2016.",
+            "cite_spans": [
+                {
+                    "start": 262,
+                    "end": 266,
+                    "text": "[38]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 376,
+                    "end": 384,
+                    "text": "(Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Mapping R c"
+        },
+        {
+            "text": "We chose covariates which have previously been found to be strongly mechanistically linked to malaria transmission due to their impact on vector habitat and exposure risk (Tables  1, 2 and 3) . These covariates have also previously been found to predict malaria prevalence [39] . This is a measure of malaria \"receptivity\" or underlying transmission potential rather than overall malaria risk, as importation likelihood is not quantified in this analysis. An auto-regressive model of order 1 was also fitted to the binomial data and the distance range of spatial correlation in R c >0 were also investigated to identify the amount of focality in the distribution of Table 1 . Environmental and demographic covariates used in geostatistical analysis. First column lists the class of variable, the second column lists the variables used, the third column lists sources for the data, the fourth column lists the type of data (static, synoptic or dynamic), and the final column lists the spatial scale of the data used to generate the variables. ",
+            "cite_spans": [
+                {
+                    "start": 273,
+                    "end": 277,
+                    "text": "[39]",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 171,
+                    "end": 191,
+                    "text": "(Tables  1, 2 and 3)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 666,
+                    "end": 673,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Mapping R c"
+        },
+        {
+            "text": "The underlying spatial statistical model was fitted to binomial data of R c >0 = 1; R c = 0, using the logit link function:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Geostatistical model specifics"
+        },
+        {
+            "text": "where R >0,i are the number binary data points for R c >0 = 1; R c = 0, p i is the estimated R >0 , expressed as a logit transformed probability and modelled as a Gaussian process with \u03bc and precision Q. The GP mean \u03bc is a linear function of a global intercept \u03b1 and a vector of \u03b2 coefficients from space-time indexed covariate values X i . Q is a sparse precision matrix constructed as the sparse finite element solution to the stochastic partial differential equation",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Geostatistical model specifics"
+        },
+        {
+            "text": "where \u0394 is the Laplacian, k is the spatial scale/range parameter, \u03c4 controls the variance, \u03b1 is the spatial smoothness parameter (fixed at \u03b1 = 2), and W(s) is the spatial white noise process. To account for the curvature of the earth the distance metric s is defined on a spherical manifold in Cartesian R 3 . ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Geostatistical model specifics"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A Framework for Malaria Elimination",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Alonso",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "World Health Organization",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Ready for malaria elimination: zero indigenous case reported in the People's Republic of China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-H",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-G",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Malar J [Internet]",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12936-018-2444-9"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The malaria situation in the People's Republic of China. Bull World Health Organ",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "",
+            "volume": "59",
+            "issn": "",
+            "pages": "931--937",
+            "other_ids": {
+                "PMID": [
+                    "6978199"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Historical patterns of malaria transmission in China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Adv Parasitol",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-800869-0.00001-9"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Surveillance and Response to Drive the National Malaria Elimination Program",
+            "authors": [
+                {
+                    "first": "X-Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-G",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Adv Parasitol",
+            "volume": "86",
+            "issn": "",
+            "pages": "81--108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-800869-0.00004-4"
+                ],
+                "PMID": [
+                    "25476882"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Communicating and Monitoring Surveillance and Response Activities for Malaria Elimination: China's \"1-3-7\" Strategy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hjw",
+                    "middle": [],
+                    "last": "Sturrock",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cotter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "PLoS Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Trends of imported malaria in China 2010-2014: Analysis of surveillance data",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cotter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Malar J",
+            "volume": "15",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Changing epidemiology and challenges of malaria in China towards elimination",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Ruktanonchai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Routledge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Malar J [Internet",
+            "volume": "18",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2736-8"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Plasmodium falciparum malaria importation from Africa to China and its mortality: an analysis of driving factors",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wardrop",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bosco",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bird",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Malaria outbreaks in China (1990-2013): A systematic review",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Horstick",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Malar J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Malaria in China, 2011-2015: An observational study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wardrop",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Head",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "95",
+            "issn": "",
+            "pages": "564--73",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.17.191668"
+                ],
+                "PMID": [
+                    "28804168"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Risk assessment of malaria transmission at the border area of China and Myanmar",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "http:/idpjournal.biomedcentral.com/articles/10.1186/s40249-017-0322-2"
+                ],
+                "PMID": [
+                    "28679420"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Lessons from Malaria Control to Elimination: Case Study in Hainan and Yunnan Provinces",
+            "authors": [
+                {
+                    "first": "Z-G",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-H",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Adv Parasitol",
+            "volume": "86",
+            "issn": "",
+            "pages": "47--79",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-800869-0.00003-2"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Shrinking the malaria map in China: Measuring the progress of the National Malaria Elimination Programme",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Infect Dis Poverty",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Analysis of malaria epidemiological characteristics in the people's republic of China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "93",
+            "issn": "2",
+            "pages": "293--302",
+            "other_ids": {
+                "DOI": [
+                    "10.4269/ajtmh.14-0733"
+                ],
+                "PMID": [
+                    "26078326"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Spatiotemporal epidemic characteristics and risk factor analysis of malaria in Yunnan Province, China. BMC Public Health",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "http:/bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3994-9"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Effectiveness and impact of the crossborder healthcare model as implemented by non-governmental organizations: case study of the malaria control programs by health poverty action on the China-Myanmar border",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-Q",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-H",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Mapping residual transmission for malaria elimination",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Le",
+                    "middle": [],
+                    "last": "Menach",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kunene",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ntshalintshali",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hsiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7554/eLife.09520"
+                ],
+                "PMID": [
+                    "26714110"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Estimating spatiotemporally varying malaria reproduction numbers in a near elimination setting",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Routledge",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chev\u00e9 Z Jer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cucunub\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guinovart",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gustafson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nat Commun [Internet]",
+            "volume": "9",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41467-018-04577-y"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Mapping malaria by combining parasite genomic and epidemiologic data",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wesolowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-H",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Verity",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tessema",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Med [Internet]",
+            "volume": "16",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1181-9"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Uncovering the structure and temporal dynamics of information propagation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gomez Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Leskovec",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Balduzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sch\u00f6 Lkopf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Estimating individual and household reproduction numbers in an emerging epidemic",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS One",
+            "volume": "2",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0000758"
+                ],
+                "PMID": [
+                    "17712406"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "China's 1-3-7 surveillance and response strategy for malaria elimination: Is case reporting, investigation and foci response happening according to plan?",
+            "authors": [
+                {
+                    "first": "S-S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aec",
+                    "middle": [],
+                    "last": "Rietveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Ramsay",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zachariah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "http:/idpjournal.biomedcentral.com/articles/10.1186/s40249-015-0089-2"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "epicontacts: Handling, visualisation and analysis of epidemiological contacts. F1000Research [Internet]",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nagraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Randhawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Crellen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sudre",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jombart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.12688/f1000research.14492.2"
+                ],
+                "PMID": [
+                    "31240097"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Using parasite genetic and human mobility data to infer local and cross-border malaria connectivity in Southern Africa. Elife",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tessema",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wesolowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wilheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A-R",
+                    "middle": [],
+                    "last": "Mupiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Mapping imported malaria in Bangladesh using parasite genetic and human mobility data",
+            "authors": [
+                {
+                    "first": "H-H",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wesolowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Jacob",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mahmud",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Uddin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Malaria surveillanceresponse strategies in different transmission zones of the People's Republic of China: Preparing for climate change",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Utzinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Malone",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bergquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yy",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Malar J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The interval between successive cases of an infectious disease",
+            "authors": [
+                {
+                    "first": "Pem",
+                    "middle": [],
+                    "last": "Fine",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Am J Epidemiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Measuring the path toward malaria elimination. Science (80-)",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Churcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Novotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ntshalintshali",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kunene",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Quantitative, model-based estimates of variability in the generation and serial intervals of Plasmodium falciparum malaria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Huber",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Greenhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perkins",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Malar J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Monitoring of malaria vectors at the China-Myanmar border while approaching malaria elimination. Parasit Vectors [Internet]",
+            "authors": [
+                {
+                    "first": "S-S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-B",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T-M",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-Q",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13071-018-3073-4"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Clinical features of malaria. Essent Malariol",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Warrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Submodular Inference of Diffusion Networks from Multiple Trees",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sch\u00f6lkopf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "489--96",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Maximizing the spread of influence through a social network",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kempe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kleinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c9",
+                    "middle": [],
+                    "last": "Tardos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining -KDD '03",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wallinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Teunis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Epidemiol [Internet]",
+            "volume": "160",
+            "issn": "6",
+            "pages": "509--525",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/aje/kwh255"
+                ],
+                "PMID": [
+                    "15353409"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Business Time Series Forecasting at Scale",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Letham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rue",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Martino",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chopin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J R Stat Soc Ser B Stat Methodol",
+            "volume": "71",
+            "issn": "2",
+            "pages": "319--92",
+            "other_ids": {
+                "DOI": [
+                    "http:/doi.wiley.com/10.1111/j.1467-9868.2008.00700.x"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "The effect of malaria control on Plasmodium falciparum in Africa between 2000 and 2015",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bhatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cameron",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bisanzio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mappin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dalrymple",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Battle",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Moyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eckhoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wenger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nature",
+            "volume": "526",
+            "issn": "7572",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature15535"
+                ],
+                "PMID": [
+                    "26375008"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Validation of the land-surface temperature products retrieved from Terra Moderate Resolution Imaging Spectroradiometer data. Remote Sensing of Environment",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "83",
+            "issn": "",
+            "pages": "163--180",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Very high resolution interpolated climate surfaces for global land areas",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hijmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Parra",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jarvis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "International journal of climatology",
+            "volume": "25",
+            "issn": "",
+            "pages": "1965--1978",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "The shuttle radar topography mission. Reviews of geophysics 45",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Farr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Travel time to major cities: A global map of Accessibility. (Global Environment Monitoring Unit -Joint Research Centre of the European Commission",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Boxplots showing R c estimates for P. vivax (A and B) and P. falciparum (C and D), aggregated by year (A and C) and month (B and D) of symptom onset. Points represent individual R c estimates. Boxplots show median, upper and lower quartiles for R c each. https://doi.org/10.1371/journal.pcbi.1007707.g001",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Map of R c estimates by year for A) P. vivax and B) P. falciparum. Blue points represent locally acquired cases; red points represent imported cases. The diameter of the point represents the size of the R c estimate. Base map of administrative boundaries come from Open Street Map and its contributors. https://doi.org/10.1371/journal.pcbi.1007707.g002",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Map of risk of R c > 0 and uncertainty in this estimate (standard deviation) from application of a Gaussian Process geostatistical model with a logit link function to times and locations of observed cases for A) P. vivax and B) P. falciparum malaria across Yunnan province in each year 2011-2016. This represents the risk of a case having an R c > 0 if observed, stratified by year. https://doi.org/10.1371/journal.pcbi.1007707.g003",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "A) Black points show estimated individual R c values, blue line represents prophet model predictions for mean R c on that day, shaded blue area shows 95% credible interval of prediction. B) Decomposed time series model, showing the general trend, fitted holiday effect and seasonal effect. For seasonal and holiday effects the y axis shows the percentage increase or decrease in R c predicted which is attributable to a seasonal or holiday effect. https://doi.org/10.1371/journal.pcbi.1007707.g004",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Red lines show 300 draws from the prior distribution used in the analysis for the Serial Interval distribution. The black solid line represents the expected function and the dashed lines represents the 2.5 (dashed) and 97.5 (dot-dashed) quantile values of the prior distribution for the shaping parameter, \u03b1. https://doi.org/10.1371/journal.pcbi.1007707.g005",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Fig. Histogram of R c estimates for A) P. vivax in Yunnan and B) P. falciparum in Yunnan. Dotted lines show median, solid lines show mean. (PNG) S2 Fig. Maximum a posteriori estimates of R c over time for A) P. falciparum and B) P. vivax in Yunnan province. Colours represent different standard deviations of prior for \u03b1, the shaping parameter for the serial interval distribution. (PNG) S3 Fig. R c by month compared to cases. Stratified by year-month for P. vivax. (PNG) S4 Fig. Histogram of epsilon edge distribution for A) P. vivax, B) P. falciparum. (PNG) S5 Fig. Map of standard deviation in estimates of P(R c >0) for A) Plasmodium falciparum and B) Plasmodium vivax. (PNG) S6 Fig. Cross validation of timeseries analysis. Plots show A) Root Mean Squared Error (RMSE) B) Mean Absolute Error (MAE). The training set used was the first 730 days of data and the horizon used was 365 days. (PNG) S7 Fig. ROC curve plot for map of P(R c risk >0) for A) P. vivax B) P. falciparum. (PNG) S1 Text. Surveillance system in China. (DOCX) S2 Text. Tests of algorithm on simulated data. (DOCX) S1",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "https://doi.org/10.1371/journal.pcbi.1007707.t001 non-zero R c estimates. Area under the curve (AUC) scores from leave-one-out cross validation were used to assess model fit (S7 Fig).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Posterior covariate parameter estimates for P. falciparum R c risk map. https://doi.org/10.1371/journal.pcbi.1007707.t003 Table 2. Table summarizing posterior parameter estimates for covariates in geostatistical model for A) P. vivax and B) P. falciparum. Columns show posterior mean, standard deviation and 2.5, 97.5 and 50% quantiles. Rows represent covariates used in model and intercept. https://doi.org/10.1371/journal.pcbi.1007707.t002",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "showing breakdown of case data. A) Cases by diagnosis type (probable and confirmed) and species across China. B) Cases by imported/local status and species across China. C) Cases by diagnosis type (probable and confirmed) and species across Yunnan Province. D) Cases by imported/local status and species across Yunnan province2 (DOCX) S1 Data. Source code to generate figures, data listing estimated Rc values and results of additive regression analysis from Fig 4. (ZIP) Conceptualization: Isobel Routledge, Shengjie Lai, Azra C. Ghani, Andrew J. Tatem, Samir Bhatt. curation: Isobel Routledge, Shengjie Lai, Zhongjie Li. analysis: Isobel Routledge. acquisition: Isobel Routledge. Investigation: Isobel Routledge, Shengjie Lai, Samir Bhatt. Methodology: Isobel Routledge, Manuel Gomez-Rodriguez, Kyle B. Gustafson, Swapnil Mishra, Joshua L. Proctor, Samir Bhatt.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

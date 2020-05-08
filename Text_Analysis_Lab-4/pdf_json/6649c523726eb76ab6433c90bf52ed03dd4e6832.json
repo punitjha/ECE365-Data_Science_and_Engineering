@@ -1,0 +1,558 @@
+{
+    "paper_id": "6649c523726eb76ab6433c90bf52ed03dd4e6832",
+    "metadata": {
+        "title": "How should health systems prepare for the evolving COVID-19 pandemic? Reflections from the perspec- tive of a Tertiary Cancer Center Andre Tsin Chih Chen 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I , * Camila Motta Venchiarutti Moniz 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 I Ulysses Ribeiro-J\u00fa nior 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Maria Del Pilar Estevez Diz 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Jo\u00e3 o Victor Salvajoli 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Karina Gondim Moutinho Da Conceic\u00b8\u00e3 o Vasconcelos 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Jos\u00e9 Ot\u00e1 vio Costa Auler-J\u00fa nior 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II Ivan Cecconello 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , III Edson Abdala 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Paulo Marcelo Gehm Hoff 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 I",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "In early December 2019, a pneumonia of unknown origin was first diagnosed in Wuhan, China (1) . The pathogen was identified as a novel coronavirus and was subsequently named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (2). On January 30 th , 2020, The World Health Organization (WHO) declared coronavirus disease 2019 (COVID-19) a public health emergency of international concern (3). As of March 18 th , 2020, there were 212,616 laboratory-confirmed cases worldwide (4) . Governments have responded in various ways to this evolving public health emergency (3, 5, 6) .",
+            "cite_spans": [
+                {
+                    "start": 90,
+                    "end": 93,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 484,
+                    "end": 487,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 574,
+                    "end": 577,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 578,
+                    "end": 580,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 581,
+                    "end": 583,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In light of the emerging data (1-3,6,7), we discuss issues to be considered as health systems systematize their responses. We are not trying to predict the future, but rather, present potential scenarios. Herein, we provide the perspective of the Instituto do C\u00e2ncer do Estado de S\u00e3o Paulo (ICESP) -Hospital das Cl\u00ednicas da Faculdade de Medicina da Universidade de S\u00e3o Paulo, a publically funded tertiary referral cancer center in Brazil. The current editorial does not represent institutional or governmental positions. Formal policies take time to receive official approval. Because of the urgent need for local, regional, and national preparation, we write collectively as free thinkers with the best interests of society in mind, and as responsible doctors that have vowed to provide the best care for our patients (8) .",
+            "cite_spans": [
+                {
+                    "start": 819,
+                    "end": 822,
+                    "text": "(8)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The Spanish Influenza pandemic of 1918-1919 has provided us with uncontrolled populational data on the importance of social measures for mitigating the harm of epidemics. Historical work (9) and mathematical modelling studies (10) suggest that early and sustained implementation of such measures significantly reduced mortality rates during the 1918-1919 epidemic in the United States.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 226,
+                    "end": 230,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The SARS-CoV-1 2002-2003 epidemic has also taught us valuable lessons. As stated in the WHO consensus report, ''the experience in affected areas has shown that the transmission can be prevented by adherence to basic public health measures, including rapid case detection, case isolation, contact tracing and good infection control, including handwashing and the use of personal protective equipment'' (11) . Prevention and case isolation are perhaps the most critical steps to prevent any given epidemic, and require active effort from authorities at all levels. These non-pharmacologic interventions play an important role in mitigating a community-wide epidemic, by 1) delaying the exponential growth of the curve, 2) reducing the number of cases, and 3) spreading the total demand over a longer period of time to match the capacity of hospitals and other healthcare settings (10) .",
+            "cite_spans": [
+                {
+                    "start": 401,
+                    "end": 405,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 878,
+                    "end": 882,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Social institutions like churches have played an essential role in shifting the general public mindset from debauchery or indifference toward prevention. Practical measures have been implemented, including the prohibition of kisses and holding hands during mass (12,13) and avoiding common vessels during eucharistic communion (14). Social greetings like kisses and handshaking should be avoided in any environment, especially in hospitals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In a recent publication, the China Medical Treatment Expert Group for COVID-19 reported on the epidemiology and clinical outcomes of 1099 laboratory-confirmed COVID-19 cases (1). Severe illness occurred in 15.7% of the patients after admission to the hospital, 5.0% were admitted to the ICU, 2.3% underwent invasive mechanical ventilation, and 1.4% died. Severe disease was associated with comorbid disorders and older age. Of note, in patients with comorbidities, early estimates of the case-fatality rate were up to 73.3%, Data Supplement, Table S3 from Guan et al. (1) . Only 0.9% of the cohort had cancer.",
+            "cite_spans": [
+                {
+                    "start": 568,
+                    "end": 571,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 542,
+                    "end": 550,
+                    "text": "Table S3",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "At this moment, it seems too early to tell if these estimates are generalizable or even accurate, but caution is warranted for patients with comorbid disorders. If real mortality parameters are within the range of published data, there is a significant risk of severe events, and every effort should be taken to guarantee that suspected cases receive an adequate evaluation. Complexity is added to the triage by the fact that only 43.8% had fever on hospital admission (1) and by extensive differential diagnoses in cancer patients such as febrile neutropenia, antitumor drug side effects, and other infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Regarding cancer patients, follow-up consultations and exams from patients with no active disease or treatment could be postponed to reduce the risk of exposure. Patient companions should consider going to the hospital only when necessary. Attention should also be given to food-courts and cafeterias, both within and nearby the hospital, given that healthcare workers and patients may share the same zone without proper protective equipment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Before initiating systemic anticancer treatment, physicians should weigh the evolving COVID-19 epidemic risk. Factors like disease severity, the potential benefit from treatment, drug schema immunosuppression potential, patient age, and comorbid conditions should be considered. In the adjuvant or neoadjuvant scenarios, physicians should consider the pros and cons of every available treatment option. We should also consider prophylactic interventions as soon as consistent data demonstrate antiviral effects against SARS-CoV-2 in clinical trials, for either the patients, their households, or health care personnel.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Surgery is central in cancer treatment. Should there be an increase in the number of COVID-19 cases in Brazil, elective surgeries could be postponed. There are a limited number of intensive care units (ICUs), with an imbalance between the public and private sectors (15). Along with Brazilian authorities' efforts to improve the number of ICU beds during the COVID-19 outbreak, logistics need to be implemented to avoid contact between exposed and nonexposed patients. Non-life-threatening surgeries could be postponed until the epidemic is under control, both to avoid the risk of intercurrent COVID-19 infection and to guarantee ICU beds to critical patients. In cases with neoadjuvant treatment, the interval to surgery needs to be entered into the equation. It is estimated that 10% of patients affected by COVID-19 need prolonged admission in ICUs. This emphasizes the importance of non-pharmacologic community strategies to reduce incidence and lessen the need for healthcare services (10) .",
+            "cite_spans": [
+                {
+                    "start": 991,
+                    "end": 995,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In any given epidemic, real-time quality data is essential for critical decision-making. The Brazilian Health Ministry is to be commended for implementing a REDCap online form for notification of suspected cases (16). Additional efforts are needed in systems integration, so that relevant information is available for healthcare workers and other stakeholders. We suggest that the Brazilian Health Ministry consider WHO recommendations (17) and lead the implementation of standard online forms to collect sensitive data on clinical characteristics, treatment, and outcomes.",
+            "cite_spans": [
+                {
+                    "start": 436,
+                    "end": 440,
+                    "text": "(17)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Of note, Brazil's legislative bodies are to be commended for the fast approval of laws to fight the COVID-19 international public health emergency. The Federal Council of Medicine (Conselho Federal de Medicina) and Ethics Committees are to interpret the new law and clarify if consent forms to diagnose and treat COVID-19 patients can be waived (18) . Should consent be needed, we suggest verbal consent as a means to prevent pen and paper consent forms from becoming a transmission route, as we have seen in the Diamond Princess situation (19) .",
+            "cite_spans": [
+                {
+                    "start": 345,
+                    "end": 349,
+                    "text": "(18)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 540,
+                    "end": 544,
+                    "text": "(19)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "At this point, it is appropriate to comment on the fear that excessive data may lead to panic among the general public. We partially agree with this statement, though we also stress that sensitive data need to be readily available to healthcare providers and decision-makers in order to mitigate this epidemic. Misinformation erodes public trust and may result in backlash (20) .",
+            "cite_spans": [
+                {
+                    "start": 373,
+                    "end": 377,
+                    "text": "(20)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "As the number of new cases accrue in Brazil, physicians and healthcare workers on the front-line should have their non-clinical workload reduced to a minimum, to focus on adequate contact precautions and patient care. Healthcare providers should reallocate administrative personnel to perform non-clinical tasks including paperwork-filling and data collection as much as possible. Hospitals should take their time to train staff to effectively implement contact precautions and flow processes. Adequate emotional support for staff and reasonable hours of risk exposure are also suggested to prevent burnout, as health professionals struggle to care for patients and protect their lives and families.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We hope this editorial may foster discussion among the authorities and healthcare stakeholders, and help to plan and implement pathways to minimize the impact of the COVID-19 epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Chen ATC was responsible for the study main idea and conception, data acquisition, analysis and interpretation, manuscript drafting and final approval of the version to be published. Moniz CMV was responsible for the data acquisition and interpretation, manuscript critically review for intellectual content and final approval of the version to be published. Ribeiro-J\u00fanior R, Diz MPE, Salvajoli JV, Vasconcelos KGMC, Auler-J\u00fanior JOC, Abdala E and Cecconello I were responsible for the data interpretation and manuscript critically review for intellectual content and final approval of the version to be published. Hoff PMG was responsible for mentoring, data interpretation, manuscript critically review for intellectual content and final approval of the version to be published.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "30251--30259",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30251-8"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Coronavirus disease 2019 WHO situation report",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Plano de Conting\u00eancia Nacional para Infecc\u00b8\u00e3o Humana pelo novo Coronav\u00edrus COVID-19",
+            "authors": [
+                {
+                    "first": "Sa\u00fade",
+                    "middle": [],
+                    "last": "Minist\u00e9rio Da",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "13",
+            "pages": "1199--207",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A novel coronavirus outbreak of global health concern",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "30185--30194",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30185-9"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Destroyer and teacher'': Managing the masses during the 1918-1919 influenza pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tomes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Public Health Rep",
+            "volume": "125",
+            "issn": "3",
+            "pages": "48--62",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/00333549101250S308"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Interim Pre-Pandemic planning Guidance: Community Strategy for Pandemic Influenza Mitigation in the United States",
+            "authors": [],
+            "year": 2007,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "World Health Organization. Consensus document on the epidemiology of severe acute respiratory syndrome (SARS)",
+            "authors": [],
+            "year": 2003,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "World Health Organization. Coronavirus disease (COVID-19) outbreak",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "C\u00f3digo de \u00e9tica m\u00e9dica",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The facts of the Coronavirus in Diamond Princess by Kentaro Iwata",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Iwata",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

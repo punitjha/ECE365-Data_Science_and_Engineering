@@ -1,0 +1,609 @@
+{
+    "paper_id": "b6c13abe9309f6899882babbd7cbd1b4140c666c",
+    "metadata": {
+        "title": "Emerging Therapeutic Strategies for COVID-19 Patients",
+        "authors": [
+            {
+                "first": "Shudong",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Argus Pharmaceuticals",
+                    "location": {
+                        "settlement": "Changsha",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xialing",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Argus Pharmaceuticals",
+                    "location": {
+                        "settlement": "Changsha",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kyla",
+                "middle": [],
+                "last": "Geary",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Philadelphia College of Osteopathic Medicine",
+                    "location": {
+                        "addrLine": "Address: 8 LuJing Ave",
+                        "settlement": "Philadelphia, Changsha, Changsha",
+                        "region": "PA",
+                        "country": "USA., China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dianzheng",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Philadelphia College of Osteopathic Medicine",
+                    "location": {
+                        "addrLine": "Address: 8 LuJing Ave",
+                        "settlement": "Philadelphia, Changsha, Changsha",
+                        "region": "PA",
+                        "country": "USA., China, China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Over 100,000 cases of COVID-19 patients infected with the novel corona virus SARS-COV-2 have been reported worldwide in approximately 2 months, resulting in over 3000 deaths. Potential therapeutic strategies, including remdesivir, chloroquine phosphate, abidol, lopinavir/ritonavir, plasma, antibody, vaccine and stem cells are discussed in this review. With the number of patients increasing daily, there is an urgent need for effective therapeutic intervention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Since the beginning of December 2019, numerous hospitals in Wuhan, China have reported an increasing number of patients with pneumonia due to the infection with an unknown virus. The virus, first named 2019 novel Corona Virus (2019-nCoV), was later changed to Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-COV-2), and the pneumonia was named Corona Virus Disease 2019 (COVID-19). World Health Organization (WHO) declared COVID-19 a Public Health Emergency of International Concern on January 31, and, as of March 2020, the virus has infected >90,000 people, and killed >3,100 worldwide 1 . With the number of patients increasing daily, there is an urgent need for effective therapeutic intervention. In this article, we will discuss several therapeutic strategies against COVID-19 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The first case of COVID-19 in the United States was confirmed on January 20, 2020, by qPCR assay with samples from the patient's nasopharyngeal and oropharyngeal swabs. Probes were based on genomic sequence of 2019-nCoV released by scientists from China. After the development of radiographic pneumonia, the patient was treated with remdesivir intravenously and almost all clinical symptoms resolved the following day 2 . Remdesivir ( Figure 1 ) is a nucleotide analog originally developed by Gilead as a drug against Ebola virus. Mechanistically, it inhibits RNA-dependent RNA synthetase (RdRp) with completed Phase I and/or II clinical trials 3, 4 . Therefore, Gilead has been working with China since February 2020 to conduct a phase 3 randomized, double-blinded, placebo-controlled, multicenter trial to determine the safety and efficacy of remdesivir on hospitalized patients with severe COVID-19 5 . The treatment was designed as 200 mg of remdesivir on day 1 followed by 100 mg/day for 9 days. The study is expected to be completed by May 1, 2020 6 . In addition, other antiviral nucleotide analogs such as fapivir and ribavirin are undergoing clinical trials. Fapivir is a drug approved in Japan for flu treatment.",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 647,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 648,
+                    "end": 649,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 902,
+                    "end": 903,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 435,
+                    "end": 443,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Nucleotide analogs"
+        },
+        {
+            "text": "Chloroquine phosphate is an antimalarial drug. By increasing the pH of the nucleus, it can inhibit both the virus-host cell interaction and the pH-dependent virus replication 7 . The results from in vitro studies suggest that chloroquine can actively inhibit SARS-COV-2 4 . Both animal experiments and clinical trials are currently in progress. Results from preliminary clinical trials show that chloroquine phosphate has promising effects on patients with COVID-19. Of note, it has been reported that chloroquine may cause adverse reactions such as ocular disorders, immune system disorders, ear and labyrinth disorders, cardiac disorders, etc. 8 , therefore precautions and further testing are needed for the safe and effective treatment in COVID-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 646,
+                    "end": 647,
+                    "text": "8",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Chloroquine phosphate"
+        },
+        {
+            "text": "Abidol is a broad-spectrum antiviral drug. By inhibiting the fusion between the influenza virus and host cells, it can inhibit virus replication. It has been used to prevent/treat both SARS and Middle East Respiratory Syndrome (MERS). According to an online report, Abidol in the concentration range of 10-30\u03bcM not only inhibited COVID-19 duplication, it also significantly reduced the pathological effect of the virus 9 . A randomized multi-center controlled clinical trial wtih Abidol in patients with COVID-19 has started in Xiangya Hospital in China, which has been registered in the US clinical trial database 10 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abidol"
+        },
+        {
+            "text": "Lopinavir/ritonavir is a combination of drugs mainly used for AIDS treatment. Lopinavir inhibits viral protease resulting in immature/non-infectious virus particles; ritonavir inhibits the degradation of lopinavir in the liver and thereby extends lopinavir's half-life. Results from in vitro studies showed that lopinavir/ritonavir can inhibit the replication of both MERS and SARS 11 . However, whether they can inhibit COVID-19 is unknown. Therefore, a clinical trial to use lopinavir/ritonavir for COVID-19 treatment will be launched soon in a hospital in Wuhan, China. In addition, since darunavir (trade name: Prozekal) is another protease inhibitor used for HIV treatment, a combination of darunavir and ritonavir could also be a potential treatment of COVID-19, especially since darunavir has been approved in China since 2018 for HIV treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lopinavir/ritonavir"
+        },
+        {
+            "text": "The company CNBG claimed on February 13, 2020, that plasma from recovered patients was used to successfully cure 11 critically ill patients with COVID-19 12 . The donated plasma with high-titer of SARS-COV-2 antibodies was confirmed without pathogens and with virus inactivation 12 . Of note, 12 to 24 hours post-treatment, the major inflammation symptoms decreased significantly with increased lymphocytes counts and blood oxygen saturation. Improved vital signs were also observed. Currently, although the exact underlying mechanisms are unknown, it is reasonable to speculate that the antibodies may bind the virus and prevent virus-host cell interaction, and therefore prevent infection. In addition, NK cells and other immune cells may also be involved in clearing the virus by antibodydependent cell-mediated cytotoxicity. However, the potential risks associated with plasma usage, including pathogen transmission and allergic reaction, should be considered, and therefore this strategy may only be applied for a clinical emergency following standardized procedures. On the other hand, specific immunoglobulin could be a better option for treating critically ill patients with SARS-COV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Plasma"
+        },
+        {
+            "text": "Specific neutralizing antibodies against viral surface proteins may bind and prevent the virus from entering the host epithelial cells and subsequently prevent virus amplification. On the other hand, nonneutralizing antibodies may bind the virus and activate the immune cells (mainly macrophages) to engulf and clear the virus. However, excessive activation of these non-specific immune cells may cause the release of a large number of proinflammatory factors leading to cytokine storm and sepsis-related death. Therefore, non-neutralizing antibodies play an antiviral role in the early stages but may cause lung damage at later stages. However, it usually takes an extended period of time to generate monoclonal antibodies for a new pathogen that can be used clinically. Regeneron Pharmaceuticals is using VelociSuite technology with a humanized mouse immune system to rapidly develop innovative antibodies for the treatment of virus sepsis. This strategy has shown positive results in clinical trials using antibodies to treat Ebola 13 . The German company Inflarx has developed a monoclonal antibody against the human C5a molecule. By specifically binding and inhibiting C5a-mediated biological functions, including the release of neutrophil chemotaxis and intra-cellular lysozyme, the antibodies can limit excessive inflammation without inhibiting immune function. Clinical trials on this antibody are now underway in China to potentially reduce both lung damage and death caused by sepsis infection 14 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antibodies"
+        },
+        {
+            "text": "There are now at least four candidate vaccines against the sepsis that are under development. Clinical trials on the most promising vaccine candidates may start in three to four months. However, it usually takes more than a year for a vaccine to become clinically applicable 15 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Vaccines"
+        },
+        {
+            "text": "Due to the self-renewal and multi-directional differentiation capability of mesenchymal stem cells, they can be differentiated to produce multifunctional cells. In damaged lung tissues, stem cells may be able to replenish bronchial epithelial and endothelial cells after the clearance of viral infection. They may also stabilize the pulmonary micro blood vessel and alveolar epithelial cell barriers. These effects could enhance the patient's immunity, alleviate pneumonia, and prevent secondary infections. As of February 14, 2020, more than 4 such projects have been approved for the treatment of COVID-19 in China, and another one has applied to the U.S. Food and Drug Administration (FDA) for emergency approval 16 .",
+            "cite_spans": [
+                {
+                    "start": 716,
+                    "end": 718,
+                    "text": "16",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Stem cells"
+        },
+        {
+            "text": "Other clinical trials of treatment options are also on the agenda. A search with the word \"COVID-19\" in the China Clinical Trials Registry (http://www.chictr.org.cn) revealed that 218 clinical trials have been registered on the platform as of March 9. Dozens of clinical trials have also been registered on the international platform of clinical trials (https://clinicaltrials.gov/). Recently, as a key target for therapeutic intervention, the cryo-EM structure of the CoV spike protein in its trimer form has been elucidated, which may further contribute to therapeutic designs in the near future 17 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Others"
+        },
+        {
+            "text": "Currently, remdesivir appears to be the most promising drug for the treatment of pneumonia caused by COVID-19 pneumonia. Many other agents or strategies are being tested for the treatment of patients with COVID-19. However, double-blind, randomized controlled trials are required to investigate their safety and efficacy. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Novel coronavirus structure reveals targets for vaccines and treatments. National Institute of Health",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "First Case of 2019 Novel Coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "Debolt",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holshueml",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lofy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wiesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in rhesus monkeys",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Warren",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Soloveva",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Nature",
+            "volume": "531",
+            "issn": "7594",
+            "pages": "381--386",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature17180"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "Doi:10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "National Library of Medicine, ClinicalTrial.gov Identifier: NCT04252664. 6. Severe 2019-nCoV Remdesivir RCT",
+            "authors": [],
+            "year": null,
+            "venue": "ClinicalTrials.gov Identifier",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Chloroquine is a potent inhibitor of SARS coronavirus infection and spread",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bergeron",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Benjannet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virol J",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Abidol and darunavir effectively inhibit coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "Tengxun News",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "A Systematic Review of therapeutic agents for the treatment of the Middle East Respiratory Syndrome Coronavirus (MERS-CoV)",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Momattin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Al-Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Tawfiq",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Travel Med Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tmaid.2019.06.01212"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Development of new crown virus antibody therapies by Regeneron",
+            "authors": [],
+            "year": 2020,
+            "venue": "InstantDurg News",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Beijing's first new crown pneumonia monoclonal antibody treatment drug approved for clinical trials",
+            "authors": [],
+            "year": 2020,
+            "venue": "Antibody Circle",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "WHO: four new coronavirus vaccines",
+            "authors": [],
+            "year": 2020,
+            "venue": "RefNews, Februay",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Four projects have been approved for stem cell treatment of severe neocoronavirus pneumonia, and 1 has applied for emergency approval from the FDA. SD stem cells",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wrapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Corbett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Abiona",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The structure of remdesivir, a nucleoside analog with antiviral activity.Results from experiments conducted on Vero E6 cells indicate that the EC90 for SARS-COV-2 is 1.76\u03bcM 4 .KEY POINTS \u25ca The recent COVID-19 disease is due to the infection with the new coronavirus, SARS-CoV-2, causing a pandemic and necessitates the development of effective therapeutics.\u25ca Many clinical trials are initiated worldwide. Potential therapeutics, including nucleotide analogs\uff0cchloroquine phosphate\uff0cabidol\uff0clopinavir/ritonavir\uff0cplasma antibodies\uff0cvaccines, stem cells are among the most important strategies to be developed.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "DISCOVERIES is a peer-reviewed, open access, online, multidisciplinary and integrative journal, publishinghigh impact and innovative manuscriptsfrom all areas related to MEDICINE, BIOLOGY and CHEMISTRY. 2020, Applied Systems. This article is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes; (https://creativecommons.org/licenses/by/4.0/)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This work was supported by grants from HNBRJH to SZ.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ]
+}

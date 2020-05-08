@@ -1,0 +1,2768 @@
+{
+    "paper_id": "3ff6ab72e32eab43e68725fb74108b596818b657",
+    "metadata": {
+        "title": "Epidemiological and Clinical Aspects of COVID-19; a Narrative Review",
+        "authors": [
+            {
+                "first": "Goodarz",
+                "middle": [],
+                "last": "Kolifarhood",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mohammad",
+                "middle": [],
+                "last": "Aghaali",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hossein",
+                "middle": [
+                    "Mozafar"
+                ],
+                "last": "Saadati",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Niloufar",
+                "middle": [],
+                "last": "Taherpour",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sajjad",
+                "middle": [],
+                "last": "Rahimi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Neda",
+                "middle": [],
+                "last": "Izadi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Student Research Committee",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Seyed",
+                "middle": [],
+                "last": "Saeed",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hashemi",
+                "middle": [],
+                "last": "Nazari",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Prevention of Cardiovascular Disease Research Center",
+                    "institution": "Shahid Beheshti University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "There are significant misconceptions and many obstacles in the way of illuminating the epidemiological and clinical aspects of COVID-19 as a new emerging epidemic. In addition, usefulness of some evidence published in the context of the recent epidemic for decision making in clinic as well as public health is questionable. However, misinterpreting or ignoring strong evidence in clinical practice and public health probably results in less effective and somehow more harmful decisions for individuals as well as subgroups in general populations of countries in the initial stages of this epidemic. Accordingly, our narrative review appraised epidemiological and clinical aspects of the disease including genetic diversity of coronavirus genus, mode of transmission, incubation period, infectivity, pathogenicity, virulence, immunogenicity, diagnosis, surveillance, clinical case management and also successful measures for preventing its spread in some communities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Over the past few decades, a large number of people have been affected with the 3 epidemics caused by coronavirus family (SARS-2003, MERS-2012, and COVID-2019) in the world. Nevertheless, there is substantial genetic dissimilarity between pathogens of the three previous epidemics, in particular MERS with COVID-19. In the previous epidemics, initial hotspots of diseases were Middle East, Saudi Arabia (MERS) and China and animal to human, and then human to human transmissions of pathogens were reported in other countries (1, 2) . For COVID-19, as suggested by epidemiological evidence in China (at the time of writing this paper), this outbreak began from a seafood and live animal shopping center in Wuhan, Hubei Province on December 12, 2019. However, similar to two previous epidemics, the current epidemic also switched to human to human transmission immediately, and swept through most regions in China even faster than the previous pandemics (3) . Recent epidemics of viral respiratory diseases in the world have started from China (except for MERS that originated in Saudi Arabia), and there are several possible reasons for this. From an economic perspective, China has emerged as one of the leading countries in the production of various commodities, especially in the past decade, and given the enormous volume of trade, tourism and military transactions with other countries, there was no doubt that the virus would spread to other parts of the world (4). China has already acknowledged the possibility of a new virus epidemic in the future and has consequently stressed the importance of formulating a policy to improve the healthcare system and preparedness after the two previous epidemics. This country rearranged its health plan in the wake of MERS epidemic in 2012, establish a new web-based service for quick alarming in case of an emerging disease with unknown origin through common surveillance system. In the wake of conditions ensuing SARS epidemic and severe criticisms levelled by international institutions regarding delayed provision and sharing of data by China government, this country has started extensive collaborations with international institutions from the early days of the recent epidemic, and established a publicly available database of line list of cases through coordinating with Johns Hopkins University (5) . Moreover, China scaled up public health measures and quarantined many cities, bearing the grave economic consequences of this action to prevent the spread of the disease to other parts of the world. Although, China has been struggling with tough conditions in the previous month, reduction in the number of incidence cases and interruption of transmission indicate its successful measures to control the recent epidemic and highlight the importance of timely and appropriate decisions through activating human and material resources for addressing a serious global threat (6) . Number of COVID-19 cases has risen substantially in the world compared to SARS and MERS, and it would probably take longer to halve the disease cases; meaning that control measures would have to be in place for a longer period of time. WHO has announced that Coronavirus epidemic is progressively increasing in three countries, including Italy, South Korea, and Iran. The shared string that links these three countries is the pandemic of MERS in 2013, which was transmitted through close human-to-human contacts (7) . This study was carried out to review different epidemiological and clinical aspects of the new emerging disease along with specific measures by countries in the community level.",
+            "cite_spans": [
+                {
+                    "start": 525,
+                    "end": 528,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 529,
+                    "end": 531,
+                    "text": "2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 952,
+                    "end": 955,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 2350,
+                    "end": 2353,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2928,
+                    "end": 2931,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 3446,
+                    "end": 3449,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Literature search was performed in \"PubMed\", \"Web of Science\", \"Scopus\", \"ScienceDirect\" and also in \"JAMA\", \"BMJ\", \"Oxford\" and \"THE LANCET\" journals using following terms: coronavirus, COVID-19 and 2019-nCoV, to find articles published from January 5 to February 28, 2020. Moreover, we used the findings of literature retrieved via searching authoritative texts and hand searches in WHO reports. We checked the reference lists of all studies identified by the above methods. Studies were excluded if used old data, had inappropriate topics and were not pertinent to the focused purpose of the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Search methods and strategies for identification of studies"
+        },
+        {
+            "text": "In order to identify studies meeting the inclusion criteria, seven review authors screened the titles and abstracts of all retrieved records. The studies were selected independently and the results were discussed to make the final selection. After reading the full text of all potentially eligible articles, a final decision was made for each study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data collection and analysis"
+        },
+        {
+            "text": "Extraction of data was performed by the same seven review authors who conducted the study selection independently, using a structured form that contained study characteristics including genetic diversity of coronavirus genus, mode of transmission, incubation period, infectivity, pathogenicity, virulence, immunogenicity, diagnosis, surveillance, clinical case management, special measures in community level and health care facility. Any disagreement was discussed after completion of data collection process and reviewers were consulted for each topic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data extraction and management"
+        },
+        {
+            "text": "The animal reservoir of the virus has not yet been identified, but genomic of COVID-19 is so similar to bat coronavirus (98%), reinforcing the presumption that the virus was transmitted by an animal in the shopping center in Wuhan. With regard to genomic similarity, the virus differs from its predecessors, namely SARS (79%) and MERS (50%). As indicated by genetic data, CVOID-19 pathogen is classified as a member of the beta-coronavirus genus, and can bind to the angiotensinconverting enzyme 2 receptor in humans (1,2).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Genetic differences between SARS, MERS, and COVID-19 epidemics"
+        },
+        {
+            "text": "Human to human transmission via either respiratory droplets or close contacts was initially proposed as the main routes of transmission of the pathogen based on experience gained in the previous two epidemics caused by coronaviruses (MERS-CoV and SARS-CoV) (8) . According to the world Health Organization (WHO) report, 2019-nCoV is a unique virus that causes respiratory disease, which spreads via oral and nasal droplets. Moreover, the pathogen of COVID-19 can float in the air in the form of aerosols and cause infection in healthy people (9) . Evidence of a study in Singapore revealed higher loads of virus in confirmed cases of COVID-19 in early stages of the disease, which decreased dramatically over time (10) . There is a limited number of evidence on oral-fecal transmissibility of the pathogen. However, COVID-19 RNA was found in fecal specimens of 2 to 10% of confirmed patients with gastrointestinal symptoms such as diarrhea (11, 12) , so fecal-oral transmission should be taken into account as a probable route through case investigation. Incubation period (the time from infection to the onset of symptoms) for the new pathogen varies from 2 to 14 days in human to human transmission (13) . Furthermore, median incubation period was reported as 5-6 days (ranged from 0-14 days) in WHO report (14) . Studies that were conducted on those who had traveled to Wuhan and Guangdong mean incubation period of 4.8 (\u00b12.6) days was reported. In some other studies the mean incubation period was reported to be 6.4 days (15, 16) , while another study in China reported longer incubation times up to 24 days (13).",
+            "cite_spans": [
+                {
+                    "start": 257,
+                    "end": 260,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 542,
+                    "end": 545,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 714,
+                    "end": 718,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 940,
+                    "end": 944,
+                    "text": "(11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 945,
+                    "end": 948,
+                    "text": "12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1201,
+                    "end": 1205,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1309,
+                    "end": 1313,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1526,
+                    "end": 1530,
+                    "text": "(15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1531,
+                    "end": 1534,
+                    "text": "16)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Transmission and Incubation period"
+        },
+        {
+            "text": "An important question about COVID-19, which has raised much concern among health care providers, health policy makers and the general population, is the degree of transmissibility or contagiousness of the coronavirus (infectivity). In general, epidemiologists use mathematical formulas with clear and acceptable assumptions to calculate the infectivity index. For this purpose, \"basic reproduction number\" termed R0 is used, and it indicates the expected number of cases directly infected by one contagious case in a population that everyone is supposed to be susceptible. For viral pathogens in MERS and SARS epidemics, the index was approximated to be 2, indicating that each infected person could infect two people on average in an effective contact. However, for COVID-19, the calculated value in a study was slightly higher and the index value based on data calculated in Wuhan, China was 2.2 (95% CI, 1.4 to 3.9) (17) and it shows that the infectivity of COVID-19 is higher than previous epidemics originated by coronavirus (18) . In other studies, R0 has been reported with different values, the lowest of which corresponds to the WHO report of 1.95 (1.4-2.5) (19) and the highest value is 6.47 (95% CI 5.71-7.23) (20) . A review study estimated an average R0 for COVID-19 of 3.28 with a median of 2.79 and an IQR of 1.16 (21) . As an explanation for variety of the calculated indices is that different calculation methods were used and calculations were done at different times of epidemics. As previously noted, certain assumptions have been made in calculation of this index. Initial reports on a family in one of the provinces of China show that all six-members of a family, aged 10-66 years were infected within a short period after one member returned from Wuhan (8) . As a conclusion, this index is changing over time, and its reduction may reflect effectiveness of preventive measures, so that reaching a value less than one (less than one new case per effective contact with an infected person and transmission) implies that the epidemic is controlled in the community (6).",
+            "cite_spans": [
+                {
+                    "start": 1030,
+                    "end": 1034,
+                    "text": "(18)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1167,
+                    "end": 1171,
+                    "text": "(19)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1221,
+                    "end": 1225,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1329,
+                    "end": 1333,
+                    "text": "(21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1776,
+                    "end": 1779,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Infectivity"
+        },
+        {
+            "text": "An important concern in the recent pandemic is the capability of the pathogen to establish and induce infection with different clinical manifestations in human. According to WHO report, about 82 percent of COVID-19 patients have mild symptoms and were recovered immediately. As of 20 February, there were 18264 (24%) recovered cases in China and recovery and mortality rates of the disease among severe cases in Guangdong were 26.4% and 13.4%, respectively. Median time for onset of symptoms to recovery in mild and severe cases was 2 and 3-6 weeks, respectively. Furthermore, time interval between onset and developing severe symptoms such as hypoxia was one week (22) . In case studies that were conducted outside of mainland China, time of onset of symptom(s) to recovery was 22.2 days (95% confidence interval 18-83). Moreover, average time of onset of symptom(s) to death varies from 20.2 (95% confidence interval 15.1-29.9) to 22.3 days (95% confidence interval 18-82) (23, 24) . Results of a case-series study on six infants (45-days to one-year) infected with COVID-19 in China indicated mild symptoms of the disease in this age group with no need for further intensive care (25) . According to WHO report, COVID-19 disease among children seems to be rare with mild symptoms, about 2.4% of total cases were reported in children and adolescents (aged under 19 years), while older cases aged over 60 years and those with a background of chronic diseases were at higher risk of developing severe disease and death (22) . Even though age is an important deterministic factor for severity of symptoms, other risk factors such as having a history of underlying diseases and/or co-infection with other infections like Influenza virus and Klebsiella may accelerate the progress of symptoms and lead to poor prognosis of the disease (26) . However, findings from a study in Singapore shows that infected patients with no history of underlying diseases may also develop severe disease and need for intensive care (4).",
+            "cite_spans": [
+                {
+                    "start": 665,
+                    "end": 669,
+                    "text": "(22)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 975,
+                    "end": 979,
+                    "text": "(23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 980,
+                    "end": 983,
+                    "text": "24)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1183,
+                    "end": 1187,
+                    "text": "(25)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1519,
+                    "end": 1523,
+                    "text": "(22)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1832,
+                    "end": 1836,
+                    "text": "(26)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathogenicity"
+        },
+        {
+            "text": "The virulence of a disease is usually measured on the basis of indicators such as mortality rate and disability. Compared with the previous two epidemics (SARS and MERS), the case fatality rate was lower and approximately 2% in COVID-19, and only less than 15% of patients would seek hospital services. However, the case fatality rate of SARS and MERS was 10% and 34%, respectively (18) . Results of a study in China revealed the overall case fatality rate of 2.3% for COVID-19 (27) and some studies reported case fatality rate of 0.9% in Beijing (28) . In another study, Jung and colleagues reported a confirmed case fatality risk of 5.3% to 8.4% for COVID-19 (23) . However, due to the rapid spread of COVID-19, there is a higher number of death cases in the recent pandemic (N=3043, up to 02 March 2020) compared to SARS and MERS (N=1871) (29) . There is a poor prognosis for the disease in middle and older aged patients (28) . In a study on 44672 confirmed cases in China, case fatality rate was highest in the group of over 80 years (14.77%), followed by the age group between 70 to 80 years (7.96%) and no mortality was reported in age group below 10 years (30) . Even though death outcome is uncommon in young people, a few deaths are reported in this age group in China and Iran. Availability of and access to healthcare facilities has likely contributed to increase in death outcome. As a probable explanation for the difference between fatality rate in Wuhan (3%) and other provinces (0.7%) in China, death rates are likely affected by shortage in health resources due to increasing number of patient who had sought diagnosis and treatment services in the early phase of the epidemic in Wuhan (31).",
+            "cite_spans": [
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "(18)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 478,
+                    "end": 482,
+                    "text": "(27)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 547,
+                    "end": 551,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 661,
+                    "end": 665,
+                    "text": "(23)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 842,
+                    "end": 846,
+                    "text": "(29)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 925,
+                    "end": 929,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1164,
+                    "end": 1168,
+                    "text": "(30)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virulence"
+        },
+        {
+            "text": "Exploring and understanding the immunogenicity of COVID-19 is essential for developing the most effective treatment regimens and vaccine. However, evidence on immunogenicity of COVID-19 is limited. Study on B-cell and T-cells epitopes revealed that SARS-CoV and the virus causing COVID-19 had identical proteins (32) . A few clinical trials have evaluated the efficacy of new vaccines in MERS-CoV and SARS-CoV. Results of these studies in Phase-1 showed some degree of efficacy and one of these studies has been certified to begin Phase-2 (33, 34) . Absence of clinical symptoms, respiratory lesions in CT scan and two negative RT-PCR tests in two consecutive days are introduced as criteria of discharge from hospital or quarantine center in China (35) . However, recent studies reported several cases of COVID-19 with clinical manifestations of the disease along with a positive test after discharging from hospital (36, 37) . False positive and false negative results have been reported in RT-PCR test (10, 38) ; hence, hospitals in China have considered additional antibody test (negative IgM and positive IgG results) as a recovery criteria and discharge requirement (39) . In conclusion, recurrence of COVID-19 in recovered cases highlights the necessity for development of a more effective vaccine.",
+            "cite_spans": [
+                {
+                    "start": 312,
+                    "end": 316,
+                    "text": "(32)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 539,
+                    "end": 543,
+                    "text": "(33,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 544,
+                    "end": 547,
+                    "text": "34)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 749,
+                    "end": 753,
+                    "text": "(35)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 918,
+                    "end": 922,
+                    "text": "(36,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 923,
+                    "end": 926,
+                    "text": "37)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 1005,
+                    "end": 1009,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1010,
+                    "end": 1013,
+                    "text": "38)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1172,
+                    "end": 1176,
+                    "text": "(39)",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Immunogenicity"
+        },
+        {
+            "text": "Pathogen of COVID-19 has been detected in upper and lower respiratory tracts in initial assessments. Moreover, viral RNA has been detected in fecal and blood samples in later studies. According to WHO guideline, laboratory diagnosis of COVID-19 is based on a positive RT-PCR test. Target gene for diagnosis may be different by country. Accordingly, target genes for screening and confirmatory assays by RT-PCR are ORF1ab and N in Chinese laboratory protocol, while RdRP, E and N are checked in Germany. Furthermore, three targets in N gene are considered in the US protocol (40) . RT-PCR is an expensive test and no access to diagnostic facility during COVID-19 pandemic advocates conducting new researches on other diagnostic approaches such as Chest CT. However, results of recent studies in China demonstrate low specificity for this diagnostic approach (41) . As a critical point in diagnostic studies, accuracy of a new test is compared to the gold standard. This comparison resulted in lower values of diagnostic accuracy for the new test. On the other hand, the sensitivity and specificity of a test depend on the severity of cases, which may vary between different populations according to their type of surveillance system (42) . In the mentioned study that compared CT scan with RT-PCR as a gold standard, sensitivity of CT scan was appropriate (41) . However, the study population consisted of suspected cases and generalizability of the findings is questionable (43) . Furthermore, the large number of hospitalized cases due to false positive results by CT scan may increase the risk of transmission to healthy people. On the other hand, RT-PCR test may be subject to some limitations, especially in the earlier phase of an epidemic, as the specialists should be trained for running related procedures and interpretation of results. Moreover, false negative results due to either low quality of specimen in use or inadequate number of organisms in the samples are introduced as main challenges (44) . Results of a recent study on rapid IgM-IgG combined test revealed some limitation for RT-PCR test as a standard diagnostic method for COVID-19. The following limitations were indicated for RT-PCR test: long turnaround times, complex operation, and need for quality controlled laboratories, expensive equipment and trained specialists (38).",
+            "cite_spans": [
+                {
+                    "start": 574,
+                    "end": 578,
+                    "text": "(40)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 857,
+                    "end": 861,
+                    "text": "(41)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1232,
+                    "end": 1236,
+                    "text": "(42)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1355,
+                    "end": 1359,
+                    "text": "(41)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1474,
+                    "end": 1478,
+                    "text": "(43)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 2006,
+                    "end": 2010,
+                    "text": "(44)",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnosis"
+        },
+        {
+            "text": "The outbreak surveillance is the anticipation, early warning, prompt detection and response to unusual increase in the number of cases. Establishing a surveillance system for a new epidemic is believed to be a core intervention in controlling the disease (45). Surveillance system data provides reliable information for epidemiologists to identify weak chains of transmission and facilitates evidence-based decisions by policymakers both inside and outside the healthcare service. Moreover, updating and sharing interpretations of data with media, especially in earlier phase of an epidemic, will aid community engagement and participation in control activities and prevention of spreading rumors. Although, it may be too soon to compare the effectiveness of surveillance systems for COVID-19 epidemic in different countries, it seems that the Chinese surveillance system is highly effective as it ensures timely detection, recording, tracking, updating and sharing information on media for an outbreak with unknown origin and high burden of cases (4) . In a large number of countries, the initial focus of the surveillance system for CIVID-19 is examination of all suspected cases with symptoms of the disease (mostly fever) and all people with a travel history to China or visiting Chinese travelers or citizens it the previous two weeks. However, this type of screening program mainly relies on fever cases and those with direct flights from China, so it misses pre-symptomatic cases as well as infected travelers who are arriving from regions with high burden of disease via indirect flights, which could be a source of infection in COVID-19-free countries (46) . In a communicable disease outbreak, essential data are usually collected in parallel from different available information sources in the country including data of weekly outpatient visits to health care centers and hospital referrals with a chief complaint of fever, data of weekly inpatient fever cases and deaths with unknown origin (45). Furthermore, increase in the number of cases and deaths due to pneumonia may raise an alarm in COVID-19 free areas. A prerequisite for establishing a surveillance system is to provide basic laboratory facilities, particularly at \"point of care\" (10). This system should be constantly monitored and evaluated using sensitive indicators to ensure the quality of case detection, diagnosis and management. Detection of primary confirmed cases with poor prognosis in early phase of the epidemic without any link to confirmed cases from other regions emphasis on the insensitivity of a national and local surveillance systems and low performance of control activities against the disease in community level. In this case, it should be immediately addressed and capability and capacity of the surveillance system should be checked.",
+            "cite_spans": [
+                {
+                    "start": 1048,
+                    "end": 1051,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1661,
+                    "end": 1665,
+                    "text": "(46)",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Surveillance"
+        },
+        {
+            "text": "National authorities are actively looking for cases in all provinces of China and efforts for finding additional cases inside and outside of Wuhan City have been expanded. Moreover, active and reactive case detection along with tracing close contacts have been started in medical institutions. The Department of Disease Control in Thailand scaled up the Emergency Operations Center to Level 3 to closely monitor the ongoing situation in both national and international levels. This country has started a screening program to check for fever in all travelers who arrived from Wuhan through direct flights in airports. Japan's Ministry of Health requested local health governments to be aware of the respiratory illnesses in Wuhan using the existing surveillance system for serious infectious illnesses with unknown etiology. It has strengthened surveillance for undiagnosed severe acute respiratory illnesses. Quarantine and screening measures have been intensified for travelers from Wuhan at the points of entry. Furthermore, National Institute of Infectious Disease (NIID) established an in-house PCR assay for COVID-19. Contact tracing and other epidemiological investigation are ongoing in the Republic of Korea to prevent the spread of the disease. The government has scaled up the national alert level from Blue (Level 1) to Yellow (Level 2 of the 4-level national crisis management system). Surveillance of pneumonia cases has been strengthened in health facilities nationwide and quarantine and screening measures have been enhanced for travelers from Wuhan at the points of entry. The US centers for disease control and prevention (CDC) activated its Emergency Response System to provide ongoing support against COVID-19. Screening of passengers on direct and indirect flights from Wuhan China to the 3 main ports of entry in the United States has begun and will expand to Atlanta and Chicago in the coming days. CDC deployed a team to support ongoing investigation in the state of Washington and tracing close contacts following the first reported case of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Examples of surveillance systems in different countries (47)"
+        },
+        {
+            "text": "Diagnosis of COVID-19 based on clinical manifestations is complicated and initial symptoms of the disease are usually nonspecific. A large number of patients present to clinics and health centers with mild common cold symptoms such as dry cough, sore throat, low-grade fever or body aches. Patients usually go to the emergency departments if the symptoms of the clinical manifestations worsen after a few days. Because of the wide spectrum of clinical symptoms, research on biomarkers and clinical criteria predicting prognosis is of high priority to enable differentiating cases that require further interventions in the early phase of the disease (10) . No approved drug regimen has been introduced to treat infected cases so far, antiviral treatments are used to alleviate the disease symptoms. Studies on Remedesevir, as an antiviral agent, revealed its in vitro activity against the COVID-19 virus and its safety was proven in Ebola trials. Another proposed treatment is Chloroquine, an old drug for treatment of malaria, with apparent effectiveness and acceptable safety against COVID-19 associated pneumonia (48, 49) . Evaluating the efficacy of anti-influenza drugs such as Umifenovir and Oseltamivir against COVID-19 virus is interesting but lacks any biological plausibility. Using monoclonal antibodies has been suggested as an attractive choice among inactive prophylactic methods; however, its effectiveness has not been proven in other viral respiratory diseases and influenza, yet (50, 51) . Steroids and methylprednisolone seem to be widely used in the recent pandemic. However, in case of MERS, it has been shown that the drug prolongs the presence of the virus and WHO does not recommend its use for COVID-19, except for patients with acute respiratory distress syn-drome (ARDS) (52, 53) . The effectiveness of other medicines and regimens such as Chloroquine, Vitamin C, and Chinese medicine, as well as Lopinavir/Ritonavir combination therapy and Remedesevir are being evaluated in China. Even though randomized clinical trials are important for improving prognosis and interrupting transmission of disease, researchers and healthcare providers should concentrate on alleviation of the disease among subgroups of patients and in different phases of the disease (54) . In addition, since the emerging virus has become a serious global concern, there is a need for rapid development of a vaccine. There are a few vaccine candidates developed in response to outbreak. However, an effective anti-viral medication or a vaccine that has been evaluated for safety and efficacy against COVID-19 is not available yet, and most vaccines are still in the preclinical testing stage (55, 56, 57) .",
+            "cite_spans": [
+                {
+                    "start": 649,
+                    "end": 653,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1115,
+                    "end": 1119,
+                    "text": "(48,",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1120,
+                    "end": 1123,
+                    "text": "49)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 1496,
+                    "end": 1500,
+                    "text": "(50,",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 1501,
+                    "end": 1504,
+                    "text": "51)",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 1797,
+                    "end": 1801,
+                    "text": "(52,",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 1802,
+                    "end": 1805,
+                    "text": "53)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 2281,
+                    "end": 2285,
+                    "text": "(54)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 2690,
+                    "end": 2694,
+                    "text": "(55,",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 2695,
+                    "end": 2698,
+                    "text": "56,",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 2699,
+                    "end": 2702,
+                    "text": "57)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Case Management"
+        },
+        {
+            "text": "So after the rise of an emerging disease, goverments have a special responsibility to balance between civil liberties and special measures for protecting susceptible populations (46) . However, three components of \"scientific\", \"voluntary\" and civil liberty should be considered as guiding principles for decision-making and operating each special protective measure at the community level. Through their experiences in previous communicable disease epidemics, US public health authorities found that enhanced screening programs, monitoring healthy people and quarantine at the community level were not effective measures against progressive spreading of disease. Therefore, specific regulations and waivers were declared to prevent traveling to mainland china and flights to and from China were temporarily suspended. Passengers and US citizens with a history of traveling to China during the previous month were encouraged to stay home and self-quarantine for up to 14 days. However, these interventions and recommendations were deemed insufficint, so public health experts warned about expanding transmission throughout the country in the coming weeks as a consequence of population movements and large scale spread of the disease all over the world (46, 58) . Even though children are important sources of influenza virus transmission in the community, initial data analysis on COVID-19 indicated that children were mainly infected from adults rather than the other way around. However, clinical attack rates are low in children and teenagers (0-19) (59), so this age-group may contribute to continuous transmission in the communty. Therefore, countries with high prevalnece of the disease, such as China, Iran, Italy, South korea and Japan, closed or postponed the start of school and extended holidays. Other special measures considered for control of the pandemic at community level include: cancellin mass gatherings, religious services, tourism, cultural and sport events, concerts and other events. In the mentioned countries, healthcare authorities issued travel ban to and from affected areas and allowed non-essential personnel and employees to work from home.",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "(46)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1253,
+                    "end": 1257,
+                    "text": "(46,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1258,
+                    "end": 1261,
+                    "text": "58)",
+                    "ref_id": "BIBREF59"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Special intervention in community level"
+        },
+        {
+            "text": "Healthcare authorities are responsible for predicting and supplying the essential protective equipment for general population as well as healthcare providers. By ensuring their availability through effective supply chain management, they gain public trust. They also have to plan for deploying healthcare perssonel from less affected areas to epidemic regions (10) . With this method, a large number of medical staff and nurses were voluntarily deployed to Wuhan, China (60). According to primary reports from China and Singapre, working with protective equipment for a long time is cumbersome for healthcare providers and they are under tremendous stress due to probability of being infection and transmitting the disease to their families through close contact (57) . The high rates of hospital infection in the recent pandemic emphasizes the importance of regular examination for symptoms among healthcare providers who are in close contact with confirmed patients in order to isolate them in case of positive laboratory test.",
+            "cite_spans": [
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 763,
+                    "end": 767,
+                    "text": "(57)",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Special interventions for healthcare providers"
+        },
+        {
+            "text": "COVID-19 pandemic is a major international test for the medical community, revealing weaknesses in management of emerging viral diseases and reminding us that communicable diseases must never be underestimated or dealt with using insufficient resources. The present situation also enables governments to evaluate their capabilities and capacities to organize human and material resources, share and analyze data in a timely manner and cooperate with media, journalists and local communities to implement control activities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "We would like to thank the Vice-Chancellor in research affairs of Shahid-Beheshti University of Medical Sciences for technically supporting this study. Ethical approval was granted by the Iran National Committee for ethics in Biomedical Research, Tehran, Iran (IR.SBMU.RETECH.REC.1398.874).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Kolifarhood participated in designing the project and literature review, Aghaali, Mozafar-Saadati, Taherpour, Rahimi and Izadi wrote the manuscript and participated in literature review and Hashemi was the supervisor of the study and checked the quality of the study. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors Contributions"
+        },
+        {
+            "text": "Goodarz Kolifarhood: 0000-0002-8164-6633 Mohammad Aghaali: 0000-0003-3417-1580 Hossein Mozafar Saadati: 0000-0002-5992-3710 Niloufar Taherpour: 0000-0002-8336-0671 Sajjad Rahimi: 0000-0002-2359-0037 Neda Izadi: 0000-0002-6373-1113 Saeed Hashemi: 0000-0002-0883-3408",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors ORCIDs"
+        },
+        {
+            "text": "This project was supported with grant number of 22876 by Deputy for Research Affairs, Shahid Beheshti University of Medical Sciences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding Support"
+        },
+        {
+            "text": "The authors declare that they have no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--74",
+            "other_ids": {
+                "PMID": [
+                    "32007145"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32011673"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Another Decade, Another Coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "382",
+            "issn": "8",
+            "pages": "760--762",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The Novel Coronavirus Originating in Wuhan, China: Challenges for Global Health Governance",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Phelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Gostin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "31999307"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time. The Lancet Infectious diseases",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32087114"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Response to the emerging novel coronavirus outbreak",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kickbusch",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m406"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "An updated roadmap for MERS-CoV research and product development: focus on diagnostics",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kelly-Cirino",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mazzola",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Oxenford",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Van Kerkhove",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMJ global health",
+            "volume": "4",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tsoi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--537",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "WHO Director-General's opening remarks at the media briefing on COVID-19 -3",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "COVID-19 in Singapore-Current Experience: Critical Global Issues That Require Attention and Action",
+            "authors": [
+                {
+                    "first": "Jel",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Leo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32077901"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "2019 novel coronavirus infection and gastrointestinal tract",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32096611"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Water, sanitation, hygiene and waste management for COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Presumed Asymptomatic Carrier Transmission of COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32083643"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "COVID-19) Situation Report -30",
+            "authors": [],
+            "year": 2020,
+            "venue": "Coronavirus disease 2019",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Backer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wallinga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "20--28",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Transmission dynamics of 2019 novel coronavirus (2019-nCoV)",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "bioRxiv",
+            "volume": "919787",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "from:10.1101/2020.01.25.919787"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "382",
+            "issn": "13",
+            "pages": "1199--207",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Preparation for Possible Sustained Transmission of 2019 Novel Coronavirus: Lessons From Previous Epidemics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Swerdlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "323",
+            "issn": "12",
+            "pages": "1129--1159",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV) 2020",
+            "authors": [],
+            "year": 2005,
+            "venue": "WHO. Statement on the meeting of the International Health Regulations",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Estimation of the Transmission Risk of the 2019-nCoV and Its Implication for Public Health Interventions",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bragazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Clinical Medicine",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rocklov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of travel medicine",
+            "volume": "27",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32052846"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) .2020 . Available at",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jung S-M",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Akhmetzhanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Linton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Clinical Medicine",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/jcm9020523"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Report 4: severity of 2019-novel coronavirus (nCoV)",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Okell",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cori",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bhatia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Novel Coronavirus Infection in Hospitalized Infants Under 1 Year of Age in China",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Coronaviruses in animals and humans",
+            "authors": [
+                {
+                    "first": "F P",
+                    "middle": [],
+                    "last": "Lisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Julian",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hiscox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m634"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Characteristics of COVID-19 infection in Beijing. The Journal of infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "80",
+            "issn": "",
+            "pages": "401--407",
+            "other_ids": {
+                "PMID": [
+                    "32112886"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Coronavirus: covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mahase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi",
+            "authors": [
+                {
+                    "first": "Cpere",
+                    "middle": [],
+                    "last": "Novel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "41",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Potential association between COVID-19 mortality and healthcare resource availability. The Lancet Global health",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Peppelenbosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32109372"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Preliminary identification of potential vaccine targets for the COVID-19 coronavirus (SARS-CoV-2) based on SARS-CoV immunological studies",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Quadeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mckay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Viruses",
+            "volume": "12",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Safety and immunogenicity of an anti-Middle East respiratory syndrome coronavirus DNA vaccine: a phase 1, open-label, singlearm, dose-escalation trial. The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Modjarrad",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mills",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Castellano",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Paolino",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Muthumani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "19",
+            "issn": "",
+            "pages": "1013--1035",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Recent Advances in the Vaccine Development Against Middle East Respiratory Syndrome-Coronavirus. Frontiers in microbiology",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yeap",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Positive RT-PCR Test Results in Patients Recovered From COVID-19",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32105304"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Persistence and clearance of viral RNA in 2019 novel coronavirus disease rehabilitation patients. Chinese medical journal",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32118639"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Cause analysis and treatment strategies of \"recurrence",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "43",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.cn112147-20200229-00219"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Development and Clinical Application of A Rapid IgM-IgG Combined Antibody Test for SARS-CoV-2 Infection Diagnosis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of medical virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32104917"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "COVID-19 Hospital Adds Antibody Tests as Discharge Requirement 2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Tone S",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Laboratory testing of 2019 novel coronavirus ( 2019-nCoV) in suspected human cases: interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "WHO/COVID19/laboratory/2020.4. World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Correlation of Chest CT and RTPCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Variation of a test's sensitivity and specificity with disease prevalence",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leeflang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Rutjes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reitsma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hooft",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bossuyt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Cmaj",
+            "volume": "185",
+            "issn": "11",
+            "pages": "537--581",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Restricted sample variance reduces generalizability",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lakes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Psychological assessment",
+            "volume": "25",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "US: Department of Health and Human Services, Public Health Service, Centers",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chosewood",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "45",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "US Emergency Legal Responses to Novel Coronavirus: Balancing Public Health and Civil Liberties",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Gostin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hodge",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jr",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "323",
+            "issn": "12",
+            "pages": "1131--1133",
+            "other_ids": {
+                "PMID": [
+                    "32207808"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies. Bioscience trends",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "14",
+            "issn": "",
+            "pages": "72--75",
+            "other_ids": {
+                "PMID": [
+                    "32074550"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cell research",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Polyclonal and monoclonal antibodies for the treatment of influenza. Current opinion in infectious diseases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Beigel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "31",
+            "issn": "",
+            "pages": "527--561",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Monoclonal antibody treatment of RSV bronchiolitis in young infants: a randomized trial",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Alansari",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Toaimah",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Almatar",
+                    "suffix": ""
+                },
+                {
+                    "first": "El",
+                    "middle": [],
+                    "last": "Tatawy",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Davidson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Qusad",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mim",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Pediatrics",
+            "volume": "143",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Novel coronavirus: where we are and what we know",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Infection",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected: interim guidance",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Covid-19: a puzzle with many missing pieces",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "BMJ",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Emergence of Novel Coronavirus 2019-nCoV: Need for Rapid Vaccine and Biologics Development",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shanmugaraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Malla",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Phoolcharoen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pathogens",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Iyh",
+                    "middle": [],
+                    "last": "Ang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shx",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ji-P",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Review. Journal of Clinical Medicine",
+            "volume": "9",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The SARS-CoV-2 Vaccine Pipeline: an Overview",
+            "authors": [
+                {
+                    "first": "W-H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Strych",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hotez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bottazzi",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Current Tropical Medicine Reports",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--4",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Public Health Emergency Preparedness: Globalizing Risk, Localizing Threats",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gostin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Jama",
+            "volume": "320",
+            "issn": "17",
+            "pages": "1743--1747",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "WHO. Coronavirus disease 2019 (COVID-19) Situation Report-46. Available at",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Chinese medical staff request international medical assistance in fighting against COVID-19. The Lancet Global health",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "PMID": [
+                    "32105614"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

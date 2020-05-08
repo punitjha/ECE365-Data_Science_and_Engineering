@@ -1,0 +1,974 @@
+{
+    "paper_id": "ffb80089bf413c89d1972ba44a38105139b34f24",
+    "metadata": {
+        "title": "Why tocilizumab could be an effective treatment for severe COVID-19?",
+        "authors": [
+            {
+                "first": "Binqing",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiaoling",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Haiming",
+                "middle": [],
+                "last": "Wei",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "A severe pneumonia-associated respiratory syndrome caused by a new coronavirus was identified in December 2019 , spread rapidly and has become a world-wide public health challenge. About 25% of COVID-19 patients experienced severe complications including acute respiratory distress syndrome (ARDS), and even progressed into an intensive care unit (ICU) admission and died. The exploration for the mortality causes and advancing novel therapeutic development of severe COVID-19 is crucial at the moment. The biopsy samples analysis at autopsy suggested that increased alveolar exudate caused by aberrant host immune response and inflammatory cytokine storm probably impedes alveolar gas exchange and contributes to the high mortality of severe COVID-19 patients. Our research has identified that pathogenic T cells and inflammatory monocytes incite inflammatory storm with large amount of interleukin 6, therefore monoclonal antibody that targets the IL-6 pathways may potentially curb inflammatory storm. Moreover, Tocilizumab treatment that blocking IL-6 receptors showed inspiring clinical results including temperature returned to normal quickly and respiratory function improved. Therefore, we suggest that Tocilizumab is an effective treatment in severe patients of COVID-19 to calm the inflammatory storm and reduce mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In the past decades, two known pathogenic human coronaviruses, severe acute respiratory syndrome CoV (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV), have been reported to damage the respiratory tract and cause high morbidity and mortality [1] . Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a newly discovered coronavirus, was reported at December 2019 (2019-nCoV) in the city Wuhan, Hubei province, China [2] . Up to 21th of March 2020, 81,416 cases have been reported with 3261 fatal cases according to the Chinese Center for Disease Control and Prevention (CDC). Meanwhile, 190,000 cases have been reported with 7992 fatal cases in other countries except China. In Italy, to date there are about 47.021 infected and 4.032 deaths [3] . A global outbreak of the SARS-CoV-2 caused Corona Virus Disease (COVID-19) seems inevitable. Among these COVID-19 patients, most of them have the common symptoms including fever, cough, and myalgia or fatigue at onset. The majority of patients can recover, however, about 25% of patients will progress into severe complications including acute respiratory distress syndrome (ARDS), which may worsen rapidly into respiratory failure, need an intensive care unit (ICU) and even cause multiple organ failure [4, 5] . Therefore, the exploration for the mortality causes and advancing novel therapeutic development of severe COVID-19 is crucially important at the moment.",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 258,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 440,
+                    "end": 443,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 766,
+                    "end": 769,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1277,
+                    "end": 1280,
+                    "text": "[4,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1281,
+                    "end": 1283,
+                    "text": "5]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Although virus-induced cytopathic effects and viral evasion of host immune responses are believed to be important in disease severity, studies from humans who died",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What is the crucial cause for mortality in COVID-19?"
+        },
+        {
+            "text": "Journal of Translational Medicine of SARS and MERS suggested that an aberrant host immune response resulting in an inflammatory cytokine storm and lethal disease [1] . Similar to the inflammatory cytokines in SARS and MERS, patients with COVID-19 also have increased plasma concentrations of inflammatory cytokines, such as tumour necrosis factor \u03b1 (TNF\u03b1),interleukins (IL) 2, 7, and 10, granulocyte-colony stimulating factor (G-CSF), monocyte chemoattractant protein 1, macrophage inflammatory protein 1 alpha, and interferon-\u03b3-inducible protein 10, especially in ICU patients, which implied a cytokine storm occurred [4] . Moreover, COVID-19 patients have decreased lymphocytes in peripheral blood and characteristic pulmonary ground glass changes on imaging [4, 5] . Most importantly, in the biopsy samples at autopsy from patients who died from COVID-19, histological examination showed bilateral diffuse alveolar damage including edema, proteinaceous exudate, focal reactive hyperplasia of pneumocytes with patchy inflammatory cellular infiltration, and multinucleated giant cells [6, 7] . It also has been recovered from autopsy examination that Type II alveolar epithelial cells proliferate markedly, with some cells exfoliated. The alveolar septum is hyperemic, edematous, with clear intravascular thrombosis. Focal monocytes, lymphocytes and plasma cells are infiltrating into pulmonary interstitium. Immunohistochemistry results showed positive for immunity cells including CD3, CD4, CD8, CD20, CD79a, CD5, CD38 and CD68 [8] . These phenomena further suggest severe pulmonary inflammatory immune cells exist in SARS-CoV-2 infection. Therefore, increased alveolar exudate caused by aberrant host immune response and inflammatory cytokine storm probably impedes alveolar gas exchange and contributes to the high mortality of severe COVID-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 619,
+                    "end": 622,
+                    "text": "[4]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "[4,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 765,
+                    "end": 767,
+                    "text": "5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1086,
+                    "end": 1089,
+                    "text": "[6,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1090,
+                    "end": 1092,
+                    "text": "7]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1531,
+                    "end": 1534,
+                    "text": "[8]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Open Access"
+        },
+        {
+            "text": "Inflammatory storm refers to an excessive inflammatory response flaring out of control and the immune system gone awry. To identify which kind of immune cells are involved in and which inflammatory cytokine is the critical target in these severe COVID-19 patients, we analyzed peripheral blood samples from patients with severe or critical COVID-19 from The First Affiliated Hospital of University of Science and Technology of China and observed monocytes and T cells from severe or critical COVID-19 patients decreased significantly compared to normal controls. These aberrant pathogenic T cells from critical ICU care COVID-19 patients showed activated characteristic accompanied with co-expressing IFN-\u03b3 and GM-CSF. This phenomenon aroused our alarm, for GM-CSF has the capability to control diverse pathogenic capabilities of inflammatory myeloid cells, especially monocytes [9] . As expected, inflammatory monocyte with CD14 + CD16 + phenotype exists in peripheral blood of COVID-19 patients and has larger population in critical COVID-19 patients from ICU. Note that without any re-stimulation with PMA or incubation with monensin, large amount of IL-6 could be tested from these inflammatory monocytes especially in ICU patients. Therefore, these pathogenic Th1 cells (GM-CSF + IFN-\u03b3 + ) and inflammatory monocytes (CD14 + CD16 + with high expression of IL-6) exist especially in critical ICU COVID-19 patients [10] . Given that large amount of mononuclear inflammatory lymphocytes have been observed in the biopsy samples at autopsy from COVID-19 patients, we believe that these pathogenic T cells and inflammatory monocytes may enter the pulmonary circulation in large numbers and incite inflammatory storm in severe or critical COVID-19 patients (Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 879,
+                    "end": 882,
+                    "text": "[9]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1418,
+                    "end": 1422,
+                    "text": "[10]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1756,
+                    "end": 1763,
+                    "text": "(Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "IL-6 is a potential blocking target to calm inflammatory storm"
+        },
+        {
+            "text": "Tocilizumab is the first marketed IL-6 blocking antibody through targeting IL-6 receptors and has proved its safety and effectiveness in therapy for rheumatoid arthritis (Fig. 2) . In order to verify whether targeted IL-6, may potentially be the effective and safe way to reduce mortality of COVID-19, 21 patients diagnosed as severe or critical COVID-19 from The First Affiliated Hospital of University of Science and Technology of China and Anhui Fuyang Second People's Hospital were recruited and given tocilizumab therapy (Table 1) . Patients received standard treatment according to the Diagnosis and Treatment Protocol for COVID-19 (7 th edition), including lopinavir, methylprednisolone, other symptom relievers and oxygen therapy. The results of tocilizumab treatment are inspiring. The temperature of all the patients returned to normal very quickly. The respiratory function and all other symptoms improved remarkably. Among these 21 patients, 20 patients have been recovered and discharged within 2 weeks after the tocilizumab therapy. One left patient is recovering and out of ICU care. No adverse drug reactions were reported during the treatment with tocilizumab [11] . With these promising preliminary clinical results, we further launched the multicenter, large-scale clinical trials (ChiCTR2000029765) and have already about 500 severe or critical patients treated this way.",
+            "cite_spans": [
+                {
+                    "start": 1177,
+                    "end": 1181,
+                    "text": "[11]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 170,
+                    "end": 178,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 526,
+                    "end": 535,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Tocilizumab treatment is effective to reduce the mortality of severe COVID-19"
+        },
+        {
+            "text": "The immunotherapy strategy about Tocilizumab treatment has been formally included in the diagnosis and treatment program of COVID-19 (7th edition) of the national health commission of China since 3th March 2020 as following: Tocilizumab can be used in patients with extensive bilateral lung lesions opacity or in severe or critical patients, who have elevated laboratory detected IL-6 levels. The first dose is 4-8 mg/ kg (the recommended dose is 400 mg, diluted to 100 ml with 0.9% normal saline, and the infusion time is more than 1 h). For patients with poor initial efficacy, an additional application can be made after 12 h (the dose is the same as before). The maximum number of times of administration is two, and the maximum dose of a single dose should not exceed 800 mg. Note that patients with allergic reactions, such as tuberculosis and other active infection are contraindicated. We suggest that IL-6 concentrations can be detected if fever persists for more than 3 days. By chemiluminescence detection, if serum IL-6 content is over 20 pg/ml, Tocilizumab can be used. The IL-6 will be temporarily increased in serum in the next few days, for its receptors have been blocked by Tocilizumab. Together, Tocilizumab treatment is recommended to reduce the mortality of severe COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Tocilizumab treatment is effective to reduce the mortality of severe COVID-19"
+        },
+        {
+            "text": "All three coronaviruses, including SARS-CoV, MERS-CoV and SARS-CoV-2, induce aberrant non-effective host immune responses that are associated with severe lung pathology. The new SARS-CoV-2 additionally causes serious alveolar mucus infiltration and multiple organ failure. As the SARS-CoV-2 continues to spread, the numbers of fatal cases rise exponentially in many countries, advancing novel therapeutic development becomes crucial to minimize the number of deaths from COVID-19. In the absence of specific antiviral drugs, existing host-directed therapies could potentially be repurposed to treat COVID-19. China's plan of Tocilizumab treatment has shown its remarkable effectiveness and safety in clinical practice over the past 2 months, hoping it will benefit other countries fighting the pandemic and reduce the mortality of severe COVID-19 as well. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Ready to submit your research ? Choose BMC and benefit from:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Learn more biomedcentral.com/submissions"
+        },
+        {
+            "text": "Received: 16 March 2020 Accepted: 9 April 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Learn more biomedcentral.com/submissions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Channappanavar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Semin Immunopathol",
+            "volume": "39",
+            "issn": "",
+            "pages": "529--568",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A novel coronavirus outbreak of global health concern",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "470--473",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical characteristics of 138 hospitalized patients With 2019 novel coronavirus-infected pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Pulmonary pathology of early phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao",
+                    "middle": [],
+                    "last": "Sy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Thorac Oncol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtho.2020.02.010"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pathological findings of COVID-19 associated with acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "8",
+            "issn": "4",
+            "pages": "420--422",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical pathology of critical patient with novel coronavirus pneumonia (COVID-19)",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Preprints",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The cytokine GM-CSF drives the inflammatory signature of CCR2 + monocytes and licenses autoimmunity",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Croxford",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lanzinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schreiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mair",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pelczar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Clausen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Greter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Becher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Immunity",
+            "volume": "43",
+            "issn": "",
+            "pages": "502--516",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Pathogenic T cells and inflammatory monocytes incite inflammatory storm in severe COVID-19 patients",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Sci Rev",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nsr/nwaa041"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Effective treatment of severe COVID-19 patients with tocilizumab",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "ChinaXiv",
+            "volume": "202003",
+            "issn": "00026",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Pathogenic T cells and inflammatory monocytes with high IL-6 secretion may enter the pulmonary circulation in large numbers,incite the inflammatory storm and lead an immune disorder in severe COVID-19 patients",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Tocilizumab calms the inflammatory storm through blocking IL-",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "SARS-CoV: Severe acute respiratory syndrome CoV; MERS-CoV: Middle east respiratory syndrome CoV; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2 outbreak in 2019; COVID-19: The SARS-CoV-2 caused Corona Virus Disease; GM-CSF: Granulocyte-macrophage colony-stimulating factor; IL-6: Interleukin-6; ARDS: Acute respiratory distress syndrome; ICU: Intensive care unit.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "fast, convenient online submission \u2022 thorough peer review by experienced researchers in your field \u2022 rapid publication on acceptance \u2022 support for research data, including large and complex data types \u2022 gold Open Access which fosters wider collaboration and increased citations maximum visibility for your research: over 100M website views per year \u2022 At BMC, research is always in progress.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "*Correspondence: ustcwhm@ustc.edu.cn 1 Institute of Immunology and the CAS Key Laboratory of Innate Immunity and Chronic Disease, School of Life Science and Medical Center, University of Science and Technology of China, Hefei, Anhui 230001, China Full list of author information is available at the end of the article",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Patients can be considered to use Tocilizumab and the exclusion criteriaPatients can be considered to use Tocilizumab Exclusion criteria(1) Patients diagnosed with COVID-19 with high risk factors, severe or critical patients(1) Patients who are participating in clinical trials of other drugs",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Thanks to all the members from immunology research group of Prof. Haiming Wei in University of Science and Technology of China (USTC) and clinical group of Prof. Xiaoling Xu in The First Affiliated Hospital of USTC for their contributions of this novel Tocilizumab therapeutic treatment towards COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "All patients had signed informed consent before using tocilizumab and agreed to publish case series. Ethical approval (No. 2020-XG (H)-005) was conducted in accordance with the international conference on Hamonisation Guidelines for good clinical practice and the Declaration of Helsinki and institutional ethics guidelines and obtained from the Ethics Committee from The First Affiliated Hospital of University of Science & Technology of China for emerging infectious diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and consent to participate"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

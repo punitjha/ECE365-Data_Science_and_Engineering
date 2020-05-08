@@ -1,0 +1,462 @@
+{
+    "paper_id": "9deb7792c0ff4705670a156adddb64a411384bde",
+    "metadata": {
+        "title": "Using echocardiography to guide the treatment of novel coronavirus pneumonia",
+        "authors": [
+            {
+                "first": "Qian-Yi",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Central South University",
+                    "location": {
+                        "addrLine": "No. 87 Xiangya Road, Hunan Province",
+                        "postCode": "410008",
+                        "settlement": "Changsha",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Ting",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Union Medical College Hospital",
+                    "location": {
+                        "addrLine": "No.1 Shuaifuyuan, Wangfujing, Dongcheng District",
+                        "postCode": "100730",
+                        "settlement": "Peking, Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Li-Na",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Central South University",
+                    "location": {
+                        "addrLine": "No. 87 Xiangya Road, Hunan Province",
+                        "postCode": "410008",
+                        "settlement": "Changsha",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Up to 24 February 2020, there have been 77,269 officially reported confirmed cases of 2019 novel coronavirus (nCoV) infection in China. Circulatory dysfunction is considered to have a late onset in severe cases of nCoV pneumonia, which is often ignored in clinical treatment. The main causes of acute respiratory failure and subsequent circulatory dysfunction include the rapid progress of lung injury, fluid overload, lung consolidation, and mechanical ventilation for hypoxemia. Most injuries are related to fluid overload, acute lung injury, and longterm hypoxia. Echocardiographic is an important part of critical ultrasonography, which helps to quickly identify the hemodynamic status. We summarized the echocardiographic features of critically ill COVID-19 patients and its clinical use in the treatment of nCoV pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The echocardiographic features of COVID-19 are mainly related to the severity of disease and cardiovascular complications. Abnormal findings include (1) hyperdynamic cardiac function, presented as the increase of cardiac output (CO) and ejection faction (EF) of the left ventricular (LV), with/without the decrease of peripheral vascular resistance, which is often seen in the early stage following the systemic inflammatory response; (2) acute stress-induced (takotsubo) cardiomyopathy, characterized as LV segmental contraction abnormalities and apical ballooning [1]; (3) right ventricular (RV) enlargement and acute pulmonary hypertension, which are mainly caused by \"internal factors\" (including alveolar and pulmonary capillary damage caused by inflammation, hypoxia, and hypercapnia, leading to the increase of RV afterload) and \"external factors\" (including fluid overload, which causes the increase of RV preload, and unsuitable mechanical ventilation parameter setting, which affects the cardiac function by cardiopulmonary interaction); further, LV function will be affected because the right and left hearts are in the same pericardium; and (4) diffuse myocardial inhibition in the late stage, which is often caused by severe hypoxia, and long term of anoxia and inflammation. The echocardiographic features of nCoV pneumonia and their probable causes are shown in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1377,
+                    "end": 1384,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Abstract"
+        },
+        {
+            "text": "Echocardiography can help to quickly identify the circulatory status of nCoV pneumonia patients and guide hemodynamic management. Five basic views of echocardiography (apical four chamber view, parasternal long axis view, parasternal short axis view, subarachnoid four chamber view, subarachnoid inferior vena cava (IVC) long and short axis view) should be measured, which help to quickly understand the patient's volume status, cardiac function, and organ perfusion and help to develop hemodynamic management plans. It is suggested to measure the diameter of IVC, EF, velocity-time integral of the left ventricular outflow during continuous and dynamic evaluation of patients' volume state and fluid responsiveness, left ventricular systolic function, and left ventricular output effect. If necessary, hemodynamic management can follow the \"5P\" principle, i.e., lower central venous pressure, optimized pulse/heart rate, appropriate pump function and blood pressure, and organ perfusion as the final goal.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The echocardiographic features of COVID-19 are mainly related to the severity of disease and cardiovascular complications. Abnormal findings include (1) hyperdynamic cardiac function, presented as the increase of cardiac output (CO) and ejection faction (EF) of the left ventricular (LV), with/without the decrease of peripheral vascular resistance, which is often seen in the early stage following the systemic inflammatory response; (2) acute stress-induced (takotsubo) cardiomyopathy, characterized as LV segmental contraction abnormalities and apical ballooning [1] ; (3) right ventricular (RV) enlargement and acute pulmonary hypertension, which are mainly caused by \"internal factors\" (including alveolar and pulmonary capillary damage caused by inflammation, hypoxia, and hypercapnia, leading to the increase of RV afterload) and \"external factors\" (including fluid overload, which causes the increase of RV preload, and unsuitable mechanical ventilation parameter setting, which affects the cardiac function by cardiopulmonary interaction); further, LV function will be affected because the right and left hearts are in the same pericardium; and (4) diffuse myocardial inhibition in the late stage, which is often caused by severe hypoxia, and long term of anoxia and inflammation. The echocardiographic features of nCoV pneumonia and their probable causes are shown in Table 1 .",
+            "cite_spans": [
+                {
+                    "start": 566,
+                    "end": 569,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1378,
+                    "end": 1385,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "The echocardiographic features of critically ill COVID-19 patients"
+        },
+        {
+            "text": "Echocardiography can help to quickly identify the circulatory status of nCoV pneumonia patients and guide hemodynamic management. Five basic views of echocardiography (apical four chamber view, parasternal long axis view, parasternal short axis view, subarachnoid four chamber view, subarachnoid inferior vena cava (IVC) long and short axis view) should be measured, which help to quickly understand the patient's volume status, cardiac function, and organ perfusion and help to develop hemodynamic management plans. It is suggested to measure the diameter of IVC, EF, velocity-time integral of the left ventricular outflow during continuous and dynamic evaluation of patients' volume state and fluid responsiveness, left ventricular systolic function, and left ventricular output effect. If necessary, hemodynamic management can follow the \"5P\" principle, i.e., lower central venous pressure, optimized pulse/heart rate, appropriate pump function and blood pressure, and organ perfusion as the final goal.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The protocol of echocardiography examination in nCoV pneumonia"
+        },
+        {
+            "text": "Fast identify the circulatory status and the types of shock According to the pathophysiological mechanism of shock, it can be divided into 4 types: distributed shock, cardiogenic shock, hypovolemic shock, and obstructive shock. Critical ultrasonography is of great significance in fast identifying the types of shock and guide hemodynamic management. Since the focused cardiac ultrasound (FOCUS) was proposed in 2010 [2] , many different types of FOCUS exams for rapid evaluation of emergency or ICU patients have been introduced, including the focus-assessed transthoracic echocardiography (FATE) advanced FATE protocol [3] , fluid administration limited by lung sonography (FALLS) protocol [4] , and critical care chest ultrasonic examination (CCUE) protocol [5] . In COVID-19 patients, the most common types of shock are septic shock and cardiogenic shock; however, we still need to exclude obstructive shock (massive pericardial effusion, right heart collapse, heart swing, RV enlargement and \"D sign,\" tricuspid valve regurgitation, pulmonary artery or deep vein thrombosis, etc.) and hypovolemic shock (decrease of CO, \"papillary muscle kissing sign,\" IVC collapse and high respiratory variability, etc.) first. Further, we assess whether there are signs supporting cardiogenic shock (enlargement of the heart, segmental or diffuse contraction abnormalities, IVC dilation, B lines in the lungs and pleural effusion, etc.). If the above three kinds of shock are excluded, then we may consider distributed shock according to clinical history and laboratory tests.",
+            "cite_spans": [
+                {
+                    "start": 417,
+                    "end": 420,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 621,
+                    "end": 624,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 692,
+                    "end": 695,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The use of echocardiography in the treatment of nCoV pneumonia"
+        },
+        {
+            "text": "Novel coronavirus pneumonia may cause the increase in pulmonary vascular resistance due to hypoxia, pulmonary vasospasm, hypercapnia, and inflammation, which further affect the right heart function. Mechanical ventilation itself, especially when lung protective ventilation is not implemented properly, will further increase pulmonary artery pressure and aggravate right heart dysfunction. Right heart dysfunction can be detected by echocardiography, therefore providing important information for circulatory and respiratory management strategies in patients with nCoV pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Monitor the right heart function"
+        },
+        {
+            "text": "Novel coronavirus pneumonia is different from severe acute respiratory syndrome (SARS) in that severe lung injury occurs at the beginning. Some critically ill patients suffer from multiple organ failure, which worsen dramatically in the late stage of disease. It could be a kind of like the \"inflammatory storm\" with uncontrolled inflammatory reaction in the body. During hypoxia, respiratory distress, intense stress status, and inflammation, the left heart may go through the following abnormalities: segmental dyskinesia, overall hyperdynamic, and diffuse cardiodepression. Diffuse cardiodepression often occurs during lethal hypoxia, in the process of intubation, or after cardiopulmonary resuscitation. The long term of anoxia and inflammation should also be considered. The circulatory failure is often caused by diffuse cardiodepression after arrest and the decrease of vascular tension caused by lactic acidosis. Sepsis or myocardial infarction can also lead to these changes. Left heart function can be evaluated by rapid qualitative and quantitative methods using echocardiography. Critical ultrasonography can also provide etiological evaluation and treatment guidance for patients with systolic dysfunction.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Monitor the left heart function"
+        },
+        {
+            "text": "As an important part of critical ultrasonography, echocardiography is a useful tool for the fast screen of circulatory status, identifying the types of shock, monitoring during the respiratory and hemodynamic management, and guiding the treatment of nCoV pneumonia patients, which is especially feasible, convenient, and advantageous in critically ill patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Monitor the left heart function"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Pathophysiology of Takotsubo syndrome",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Khalid",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ahmad",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Shlofmitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chhabra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "StatPearls. Treasure Island",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Cardiac ultrasound in the intensive care unit: point-of-care transthoracic and transesophageal echocardiography",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Glaser",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Conti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murthi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "53--73",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-3-319-11876-5_3"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Focus-assessed transthoracic echocardiography: implications in perioperative and intensive care",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Nagre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Ann Card Anaesth",
+            "volume": "22",
+            "issn": "3",
+            "pages": "302--310",
+            "other_ids": {
+                "DOI": [
+                    "10.4103/aca.ACA_88_18"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The RUSH exam: Rapid Ultrasound in SHock in the evaluation of the critically lll",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mailhot",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mandavia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Emerg Med Clin N Am",
+            "volume": "28",
+            "issn": "",
+            "pages": "29--56",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Ten basic principles about critical ultrasonography: critical care practitioners need to know",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ai",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Chin Med J (Engl)",
+            "volume": "130",
+            "issn": "13",
+            "pages": "1610--1614",
+            "other_ids": {
+                "DOI": [
+                    "10.4103/0366-6999.208229"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "The echocardiographic features of nCoV pneumonia The end-diastolic area of right ventricular/left ventricular > 0.6. The interventricular septum protruded to the left ventricle, showing the \"D-sign.\" Decreased systolic and/or diastolic function of RV, changes in frequency and rhythm of pulmonary blood flow, tricuspid valve regurgitation.Severe hypoxia, long term of anoxia and inflammation. The circulatory failure is often caused by diffuse cardiodepression after arrest and the decrease of vascular tension caused by lactic acidosis.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "None.Authors' contributions Qian-Yi Peng drafted the manuscript. Xiao-Ting Wang and Li-Na Zhang instructed and revised this manuscript. The author(s) read and approved the final manuscript. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Available.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "All authors have read and approved the content and agreed to submit it for consideration for publication in your journal.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "There are no conflicts of interest to declare.Received: 18 March 2020 Accepted: 27 March 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

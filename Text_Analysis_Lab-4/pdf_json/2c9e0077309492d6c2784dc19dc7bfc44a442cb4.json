@@ -1,0 +1,2050 @@
+{
+    "paper_id": "2c9e0077309492d6c2784dc19dc7bfc44a442cb4",
+    "metadata": {
+        "title": "Responsive immunization and intervention for infectious diseases in social networks",
+        "authors": [
+            {
+                "first": "Qingchu",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jiangxi Normal University",
+                    "location": {
+                        "postCode": "330022",
+                        "settlement": "Nanchang",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Haifeng",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Anhui University",
+                    "location": {
+                        "postCode": "230039",
+                        "settlement": "Hefei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Guanghong",
+                "middle": [],
+                "last": "Zeng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jiangxi Normal University",
+                    "location": {
+                        "postCode": "330022",
+                        "settlement": "Nanchang",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "By using the microscopic Markov-chain approximation approach, we investigate the epidemic spreading and the responsive immunization in social networks. It is assumed that individual vaccination behavior depends on the local information of an epidemic. Our results suggest that the responsive immunization has negligible impact on the epidemic threshold and the critical value of initial epidemic outbreak, but it can effectively inhibit the outbreak of epidemic. We also analyze the influence of the intervention on the disease dynamics, where the vaccination is available only to those individuals whose number of neighbors is greater than a certain value. Simulation analysis implies that the intervention strategy can effectively reduce the vaccine use under the epidemic control. V C 2014 AIP Publishing LLC. [http://dx.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "It is well known that the vaccination is very helpful in controlling vaccine preventable disease. When the voluntary vaccination can eradicate the epidemic transmission eventually, two relevant problems are presented: (i) whether it is able to decrease the possibility of epidemic outbreak? (ii) how the vaccine should be used at minimum to yield better result? In this work, we attempt to solve them to some extent. By introducing the responsive immunization based on the local information, we study the impact of the voluntary vaccination on the epidemic threshold. Theoretical analysis and simulation shows that the responsive immunization cannot significantly affect the condition of epidemic. We further analyze the intervention strategy based on the targeted immunization and find that it can effectively reduce the vaccine use. These results may allow to gain new insight into the role of the voluntary vaccination in the epidemic control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "By using the microscopic Markov-chain approximation approach, we investigate the epidemic spreading and the responsive immunization in social networks. It is assumed that individual vaccination behavior depends on the local information of an epidemic. Our results suggest that the responsive immunization has negligible impact on the epidemic threshold and the critical value of initial epidemic outbreak, but it can effectively inhibit the outbreak of epidemic. We also analyze the influence of the intervention on the disease dynamics, where the vaccination is available only to those individuals whose number of neighbors is greater than a certain value. Simulation analysis implies that the intervention strategy can effectively reduce the vaccine use under the epidemic control. It is well known that the vaccination is very helpful in controlling vaccine preventable disease. When the voluntary vaccination can eradicate the epidemic transmission eventually, two relevant problems are presented: (i) whether it is able to decrease the possibility of epidemic outbreak? (ii) how the vaccine should be used at minimum to yield better result? In this work, we attempt to solve them to some extent. By introducing the responsive immunization based on the local information, we study the impact of the voluntary vaccination on the epidemic threshold. Theoretical analysis and simulation shows that the responsive immunization cannot significantly affect the condition of epidemic. We further analyze the intervention strategy based on the targeted immunization and find that it can effectively reduce the vaccine use. These results may allow to gain new insight into the role of the voluntary vaccination in the epidemic control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The spread of an epidemic disease (e.g., tuberculosis (TB), 1 severe acute respiratory syndrome (SARS), 2 Asianinfluenza, 3 swine-origin influenza A (H1N1) 4, 5 ) in a population can be studied by using dynamical system approaches. The susceptible-infected-susceptible (SIS) model and the susceptible-infected-recovered/removed (SIR) model are two widely considered models. The theory of complex network can provide an analytic framework for heterogenous contact patterns of a population. 6 The heterogeneous contact reflects the property that the node degree k, or, the number of contacts with other individuals for a given individual, is not uniform. The frequently used network models are Erd\u20ac os-R enyi (ER) random graphes, 7 Strogatz-Watts (SW) small-world networks, 8 and Barab asi-Albert (BA) scale-free networks. 9 There is a sharp contrast in their degree distributions P(k). The study of epidemic spreading on complex networks shows the existence of a high correlation between the condition of epidemic outbreak and the degree distribution. [10] [11] [12] [13] [14] How to find optimal immunization strategies to minimize the risk of epidemic outbreaks on complex networks have been widely studied. 14-21 A number of basic immunization strategies have been proposed and investigated, such as the random immunization, 14 the targeted immunization 14 and the acquaintance immunization. 15 These proposed immunization strategies, however, are built on a major premise that vaccination or immunization is compulsory and have not considered the willingness or desire of individuals. Given some social factors, such as, religious belief and human rights, thus, the immunization behavior is not a compulsory behavior but decided by individuals themselves. In this situation, whether to vaccinate or not is related to the risk of being infected by the infectious disease. 18, 20 As a kind of individual awareness, 22, 23 risk assessment of infection should be closely related to an individual's local information (the state of an individual's neighborhood). Hence, individual vaccination behavior depends on its local information. For the convenience, we call such dynamic immunization as the responsive immunization, 21 which is also referred as the information-driven vaccination 19 or the information dependent vaccination. 24 In our work 22 and further work, 25 the local information affects individual susceptibility and can change the epidemic threshold. An interesting problem is: can the responsive immunization based on the local information affect the epidemic threshold? Intuitively, the answer seems to be \"yes.\" However, we will find that it is not the case for the responsive immunization. In this paper, we mainly focus on the influence of the responsive immunization on the \"epidemic threshold.\" Herein, the \"epidemic threshold\" means the critical value that can discriminate the dynamical behaviors of the system. 26 The rest of this paper is organized as follows: in Sec. II, an SIS epidemic model with responsive immunization strategy is proposed and the theoretical analysis on the thresholds a)",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 123,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 156,
+                    "end": 158,
+                    "text": "4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 159,
+                    "end": 160,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 489,
+                    "end": 490,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 728,
+                    "end": 729,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 772,
+                    "end": 773,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 821,
+                    "end": 822,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1051,
+                    "end": 1055,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1056,
+                    "end": 1060,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1061,
+                    "end": 1065,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1066,
+                    "end": 1070,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1071,
+                    "end": 1075,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1394,
+                    "end": 1396,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1874,
+                    "end": 1877,
+                    "text": "18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1878,
+                    "end": 1880,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1916,
+                    "end": 1919,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1920,
+                    "end": 1922,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 2284,
+                    "end": 2286,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2329,
+                    "end": 2331,
+                    "text": "24",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 2344,
+                    "end": 2346,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 2365,
+                    "end": 2367,
+                    "text": "25",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 2933,
+                    "end": 2935,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Author to whom correspondence should be addressed. Electronic mail: wqingchu5@163.com of the model is given based on the microscopic Markovchain method. Numerical simulations are also presented to verify the theoretical results. In Sec. III, the external intervention in the responsive immunization is further investigated. At last, conclusions and some discussions are summarized in Sec. IV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "We use the SIS model to investigate the effect of responsive immunization. The SIS model is chosen for the following two reasons: (1) it is widely applicable and may be adapted for some epidemic diseases such as meningitis and gonorrhea; 27 (2) it is also relatively simple and approximated to the early stage of the epidemic outbreak. We also assume an epidemic spreads along the static network G with size N, which is completely determined by its adjacency matrix A where the entries a ij \u00bc a ji \u00bc 1 if there is a link between nodes i and j, otherwise a ij \u00bc a ji \u00bc 0. All nodes of G are enumerated with index i \u00bc 1; 2; \u00c1 \u00c1 \u00c1 ; N.",
+            "cite_spans": [
+                {
+                    "start": 238,
+                    "end": 240,
+                    "text": "27",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 241,
+                    "end": 244,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. The model"
+        },
+        {
+            "text": "In this model with the responsive immunization considered in the SIS model, each individual may stay in one of three states: S-susceptible, I-infected, and V-vaccinated. During a time step, a susceptible individual may get infected at an average rate b per unit time if it is contacted by one infected individual, and meanwhile may also be vaccinated and then removed (due to the responsive immunization) at rate p vac \u00f0i\u00de. An infected individual may recover and become susceptible again at rate c per unit time. It is assumed that all these events are independent.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. The model"
+        },
+        {
+            "text": "Intuitively, the immunization rate p vac increases with both the local information of an epidemic and the response rate of epidemic risk, d (0 d 1). Suppose node i with degree k i has k inf (k inf ! 0) infected neighbors, then the immunization rate of node i is given by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. The model"
+        },
+        {
+            "text": "When d \u00bc 0, the model is just the standard SIS epidemic model. 10 Similar to the previous work, we define the effective spreading rate k \u00bc b=c. For the sake of the following analysis, we first present a lemma: Lemma 1: Let V \u00c3 be a set composed of nodes in a network G and p j;t be the probability of node j 2 V \u00c3 to be infected at time t, respectively. Then the number of infected nodes in V \u00c3 is a stochastic variable n 2 \u00bd0; jV \u00c3 j (jV \u00c3 j denoting the number of the elements in set V \u00c3 ) and its expected value satisfies",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 65,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A. The model"
+        },
+        {
+            "text": "According to the inductive method, we can complete the proof.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A. The model"
+        },
+        {
+            "text": "Previous literatures have indicated that the microscopic Markov-chain approximation (MMA) approach 28, 29 is an effective method in studying the epidemic spreading in quenched networks (i.e., the adjacency matrix is unchanged in time), including unweighted networks, 26, 30 weighted networks, 29, 31 and even multiplex networks. 32 Along this way, we denote the probability of node i to be infected and to be immunized at time t, p i;t and q i;t , respectively. During the time interval \u00bdt; t \u00fe 1\u00de, the change of p i;t depends on two events: the recovery from state I to state S and the infection from state S to state I. The change of q i;t only depends on the vaccination from state S to state V.",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 102,
+                    "text": "28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 103,
+                    "end": 105,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 267,
+                    "end": 270,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 271,
+                    "end": 273,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 293,
+                    "end": 296,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 297,
+                    "end": 299,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 329,
+                    "end": 331,
+                    "text": "32",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Note that for each susceptible node i, there exists two exclusive events per unit time: (i) getting infected at rate p inf \u00f0i\u00de; (ii) becoming immunized at rate p vac \u00f0i\u00de. Therefore, with these notations the discrete-time epidemic network model is described by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Now, we establish the specific forms of p inf \u00f0i\u00de and p vac \u00f0i\u00de. Let f i;t denote the probability of node i being uninfected at time t. Considering node i may get infected through connections with each of its infected neighbors, the expression of uninfected probability reads 28, 29 ",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 279,
+                    "text": "28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 280,
+                    "end": 282,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Here, N i denotes the neighborhood of node i. Accordingly, we have",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "We continue to give the expression for p vac \u00f0i\u00de. Following its definition, we consider the stochastic variable n \u00bc k inf (n k i ). By using Lemma 1, we take the expected value of n as an approximation to k inf and obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "So Eq. (1) can be rewritten as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "When d \u00bc 0 and q i;0 \u00bc 0 for each i, model (5) reduces into the following simple form:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "This is just the standard SIS model without reinfection terms. 28, 29 According to the previous literature, the critical value of epidemic outbreak for the spreading rate, k SIS c , obeys",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 66,
+                    "text": "28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 67,
+                    "end": 69,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "where K max \u00f0A\u00de is the leading eigenvalue of the adjacency matrix A. When the spreading rate is larger than the critical value, the epidemic disease will become endemic and persist in a population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "C. The steady state and the critical value of epidemic spreading For the approximation model (5), we first analyze the steady state of its dynamical behavior. To this end, we would like to determine the values of p i;t and q i;t at the steady state, p i and q i . On substituting p i;t p i and q i;t q i into Eqs. (5), we have",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "As long as d > 0, we have \u00f01 \u00c0 p i \u00c0 q i \u00de P j2N i p j \u00bc 0. This indicates two possible cases: (i)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "This means that for each node i, p i \u00bc 0 but the value of q i is unknown and related to the initial conditions of the system. Therefore, the fraction of infected node in a population (denoted by I(t)) always decays to zero regardless of the spreading rate k and the response rate d (d > 0).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Next, we want to estimate the critical value of epidemic spreading for our model, that is, the epidemic threshold k c . Based on the analysis of the steady state, the epidemic threshold means: if k k c , I(t) decreases to zero (no epidemic), otherwise, first increases to a maximum and then decreases to zero (an epidemic) due to the responsive immunization. Following, 33,34 the occurrence or not of an epidemic depends on the stability of the disease free equilibrium of the disease model described by (5) .",
+            "cite_spans": [
+                {
+                    "start": 504,
+                    "end": 507,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Additionally, we notice that I\u00f0t\u00de \u00bc \u00f01=N\u00de P N i\u00bc1 p i;t . Therefore, in order to obtain the mathematical expression of the epidemic threshold we only consider the subsystem (5a) near the disease free equilibrium (p i \u00bc 0 and 0 q i 1 for each i). At this time, a linear form of Eqs. (5a) can be written as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "This uses the approximation \u00f01 \u00c0 a\u00de\u00f01 \u00c0 b\u00de",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "This system is not a closed form since we do not know q i value corresponding to p i \u00bc 0 for each i. However, we can approximately analyze the stability of the disease free equilibrium under the assumption (H): p i;0 ' 0 and q i;0 \u00bc 0 for each i. In fact, from Eqs. (5), when p i;0 \u00bc 0 we have p i;t \u00bc 0 for t > 0 and then q i;t \u00bc 0. In other words, under the assumption (H) p i;0 ! 0 can imply that q i;t ! 0 and further q i ! 0. Hence, we consider the system near the zero solution (p i \u00bc q i \u00bc 0 for each i). At this time, model (8) becomes",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Now we study the stability of the above system. Let us introduce a vector function p t \u00bc \u00f0p 1;t ; p 2;t ; :::; p N;t \u00de T 2 R N (the state vector of the network). Then, Eq. (9) can be given by a collective form",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "Here, I denotes a N-dimensional identity matrix. From above, the local stability of the zero solution of system (10) can be established by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "This indicates that the epidemic threshold for the spreading rate, k c , is given by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "The threshold condition is the same as that in the standard SIS model (6) and indicates that the response rate d has no impact on the epidemic threshold. This differs significantly from our previous work without vaccination, 22 where we have shown that the local information can affect the epidemic threshold. We argue that the epidemic threshold is unchanged for different d values because: (1) the response rate does not directly affect the dynamic of infection but decrease the number of susceptible nodes; (2) at the beginning of an epidemic spreading, the vaccination fraction generated by the responsive immunization is not large enough to halt the epidemic outbreak.",
+            "cite_spans": [
+                {
+                    "start": 70,
+                    "end": 73,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 225,
+                    "end": 227,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "It is worth stressed that the analysis of the epidemic threshold is on the basis of the assumption (H). If the assumption is not satisfied, the epidemic threshold should be related with initial conditions (i.e., p i;0 , q i;0 ). In addition, considering the effectiveness of the MMA approach, we believe that the responsive immunization has no significantly affect on the epidemic threshold in the stochastic model, together with the following simulation analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. The microscopic Markov-chain approximation"
+        },
+        {
+            "text": "To test above argument, we perform Monte Carlo simulations over both BA scale-free networks 9 with the degree distribution P\u00f0k\u00de $ k \u00c03 and ER networks with connecting probability p \u00bc 0:006. 7 The Monte Carlo simulations are implemented in a parallel way, that is, each node's state can be updated with a certain rate in a time step. More specifically, for a susceptible node i at each time step, we generate a random number r 2 \u00bd0; 1\u00de, if r 2 \u00bd0; p inf \u00f0i\u00de\u00de then node i is changed from state S to state I; else if r 2 \u00bdp inf \u00f0i\u00de; p inf \u00f0i\u00de \u00fe p vac \u00f0i\u00de\u00de then node i is changed from state S to state V; else node i is still susceptible. Here, p inf \u00f0i\u00de and p vac \u00f0i\u00de are the transition rates as stated above. One should note that, since we mainly focus on the epidemic threshold of the model, near this critical point, the epidemic just begins to prevail, so the infected neighbors are few, in this situation, we can image that the value of p inf \u00f0i\u00de \u00fe p vac \u00f0i\u00de is smaller than 1. Although the network considered here is small (N \u00bc 2000) , we also made simulations for a larger network (e.g., N \u00bc 5000) and obtained a similar observation.",
+            "cite_spans": [
+                {
+                    "start": 92,
+                    "end": 93,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 190,
+                    "end": 191,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1026,
+                    "end": 1036,
+                    "text": "(N \u00bc 2000)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "We first verify the accuracy of Eq. (11) . Simulations begin with a single seed initial condition. To minimize random fluctuation caused by the initial conditions, we make average over 200 realizations of different initial infected nodes.",
+            "cite_spans": [
+                {
+                    "start": 36,
+                    "end": 40,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "In Fig. 1 , we compare the Monte Carlo simulations and theoretical model (5) on the epidemic threshold, k c . The Markov chain prediction shows that the epidemic threshold is indeed independent of the parameter d, which complies with the analysis from Eq. (11) . In order to further verify this formula, we compute the value of K max \u00f0A\u00de for the BA scalefree network used here according to the power method and obtain that K max \u00f0A\u00de ' 26:325. Following Eq. (11), we have that k c \u00bc 1 \u00c0 K max \u00f0A\u00de ' 0:03799, which is a good approximation to the simulation results obtained from Eqs. (5) (Fig. 1(b) ). For an ER random network, K max \u00f0A\u00de ' 13:202, so k c \u00bc 1 \u00c0 K max \u00f0A\u00de ' 0:07575. This also complies with the simulation results obtained from Eq. (5) (Fig. 1(d) ).",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 260,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 586,
+                    "end": 596,
+                    "text": "(Fig. 1(b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 749,
+                    "end": 759,
+                    "text": "(Fig. 1(d)",
+                    "ref_id": null
+                }
+            ],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "The epidemic threshold for the Monte Carlo simulation on a BA scale-free network ( Fig. 1(a) ) is larger than that for the Markov chain prediction based on Eqs. (5) (Fig. 1(b) ). This is mainly due to the first order approximation of the mathematic model. 35 Hinted by the real situations in which the responsive immunization often takes place after the beginning of the outbreak of the epidemic (for an emerging infectious disease at least), we consider another kind of initial condition: a portion of infected seeds, e.g., 1% of the nodes are infected. Unless otherwise specified, we set the recovery rate c \u00bc 0:5 in the later simulations.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 258,
+                    "text": "35",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 83,
+                    "end": 92,
+                    "text": "Fig. 1(a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 165,
+                    "end": 175,
+                    "text": "(Fig. 1(b)",
+                    "ref_id": null
+                }
+            ],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "Herein, we would like to examine the exactness of the theoretical model (5) compared to the Monte Carlo simulation. In order to do this, we consider the maximal infection density I max and the corresponding peak time t max over different BA scale-free networks and ER random networks with the almost same mean degree, respectively. the infection rate for different d values, which are consistent with theoretical models as indicated by the solid lines. This figure tells us that the MMA approach is effective to model the epidemic spreading with responsive immunization, even for the prediction of the peak time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "Furthermore, Fig. 2 suggests that, though the epidemic threshold is not related to the value of d, increasing the value of d can lower the peak time t max , indicating the upward tendency of epidemic is fast controlled. Meanwhile, the maximal infection density I max also decreases with the value of d, which means that the responsive immunization can effectively control or hinder the prevalence of epidemic.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 13,
+                    "end": 19,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "In the final part of this section, we investigate the initial outbreak of epidemic, which means that I(t) increases at t \u00bc 0. For the discrete-time system (5) , it is needed to consider the quantity",
+            "cite_spans": [
+                {
+                    "start": 155,
+                    "end": 158,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "Considering the average over initial conditions, we have p i;0 \u00bc e and q i;0 \u00bc 0 for each i. Then,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "On plugging the above equality into Eq. (12), we obtain DI ' \u00c0ce \u00fe ehkib:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "From this equality, the critical value of initial epidemic outbreak obeys",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "Interestingly, we find that k 0 c is inversely proportional to the mean degree of the network. When k > k 0 c , DI > 0 and I(t) first increases; when k < k 0 c , we have DI < 0 and the epidemic prevalence first decreases. One should note that, this condition is used to judge whether the epidemic will outbreak at initial time step, though k < k 0 c , the outbreak of epidemic is also possible to happen since k 0 c > k c (as illustrated in the latter simulation). In Fig. 3 , we illustrate the change of DI on a BA scalefree network with the mean degree hki ffi 12. Note that e \u00bc 0:01 and c \u00bc 0:5, so we have DI \u00bc \u00c00:005 \u00fe 0:12b: This tells us that DI is a linear function of the infection rate b, which can be seen in this figure. Also, we can derive the condition of initial epidemic outbreak: k > k 0 c ) b > 0:0417. In the inset of Fig. 3 , we can see that DI > 0 only if b ! 0:05, which is in accordance with the Markov chain prediction.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 468,
+                    "end": 474,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 837,
+                    "end": 843,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "D. Simulations"
+        },
+        {
+            "text": "According to the content of the responsive immunization, each individual potentially vaccinates with a certain rate. Hence, the vaccine coverage may range from nodes with small degree to ones with large degree. In order to investigate the range of the vaccine coverage in our model, we consider the degree distribution of vaccinated nodes (called as the vaccination degree distribution) F\u00f0k\u00de \u00bc number of vaccinated nodes with degree k total number of vaccinated nodes ;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "which can be compared to the degree distribution of all nodes in the network P(k) by using numerical simulations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "In this section, we use BA scale-free networks to simulate epidemic dynamics and initially 1% of the nodes are infected. As shown in Fig. 4 , the relation between two kinds of degree distribution is F\u00f0k\u00de $ P\u00f0k\u00de $ k \u00c03 . The good relation should be induced by the degree uncorrelated property of BA networks and it would be interesting to consider the impact of network structure on the vaccination degree distribution and its relation with the degree distribution in other work. Nevertheless, this tells us that the vaccination possibility of the node with small degree is nearly equal to that of the node with large degree, which forces a large amount of vaccines to be required for the responsive immunization (see Fig. 5 (a): c \u00bc 0). However, the situation that too many people choose vaccination potentially leads to the waste of resources. Especially when the vaccine is rare, it may cause social panic, even violence. So we should take some necessary intervention to the voluntary vaccination.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 133,
+                    "end": 139,
+                    "text": "Fig. 4",
+                    "ref_id": null
+                },
+                {
+                    "start": 717,
+                    "end": 723,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "It is well known that the targeted immunization scheme in scale-free networks is very effective in controlling the epidemic outbreak. 14 Inspired by this, we introduce the intervention measure based on the targeted immunization and only permit those nodes with large degree to take vaccinewhen node i goes to the epidemic prevention station to vaccinate, we only allow those nodes with degree k i ! c to get vaccinated. In other words, we modify the above model with responsive immunization as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "Here, c reflects the level of vaccination intervention. The larger the value of c, the higher the intervention level. When c \u00bc 0, there is no any vaccination intervention. As above analysis, an infectious disease dies out eventually. However, in this case the vaccination fraction is generally large. Hence, we consider the impact of the external intervention (i.e., c > 0) on the vaccination fraction.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "In Fig. 5 (a), we report the change of the vaccination fraction at the steady state V \u00bc V 1 \u00f0c\u00de for different c values when the maximal response rate (i.e., d \u00bc 1) is assumed. In this figure, we choose the parameter window b 2 \u00bd0; 0:06 where for all cases become zero/vanish as t ! 1 (Fig. 5(b) ). This can allow us to clearly observe the intervention effect. As a result, V decreases significantly with increasing c value. We take the case b \u00bc 0:05 as an illustration. In this case, V 1 \u00f00\u00de ffi 70%, while V 1 \u00f010\u00de ffi 30% and V 1 \u00f030\u00de ffi 1%.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                },
+                {
+                    "start": 284,
+                    "end": 294,
+                    "text": "(Fig. 5(b)",
+                    "ref_id": null
+                }
+            ],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "For the model with no intervention, the infection density becomes zero eventually. But for the model with degreebased intervention, the change of infection density I(t) may not be like that. Actually, as shown in Fig. 5(b) , when the infection rate is large enough there exists a positive value of infection density at the steady state. This determines another epidemic threshold k 0 c . When k > k 0 c , I \u00bc I 1 \u00f0c\u00de > 0; when k < k 0 c , I \u00bc 0. Therefore, the intervention can lead to another larger epidemic threshold, above which the infectious disease will undergo a new outbreak and persist in the population. This is not desirable from the perspective of epidemic control and can be solved by increasing the vaccine coverage. When the vaccine is rare, we should implement other strategies, e.g., quarantine strategies.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 213,
+                    "end": 222,
+                    "text": "Fig. 5(b)",
+                    "ref_id": null
+                }
+            ],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "Besides the SIS-like epidemic threshold k 0 c , the system has two other critical values: (1) the threshold of initial epidemic outbreak k 0 c ; (2) the SIR-like epidemic threshold k c above which the epidemic disease asymptomatically decays. We can approximately evaluate these quantities. Actually, after substituting the modified form of p vac \u00f0i\u00de (14) into model (1) and using the similar analysis, we obtain that k 0 c \u00bc 1=hki; and k c ffi 1=K max \u00f0A\u00de; where the usage of the approximation symbol accounts for the impact of a portion of initial infection condition. These equalities indicate that the two parameters d and c almost have no impact on both k 0 c and k c . Since K max \u00f0A\u00de is never smaller than the mean degree of the network, hki, k c k 0 c . 30 What is more, k c must be less than k 0 c . When k 0 c 6 \u00bc k 0 c , the dynamical behavior of the system under consideration is completely characterized by three critical values of spreading rate (k c ; k 0 c , and k 0 c ). As an illustration, we consider the intervention model for the case c \u00bc 30 and c \u00bc 0:5 on a BA scale-free network. According to our simulations and computations, three critical values of infection rate b c ' 0:02; b 0 c ' 0:04, and b 0 c ' 0:06. Therefore,",
+            "cite_spans": [
+                {
+                    "start": 762,
+                    "end": 764,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "When the infection rate lies between b c and b 0 c , the epidemic prevalence first decreases, then increases, and finally drops to zero. Fig. 6 shows that the change of the infection curve I(t) is just like that. We also notice the deviation at the peak time between the Monte Carlo simulation and the Markov chain prediction. This may be related to the number of infected seeds distributed in the network initially. When this number is very small, a possible outbreak may be eradicated due to the simulation randomness. Hence, we can see that the deviation becomes smaller with increasing I(0) values as illustrated in Fig. 6(b) . ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 143,
+                    "text": "Fig. 6",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 620,
+                    "end": 629,
+                    "text": "Fig. 6(b)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "III. INTERVENTION IN THE RESPONSIVE IMMUNIZATION"
+        },
+        {
+            "text": "As a brief summary, a modified SIS epidemic model with the responsive immunization is proposed and analyzed. Our main results are: (1) we derive the epidemic threshold of the model and find that k c \u00bc 1=K max \u00f0A\u00de; (2) we establish the critical condition of initial epidemic outbreak; (3) we obtain the impact of the intervention on the epidemic dynamics and final vaccination size.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IV. CONCLUSIONS AND DISCUSSIONS"
+        },
+        {
+            "text": "Recently, Sahneh and et al. 26 found two kinds of epidemic thresholds that can discriminate the asymptotical decay and the exponential decay of an epidemic disease in a susceptible-alert-infected-susceptible (SAIS) model. In our intervention model, we also find the existence of multiple critical values of spreading rate. Interestingly, the meanings of k c and k 0 c are just as stated in Ref. 26 . From the viewpoint of epidemic control, it is not enough to raise the larger threshold k 0 c because the epidemic still breaks out when the spreading rate k satisfies k c < k < k 0 c . In our model, the responsive immunization has no significant influence on the epidemic threshold and a large vaccination fraction is required to halt the epidemic spreading. It is necessary to take some intervention measures in the voluntary vaccination. We argue that there are two types of intervention measures according to their effects: (1) one is that the epidemic threshold becomes larger; (2) the other is that the epidemic threshold is unchanged but final vaccination size decreases. In the present paper, the degree-based intervention based on the targeted immunization belongs to the second type since it can only reduce the vaccine size. One may consider the first type of vaccination intervention, e.g., the responsive immunization on the adaptive contact network 17 where the epidemic threshold may be changed due to the change of network structure.",
+            "cite_spans": [
+                {
+                    "start": 28,
+                    "end": 30,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 395,
+                    "end": 397,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1362,
+                    "end": 1364,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "IV. CONCLUSIONS AND DISCUSSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Dynamics and control of the global tuberculosis epidemic",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bleed",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Raviglione",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Curr. Opin. Plum. Med",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00063198-200005000-00002"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Small world and scale free model of transmission of SARS",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int. J. Bifur. Chaos",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0218127405012776"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Scale-free distribution of avian influenza outbreaks",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Phys. Rev. Lett",
+            "volume": "99",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.99.188702"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "J D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Vijaykrishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lycett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Worobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "459",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08182"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Swine flu: One killer virus, three key questions",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "462",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/462154a"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Complex networks: Structure and dynamics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boccaletti",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Latora",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chavez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hwang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Phys. Rep",
+            "volume": "424",
+            "issn": "4-5",
+            "pages": "175--308",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.physrep.2005.10.009"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "On random graphs",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Erd\u20ac",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Enyi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1959,
+            "venue": "Publ. Math",
+            "volume": "6",
+            "issn": "",
+            "pages": "290--297",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Collective dynamics of 'small-world' networks",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Strogatz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "393",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/30918"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The emergence of scaling in random networks",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Barabasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "286",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.286.5439.509"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Epidemic spreading in scale-free networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Phys. Rev. Lett",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.86.3200"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Epidemic dynamics in finite size scale-free networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Phys. Rev. E",
+            "volume": "65",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.65.035108"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Epidemic spreading and cooperation dynamics on homogeneous small-world networks",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pacheco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Phys. Rev. E",
+            "volume": "72",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.72.056128"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Infection dynamics on scale-free networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "May",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Phys. Rev. E",
+            "volume": "64",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.64.066112"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Immunization of complex networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Phys. Rev. E",
+            "volume": "65",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.65.036104"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Efficient immunization strategies for computer networks and populations",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Havlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ben-Avraham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Phys. Rev. Lett",
+            "volume": "91",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.91.247901"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Enhanced vaccine control of epidemics in adaptive networks",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Phys. Rev. E",
+            "volume": "81",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.81.046120"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Hub nodes inhibit the outbreak of epidemic under voluntary vaccination",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "New J. Phys",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1088/1367-2630/12/2/023015"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Epidemic spreading with informationdriven vaccination",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Phys. Rev. E",
+            "volume": "86",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.86.036117"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Vaccination intervention on epidemic dynamics in networks",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Phys. Rev. E",
+            "volume": "87",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.87.022813"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Dynamical diversity induced by individual responsive immunization",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Physica A",
+            "volume": "392",
+            "issn": "",
+            "pages": "2792--2802",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.physa.2013.02.014"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The impact of awareness on epidemic spreading in networks",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Chaos",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1063/1.3673573"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Endemic disease, awareness, and local behavioural response",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Funk",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gilad",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "A A"
+                    ],
+                    "last": "Jansen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Theor. Biol",
+            "volume": "264",
+            "issn": "2",
+            "pages": "501--509",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2010.02.032"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Global stability of an SIR epidemic model with information dependent vaccination",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Buonomo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Onofrio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lacitignola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Math. Bosci",
+            "volume": "216",
+            "issn": "1",
+            "pages": "9--16",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2008.07.011"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Modeling epidemic spread with awareness and heterogeneous transmission rates in networks",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Biol. Phys",
+            "volume": "39",
+            "issn": "3",
+            "pages": "489--500",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10867-013-9318-8"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "On the existence of a threshold for preventive behavioral responses to suppress epidemic spreading",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Sahneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Chowdhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Scoglio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Sci. Rep",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/srep00632"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Host immunity and synchronized epidemics of syphilis across the United States",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Grassly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Garnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "433",
+            "issn": "",
+            "pages": "417--421",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature03072"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Epidemic spreading in real networks: An eigenvalue viewpoint",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chakrabarti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proceedings of 22nd International Symposium on Reliable Distributed Systems",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Discrete-time Markov chain approach to contact-based disease spreading in complex networks",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Omez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Arenas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Borge-Holthoefer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Meloni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Europhys. Lett",
+            "volume": "89",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1209/0295-5075/89/38009"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Virus spread in networks",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Mieghem",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Omic",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kooij",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "IEEE ACM T. Network",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/TNET.2008.925623"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Epidemic spreading on weighted contact networks",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schumm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scoglio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gruenbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proceedings of IEEE/ACM Bionetics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Dynamical interplay between awareness and epidemic spreading in multiplex networks",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Granell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gomez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Arenas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Phys. Rev. Lett",
+            "volume": "111",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.111.128701"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Effective degree network disease models",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Den Driessche",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Willeboordse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Math. Biol",
+            "volume": "62",
+            "issn": "",
+            "pages": "143--164",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00285-010-0331-2"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "An individual-based approach to SIR epidemics in contact networks",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Youssef",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scoglio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Theor. Biol",
+            "volume": "283",
+            "issn": "1",
+            "pages": "136--144",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2011.05.029"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Second-order mean-field susceptibleinfected-susceptible epidemic threshold",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cator",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Mieghem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Phys. Rev. E",
+            "volume": "85",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.85.056111"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Received 28 October 2013; accepted 5 April 2014; published online 24 April 2014)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "V C 2014 AIP Publishing LLC. [http://dx.doi.org/10.1063/1.4872177]",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Fig. 2 shows the peak time and the maximal infection density as functions of FIG. 1. The contour plot of the maximal infection density I max , where the x coordinate is the response rate d and the y coordinate is the spreading rate k on a BA network with the mean degree hki ffi 12 (a) (b) and an ER network with p \u00bc 0:006 (c) (d). Plots (a) and (c) denote the Monte Carlo simulations and plots (b) and (d) represent the Markov chain predictions (5). In all simulations the recover rate c \u00bc 1. The bottom line in each plot forms the boundary between the epidemic outbreak and the epidemic extinction.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Illustrations of the peak time t max for a BA network (a) and an ER network (c), the maximal infection density I max for a BA network (b) and an ER network (d) as functions of the infection rate b. The solid lines denote the theoretical predictions. In four figures, three curves correspond to different response rates. From top to bottom: d \u00bc 0:1; 0:5, and 0.9. All simulation results are averaged over 200 epidemic dynamics.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Initial change DI as a function of the infection rate b when d \u00bc 0:5 and hki ffi 12. The inset shows the zoom in results for the range b 2 \u00bd0; 0:08. The simulation result is averaged over 200 epidemic dynamics. FIG. 4. The degree distribution of all nodes and the vaccination degree distribution of all vaccinated nodes in a BA scale-free network with hki ffi 12. Other parameters: d \u00bc 0:1; c \u00bc 0:5, and b \u00bc 0:2. FIG. 5. (a) The fraction of vaccinated nodes at the steady state is shown as a function of the infection rat b. This figure allows us to compare different intervention levels about the vaccination sizes. (b) The fraction of infected nodes at the steady state is shown as a function of the infection rate b. This figure indicates another epidemic threshold above which an epidemic can undergo a new outbreak and persist in a population. Parameters d \u00bc 1 and c \u00bc 0:5. Numerical simulation results are carried out and averaged over 100 epidemic dynamics.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "The fraction of infected nodes in a population I(t) as a function of time in the same BA scale-free network with N \u00bc 2000 for different initial infection conditions: (a) I\u00f00\u00de \u00bc 1%; (b) I\u00f00\u00de \u00bc 5%. The simulation is obtained by taking the average over 100 epidemic dynamics. Other parameters: d \u00bc 1; c \u00bc 0:5; b \u00bc 0:03, and c \u00bc 30. This figure shows that the deviation between them can be reduced by increasing the initial infection density.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors wish to thank the referees whose comments improved the quality of the paper. This research was supported by the National Natural Science Foundation of China (Nos. 61203153 and 11005001).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

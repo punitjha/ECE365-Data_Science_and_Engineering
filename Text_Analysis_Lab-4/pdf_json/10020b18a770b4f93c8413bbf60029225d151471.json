@@ -1,0 +1,1899 @@
+{
+    "paper_id": "10020b18a770b4f93c8413bbf60029225d151471",
+    "metadata": {
+        "title": "In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)",
+        "authors": [
+            {
+                "first": "Xueting",
+                "middle": [],
+                "last": "Yao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fei",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Miao",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Cui",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Baoying",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peihua",
+                "middle": [],
+                "last": "Niu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xu",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Li",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Erdan",
+                "middle": [],
+                "last": "Dong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chunli",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Siyan",
+                "middle": [],
+                "last": "Zhan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing, Beijing",
+                        "country": "China., China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Roujian",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Haiyan",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wenjie",
+                "middle": [],
+                "last": "Tan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MHC Key Laboratory of Biosafety",
+                    "institution": "National Institute for Viral Disease Control and Prevention",
+                    "location": {
+                        "postCode": "102206",
+                        "settlement": "Beijing",
+                        "country": "China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dongyang",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Peking University Third Hospital",
+                    "location": {
+                        "postCode": "100191",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": "liudongyang@sina.vip.com"
+            },
+            {
+                "first": "#xueting",
+                "middle": [],
+                "last": "Yao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Baoyin",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Main point: Hydroxychloroquine was found to be more potent than chloroquine at inhibiting SARS-CoV-2 in vitro. Hydroxychloroquine sulfate 400 mg given twice daily for 1 day, followed by 200 mg twice daily for 4 more days is recommended to treat SARS-CoV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Abstract Background. The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) first broke out in Wuhan (China) and subsequently spread worldwide. Chloroquine has been sporadically used in treating SARS-CoV-2 infection. Hydroxychloroquine shares the same mechanism of action as chloroquine, but its more tolerable safety profile makes it the preferred drug to treat malaria and autoimmune conditions. We propose that the immunomodulatory effect of hydroxychloroquine also may be useful in controlling the cytokine storm that occurs late-phase in critically ill SARS-CoV-2 infected patients. Currently, there is no evidence to support the use of hydroxychloroquine in SARS-CoV-2 infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods. The pharmacological activity of chloroquine and hydroxychloroquine was tested using SARS-CoV-2 infected Vero cells. Physiologically-based pharmacokinetic models (PBPK) were implemented for both drugs separately by integrating their in vitro data. Using the PBPK models, hydroxychloroquine concentrations in lung fluid were simulated under 5 different dosing regimens to explore the most effective regimen whilst considering the drug's safety profile.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results. Hydroxychloroquine (EC50=0.72 \u03bcM) was found to be more potent than chloroquine (EC50=5.47 \u03bcM) in vitro. Based on PBPK models results, a loading dose of 400 mg twice daily of hydroxychloroquine sulfate given orally, followed by a maintenance dose of 200 mg given twice daily for 4 days is recommended for SARS-CoV-2 infection, as it reached three times the potency of chloroquine phosphate when given 500 mg twice daily 5 days in advance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Hydroxychloroquine was found to be more potent than chloroquine to 4 / 25 inhibit SARS-CoV-2 in vitro.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Chloroquine is a widely used anti-malarial with immunomodulatory effects [1] [2] [3] [4] [5] . In a recent in vitro study chloroquine was found to inhibit the growth of SARS-CoV-2 in vitro [6] . This finding has been supported by clinical studies conducted in approximately one-hundred SARS-CoV-2 infected patients [7, 8] .",
+            "cite_spans": [
+                {
+                    "start": 73,
+                    "end": 76,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 77,
+                    "end": 80,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 81,
+                    "end": 84,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 85,
+                    "end": 88,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 189,
+                    "end": 192,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 315,
+                    "end": 318,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 319,
+                    "end": 321,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Hydroxychloroquine is an analog of chloroquine that has fewer concerns about drug-drug interactions. In the previous SARS outbreak, hydroxychloroquine was reported to have anti-SARS-CoV activity in vitro [9] . This suggests that hydroxychloroquine may be a potential pharmacological agent for the treatment of COVID-19 infection. However, to date, there is no clinical evidence to support the use of hydroxychloroquine as a treatment for SARS-CoV-2 infection.",
+            "cite_spans": [
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The molecular mechanism of action of chloroquine and hydroxychloroquine has not been fully elucidated. Findings from previous studies have suggested that chloroquine and hydroxychloroquine may inhibit the coronavirus through a series of steps. Firstly, the drugs can change the pH at the surface of the cell membrane and thus, inhibit the fusion of the virus to the cell membrane. It can also inhibit nucleic acid replication, 6 / 25 glycosylation of viral proteins, virus assembly, new virus particle transport, virus release and other processes to achieve its antiviral effects [10] .",
+            "cite_spans": [
+                {
+                    "start": 427,
+                    "end": 433,
+                    "text": "6 / 25",
+                    "ref_id": null
+                },
+                {
+                    "start": 580,
+                    "end": 584,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A reliable estimation of hydroxychloroquine and chloroquine concentrations in the lung, the target tissue, may be used for guiding dose recommendations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Physiologically-based pharmacokinetic (PBPK) models are a mathematical modelling technique that can predict drug concentrations in human tissues in silico by integrating physiological and drug disposition parameters. PBPK models are widely used in drug development to help identify whether a clinical trial is warranted as well as help guide the use of drugs based on predictions from well-validated models [11, 12] .",
+            "cite_spans": [
+                {
+                    "start": 407,
+                    "end": 411,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 412,
+                    "end": 415,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In this study we aimed to: (i) investigate the antiviral and prophylactic activity of hydroxychloroquine and chloroquine in vitro, (ii) build a PBPK model for hydroxychloroquine and chloroquine using data from literature, and, (iii) predict drug concentrations under different dosing regimens using the developed PBPK models.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Chloroquine phosphate and hydroxychloroquine sulfate were purchased from Beijing Innochem Science & Technology Co, Ltd. The lyophilized powder was diluted in double distilled water to 10 mM. Hydroxychloroquine sulfate was readily soluble in water. Chloroquine phosphate was dissolved by shaking the solution at room temperature for 2 hours. The chloroquine and hydroxychloroquine solutions were 7 / 25 filtered through a 0.22 \u03bcm membrane and were then stored at \u221280\u00b0C. The clinically isolated SARS-CoV-2 virus strain, C-Tan-nCoV Wuhan strain 01, was propagated in Vero cells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experiment Materials"
+        },
+        {
+            "text": "The Vero cells were derived from the African green monkey kidney and were grown in Dulbecco's Modified Eagle Medium (DMEM) (Sigma Aldrich, Boston, MA, USA) supplemented with 5% fetal bovine serum (Logan, UT, USA). The cells were maintained in a humidified atmosphere with 5% CO2 at 37\u00b0C. The culture medium was replaced each day.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cell Culture"
+        },
+        {
+            "text": "The anti-SARS-CoV-2 activity of chloroquine and hydroxychloroquine was investigated in vitro. Cells were seeded into 96-well plates at a density of 1\u00d710 4 cells/well and were grown for 24 hours. The in vitro experiment was divided into two sections, named: (i) the treatment study and (ii) the prophylactic study. Drug pretreatment study: Vero cells were pretreated with chloroquine or hydroxychloroquine for 2 hours and then, were removed from the drug-containing 8 / 25 medium. The virus-containing medium was then added to the infected Vero cells (as described for the treatment study) for 2 hours. Following this, the virus-containing medium was removed and replaced with fresh medium that did not contain drugs or viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antiviral Activity Assay"
+        },
+        {
+            "text": "The supernatant was collected, and, the RNA was extracted and analyzed by relative quantification using RT-PCR (methods described in a previously published study) [13, 14] . All experiments were conducted in triplicates. The relative expression was estimated using the 2 -\u25b3\u25b3 Ct method.",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 168,
+                    "end": 171,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral Activity Assay"
+        },
+        {
+            "text": "A sigmoidal concentration-response function, Y=Bottom + (Top-Bottom)/ (1+10^((LogEC50-X)*HillSlope)), was fit to the data using nonlinear regression. The 9 / 25 EC50 values were calculated using PRISM (GraphPad software, San Diego, CA, USA).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The PBPK models for chloroquine and hydroxychloroquine were developed using Simcyp simulator (version 18). The chloroquine compound file was provided by Simcyp Limited (a Certara company, Blades Enterprise Centre, Sheffield, UK) and the hydroxychloroquine compound file was self-built. Physical and chemical parameters were obtained from the literature [15] . Pharmacokinetic parameters, such as liver intrinsic clearance, fa and ka, were determined from clinical data [16] . These data are summarized in supplement 1. The lung to blood concentration ratio for chloroquine and hydroxychloroquine (obtained from animal studies) was used to predict the drug concentration in the lungs [17, 18] .",
+            "cite_spans": [
+                {
+                    "start": 353,
+                    "end": 357,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 469,
+                    "end": 473,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 683,
+                    "end": 687,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 688,
+                    "end": 691,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PBPK Model Development, Validation and Simulation"
+        },
+        {
+            "text": "Published chloroquine and hydroxychloroquine clinical trial data were used to validate the developed PBPK models (details summarized in supplement 2) [16, [19] [20] [21] [22] [23] . Data obtained from the literature in graphical form were extracted using Plot Digitizer (version 2.26, GetData). Pharmacokinetic parameters that could not be sourced from the literature were estimated using extracted data in Phoenix (version 8.6, Certara company).",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 154,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 155,
+                    "end": 159,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 160,
+                    "end": 164,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 165,
+                    "end": 169,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 170,
+                    "end": 174,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 175,
+                    "end": 179,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Validation Data"
+        },
+        {
+            "text": "Concentration-time profiles were simulated under different published clinical trial 10 / 25 protocols using the developed PBPK models for hydroxychloroquine and chloroquine [16, [19] [20] [21] [22] [23] . The Simcyp \"Healthy volunteer\", \"Chinese healthy volunteer\" and \"Pediatric\" virtual populations were used in the simulations as the clinical trials were conducted in Caucasian, Chinese and children populations, respectively.",
+            "cite_spans": [
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 183,
+                    "end": 187,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 193,
+                    "end": 197,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 198,
+                    "end": 202,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Validation Method"
+        },
+        {
+            "text": "Simulated exposure data was compared to observed data. The criterion to determine model accuracy was based on whether the observed data fell within the 90% confidence interval of the predicted values. The ratio of predicted pharmacokinetic (PK) parameters (e.g. Cmax and AUC) to observed values was used to evaluate model performance. The predicted values were considered reasonable if the ratio of predicted to observed data was within a 2-fold range (0.5\u2264ratio\u22642.0).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Validation Method"
+        },
+        {
+            "text": "The exposure of chloroquine and hydroxychloroquine in the lungs, plasma and blood were simulated under different dosing regimens (shown in Table 1 ) using the validated PBPK models. A correction factor for chloroquine base and hydroxychloroquine base was input into the model simulations. Chloroquine phosphate 500 mg is equivalent to 300 mg of chloroquine base and 200 mg of hydroxychloroquine sulfate is equivalent to 155 mg of hydroxychloroquine base. The \"Chinese Healthy Volunteers\" virtual population provided in Simcyp was used for the simulations. All simulations were performed with 10 trials and 10 subjects per trial.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 139,
+                    "end": 146,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Simulation Method"
+        },
+        {
+            "text": "Virtual subjects were aged between 20 to 50 years of age, and, 50% of the subjects were male and 50% female.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Simulation Method"
+        },
+        {
+            "text": "The PBPK models were used to predict the lung tissue concentrations of chloroquine and hydroxychloroquine under different dosing regimens ( Table 1 ). The lung trough concentration on days 1, 3, 5 and 10 were adjusted by the plasma unbound fraction (fu,plasma) to obtain the free lung trough concentration. The ratio of the free lung trough concentration to the in vitro EC50 values (RLTEC) was calculated and the results tabulated. In a recent clinical trial 500 mg of chloroquine phosphate given twice daily was shown to be effective on study day 5 (RLTEC, day5). This dosing regimen for chloroquine was used as the target for dose optimization for hydroxychloroquine (i.e., the RLTEC of hydroxychloroquine should not be lower than the RLTEC, day5 of chloroquine at any time).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 140,
+                    "end": 147,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Dose regimen optimization"
+        },
+        {
+            "text": "Results from the in vitro study showed that both chloroquine and hydroxychloroquine have good antiviral activity. Chloroquine and hydroxychloroquine were found to decrease the viral replication in a concentration-dependent manner. The EC50 values for chloroquine were 23.90 and 5.47 \u03bcM at 24 and 48 hours, respectively (Figure 1a) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 319,
+                    "end": 330,
+                    "text": "(Figure 1a)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Antiviral Activity in vitro"
+        },
+        {
+            "text": "EC50 values for hydroxychloroquine were 6.14 and 0.72 \u03bcM at 24 and 48 hours, respectively (Figure 1b) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 90,
+                    "end": 101,
+                    "text": "(Figure 1b)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Antiviral Activity in vitro"
+        },
+        {
+            "text": "Hydroxychloroquine exhibited a superior in vitro antiviral effect in comparison to 12 / 25 chloroquine when drug was added prior to the viral challenge. The EC50 values for chloroquine were >100 and 18.01 \u03bcM at 24 and 48 hours, respectively. EC50 values for hydroxychloroquine were 6.25 and 5.85 \u03bcM at 24 and 48 hours, respectively. It was noted that with longer incubation times the EC50 values for chloroquine and hydroxychloroquine tended to decrease. The inhibitory effect of chloroquine was poor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antiviral Pre-treatment Activity in vitro"
+        },
+        {
+            "text": "This was particularly evident at 24 hours, whereby, even at the highest concentration of chloroquine used in the study, the inhibition rate did not exceed 50% (Figure 1c and 1d).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 159,
+                    "end": 169,
+                    "text": "(Figure 1c",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Antiviral Pre-treatment Activity in vitro"
+        },
+        {
+            "text": "The predicted and observed plasma/blood concentration time profiles for chloroquine and hydroxychloroquine is shown in Figure 2 . Intravenous data was used to understand the distribution and elimination phase of the two drugs, and, oral administration data was used to understand the intracorporal absorption process. Most of the observed data fell within the 90% prediction interval. The ratio of predicted to observed PK parameters (Cmax and AUC) were within the range of 0.5 to 2.0 (details summarized in supplement 2), indicating that the prediction accuracy of the developed PBPK models was acceptable and could be used to simulate the different dosing scenarios.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 119,
+                    "end": 127,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Validation results"
+        },
+        {
+            "text": "The simulated lung, blood and plasma concentration time profiles for chloroquine and 13 / 25 hydroxychloroquine under the different dosing regimens is shown in Figure 3 . It can be seen that the lung, blood and plasma concentrations of chloroquine increased slowly after the first dose was given and was yet to reach steady state on day 10. The simulated chloroquine concentration in lung tissue was much higher than in plasma, where the lung to plasma ratio increased with time and reached a ratio of approximately 400. The projected lung, blood and plasma concentrations of hydroxychloroquine rapidly increased and reached steady state following the initial loading dose and subsequent maintenance doses (Figure 3b to 3f).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 168,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 706,
+                    "end": 716,
+                    "text": "(Figure 3b",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Simulation results"
+        },
+        {
+            "text": "The free lung trough concentrations were also projected from the simulations. The ratio of free lung trough concentration to EC50 (RLTEC) under the different dosing regimens is shown in Table 1 . The RLTEC values of hydroxychloroquine were found to be higher than the RLTEC values of chloroquine on days 1, 3, 5 and 10. This suggests that hydroxychloroquine may achieve ideal clinical efficacy under the simulated dosing regimens.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 186,
+                    "end": 193,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Suggested dosing regimens for hydroxychloroquine to treat SARS-CoV-2 infection"
+        },
+        {
+            "text": "The RLTEC on day 1 was notably higher for hydroxychloroquine than for chloroquine. This is likely to be due to the loading dose of hydroxychloroquine given, thus enabling a faster clinical effect. There was no significant difference between the once and twice daily maintenance dosing regimens (Regimen C and D, respectively) when 14 / 25 used from day 2 to day 10; hence, the once daily dosing regimen may be preferred to improve patient compliance. Despite Regimen F being a 5 day treatment regimen, the lung trough concentrations were still above the target concentration on day 10.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Suggested dosing regimens for hydroxychloroquine to treat SARS-CoV-2 infection"
+        },
+        {
+            "text": "However, if the treatment duration of Regimen F was extended to 10 days (i.e.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Suggested dosing regimens for hydroxychloroquine to treat SARS-CoV-2 infection"
+        },
+        {
+            "text": "Regimen E) it resulted in a higher drug concentration on day 10. Overall, Regimen F may be the best regimen whilst considering both efficacy, safety and patient compliance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Suggested dosing regimens for hydroxychloroquine to treat SARS-CoV-2 infection"
+        },
+        {
+            "text": "In this study, hydroxychloroquine exhibited better in vitro anti-SARS-CoV-2 activity than chloroquine. This was demonstrated by the EC50 values for hydroxychloroquine always being smaller than the EC50 values for chloroquine, indicating that hydroxychloroquine has a more potent antiviral activity (shown in Figure 1 ). In the study by Wang et al [6] , chloroquine was shown to have an inhibitory effect on SARS-CoV-2 with an EC50 value of 1.13 \u03bcM after a 48 hour incubation time. These findings are comparable with our in vitro chloroquine results of an EC50 value of 5.47 \u03bcM. In addition, an unpublished clinical trial has demonstrated the therapeutic effect of chloroquine in SARS-CoV-2 infected patients. On the basis of hydroxychloroquine's superior antiviral and prophylactic activity, as well as its more tolerable safety profile in comparison to chloroquine, we believe that hydroxychloroquine may be a promising drug for the treatment of SARS-CoV-2 infection [24] .",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 350,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 968,
+                    "end": 972,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 308,
+                    "end": 316,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In our study we noted that the EC50 values for hydroxychloroquine and chloroquine decreased with longer incubation times. This suggests that incubation time may influence the drug's antiviral activity. Both hydroxychloroquine and chloroquine have been reported to accumulate in cells [25] . It is possible that a longer incubation time may provide more time for the drug to accumulate to higher intracellular concentrations and ultimately exhibit a better antiviral effect [26] . Another possible explanation is that the drug-induced cytotoxicity may take time to develop, and hence, the drug effect may increase with time [27] .",
+            "cite_spans": [
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 473,
+                    "end": 477,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 623,
+                    "end": 627,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "/ 25"
+        },
+        {
+            "text": "The PBPK model for hydroxychloroquine and chloroquine was validated with in vivo PK data from humans, rats and mice. The model was able to reasonably predict drug concentrations in human lung tissue. A permeability rate limiting model was implemented in the PBPK model to mimic the characteristics of both drugs. In addition, a high lung to plasma partition coefficient ratio (Kp ratio) was used to imitate the drugs' high accumulation in lung tissue. The Kp ratio for humans was assumed to be same as the ratio for rats because there was no human data available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "/ 25"
+        },
+        {
+            "text": "This assumption may be reasonable as the transportation of both drugs is completely via passive diffusion (i.e. no transporters are involved).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "/ 25"
+        },
+        {
+            "text": "In some patients it has been reported that their immune response to the SARS-CoV-2 virus results in the increase of cytokines IL-6 and IL-10 [13, 28] . This may progress to a cytokine storm, followed by multi-organ failure and potentially death. Both hydroxychloroquine and chloroquine have immunomodulatory effects and can 16 / 25 suppress the increase of immune factors [29, 30] . Bearing this in mind, it is possible that early treatment with either of the drugs may help prevent the progression of the disease to a critical, life-threatening state. In critically ill SARS-CoV-2 infected patients the use of corticosteroids may be harmful [31] . Whilst, the use of immunosuppressants (e.g. tocilizumab) are not ideal either as it can suppress the immune system and lead to an increased risk of infection [32] . In this setting, hydroxychloroquine may be an ideal drug to treat SARS-CoV-2 infection as it can inhibit the virus via its antiviral effects and help mediate the cytokine storm via its immunomodulatory effects. Based on work conducted in our lab, we recommend the concomitant use of low dose hydroxychloroquine with an anti-inflammatory drug to help mitigate the cytokine storm in critically ill SARS-CoV-2 patients.",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 145,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 146,
+                    "end": 149,
+                    "text": "28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 324,
+                    "end": 331,
+                    "text": "16 / 25",
+                    "ref_id": null
+                },
+                {
+                    "start": 372,
+                    "end": 376,
+                    "text": "[29,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 377,
+                    "end": 380,
+                    "text": "30]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 642,
+                    "end": 646,
+                    "text": "[31]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 807,
+                    "end": 811,
+                    "text": "[32]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "/ 25"
+        },
+        {
+            "text": "Several clinical trials are currently investigating the use of hydroxychloroquine to treat SARS-CoV-2 infection. However, it is worth noting that the dosing regimens used in these trials are mainly based on previous clinical experience, raising the concern that adverse effects may occur in study participants (supplement 3). In this study, an optimized dosing regimen was designed for hydroxychloroquine to have a high loading dose and low maintenance dose based on it's unique pharmacokinetics (i.e. high accumulation in cells and long elimination half-life). Using PBPK modelling and simulation techniques the optimal dosing regimen for hydroxychloroquine was evaluated in in silico. The simulation results demonstrated that Regimen F was able to achieve treatment efficacy as well as have a good safety profile, even considering 17 / 25 possible underestimation of drug efficacy to some extent. However, future clinical trials evaluating this regimen are required before it can be readily used in the clinic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "/ 25"
+        },
+        {
+            "text": "The combination of the in vitro antiviral activity data and predicted drug concentrations in this study are being used to support the design of dosing regimens used in a future clinical trial. Figure 1 . The antiviral activities of chloroquine and hydroxychloroquine for treatment or prophylactic treatment against SARS-CoV-2 in vitro. The antiviral activities of chloroquine and hydroxychloroquine for therapeutic and prophylactic use were tested on the Vero cells infected with SARS-CoV-2 clinically isolate strain. (a) and (b): For treatment group, chloroquine and hydroxychloroquine were added medium after the Vero cells infected and cells were incubated with medium contained drugs for 24 or 48 hours. (c) and (d): For prophylactic treatment group, the Vero cells were pre-treated with chloroquine and hydroxychloroquine for 2 hours, and then viruses were added to medium to infect cells. After that, the medium was removed and replaced with fresh medium without drugs or viruses and cells were incubated for 24 or 48 hours. The viral yield in the cell supernatant was quantified by RT-PCR. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 193,
+                    "end": 201,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "/ 25"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Chloroquine and hydroxychloroquine as inhibitors of human immunodeficiency virus (HIV-1) activity. Curr Pharm Des",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Romanelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hoven",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "2643--2651",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "In vitro inhibition of severe acute respiratory syndrome coronavirus by chloroquine",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Keyaerts",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vijgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Maes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Neyts",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Ranst",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun. 2004",
+            "volume": "323",
+            "issn": "1",
+            "pages": "264--272",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Chloroquine is a potent inhibitor of SARS coronavirus infection and spread",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bergeron",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Benjannet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virol J",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "In vitro inhibition of human influenza A virus replication by chloroquine",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chew",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Loh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virol J",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "FDA-approved Drug, Prevents Zika Virus Infection and its Associated Congenital Microcephaly in Mice",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "24",
+            "issn": "",
+            "pages": "189--194",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Efficacy of Chloroquine and Lopinavir/ Ritonavir in mild/general novel coronavirus (CoVID-19) infections: a prospective, open-label, multicenter randomized controlled clinical study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Ministry of Science and Technology of China: chloroquine phosphate is effective in the treatment of novel coronavirus pneumonia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Design and synthesis of hydroxyferroquine derivatives with antimalarial and antiviral activities",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Biot",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Daher",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chavain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Med Chem",
+            "volume": "49",
+            "issn": "9",
+            "pages": "2845--2854",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Mechanism of action of hydroxychloroquine as an antirheumatic drug. Semin Arthritis Rheum",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "",
+            "volume": "23",
+            "issn": "",
+            "pages": "82--91",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Physiologically Based Pharmacokinetic Analyses-Format and Content Guidance for Industry",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Predictive Performance of Physiologically-Based Pharmacokinetic Models in Predicting Drug-Drug Interactions Involving Enzyme Modulation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hsueh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clin Pharmacokinet",
+            "volume": "57",
+            "issn": "10",
+            "pages": "1337--1346",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "China. Lancet. 2020",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A Novel Coronavirus from Patients with Pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Hydroxychloroquine: A Physiologically-Based Pharmacokinetic Model in the Context of Cancer-Related Autophagy Modulation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gustafson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Pharmacol Exp Ther",
+            "volume": "365",
+            "issn": "3",
+            "pages": "447--459",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Bioavailability of hydroxychloroquine tablets in healthy volunteers",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Tett",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cutler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Br J Clin Pharmacol",
+            "volume": "27",
+            "issn": "6",
+            "pages": "771--780",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Kinetics of the distribution and elimination of chloroquine in the rat",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Adelusi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salako",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Gen Pharmacol",
+            "volume": "13",
+            "issn": "",
+            "pages": "433--440",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Animal toxicity and pharmacokinetics of hydroxychloroquine sulfate",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mcchesney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Am J Med",
+            "volume": "75",
+            "issn": "",
+            "pages": "11--19",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Hydroxychloroquine Sulfate Tablets in Chinese Healthy Volunteers by LC-MS/MS. Rheumatol Ther",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "A dose-ranging study of the pharmacokinetics of hydroxy-chloroquine following intravenous administration to healthy volunteers",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Tett",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cutler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Br J Clin Pharmacol",
+            "volume": "26",
+            "issn": "3",
+            "pages": "303--316",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Single dose disposition of chloroquine in kwashiorkor and normal children--evidence for decreased absorption in kwashiorkor",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dawodu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salako",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Alv\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Br J Clin Pharmacol",
+            "volume": "23",
+            "issn": "4",
+            "pages": "467--72",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Disposition of chloroquine in man after single intravenous and oral doses",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gustafsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Alv\u00e1n",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Br J Clin Pharmacol",
+            "volume": "15",
+            "issn": "",
+            "pages": "471--480",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Prevention of chloroquine absorption by activated charcoal",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Neuvonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kivist\u00f6",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Laine",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pyykk\u00f6",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Hum Exp Toxicol. 1992",
+            "volume": "11",
+            "issn": "2",
+            "pages": "117--137",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Pharmacokinetics of hydroxychloroquine and chloroquine during treatment of rheumatic diseases",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Furst",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lupus. 1996",
+            "volume": "5",
+            "issn": "",
+            "pages": "11--16",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Endocytosis and chloroquine accumulation during the cell cycle of hepatoma cells in culture",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Quintart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Leroy-Houyet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Trouet",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Baudhuin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J Cell Biol",
+            "volume": "82",
+            "issn": "3",
+            "pages": "644--53",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "adefovir and tenofovir exhibit long-lasting anti-hepatitis B virus activity in cell culture",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ying",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Clercq",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Neyts",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lamivudine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Viral Hepat",
+            "volume": "7",
+            "issn": "1",
+            "pages": "79--83",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Chloroquine synergizes sunitinib cytotoxicity via modulating autophagic, apoptotic and angiogenic machineries",
+            "authors": [
+                {
+                    "first": "Abdel-Aziz Ak",
+                    "middle": [],
+                    "last": "Shouman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "El-Demerdash",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Elgendy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Abdel-Naim",
+                    "middle": [],
+                    "last": "Ab",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Chem Biol Interact",
+            "volume": "217",
+            "issn": "",
+            "pages": "28--40",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Mechanisms of action of hydroxychloroquine and chloroquine: implications for rheumatology",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Schrezenmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "D\u00f6rner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Rev Rheumatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Effects of chloroquine on viral infections: an old drug against today's diseases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Savarino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Boelaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cassone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Majori",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cauda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet Infect Dis",
+            "volume": "3",
+            "issn": "",
+            "pages": "722--729",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "On the use of corticosteroids for 2019-nCoV pneumonia",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lianhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jianping",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Du",
+                    "middle": [],
+                    "last": "Ronghui",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Systematic review and meta-analysis of serious infections with tofacitinib and biologic disease-modifying antirheumatic drug treatment in rheumatoid arthritis clinical trials",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Strand",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ahadieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "French",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Arthritis Res Ther",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "China. The outbreak has since rapidly spread to other provinces in mainland China, as well as other countries around the world. Currently the number of people diagnosed with SARS-CoV-2 infection is increasing by approximately 1000 cases a day. Unfortunately, to date, no drugs have approved by regulatory agencies for the treatment of SARS-CoV-2 infection.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Treatment study: In the treatment study Vero cells were infected at a multiplicity of infection (MOI) of 0.01 (100 PFU/well) for 2 hours at a temperature of 37\u00b0C .Virus input was washed with DMEM and the cells were then treated with medium containing either chloroquine or hydroxychloroquine at 0.032, 0.16, 0.80, 4, 20, 100 \u03bcM for 24 or 48 hours.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Viral RNA was extracted from 100 \u03bcL of supernatant of infected cells using the automated nucleic acid extraction system (TIANLONG, China) and the manufacturer's instructions. Detection of the SARS-CoV-2 virus was performed using the One Step Prime Script RT-PCR kit (TaKaRa, Japan) on the Light Cycler 480 Real-Time PCR system (Roche, Rotkreuz, Switzerland) with primers. The following sequences were used: forward primer: 5\u02b9-AGAAGATTGGTTAGATGATGATAGT-3\u02b9; reverse primer:5\u02b9-TTCCATCTCTAATTGAGGTTGAACC-3\u02b9; and probe:5\u02b9-FAM-TCCTCACTGCCGTCTTGTTG ACCA-BHQ1-3\u02b9.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Predicted and observed mean arithmetic concentration profiles. (a) and (b): validation for hydroxychloroquine (HCQ) PBPK model by blood data after intravenous administration; (c): validation for HCQ PBPK model by blood data after oral administration; (d): validation for HCQ PBPK model by plasma data after oral administration; (e): validation for chloroquine (CQ) PBPK model by blood data after oral administration; (f): validation for CQ PBPK model by blood data after intravenous administration; (g): validation for CQ PBPK model by plasma data after oral administration; (h): validation for CQ PBPK model by plasma data after oral administration. Details were summarized in supplement 2.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Predicted plasma (a), blood (b), and lung (c) concentration-time profiles of chloroquine (CQ) under the dose regimen A, and hydroxychloroquine (HCQ) under dose regimen B, regimen C, regimen D, regimen E, and regimen F. 22 / 25 Tables",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "/ 25",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Figure 2",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Ratios of free lung tissue trough concentration/EC50 (RLTEC) under different dosageRLTEC: ratio of free lung tissue trough concentration/EC50.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We want to thank Dr. Lisa Almond and Luke Guilliatt from Simcyp Limited for providing the chloroquine compound file. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "C.S., H.L., and D.L. have patents pending for Anti-microbial infection pharmoceutical composition and its application. All other authors have no potential conflicts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest"
+        }
+    ]
+}

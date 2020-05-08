@@ -1,0 +1,1275 @@
+{
+    "paper_id": "c718388a0693f477da4e47168b1f3893b3f321e8",
+    "metadata": {
+        "title": "Clinical and Pathogenic Characteristics of Lower Respiratory Tract Infection Treated at the Vietnam National Children's Hospital",
+        "authors": [
+            {
+                "first": "Hien",
+                "middle": [
+                    "T"
+                ],
+                "last": "Pham",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Phuc",
+                "middle": [
+                    "T T"
+                ],
+                "last": "Nguyen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sinh",
+                "middle": [
+                    "T"
+                ],
+                "last": "Tran",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thuy",
+                "middle": [
+                    "T B"
+                ],
+                "last": "Phung",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Lower respiratory tract infections are commonly caused by viruses and cause significant morbidity and mortality among children. Early identification of the pathological agent causing these infections is essential to avoid unnecessary antibiotic use and improve patient management. Multiplex PCR techniques were recently developed to detect multiple viral pathogens using a single PCR reaction. In this study, we identify viral pathogens in children with respiratory infections. We collected 194 nasopharyngeal aspirates from infants (2-24 months old) with lower respiratory tract infections treated at the Vietnam National Children's Hospital between November 2014 and June 2015 and assessed the presence of 16 virus types and subtypes by multiplex PCR using the xTAG Respiratory Viral Panel (RVP) assay. Overall, 73.7% of the samples were positive for at least one virus, and 24.2% corresponded to infections with multiple viruses. e most common viruses were respiratory syncytial virus and enterovirus/ rhinovirus. ese viruses were more frequent among younger patients (2-5 months old) and caused symptoms similar to those of bronchiolitis and pneumonia. e most common clinical manifestation caused by respiratory tract infection was bronchiolitis. Elevated neutrophils levels were associated with adenovirus infection. Our results showed that the xTAG Respiratory Viral Panel (RVP) can effectively detect multiple viruses causing respiratory infections in children and that the nasopharyngeal aspirates are a good sample choice to detect respiratory viruses in children. Applying this approach in the clinical setting would improve patient management and allow early diagnosis, thus avoiding the unnecessary use of antibiotics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Acute respiratory infections (ARIs) are common among children worldwide. Although they have similar incidence rate in developed and developing countries, the mortality rate is higher in developing countries [1] [2] [3] . ARIs are responsible for approximately 20% of all deaths in children under 5 years in 2006; about 70% of these deaths occur in sub-Saharan Africa and the southern regions of Asia. Viruses are the main causative agents of respiratory infection, but bacteria, fungi, and parasites can cause them as well. e leading ARI-causing viruses are rhinovirus and respiratory syncytial virus (RSV) [4] , with RSV affecting mainly infants under 1 year of age [5, 6] .",
+            "cite_spans": [
+                {
+                    "start": 207,
+                    "end": 210,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 211,
+                    "end": 214,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 215,
+                    "end": 218,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 607,
+                    "end": 610,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 667,
+                    "end": 670,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 671,
+                    "end": 673,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Viruses primarily infect and replicate in the airway epithelium, causing injuries in the proximal (conducting) and distal airways (alveoli and parenchyma), where gas exchange occurs. Viral infection can have multiple clinical manifestations, such as pneumonia, defined as an inflammation of the lung parenchyma.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "is condition is often associated with visible changes on chest X-rays, CTscanning, or gallium scanning and with abnormalities in alveolar gas exchange. e presentations of viral pneumonia vary considerably depending on the age and immunological competence of the host, as well as the viral pathogen. Viral pneumonia is an important cause of morbidity and mortality in immune compromised individuals and children [7] . e clinical presentation depends on the specific causative agent but typically includes fever and lower respiratory tract symptoms, such as tachypnoea, nonproductive cough, wheeze, and increased breath sound [7, 8] .",
+            "cite_spans": [
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 624,
+                    "end": 627,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 628,
+                    "end": 630,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Inappropriate antibiotic use during acute respiratory infection has led to an increase in antimicrobial resistance [9] . erefore, early detection of the pathogen causing respiratory infection may prevent antibiotic issue and help improve patient management [10] . However, the lack of rapid, affordable, sensitive, and specific diagnostic tools is one of the main reasons for inefficient diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 118,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 257,
+                    "end": 261,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "PCR has revolutionized the field of infectious disease diagnosis. Multiplex PCR, a variant that uses several pairs of primers to amplify more than one target sequence in a single tube, was developed to detect different viruses in a single sample [11] . Previous studies showed that multiplex assays using a limited amount of sample had similar performance to that of traditional methods when used for clinical diagnosis [12] . Additionally, they have the benefit of detecting a large number of viruses in a short time.",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 250,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 420,
+                    "end": 424,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "e xTAG Respiratory Viral Panel Fast (RVP FAST) is a qualitative nucleic acid multiplex test that simultaneously detects and identifies the presence of nucleic acids from multiple respiratory viruses in a single tube. It works with samples such as nasopharyngeal swabs, nasal aspirates, nasopharyngeal aspirates, and bronchoalveolar lavages from individuals suspected of respiratory tract infections. e xTAG RVP FAST test has shown superior sensitivity when compared to single real-time PCR and conventional PCR assays [11, 13, 14] . In the present study, we used the xTAG RVP FAST assay to identify the viruses causing RI in children and the relationship between specific viruses and clinical outcome.",
+            "cite_spans": [
+                {
+                    "start": 518,
+                    "end": 522,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 523,
+                    "end": 526,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "is cross-sectional study was held between November 2014 and June 2015. We enrolled 194 pediatric infants (2-24 months old) who had lower respiratory tract infections and were treated at the Vietnam National Children's Hospital. We collected nasopharyngeal aspirates from each participant. Patients were divided into 3 age groups. e first group included infants between 2 and 5 months (n \ufffd 71) who were breastfed and likely received passive immunity from their mothers. e second group included infants between 6 and 11 months old (n \ufffd 66) who spent most of their time at home. e third groups included infants between 12 and 24 months old (n \ufffd 57) who attended different nurseries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients."
+        },
+        {
+            "text": "is study was approved by the VNCH Ethics Committee (approval number: 521B/NCH-RICH). Written informed consent was obtained from the parents or legal guardians of the children enrolled in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics Statement."
+        },
+        {
+            "text": "We collected 2 ml of nasopharyngeal aspirate from each participant and stored the samples at \u221270\u00b0C until analysis. NPA collection was performed by trained nurses. e catheter was inserted into the nostril to a depth of 5 to 7 cm and drawn back while applying gentle suction with a syringe.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Specimens."
+        },
+        {
+            "text": "NPA sample (200 \u03bcl) from the patient was subjected to total nucleic extraction after addition of internal control bacteriophage MS2 (20 \u03bcl) using the MagNA Pure LC Total Nucleic Acid Isolation kit (Roche Diagnostics, Germany) on Magna Pure LC 2.0 platform, following the manufacturer's instructions [15] . e method is based on magnetic-bead technology. e procedure included cellular destruction, nucleic acid binding on beads, and washing steps to remove cellular and purified nucleic acid elution. Extracted nucleic acids were eluted in 50 \u00b5l of elution buffer and stored at \u221280\u00b0C for RVP FAST assay.",
+            "cite_spans": [
+                {
+                    "start": 299,
+                    "end": 303,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nucleic Acid Extraction."
+        },
+        {
+            "text": "cluding subtypes H1N1 (1977), H1N1pdm09, H3N2, respiratory syncytial virus A and B (RSVA, RSVB), enteroviruses including rhinoviruses (EV/Rhi), human parainfluenza viruses 1-4 (PIV1-4), human metapneumovirus (hMPV), adenovirus (ADV), human coronavirus NL63 (hCoV NL63), hCoV HKU1, hCoV 229E, hCoV OC43, and human bocavirus (hBoV). e assay was performed according to the manufacturer's instructions. Assay performance was controlled using bacteriophage lambda included in every run. e assay comprised two steps: a multiplex PCR amplification step and hybridization step.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "xTAG Respiratory Viral Panel Fast (RVP FAST). RVP FAST assay detects influenza A and B (INFA, INFB) in-"
+        },
+        {
+            "text": "2.6. Multiplex RT-PCR. PCR amplification was performed on the Applied Biosystems Gene amp 9700 PCR (Applied Biosystems, USA) with the following program: preheating at 50\u00b0C for 20 min; template denaturation at 95\u00b0C for 15 min; 34 cycles of 95\u00b0C for 30 s, 59\u00b0C for 30 s, and 72\u00b0C for 30 s; and final extension at 72\u00b0C for 2 min and kept at 4\u00b0C until ready tousle.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "xTAG Respiratory Viral Panel Fast (RVP FAST). RVP FAST assay detects influenza A and B (INFA, INFB) in-"
+        },
+        {
+            "text": "e hybridization reaction was performed on Luminex 100/200 system (LMD, Toronto, Canada). e hybridization assay includes 20 \u00b5l xTAG RVP FAST bead mix, 2 \u00b5l amplified nucleic acid, and 75 \u00b5l Streptavidin, R-Phycoerythrin Conjugate (SA-PE) reporter. All reagents were incubated at 45\u00b0C for 20 minutes. Signal acquisition was done on a Luminex 100/200 instrument. Data were analyzed and reported by xTAG Data Analysis Software (TDAS).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hybridization."
+        },
+        {
+            "text": "e infections were classified as pneumonia, bronchiolitis, or bronchitis based on clinical findings and chest X-rays (CXR). Pneumonia was defined as ARI characterized by infiltrates on the CXR. Bronchiolitis was defined as ARI in children under 2 years who presented wheezing and hyperaeration and atelectasis or peribronchial thickening in the CXR. Bronchitis was defined as ARI in children over 2 years old who presented wheezing, hyperaeration, and peribronchial thickening on the CXR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ARI Classification."
+        },
+        {
+            "text": "Analysis. Statistical analysis was performed using Fisher's exact test. p < 0.05 was considered significant (SPSS 13).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical"
+        },
+        {
+            "text": "e xTAG RVP FAST assay system detected one or more respiratory viruses in 73.7% (143/194) of the samples (Table 1) . RSV was the most common virus (51%, 73/143), followed by enterovirus/rhinovirus (EV/Rhi), parainfluenza (PIV), adenovirus (AdV), influenza A/B, and human bocavirus (hBoV). Overall, 96 samples were positive for a single virus, 37 for 2 viruses, 9 for 3 viruses, and 1 for 4 viruses.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 104,
+                    "end": 113,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Respiratory Virus Detection."
+        },
+        {
+            "text": "Groups. RSV and EV/Rhi were detected more frequently in children under 6 months (Figure 1 ). For other viruses, there was no difference among age groups.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 80,
+                    "end": 89,
+                    "text": "(Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Viruses Causing Respiratory Infections in Different Age"
+        },
+        {
+            "text": "Children with viral infection in the upper respiratory tract showed symptoms such as runny nose, cough, and hoarseness. Some of them also present lower respiratory tract symptoms such as wheezing, severe cough, breathlessness, and respiratory distress, which may be due to bronchiolitis or pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infection with Respiratory Viruses Depends on Inflammation of the Respiratory Tract."
+        },
+        {
+            "text": "We divided the patients according to three clinical manifestations: pneumonia, bronchiolitis, and bronchitis, and investigated whether the detected viruses were associated with a specific clinical manifestation. Our analysis showed that in most cases, RSV infections induced bronchiolitis (n \ufffd 45), followed by pneumonia (n \ufffd 22, p \ufffd 0.004) and bronchitis (n \ufffd 6, p \ufffd 0.0015). EV/Rhi infections more often induced pneumonia or bronchiolitis (n \ufffd 19 for both) instead of bronchitis (n \ufffd 6, p \ufffd 0.03) (Figure 2 ). Other Total positive  specimens  143 73  62  28  15  6  9  3  3   Single infection  96  44  28  12  3  3  3  1  1  Double infection  37  22  26  11  7  3  2  1  1  Triple infection  9  6  7 In the respiratory syncytial virus-(RSV-) infected group, the prevalence of pneumonia symptoms was significantly lower than that of bronchiolitis symptoms and significantly higher than that of bronchitis symptoms. In the enterovirus (EV)/rhinovirus (Rhi) infected group, the prevalence of pneumonia symptoms was significantly higher than that of bronchitis symptoms. Other viruses showed a similar prevalence of each manifestation. * p < 0.05. viruses showed a similar prevalence of each clinical manifestation.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 499,
+                    "end": 508,
+                    "text": "(Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 518,
+                    "end": 701,
+                    "text": "Total positive  specimens  143 73  62  28  15  6  9  3  3   Single infection  96  44  28  12  3  3  3  1  1  Double infection  37  22  26  11  7  3  2  1  1  Triple infection  9  6  7",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Infection with Respiratory Viruses Depends on Inflammation of the Respiratory Tract."
+        },
+        {
+            "text": "Virus Infections. All respiratory viruses may cause symptoms such as nasal congestion, runny nose, wheezing, and cough. We found no significant association between the viruses and a specific symptom.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Respiratory Signs of Patients with Respiratory"
+        },
+        {
+            "text": "We studied whether the presence of specific viral agents was associated with clinical parameters such as respiratory rate (breaths/min), heart rate (beats/min), and peripheral capillary oxygen saturation (SPO 2 , %) or with blood test parameters such as white blood count, neutrophil count, or C-reactive protein (CRP). Elevated neutrophils were associated with adenovirus infection (OR \ufffd 1.4, p \ufffd 0.006, Figure 3 ). ere were no other noticeable associations.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 405,
+                    "end": 413,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Clinical Data in Patients with Respiratory Viral Infection."
+        },
+        {
+            "text": "CRP was slightly higher in the adenovirus and enterovirus/rhinovirus infection groups than in the negative group (p \ufffd 0.29 and 0.32, respectively). Neutrophils were significantly higher in the adenovirus infection group (48.7%) than in the negative group (35.6%, p \ufffd 0.0058).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Data in Patients with Respiratory Viral Infection."
+        },
+        {
+            "text": "In this study, we calculated the frequency of different respiratory viruses present in children with lower respiratory tract infection at the Vietnam National Children's Hospital. e high proportion of viruses detected in pediatric ARI patients agreed with previous studies done in Vietnam [5] . with the severity of children with respiratory infections, while those viruses were detected rarely in the North of Vietnam due to the difference of the location and climate between the South and North of Vietnam. [16] . RSV and EV/ Rhi were the most frequent viruses, which was similar to the findings of a study done in Southern Vietnam [6] .",
+            "cite_spans": [
+                {
+                    "start": 289,
+                    "end": 292,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 634,
+                    "end": 637,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "RSV, rhinoviruses, influenza viruses, parainfluenza viruses, enteroviruses, coronaviruses, and certain strains of adenovirus are the leading causes of viral respiratory infections in children. e nasal or respiratory secretions from children with viral respiratory tract infections contain more viruses than those from infected adults. e increased output of viruses, together with an overall reduced attention to hygiene, makes children more likely to spread their infection to others.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "When viruses invade the cells of the respiratory tract, they trigger inflammation and mucus production, which causes nasal congestion, runny nose, scratchy throat, and cough. e small airways of young children can be significantly narrowed by inflammation and mucus, making breathing difficult. Airway problems are most common in infections caused by parainfluenza viruses, RSV, and human metapneumovirus [1, 8, 17] . Bronchiolitis occurs predominantly in the first year of life and with decreasing frequency in the second and third years. It is characterized by inflammatory obstruction of the small airways and hyperinflation of the lungs and typically presents along with breathing problems and wheezing. RSV is the primary causative agent of bronchiolitis worldwide, causing between 70 or 80 percent of ARIs during the high season [18] [19] [20] . RSV was the only virus associated with bronchiolitis in this study.",
+            "cite_spans": [
+                {
+                    "start": 404,
+                    "end": 407,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 408,
+                    "end": 410,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 834,
+                    "end": 838,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 839,
+                    "end": 843,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 844,
+                    "end": 848,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Neutrophils are immune cells that are present in many lung diseases associated with acute respiratory distress syndrome (ARDS) and may contribute to acute lung injury. Neutrophils are poorly studied with respect to viral infection. We observed an association between elevated neutrophil count and adenovirus infection, which might indicate an association between neutrophil count and damage to the alveolar epithelium.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Finding biomarkers to diagnose specific viral infections is essential to improve patient care [21] . CRP is an acute phase protein synthesized by the liver in response to IL-6 increase, which is used as a biomarker of inflammation [22] and to distinguish between bacterial and viral infections. It is not well known if CRP levels differ between different viral respiratory infections. In this study, we found no significant association between CRP and a specific virus.",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 231,
+                    "end": 235,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Bronchiolitis was the most common clinical characteristic of lower respiratory tract infection at the Vietnam National Children's Hospital.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "xTAG RVP FAST can effectively detect different virus from specimens with low viral loads. e assay should be applied in the clinic for the screening of multiple respiratory viral infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "e data used to support the findings of this study are included within the article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Availability"
+        },
+        {
+            "text": "is study has been approved by the VNCH Ethics Committee (approval number: 521B/NCH-RICH).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical Approval"
+        },
+        {
+            "text": "Written informed consent was obtained from all patients enrolled in the study or their legal guardians.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent"
+        },
+        {
+            "text": "e authors declare that there are no conflicts of interest regarding the publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "e changing face of pediatric respiratory tract infections: how human metapneumovirus and human bocavirus fit into the overall etiology of respiratory tract infections in young children",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hustedt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vazquez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "e Yale Journal of Biology and Medicine",
+            "volume": "83",
+            "issn": "4",
+            "pages": "193--200",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Respiratory viral infections and host responses; insights from genomics",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Troy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bosco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Respiratory Research",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Multiplex PCR: optimization and application in diagnostic virology",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Elnifro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ashshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Klapper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Clinical Microbiology Reviews",
+            "volume": "13",
+            "issn": "4",
+            "pages": "559--570",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Fatal respiratory infections associated with rhinovirus outbreak",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hai",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "T N"
+                    ],
+                    "last": "Bich",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ngai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Emerging Infectious Diseases",
+            "volume": "18",
+            "issn": "11",
+            "pages": "1886--1888",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical and epidemiological characteristics of acute respiratory virus infections in Vietnamese children",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Trinh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "T K"
+                    ],
+                    "last": "Pham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Epidemiology and Infection",
+            "volume": "144",
+            "issn": "3",
+            "pages": "527--536",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Human rhinovirus infections in hospitalized children: clinical, epidemiological and virological features",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Trinh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "T K"
+                    ],
+                    "last": "Pham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Epidemiology and Infection",
+            "volume": "144",
+            "issn": "2",
+            "pages": "346--354",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Comparison of the Luminex xTAG respiratory viral panel with xTAG respiratory viral panel fast for diagnosis of respiratory virus infections",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pabbaraju",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tokaryk",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fonseca",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Drews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "49",
+            "issn": "5",
+            "pages": "1738--1744",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Mini-symposium: microbiological diagnostic procedures in respiratory infection respiratory virus infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Alison",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kesson",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Paediatric Respiratory Reviews",
+            "volume": "8",
+            "issn": "",
+            "pages": "240--248",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Access to a polymerase chain reaction assay method targeting 13 respiratory viruses can reduce antibiotics: a randomised, controlled trial",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Brittain-Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Westin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Olofsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lindh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Andersson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Medicine",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Diagnostic errors that lead to inappropriate antimicrobial use",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Filice",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Drekonja",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Urn",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hamann",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Masoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Infection Control & Hospital Epidemiology",
+            "volume": "36",
+            "issn": "8",
+            "pages": "949--956",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Multiplex PCR and emerging technologies for the detection of respiratory pathogens",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Caliendo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Clinical infectious diseases:an official publication of the Infectious Diseases Society of America",
+            "volume": "52",
+            "issn": "",
+            "pages": "326--330",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Assessment of the usefulness of multiplex real-time PCR tests in the diagnostic and therapeutic process of pneumonia in hospitalized children: a single-center experience",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gowin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bartkowska-Sniatkowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jonczyk-Potoczna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BioMed Research International",
+            "volume": "2017",
+            "issn": "",
+            "pages": "8037963--8037971",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Comparison of the Luminex xTAG RVP Fast assay and the idaho technology filmarray RP assay for detection of respiratory viruses in pediatric patients at a cancer hospital",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Babady",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mead",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stiles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "50",
+            "issn": "7",
+            "pages": "2282--2288",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Comparison of the luminex xTAG respiratory viral panel with in-house nucleic acid amplification tests for diagnosis of respiratory virus infections",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pabbaraju",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tokaryk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "46",
+            "issn": "9",
+            "pages": "3056--3062",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Fully automated nucleic acid extraction: MagNA Pure LC",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mu\u1e27lbauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stelzl",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Daghofer",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Santner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Marth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clinical Chemistry",
+            "volume": "47",
+            "issn": "6",
+            "pages": "1124--1126",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Human bocavirus in children with acute respiratory infections in Vietnam",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "Q N"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hayakawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mizuguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ushijima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Medical Virology",
+            "volume": "86",
+            "issn": "6",
+            "pages": "988--994",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Cellular immunity and lung injury in respiratory virus infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bruder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Srikiatkhachorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Enelow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Viral Immunology",
+            "volume": "19",
+            "issn": "2",
+            "pages": "147--155",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Respiratory syncytial virus infection",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Simoes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Lancet",
+            "volume": "354",
+            "issn": "9185",
+            "pages": "847--852",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Pathogen screening and prognostic factors in children with severe ARDS of pulmonary origin",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "T B"
+                    ],
+                    "last": "Phung",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Phan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Pediatric Pulmonology",
+            "volume": "52",
+            "issn": "11",
+            "pages": "1469--1477",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Respiratory syncytial virus infections: recent prospects for control",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Sidwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Barnard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Antiviral Research",
+            "volume": "71",
+            "issn": "2-3",
+            "pages": "379--390",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Association between C-reactive protein and metabolic syndrome in Korean adults",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.-C",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Korean Journal of Family Medicine",
+            "volume": "40",
+            "issn": "2",
+            "pages": "116--123",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "C-reactive protein: ligands, receptors and role in inflammation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Marnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mold",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Du Clos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clinical Immunology",
+            "volume": "117",
+            "issn": "2",
+            "pages": "104--111",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Bar graph showing the respiratory viruses detected in each age group. e most abundant viruses were respiratory syncytial virus (RSV) and enterovirus (EV)/rhinovirus (Rhi), which mainly infected patients in the 2-5 months group. * p < 0.001. Bar graph illustrating the association between specific viral infections and clinical manifestations of acute respiratory infections.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Tran et al. found that in the South of Vietnam, human rhinovirus (HRV) and human bocavirus were associated Bar graphs showing the association between specific viral infection and subclinical and clinical signs. (a) Comparison of clinical data between adenovirus infection and the negative group. (b) Comparison between enterovirus/rhinovirus infection and the negative group. (c) Comparison between respiratory syncytial virus (RSV) infection and the negative group. RR: respiratory rate; SPO 2 : peripheral capillary oxygen saturation; HR: heart rate; WBC: white blood cell count; NEU: neutrophil count; CRP: C-reactive protein.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Viruses detected in 194 patients with acute respiratory infections using the respiratory viral panel Fast assay.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

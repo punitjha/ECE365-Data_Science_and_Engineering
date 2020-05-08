@@ -1,0 +1,1359 @@
+{
+    "paper_id": "d0764792e269267b458b64abaed85ef6cf298a96",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Timothy",
+                "middle": [
+                    "W"
+                ],
+                "last": "Russell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Joel",
+                "middle": [],
+                "last": "Hellewell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christopher",
+                "middle": [
+                    "I"
+                ],
+                "last": "Jarvis",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kevin",
+                "middle": [],
+                "last": "Van Zandvoort",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sam",
+                "middle": [],
+                "last": "Abbott\u00b9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ruwan",
+                "middle": [],
+                "last": "Ratnayake",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cmmid",
+                "middle": [],
+                "last": "Covid-19",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stefan",
+                "middle": [],
+                "last": "Flasche\u00b9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rosalind",
+                "middle": [
+                    "M"
+                ],
+                "last": "Eggo\u00b9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [],
+                "last": "Edmunds\u00b9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Adam",
+                "middle": [
+                    "J"
+                ],
+                "last": "Kucharski\u00b9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Russell",
+                "middle": [],
+                "last": "Timothy",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hellewell",
+                "middle": [],
+                "last": "Joel",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jarvis",
+                "middle": [],
+                "last": "Christopher",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zandvoort",
+                "middle": [],
+                "last": "Kevin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abbott",
+                "middle": [],
+                "last": "Sam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ratnayake",
+                "middle": [],
+                "last": "Ruwan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Covid-19",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Flasche",
+                "middle": [],
+                "last": "Stefan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rosalind",
+                "middle": [
+                    "M"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Edmunds",
+                "middle": [
+                    "W"
+                ],
+                "last": "John",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kucharski",
+                "middle": [],
+                "last": "Adam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Thibaut",
+                "middle": [],
+                "last": "Jombart",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Amy",
+                "middle": [],
+                "last": "Gimma",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nikos",
+                "middle": [
+                    "I"
+                ],
+                "last": "Bosse",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alicia",
+                "middle": [],
+                "last": "Rosello",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mark",
+                "middle": [],
+                "last": "Jit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "D"
+                ],
+                "last": "Munday",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Billy",
+                "middle": [
+                    "J"
+                ],
+                "last": "Quilty",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Petra",
+                "middle": [],
+                "last": "Klepac",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hamish",
+                "middle": [],
+                "last": "Gibbs",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yang",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sebastian",
+                "middle": [],
+                "last": "Funk",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Samuel",
+                "middle": [],
+                "last": "Clifford",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fiona",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kiesha",
+                "middle": [],
+                "last": "Prem",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Charlie",
+                "middle": [],
+                "last": "Diamond",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nicholas",
+                "middle": [],
+                "last": "Davies",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Carl",
+                "middle": [
+                    "A B"
+                ],
+                "last": "Pearson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for the Mathematical Modelling of Infectious Diseases",
+                    "institution": "",
+                    "location": {
+                        "settlement": "London, London, London, London",
+                        "country": "United Kingdom, United Kingdom"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Adjusting for delay from confirmation to death, we estimated case and infection fatality ratios (CFR, IFR) for coronavirus disease (COVID-19) on the Diamond Princess ship as 2.6% (95% confidence interval (CI): 0.89-6.7) and 1.3% (95% CI: 0.38-3.6), respectively. Comparing deaths on board with expected deaths based on naive CFR estimates from China, we estimated CFR and IFR in China to be 1.2% (95% CI: 0.3-2.7) and 0.6% (95% CI: 0.2-1.3), respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In real time, estimates of the case fatality ratio (CFR) and infection fatality ratio (IFR) can be biased upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation to death. Collecting detailed epidemiological information from a closed population such as the quarantined Diamond Princess cruise ship in Japan can produce a more comprehensive description of asymptomatic and symptomatic cases and their subsequent outcomes. Our aim was to estimate the IFR and CFR of coronavirus disease in China, using data from passengers of the Diamond Princess while correcting for delays between confirmation and death and for the age structure of the population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On 1 February 2020, a patient tested positive for COVID-19 in Hong Kong; they had disembarked from the Diamond Princess cruise ship on 25 January [1,2]. This patient had had onset of symptoms on 19 January, one day before boarding the ship [1] . After its return to Yokohama, Japan, on 3 February, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members on board.",
+            "cite_spans": [
+                {
+                    "start": 240,
+                    "end": 243,
+                    "text": "[1]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Situation on the cruise ship"
+        },
+        {
+            "text": "Passengers of the Diamond Princess were initially to be held in quarantine for 14 days until 17 February. However, those who had intense exposure to the confirmed case-patient, such as sharing a cabin, were held in quarantine beyond the initial 14-day window [2]. According to reference [2], by 20 February, there were 619 confirmed cases on-board (17%), 318 of them were asymptomatic (asymptomatic cases were either selfassessed to be symptomless or tested positive before symptom onset) and 301 were symptomatic [ ",
+            "cite_spans": [
+                {
+                    "start": 514,
+                    "end": 515,
+                    "text": "[",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Situation on the cruise ship"
+        },
+        {
+            "text": "To date, there have been many estimates of the CFR of COVID-19, far too many to exhaustively summarise here. However, to give an idea, estimates range from 0.4% (95% confidence interval (CI): 0.4-0.5) [3] to 3.8% [4] . During an outbreak, the so-called naive CFR (nCFR), i.e. the ratio of reported deaths date to reported cases to date, will underestimate the true CFR because the outcome (recovery or death) is not known for all cases [5, 6] , assuming all cases are detected. We can estimate the true denominator for the CFR (i.e. the number of cases with known outcomes) by accounting for (Table 2) using data from the outbreak in Wuhan, China. The distribution has a mean of 13 days and standard deviation of 12.7 days. Case and death time-series data is as reported until 5 March 2020 and is taken from [8] . Nine negative cases on 5 March were removed from the figure for aesthetic purposes. However, they were included in the analysis.",
+            "cite_spans": [
+                {
+                    "start": 213,
+                    "end": 216,
+                    "text": "[4]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 436,
+                    "end": 439,
+                    "text": "[5,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 440,
+                    "end": 442,
+                    "text": "6]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 808,
+                    "end": 811,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 592,
+                    "end": 601,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Adjusting for outcome delay in case fatality ratio estimates"
+        },
+        {
+            "text": "the delay from confirmation to death [6] . We assumed that the delay from confirmation to death followed the same distribution as the estimated time from hospitalisation to death, based on data from the COVID-19 outbreak in Wuhan, China, between 17 December 2019 and 22 January 2020, accounting for underestimation in the data as a result of as-yet-unknown disease outcomes (Figure, panels A and B) [7] . As a sensitivity analysis, we also considered raw 'non-truncated' distributions, which do not account for censoring (i.e. because of the continued growth of the outbreak, cases with shorter incubation periods are more likely to be included in the data set); the raw and truncated distributions (Supplementary Figure S1 ) had a mean of 8.6 days and 13 days, respectively (Supplementary Tables S1 and  S2 ).",
+            "cite_spans": [
+                {
+                    "start": 37,
+                    "end": 40,
+                    "text": "[6]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 399,
+                    "end": 402,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 714,
+                    "end": 723,
+                    "text": "Figure S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 775,
+                    "end": 807,
+                    "text": "(Supplementary Tables S1 and  S2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Adjusting for outcome delay in case fatality ratio estimates"
+        },
+        {
+            "text": "We used data from two different sources in our analyses. Time-series for the date of confirmation of cases and the date of each death were taken from the World Health Organization situation reports [8] , using data up to 5 March. The breakdown of which cases were symptomatic and which were asymptomatic was taken from [1] and [2], which included data up to 20 February. There were 634 cases in total by 20 February according to [8] and 696 by 5 March. The asymptomatic vs symptomatic breakdown was taken from a total of 619 cases [1]. For comparison, we ran an uncorrected version of the analysis using data up to 25 March in the Supplementary Material. Nine negative cases were officially reported on 5 March [8] , which we included in our analysis but omitted from Figure 1 for aesthetic purposes.",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 429,
+                    "end": 432,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 711,
+                    "end": 714,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 768,
+                    "end": 776,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Data sources"
+        },
+        {
+            "text": "To adjust the CFR to account for delay to outcome, we use the method developed in [6] where case and death incidence data are used to estimate the number of cases with known outcomes, i.e. cases where the resolution, death or recovery, is known to have occurred:",
+            "cite_spans": [
+                {
+                    "start": 82,
+                    "end": 85,
+                    "text": "[6]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data sources"
+        },
+        {
+            "text": "where c t is the daily case incidence at time t, (with time measured in calendar days), f t is the proportion of cases with delay t between onset or hospitalisation and death; u t represents the underestimation of the known outcomes [6, 7] and is used to scale the value of the cumulative number of cases in the denominator in the calculation of the cCFR. Given that asymptomatic infections are typically not reported, especially during an ongoing outbreak of a novel infection, this correction is normally used to calculate the cCFR. However, because of the high level of testing on the cruise ship, we were able to use this correction to calculate the corrected IFR (cIFR). After that, we used the measured proportions of asymptomatic to symptomatic cases on the Diamond Princess to scale the cIFR to estimate the cCFR. Method and data are available at: https://github. com/thimotei/cCFRDiamondPrincess.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 236,
+                    "text": "[6,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 237,
+                    "end": 239,
+                    "text": "7]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data sources"
+        },
+        {
+            "text": "We estimated that the all-age cIFR on the Diamond Princess was 1.3% (95% confidence interval (CI): 0.38-3.6) and the cCFR was 2.6% (95% CI: 0.89-6.7) (Table 1 ). However, as the age distribution on the ship was skewed towards older individuals (mean age: 58 years), we also report age-stratified estimates. Using the age distribution of cases and deaths on the ship [1,2] to estimate for only individuals 70 years and older, the cIFR was 6.4% (95% CI: 2.6-13) and the cCFR was 13% (95% CI: 5.2-26) ( Table 1 ). The 95% CI were calculated with an exact binomial test, with death count and either cases or known outcomes (depending on whether it was an interval for the naive or corrected estimate).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 150,
+                    "end": 158,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 500,
+                    "end": 507,
+                    "text": "Table 1",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Corrected infection fatality ratio and case fatality ratio estimates"
+        },
+        {
+            "text": "Using an approach similar to indirect standardisation [9] , we used the age-stratified nCFR estimates reported in a large study in China [10] to calculate the expected number of deaths of people on board the ship in each age group, (assuming this nCFR estimate in the standard population was accurate). This produced a total of 15.15 expected deaths, which corresponds to a nCFR estimate of 5% (15.15/301) for the Diamond Princess (Table 2) , which falls within the top end of our 95% CI. As our cCFR for Diamond Princess was 2.6% (95% CI: 0.89-6.7), this suggests we need to multiply the nCFR estimates in China [7] by a factor 52% (95% CI: 14-100) to obtain the correct value. As the raw overall nCFR reported in the data from China was 2.3% [10] , this suggests the cCFR in China during that period was 1.2% (95% CI: 0.3-3.1) and the IFR was 0.6% (95% CI: 0.2-1.7). Based on cases and deaths reported in China up to 4 March 2020, the nCFR calculation was considerably higher than the cCFR we estimate here (based on data taken from [8] , nCFR = 2,984/80,422 = 3.71% (95% CI: 3.58-3.84)). The confidence intervals calculated for China using an indirect standardisation method reflect the uncertainty in the Diamond Princess estimates, as it is carried forward in the scaling. CI: confidence interval; cCFR: corrected case fatality ratio; cIFR: corrected infection fatality ratio. Data source: [8] . Correction was performed using Formula (1) and the hospitalisation-to-death distribution in [9] .",
+            "cite_spans": [
+                {
+                    "start": 54,
+                    "end": 57,
+                    "text": "[9]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 613,
+                    "end": 616,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 744,
+                    "end": 748,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1035,
+                    "end": 1038,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1395,
+                    "end": 1398,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1493,
+                    "end": 1496,
+                    "text": "[9]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 431,
+                    "end": 440,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Corrected infection fatality ratio and case fatality ratio estimates"
+        },
+        {
+            "text": "As at 24 March 2020, there have been 386,317 confirmed cases of coronavirus disease 2019 (COVID-19), with 16,713 deaths [8] . It is challenging to accurately estimate the CFR in real time [5, 11] , especially for an infection with attributes similar to COVID-19, which has a delay of almost 2 weeks between confirmation and death, strong effects of age and comorbidities on mortality risk, and likely under-reporting of cases in many settings [10] . Using an age-stratified adjustment method, we accounted for changes in known outcomes over time. By applying this method to data from the Diamond Princess, we focused on a setting that was likely to have lower reporting error because large numbers were tested and the test had high sensitivity.",
+            "cite_spans": [
+                {
+                    "start": 120,
+                    "end": 123,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 188,
+                    "end": 191,
+                    "text": "[5,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 192,
+                    "end": 195,
+                    "text": "11]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 443,
+                    "end": 447,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "As the mean age on board the ship was 58 years, our cCFR estimates cannot directly be applied to a younger population; we therefore scaled our estimates to obtain values for a population with an age distribution equivalent to that in the outbreak in China. Although the Diamond Princess cohort was older, meaning that some deaths could be attributable to other causes, the natural death rate would have been much slower than the fatalities attributable to COVID-19. Given the limited background effect -and to ensure consistency with standard estimates of CFR rather than a hybrid 'burden over natural rate' calculation -we assumed that all deaths among COVID-19 cases were the result of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our analysis had additional limitations. Cruise ship passengers may have a different health status to the general population of their home countries, owing to health requirements to embark on a multi-week holiday, or differences related to socioeconomic status or comborbities. Deaths only occurred in individuals 70 years or older, so we were not able to generate age-specific cCFRs; the fatality risk may also have been influenced by differences in healthcare between countries. Because of likely age-specific differences in reporting, we focused on overall cCFR in China, rather than calculating age-specific cCFRs [10, 11] . In doing so, we were assuming that there were no age-specific differences in under-reporting. The main source of potential bias in this assumption is the age-specific severity level of COVID-19; there may be far lower levels of detection in children if their symptoms are milder, meaning that they are tested less often.",
+            "cite_spans": [
+                {
+                    "start": 618,
+                    "end": 622,
+                    "text": "[10,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 623,
+                    "end": 626,
+                    "text": "11]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our analysis shows the importance of adjusting for delays from confirmation to outcome in real-time estimates of fatality risk, and the benefits of combining datasets alongside appropriate age adjustments to provide early insights into COVID-19 severity. cCFR: corrected case fatality ratio; CFR: case fatality ratio; CI: confidence interval; cIFR: corrected infection fatality ratio; NA: not applicable; nCFR: na\u00efve case fatality ratio. Data source: [2] for age-stratified data of cases with symptoms. External nCFR refers to the CFR calculated during the outbreak in China [7] . Age-stratified case data are taken from [1,2]. The expected number of cases in each age group are calculated assuming that the nCFR estimates were correct on the ship, where the total number of expected deaths under these estimates was 15.15. Data on symptomatic/asymptomatic breakdown and the total number of cases by 20 February were taken from [2] (see Supplementary Table S2 for a more detailed version of this Table) .",
+            "cite_spans": [
+                {
+                    "start": 575,
+                    "end": 578,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 937,
+                    "end": 959,
+                    "text": "Supplementary Table S2",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 996,
+                    "end": 1002,
+                    "text": "Table)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "the evidence base for public health interventions in humanitarian crises. The R2HC programme is funded by the UK Government (DFID), the Wellcome Trust, and the UK National Institute for Health Research (NIHR). RR is supported by Canadian Institutes of Health Research (Award no. DFS-164266)",
+            "authors": [],
+            "year": null,
+            "venue": "RME is supported by HDR UK (grant: MR/ S003975/1) CMMID nCoV working group funding statements: Thibaut Jombart",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "NIHR HPRU Modelling Methodology), Amy Gimma (GCRF (ES/ P010873/1)), Nikos I Bosse (no funding statement to declare",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "HPRU-2012-10096)), Carl A B Pearson References 1. National Institute of Infectious Diseases (NIID). Field Briefing: Diamond Princess COVID-19 Cases",
+            "authors": [],
+            "year": 2020,
+            "venue": "Tokyo: NIID",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Estimating the case fatality ratio of the COVID-19 epidemic in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.17.20023630v5"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Report of the WHO-China joint mission on coronavirus disease 2019 (COVID-19)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Case fatality rate for Ebola virus disease in west Africa",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Edmunds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet",
+            "volume": "384",
+            "issn": "9950",
+            "pages": "61706--61708",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ],
+                "PMID": [
+                    "25260235"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Early epidemiological assessment of the virulence of emerging infectious diseases: a case study of an influenza pandemic",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS One",
+            "volume": "4",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0006852"
+                ],
+                "PMID": [
+                    "19718434"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Linton",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Akhmetzhanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Med",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/jcm9020538"
+                ],
+                "PMID": [
+                    "32079150"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Coronavirus disease 2019 (COVID-19)",
+            "authors": [],
+            "year": 2020,
+            "venue": "Situation Reports. Geneva: WHO",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Standardization and control for confounding in observational studies: a historical perspective",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Keiding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clayton",
+                    "middle": [],
+                    "last": "Dkeiding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clayton",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Stat Sci",
+            "volume": "29",
+            "issn": "4",
+            "pages": "529--58",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/13-STS453"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: Summary of a report of 72 314 cases from the Chinese center for disease control and prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ],
+                "PMID": [
+                    "32091533"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The emerging influenza pandemic: estimating the case fatality ratio",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Euro Surveill",
+            "volume": "14",
+            "issn": "26",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/ese.14.26.19255-en"
+                ],
+                "PMID": [
+                    "19573509"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The Delay distribution of hospitalisation to death in Wuhan, China Date in 2020 B. Case time series of passengers on board the Diamond Princess (n = 705) Date in 2020 C. Death time series of passengers on board the Diamond Princess (n = 7)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "2]. Overall 3,063 PCR tests were performed among passengers and crew members. Testing started among the elderly passengers, descending by age [2]. For details on the testing procedure, see [1] and [2].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Age-stratified cases, external nCFR estimates calculated during the outbreak in China, expected deaths on board the Diamond Princess using these nCFR estimates and the observed number of deaths, February 2020 (n = 619)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Code Availability: All of the data and the code required to reproduce the figures and results of this study can be found at the public github repository: https://github.com/thimotei/ cCFRDiamondPrincess.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "TWR, AJK and WJE conceived of the study and collected the data. TWR, AJK, JH and SA coded the methods. TWR and JH wrote the first draft of the manuscript with feedback from all other authors. KvZ, TWR, SA, SF, RME, RR, and CIJ worked on the statistical aspects of the study. All authors read and approved the final version of the manuscript.Each member of the CMMID COVID-19 working group contributed in processing, cleaning an interpretation of data, interpreted findings, contributed to the manuscript, and approved the work for publication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0) Licence. You may share and adapt the material, but must give appropriate credit to the source, provide a link to the licence and indicate if changes were made.Any supplementary material referenced in the article can be found in the online version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "License, supplementary material and copyright"
+        }
+    ]
+}

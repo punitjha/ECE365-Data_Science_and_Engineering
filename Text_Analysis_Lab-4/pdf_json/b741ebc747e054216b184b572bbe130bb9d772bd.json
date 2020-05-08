@@ -1,0 +1,1240 @@
+{
+    "paper_id": "b741ebc747e054216b184b572bbe130bb9d772bd",
+    "metadata": {
+        "title": "Covid 19 pandemic and gynaecological laparoscopic surgery: knowns and unknowns",
+        "authors": [
+            {
+                "first": "R",
+                "middle": [],
+                "last": "Mallick",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Princess Royal Hospital",
+                    "location": {
+                        "settlement": "Brighton"
+                    }
+                },
+                "email": "rmallick@doctors.org.uk"
+            },
+            {
+                "first": "F",
+                "middle": [],
+                "last": "Odejinmi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Barts Health NHS Trust",
+                    "location": {
+                        "addrLine": "Whipps Cross Road",
+                        "postCode": "E11 1NR",
+                        "settlement": "Leytonstone, London",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "T",
+                "middle": [
+                    "J"
+                ],
+                "last": "Clark",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Princess Royal Hospital, Brighton and Sussex University Hospitals NHS Trust",
+                    "institution": "Birmingham Women's and Children's Hospital",
+                    "location": {
+                        "addrLine": "Lewes Road, Haywards Heath",
+                        "postCode": "B15 2TG, RH16 4EX, 01444 441881",
+                        "settlement": "Birmingham",
+                        "country": "UK., UK"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The worldwide impact of COVID 19 continues to be felt as hospitals in all countries reduce elective and nonurgent cases to allow staffing and resources to be deployed elsewhere. Urgent gynaecological and cancer procedures are continuing, and it is imperative all theatre staff are protected and risks of SARS-CoV-2 viral transmission reduced when operating on asymptomatic, suspected or confirmed COVID 19 patients. In particular, there are concerns relating to the transmission of COVID 19 during gynaecological laparoscopic surgery, arising from the potential generation of SARS-CoV-2 contaminated aerosols from CO2 leakage and the creation of smoke from the use of energy devices. The aim of this paper is to review all the up to date evidence, including experiences from China and Italy, to guide the safe management of such patients when undergoing gynaecological procedures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Since the swift arrival of COVID 19, most national bodies and learned societies have advised the urgent suspension of elective surgery with the focus shifting to emergency and cancer surgery (ACOG, 2020) . This allows staffing and key resources to be deployed to where they are most required (RCOG, 2020) . However, in those continuing to undertake emergency gynaecological and oncological surgical procedures, it is imperative that precautions are taken in patients who are potential, or proven, COVID 19 cases to reduce the risks of inadvertent viral transmission.",
+            "cite_spans": [
+                {
+                    "start": 191,
+                    "end": 203,
+                    "text": "(ACOG, 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 292,
+                    "end": 304,
+                    "text": "(RCOG, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "SARS-CoV-2 virus is largely transmitted via respiratory droplets and the highest transmission risks arise when undertaking aerosol generating procedures (AGPs) i.e. medical and patient care activities that can result in the release of airborne particles (aerosols). AGPs can create a risk of airborne transmission of infections that are usually only spread by droplet transmission. Due to the high viral load in respiratory secretions, intubation and extubation remain one of the highest risk AGPs (Meng et al., 2020) . The main at-risk healthcare professionals are thus anaesthetists and emergency department clinicians and guidance is available in the wider literature to safeguard these clinicians and reduce transmission risks (Wong et al., 2020) . Many emergency laparoscopic procedures will still be required during this pandemic, however very little is known regarding the risks to the health care professions undertaking these procedures. The aim of this paper is to review all the up to date evidence, including experiences from China and Italy and extrapolated data from previous outbreaks, to guide the safe management of suspected and positive COVID 19 patients when undergoing gynaecological procedures.",
+            "cite_spans": [
+                {
+                    "start": 498,
+                    "end": 517,
+                    "text": "(Meng et al., 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 731,
+                    "end": 750,
+                    "text": "(Wong et al., 2020)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral transmission in surgically generated smoke and aerosols"
+        },
+        {
+            "text": "In laparoscopic surgery, the creation of an artificial pneumoperitoneum may increase the risk of aerosol exposure to the whole operating team. Specific evidence relating to the presence of SARS-CoV-2 virus in the peritoneal cavity and thus its transmission during laparoscopic surgery is lacking, but theoretical risks may be extrapolated from previous pandemics and viral infections. For example, prior to COVID 19, previous studies have shown that other pathogens such as activated corynebacterium, human papillomavirus (HPV), hepatitis B virus (HBV) and human immunodeficiency virus (HIV) have been detected in surgical smoke (Capizzi et al., 1998 , Hensman et al., 1998 , Johnson and Robinson 1991 , Alp et al., 2006 .",
+            "cite_spans": [
+                {
+                    "start": 629,
+                    "end": 650,
+                    "text": "(Capizzi et al., 1998",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 651,
+                    "end": 673,
+                    "text": ", Hensman et al., 1998",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 674,
+                    "end": 701,
+                    "text": ", Johnson and Robinson 1991",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 702,
+                    "end": 720,
+                    "text": ", Alp et al., 2006",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral transmission in surgically generated smoke and aerosols"
+        },
+        {
+            "text": "The presence of HPV DNA has been reported in approximately 40% of smoke plumes following loop excision biopsy of the cervix (Sood et al., 1994 ). An analysis of surgical smoke in HBV positive patients undergoing operative laparoscopic procedures, found the presence of HBV in over 90% of cases (Kwak et al., 2016) . The risk of disease spread therefore theoretically exists with surgical smoke, however actual documented cases are rare with only 4 confirmed cases of HPV transmission documented in the wider literature (Liu et al., 2019) . No cases of HIV or HBV transmission have been documented (Bree et al., 2017) . However the presence of these pathogens are not an absolute contraindications to laparoscopic surgery as long as universal infection control precautions are undertaken (Diettrich and Kaplan 1991, Eubanks et al., 1993) .",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 142,
+                    "text": "(Sood et al., 1994",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 294,
+                    "end": 313,
+                    "text": "(Kwak et al., 2016)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 519,
+                    "end": 537,
+                    "text": "(Liu et al., 2019)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 597,
+                    "end": 616,
+                    "text": "(Bree et al., 2017)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 787,
+                    "end": 801,
+                    "text": "(Diettrich and",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 802,
+                    "end": 836,
+                    "text": "Kaplan 1991, Eubanks et al., 1993)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral transmission in surgically generated smoke and aerosols"
+        },
+        {
+            "text": "Both ultrasonic and electrosurgical devices have the propensity to create large surgical plumes thus potentially increasing the risks of viral transmission. Recent NHS pandemic Coronavirus Infection Prevention and Control guidance states that high speed surgical devices generate aerosol (DHSC, 2020). Ultrasonic devices are high frequency oscillating devices which may hypothetically add to the potential risk although the magnitude of any such risks are unknown (Zheng et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 464,
+                    "end": 484,
+                    "text": "(Zheng et al., 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Energy modalities"
+        },
+        {
+            "text": "Most standard operating theatres have a positive pressure relative to the surrounding air (e.g. in corridors and adjacent areas) to prevent the flow of air from less sterile areas into a more sterile one. However, this positive pressure environment created within the operating theatre makes the spread of aerosols faster, posing an increased airborne viral transmission risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Operating theatre environment"
+        },
+        {
+            "text": "A negative pressure environment is ideal to reduce dissemination of the virus beyond the operating theatre although such facilities are not widely available. A high frequency of filtered air exchanges may help reduce viral load within an operating theatre (Wong et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 275,
+                    "text": "(Wong et al., 2020)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Operating theatre environment"
+        },
+        {
+            "text": "It should be borne in mind that the risks of airborne viral transmission are not restricted to laparoscopic surgery because both open and laparoscopic surgery have the propensity to generate aerosols. However laparoscopic procedures and COVID 19. They recommended that laparoscopic approaches should be utilised when feasible in preference to laparotomy (BSGE, 2020). These sentiments have been largely echoed by both the European Society for Gynaecological Endoscopy (ESGE, 2020) and American Association of Gynecologic Laparoscopists (AAGL, 2020). Furthermore there still remains a paucity of data surrounding the safety of the open approach and the potential transmission risks, including the use of electrosurgery. However this situation is ever evolving and the advice may change as the consequences of COVID 19 infection and its methods of transmission becomes more greatly understood.",
+            "cite_spans": [
+                {
+                    "start": 468,
+                    "end": 480,
+                    "text": "(ESGE, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Open vs. laparoscopic surgery"
+        },
+        {
+            "text": "It is imperative all medical and theatre personnel are protected during this pandemic and full precautions are taken to reduce the transmission risks. Inadequate protection results in an increased infection rate amongst medical and nursing staff with significant morbidity and in some cases sadly mortality, placing a further strain on already struggling health services when resources are at a premium. It is important to follow both local and national (DHSC, 2020) guidance where available as regards the recommended level of PPE and keep abreast of any modifications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Personal protective equipment"
+        },
+        {
+            "text": "There remains a paucity of evidence surrounding SARS-CoV-2 virus transmission particularly in laparoscopic gynaecological surgery, however these recommendation are based on national and international guidance and extrapolated data from other viral infections (BSGE, 2020 , ESGE, 2020 , AAGL, 2020 . These principles should be followed, in suspected or confirmed COVID 19 patients, to reduce the potential transmission risk (Figure 1) . The safety of all members of the team is of the utmost importance and can be facilitated by operating in a safe, structured environment.",
+            "cite_spans": [
+                {
+                    "start": 259,
+                    "end": 270,
+                    "text": "(BSGE, 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 271,
+                    "end": 283,
+                    "text": ", ESGE, 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 284,
+                    "end": 296,
+                    "text": ", AAGL, 2020",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 423,
+                    "end": 433,
+                    "text": "(Figure 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "1. Non-surgical treatments should be utilised where possible to reduce the risk of horizontal transmission of SARS-CoV-2 virus to health care workers, and reduce the need for hospital admission, provided they are a safe alternative.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "2. Patients should be risk assessed for potential SARS-CoV-2 viral infection. Consider universal SARS-CoV-2 virology screening in all patients undergoing surgery. Patients testing negative can proceed with the standard laparoscopic technique and routine surgical infection control procedures. the overall risk may be lower with open surgery as an artificial pneumoperitoneum is not created and maintained. During laparoscopic procedures, the risk of aerosol generation is increased during insertion, and particularly removal, of trocars from a pressurised peritoneal cavity. This can result in dispersion of body fluids especially where port sites are contaminated with blood or other human tissues.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "As this pandemic progresses, the need to continue operating in emergency situations such as ectopic pregnancies on suspected or confirmed COVID 19 patients will increase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "Hypothetical risks of viral transmission must be balanced against the significant benefits of adopting a minimally invasive approach, namely reduced morbidity and mortality, shorter hospital stay and quicker return to daily activities (Snyman et al., 2017 , Aarts et al., 2015 .",
+            "cite_spans": [
+                {
+                    "start": 235,
+                    "end": 255,
+                    "text": "(Snyman et al., 2017",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 256,
+                    "end": 276,
+                    "text": ", Aarts et al., 2015",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "These advantages have gained even more significance in helping to maintain wider public health, in light of the pressure on health care resources imposed by this pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "The evidence so far does not suggest an increased risk of COVID 19 transmission during gynaecological laparoscopic surgery when personal protective equipment (PPE) is used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "Molecular studies have detected viral RNA in a range of bodily specimens from COVID 19 patients, including upper and lower respiratory tract samples, faeces and blood, indicating the potential presence of infectious virus. SARS-CoV-2 virus has been detected in faeces in 29% of cases , presumably thorough transmission from the naso-pharynx with ingestion into the gastrointestinal tract. However, it is less commonly found in blood, with studies reporting viral RNA positive samples in 1-15% of COVID 19 patients , Chen W et al., 2020 , Young et al., 2020 , Chan et al., 2020 , Huang et al., 2020 . The virus has not been found in the female genital tract in women with proven COVID 19, although the data are few , Fan et al., 2020 . Hence operations carried out by other specialities such as ENT and upper gastrointestinal endoscopy are at a higher risk of generating aerosols and have more significant safety concerns (RCS, 2020) . Moreover, bowel surgery may have different implications compared to gynaecological interventions. Thus, there is currently insufficient evidence to support adopting a universal open approach to surgery for gynaecological indications.",
+            "cite_spans": [
+                {
+                    "start": 514,
+                    "end": 535,
+                    "text": ", Chen W et al., 2020",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 536,
+                    "end": 556,
+                    "text": ", Young et al., 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 557,
+                    "end": 576,
+                    "text": ", Chan et al., 2020",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 577,
+                    "end": 597,
+                    "text": ", Huang et al., 2020",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 714,
+                    "end": 732,
+                    "text": ", Fan et al., 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 921,
+                    "end": 932,
+                    "text": "(RCS, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "The Royal College of Obstetricians and Gynaecologists (RCOG) along with the British Society for Gynaecological Endoscopists (BSGE) recently released a statement on gynaecological 3. If urgent surgery is required and testing is not possible, manage as suspected COVID 19 with precautions described.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "4. Hospitals should have clear pathways and make theatre allocations to separate a. COVID 19 positive patients b. Clinical emergencies c. Clinically urgent cases d. Trauma patients 5. The laparoscopic procedures should be undertaken by the most experienced surgeon available to ensure full knowledge of safe laparoscopic procedures are followed and to ensure that the procedure is performed in the shortest time possible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "6. To protect operating staff:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "a. Enhanced PPE is mandatory for all theatre personnel (i.e. disposable gloves, disposable fluidresistant gown, filtering face piece class 2 or 3 or N95 respirator and disposable eye protection) b. In order to minimise possible exposure and to guard against depletion of PPE stock, ensure that only staff that are required for the procedure are present in theatre c. Theatre staff need to be versed in self-protection strategies against suction materials and blood contaminated areas in theatres and in laparoscopic suction in line with local protocols 7. To aid artificial ventilation a. Operating pressures should be kept as low as possible b. Minimise the amount of Trendelenburg 8. To prevent and manage aerosol dispersion a. Caution and care should be taken during insufflation b. Special attention should be paid to port sites to prevent explosive dispersion of body fluids both at the insertion/removal of trocars and specimen retrieval c. Limit the number of incisions where possible, although there should be enough port sites to allow safe and expeditious surgery d. Ensure that incisions are of appropriate size to prevent leakage during the procedure e. Minimise exchange of instruments to minimise leakage f. Caution when using ultrasonic devices as the potential for aerosol generationmay be higher.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "g. Employ electrosurgical and ultrasonic devices in a manner that minimises surgical smoke production with low power settings and avoidance of prolonged activation h. Suction devices, smoke evacuation filters, retrieval devices and swabs should be used to: (1) prevent aerosol transmission: remove smoke, aerosol and the CO 2 pneumoperitoneum during surgery and (2) avoid explosive dispersion of body fluids when removing trocars and retrieving specimens. 9. Only evacuate surgical smoke via the tap on ports when attached to a smoke evacuation filter and / or by direct suction using a vacuum suction unit.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "10. Only evacuate the pneumoperitoneum via direct suction using a vacuum suction unit.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "11. Gynaecological operations that carry a risk of bowel involvement, however small should be performed by laparotomy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for laparoscopic surgery in suspected or confirmed COVID-19"
+        },
+        {
+            "text": "Deflation technique at the end of a procedure Standard laparoscopic practice is to remove all ports under vision and subsequently expel all the operative gas followed by removal of the laparoscope under direct vision. In view of the potential aerosol risks all ports used to release gas should have a suitable smoke extraction device attached. At the end of the procedure, gas should be removed using the combination of a suction device and releasing gas slowing via a filtered port. The accessory ports should be removed slowly and over a blunt probe, which is subsequently removed, to reduce the risk of hernia as removal under direct vision is not possible when avoiding inadvertent gas leakage.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specific surgical considerations"
+        },
+        {
+            "text": "The primary port should still be removed under direct vision once the abdomen has been completely deflated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specific surgical considerations"
+        },
+        {
+            "text": "Ports larger than 5mm should be closed as per standard practice, however a J needle closure (after all other ports are removed) is recommended rather than using an Endoclose device, which would increase the risk of gas escaping from the abdomen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Specific surgical considerations"
+        },
+        {
+            "text": "Laparoscopic hysterectomies, in the context of malignancies, are likely to continue to be undertaken in this pandemic. Particular care must be taken during colpotomy and subsequent uterine extraction to minimise unfiltered gas leakage and sudden loss of blood and other body fluids. The abdomen should be emptied of gas using a suction device and filtered ports, as described above, prior to removal of the uterus. To minimise airborne droplet transmission consideration should be given to performing an open hysterectomy, on a case by case basis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Total laparoscopic hysterectomy (TLH)"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Perinatal Transmission of COVID-19 Associated SARS-CoV-2: Should We Worry? Clin",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Chemical composition of smoke produced by high-frequency electrosurgery in a closed gaseous environment. An in vitro study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hensman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baty",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Willis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Surg Endosc",
+            "volume": "12",
+            "issn": "",
+            "pages": "1017--1026",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Human immunodeficiency virus-1 (HIV-1) in the vapors of surgical power instruments",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Med Virol",
+            "volume": "33",
+            "issn": "",
+            "pages": "47--50",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Detecting hepatitis B virus in surgical smoke emitted during laparoscopic surgery",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kwak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Seo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Occup Environ Med",
+            "volume": "73",
+            "issn": "12",
+            "pages": "857--63",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Characterization of smoke generated during the use of surgical knife in laparotomy surgeries",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Air Waste Manag Assoc",
+            "volume": "70",
+            "issn": "3",
+            "pages": "324--332",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Awareness of surgical smoke hazards and enhancement of surgical smoke prevention among the gynaecologists",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Cancer",
+            "volume": "10",
+            "issn": "12",
+            "pages": "2788--2799",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Intubation and Ventilation amid the COVID-19 Outbreak: Wuhan's Experience. Anesthesiology. 2020. Epub ahead of print",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "RCOG staffing options for obstetrics and gynaecology services during COVID-19 pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Updated Intercollegiate General Surgery Guidance on COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A randomised trial comparing laparoscopy with laparotomy in the management of women with ruptured ectopic pregnancy",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Snyman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Makulana",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Makin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "S Afr Med J",
+            "volume": "107",
+            "issn": "3",
+            "pages": "258--63",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Human papillomavirus DNA in LEEP plume",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Sood",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Bahrani-Mostafavi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stoerker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Infect Dis Obstet Gynecol",
+            "volume": "2",
+            "issn": "4",
+            "pages": "167--70",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The American College of Obstetricians and Gynaecologists (ACOG)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA. 2020. Epub ahead of print",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Preparing for a COVID-19 pandemic: a review of operating room outbreak response measures in a large tertiary hospital in Singapore",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Goh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Can J Anaesth",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "Swx",
+                    "middle": [],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kalimuddin",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Minimally invasive surgery and the novel coronavirus outbreak: lessons learned in China and Italy. Ann Surg. 2020. Epub ahead of print",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Boni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fingerhut",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Surgical approach to hysterectomy for benign gynaecological disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Aarts",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nieboer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Surgical smoke and infection control",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Alp",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bijl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bleichrodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hansson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Hosp Infect",
+            "volume": "62",
+            "issn": "1",
+            "pages": "1--5",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "COVID-19: Joint Statement on Minimally Invasive Gynecologic Surgery",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The Dangers of Electosurgical Smoke to Operating Room Personnel: A Review. Workplace Health Saf",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bree",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barnhill",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Rundell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "65",
+            "issn": "",
+            "pages": "517--526",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Joint RCOG BSGE Statement On Gynaecological Laparoscopic Procedures and Covid-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Microbiologic activity in laser resurfacing plume and debris",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Capizzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Clay",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Battey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Lasers Surg Med",
+            "volume": "23",
+            "issn": "3",
+            "pages": "172--176",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Improved molecular diagnosis of COVID-19 by the novel, highly sensitive and specific COVID-19-RdRp/Hel real-time reverse transcription-polymerase chain reaction assay validated in vitro and with clinical specimens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microbiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "469--73",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Public Health Wales (PHW), Public Health Agency (PHA) Northern Ireland, Health Protection Scotland (HPS), Public Health England. COVID-19 Guidance for infection prevention and control in healthcare settings",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Frontiers in Pediatrics",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Laparoscopic surgery for HIVinfected patients: minimizing dangers for all concerned",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Diettrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kaplan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Laparoendosc Surg",
+            "volume": "1",
+            "issn": "",
+            "pages": "295--303",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Reduction of HIV transmission during laparoscopic procedures",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eubanks",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lucas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Surg Laparosc Endosc",
+            "volume": "3",
+            "issn": "1",
+            "pages": "2--5",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "ESGE Recommendations on Gynaecological Laparoscopic Surgery during COVID-19 outbreak",
+            "authors": [],
+            "year": 2020,
+            "venue": "European Society for Gynaecological Endoscopy (ESGE)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Recommendations on Gynaecological Laparoscopic Surgery during Covid 19",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank BSGE officers and council members who reviewed this",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements:"
+        },
+        {
+            "text": "The authors declare no conflicts of interest.Funding: No funding was obtained.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest:"
+        }
+    ]
+}

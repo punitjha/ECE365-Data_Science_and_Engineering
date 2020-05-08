@@ -1,0 +1,2220 @@
+{
+    "paper_id": "50018d85cc6ca72f0a623ba7a256930742c9ef5d",
+    "metadata": {
+        "title": "The Impact of COVID-19 Epidemic Declaration on Psychological Consequences: A Study on Active Weibo Users",
+        "authors": [
+            {
+                "first": "Sijia",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "100101",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yilin",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "100101",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jia",
+                "middle": [],
+                "last": "Xue",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Toronto",
+                    "location": {
+                        "postCode": "M5S 1A1",
+                        "settlement": "Toronto",
+                        "country": "Canada"
+                    }
+                },
+                "email": "jia.xue@utoronto.ca*correspondence:zhaonan@psych.ac.cnn.z."
+            },
+            {
+                "first": "Nan",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "100101",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tingshao",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "100101",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": "tszhu@psych.ac.cnt.z."
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "has significantly resulted in a large number of psychological consequences. The aim of this study is to explore the impacts of COVID-19 on people's mental health, to assist policy makers to develop actionable policies, and help clinical practitioners (e.g., social workers, psychiatrists, and psychologists) provide timely services to affected populations. We sample and analyze the Weibo posts from 17,865 active Weibo users using the approach of Online Ecological Recognition (OER) based on several machine-learning predictive models. We calculated word frequency, scores of emotional indicators (e.g., anxiety, depression, indignation, and Oxford happiness) and cognitive indicators (e.g., social risk judgment and life satisfaction) from the collected data. The sentiment analysis and the paired sample t-test were performed to examine the differences in the same group before and after the declaration of COVID-19 on 20 January, 2020. The results showed that negative emotions (e.g., anxiety, depression and indignation) and sensitivity to social risks increased, while the scores of positive emotions (e.g., Oxford happiness) and life satisfaction decreased. People were concerned more about their health and family, while less about leisure and friends. The results contribute to the knowledge gaps of short-term individual changes in psychological conditions after the outbreak. It may provide references for policy makers to plan and fight against COVID-19 effectively by improving stability of popular feelings and urgently prepare clinical practitioners to deliver corresponding therapy foundations for the risk groups and affected people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "COVID-19 (Corona Virus Disease 2019) is a highly infectious disease with a long incubation period which was caused by Sars-Cov-2 (Severe Acute Respiratory Syndrome Coronavirus 2) [1] . The number of COVID-19 patients increased dramatically due to hundreds of millions of people traveling during the Spring Festival period. The severity of COVID-19 had been underestimated until the National Health Commission classified it as a B type infectious disease officially and took actions to fight against this disease on 20 January, 2020. Ever since then, epidemic prevention was comprehensively upgraded and marked the real beginning of universal concern, indicating widespread impacts.",
+            "cite_spans": [
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The uncertainty and low predictability of COVID-19 not only threaten people's physical health, but also affect people's mental health, especially in terms of emotions and cognition, as many theories indicate. According to Behavioral Immune System (BIS) theory [2] , people are likely to develop negative emotions (e.g., aversion, anxiety, etc.) [3, 4] and negative cognitive assessment [5, 6] for self-protection. Faced with potential disease threat, people tend to develop avoidant behaviors (e.g., avoid contact with people who have pneumonia-like symptoms) [7] and obey social norms strictly (e.g., conformity) [8] . According to stress theory [9] and perceived risk theory [10] , public health emergencies trigger more negative emotions and affect cognitive assessment as well. These negative emotions keep people away from potential pathogens when it refers to the disease. However, long-term negative emotions may reduce the immune function of people and destroy the balance of their normal physiological mechanisms [11] . Meanwhile, individuals may overreact to any disease in case of less appropriate guidance from authorities, which may result in excessively avoidant behaviors and blind conformity [8] . Therefore, it is essential to understand the potential psychological changes caused by COVID-19 in a timely manner. Since psychological changes caused by public health emergencies can be reflected directly in emotions and cognition [3] [4] [5] [6] , we can monitor psychological changes in time through emotional (e.g., negative emotions and positive emotions) and cognitive indicators (e.g., social risk judgment and life satisfaction).",
+            "cite_spans": [
+                {
+                    "start": 260,
+                    "end": 263,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 345,
+                    "end": 348,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 349,
+                    "end": 351,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 386,
+                    "end": 389,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 390,
+                    "end": 392,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 560,
+                    "end": 563,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 614,
+                    "end": 617,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 647,
+                    "end": 650,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 677,
+                    "end": 681,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1022,
+                    "end": 1026,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1208,
+                    "end": 1211,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1446,
+                    "end": 1449,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1450,
+                    "end": 1453,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1454,
+                    "end": 1457,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1458,
+                    "end": 1461,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The emotions and cognition are usually measured by retrospective questionnaires, such as Oxford Happiness Inventory (OHI) [12] , Symptom Checklist 90 (SCL-90) [13] , Satisfaction with Life Scale (SWLS) [14] , and Likert Type Attitude Scale [15, 16] . However, at the time of the COVID-19 outbreak in China, it was very difficult to conduct a traditional paper survey in the affected areas; online surveys rely on the cooperation of participants, and it is difficult to meet the requirements in time, and even brings extra burdens for participants. Since we did not know the time of COVID-19 declaration, it was impossible to measure people's emotions and cognition by a traditional survey in advance. There may be a certain deviation when requiring people to recall their mental state a week or more ago. Weibo data is emerging as a key online medium and data source for researchers to understand this social problem in a non-invasive way. Sina Weibo is a leading Chinese Online Social Networks (OSN) with more than 462 million active daily users in 2019. These users use Weibo functions (e.g., reply, @function) to interact with each other, forming rich user behavior data.",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 126,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 202,
+                    "end": 206,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 240,
+                    "end": 244,
+                    "text": "[15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 245,
+                    "end": 248,
+                    "text": "16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The aim of this study is to explore the impacts of public health emergency COVID-19 on people's mental health, to assist policy makers to develop actionable policies, and help clinical practitioners (e.g., social workers, psychiatrists, and psychologists) provide services to affected populations in time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The samples in this study were from the original Weibo data pool [17] . The data pool contained more than 1.16 million active Weibo users. Weibo is a popular platform to share and discuss individual information and life activities, as well as celebrity news in China [18] .",
+            "cite_spans": [
+                {
+                    "start": 65,
+                    "end": 69,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 267,
+                    "end": 271,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Participants and Data Collection"
+        },
+        {
+            "text": "The retrieved data included (1) user's profile information, (2) network behaviors, and (3) Weibo messages. Privacy was strictly protected during the procedure, referring to the ethical principles [19] . We have obtained the Ethical Committee's approval and the ethic code is H15009.",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Participants and Data Collection"
+        },
+        {
+            "text": "The following inclusion criteria were employed to select active Weibo users from the data pool. First, they had published at least 50 original Weibo posts around a month in total from 31 December, 2019 to 26 January, 2020. Second, their authentication type is non-institutional (e.g., individual user, etc.). Third, their regional authentication is in China, not \"overseas\" or \"other\".",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and Data Collection"
+        },
+        {
+            "text": "We acquired 17,865 active Weibo users finally, then fetched all their original posts published during 13 January, 2020 to 26 January, 2020 into the two-week period for the analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and Data Collection"
+        },
+        {
+            "text": "In this study, we used Online Ecological Recognition (OER) [20] , which referred to the automatic recognition of psychological profile (e.g., anxiety, well-being, etc.) by using predictive models [17, 20, 21] based on ecological behavioral data from Weibo.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 63,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 201,
+                    "end": 204,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "We employed Text Mind system developed by the Computational Cyber Psychology Laboratory at the Institute of Psychology, Chinese Academy of Sciences to extract content features [22] , including Chinese word segmentation tool [17] , and psychoanalytic dictionary [23] . We used the Chinese word segmentation tool to divide users' original microblog content into words/phrases with linguistic annotations, such as verbs, nouns, adverbials, and objects [24] , and then extracted psychologically meaningful categories through the simplified Chinese LIWC (Language Inquiry and Word Count) dictionary [23] . These lexical features were data sources for word frequency analysis.",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 261,
+                    "end": 265,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 449,
+                    "end": 453,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 594,
+                    "end": 598,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "After feature extraction, we used the psychological prediction model [25] obtained from the preliminary training to predict the psychological profile of these active Weibo users. These predictive models are tools developed for online psychology research based on big data and deep learning technologies, including emotional indicators (anxiety, depression, indignation, and Oxford happiness), cognitive indicators (social risk judgment and life satisfaction), and so on. Figure 1 portrays the procedure from feature extraction to psychological indicator prediction. All the prediction models have reached a moderate correlation with questionnaire scores. The feasibility of predictive models has been repeatedly demonstrated [26] [27] [28] .",
+            "cite_spans": [
+                {
+                    "start": 69,
+                    "end": 73,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 725,
+                    "end": 729,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 730,
+                    "end": 734,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 735,
+                    "end": 739,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 471,
+                    "end": 479,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "Int. J. Environ. Res. Public Health 2020, 17, x 3 of 9",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "In this study, we used Online Ecological Recognition (OER) [20] , which referred to the automatic recognition of psychological profile (e.g., anxiety, well-being, etc.) by using predictive models [17, 20, 21] based on ecological behavioral data from Weibo.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 63,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 201,
+                    "end": 204,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "We employed Text Mind system developed by the Computational Cyber Psychology Laboratory at the Institute of Psychology, Chinese Academy of Sciences to extract content features [22] , including Chinese word segmentation tool [17] , and psychoanalytic dictionary [23] . We used the Chinese word segmentation tool to divide users' original microblog content into words/phrases with linguistic annotations, such as verbs, nouns, adverbials, and objects [24] , and then extracted psychologically meaningful categories through the simplified Chinese LIWC (Language Inquiry and Word Count) dictionary [23] . These lexical features were data sources for word frequency analysis.",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 261,
+                    "end": 265,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 449,
+                    "end": 453,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 594,
+                    "end": 598,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "After feature extraction, we used the psychological prediction model [25] obtained from the preliminary training to predict the psychological profile of these active Weibo users. These predictive models are tools developed for online psychology research based on big data and deep learning technologies, including emotional indicators (anxiety, depression, indignation, and Oxford happiness), cognitive indicators (social risk judgment and life satisfaction), and so on. Figure 1 portrays the procedure from feature extraction to psychological indicator prediction. All the prediction models have reached a moderate correlation with questionnaire scores. The feasibility of predictive models has been repeatedly demonstrated [26] [27] [28] . We calculated word frequency, scores of negative emotional indicators (i.e., anxiety, depression, and indignation), positive emotional indicators (i.e., Oxford happiness), and cognitive indicators (i.e., social risk and life satisfaction) of the collected messages. We then compared the differences of psychological characteristics before and after the declaration of outbreak of COVID-19 on 20 January, 2020 through the paired sample t-test by using SPSS (Statistical Product and Service Solutions) 22, which is published by IBM (International Business Machines Corporation), New York, USA. We calculated word frequency, scores of negative emotional indicators (i.e., anxiety, depression, and indignation), positive emotional indicators (i.e., Oxford happiness), and cognitive indicators (i.e., social risk and life satisfaction) of the collected messages. We then compared the differences of psychological characteristics before and after the declaration of outbreak of COVID-19 on 20 January, 2020 through the paired sample t-test by using SPSS (Statistical Product and Service Solutions) 22, which is published by IBM (International Business Machines Corporation), New York, USA.",
+            "cite_spans": [
+                {
+                    "start": 69,
+                    "end": 73,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 725,
+                    "end": 729,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 730,
+                    "end": 734,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 735,
+                    "end": 739,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 471,
+                    "end": 479,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Measurement of Psychological Traits and Procedures"
+        },
+        {
+            "text": "Among 17,865 active Weibo users, 25.23% were males and 77.95% were from Eastern China, which is considered the richest region in China. Ages of users who registered their birth date in their profile (n = 4156, 23.26%) ranged from 8 to 56 years with the median age of 33 years. The demographic profile is depicted in Table 1 . ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 316,
+                    "end": 323,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Demographics"
+        },
+        {
+            "text": "In this study, we compare the LIWC categories between the week before (T-before) and after (T-after) 20 January, shown in Table 2 . It contains two types of LIWC categories: words of emotions and words of concerns. Words of emotions include positive emotion (e.g., faith, contentment, and blessing), negative emotion (e.g., worry, suspicion, and jealousy), anxiety (e.g., upset, nervous, and crazy), and anger (e.g., complaint). Words of concerns include health (e.g., insomnia, doctor, and exercise), leisure (e.g., cooking, chatting, and movies), family (e.g., family and house), friend (e.g., companion and guest), money (e.g., bills, cash, and borrowing), death (e.g., burial, killing, and funeral), and religion (e.g., church, mosque, and temple), which can reflect what people are paying attention to. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 122,
+                    "end": 129,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Linguistic Difference"
+        },
+        {
+            "text": "Results indicate significant differences of emotional indicators between T-before (13-19 January, 2020) and T-after (20-26 January, 2020), as shown in Table 3 T-before represents the predicted emotional indicators during 13-19 January, 2020; T-after represents the predicted emotional indicators during 20-26 January, 2020; M = mean; SD = standard deviation; df = degrees of freedom. ** p < 0.01, *** p < 0.001.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 151,
+                    "end": 158,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Emotional Indicators"
+        },
+        {
+            "text": "We found significant differences in cognitive indicators between T-before (13-19 January, 2020) and T-after (20-26 January, 2020), as shown in Table 4 . After 20 January, cognitive indicators of psychological traits increased in social risk judgement (t (17,747) = 3.120, p < 0.01), but decreased in life satisfaction (t (17,747) = 5.500, p < 0.001). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 143,
+                    "end": 150,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Cognitive Indicators"
+        },
+        {
+            "text": "Since the National Health Commission identified COVID-19 as a B type infectious disease officially, COVID-19 influenced the psychological states of people across China. This study collected active Weibo users' data, and conducted sentiment analysis during 13-26 January, 2020. We used OER to acquire the psychological states, and found that Weibo users' psychological conditions significantly changed under the outbreak of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The findings showed that people's concerns by linguistic expression increased after January 20. We observe an increase in health and family, while a decrease in leisure and friend. Uncertainty of the upcoming situation causes cognitive dissonance and insecurity; this produces a feeling of mental discomfort, leading to Weibo's activity oriented toward dissonance reduction and keeping security on health and family relationship [29] . According to the theory of BIS, people behave in a more reticent and conservative way when they feel threatened by disease [30] . Therefore, staying at home with family and reducing recreational activities seems to be a safer way to prevent illness. It also indicated that people begin to care more about their health and were more likely to seek social support from their families rather than getting together with friends, which suggested that people' interests and attention were influenced by the restricted travel policy and self-isolation regulations from the health authorities and central government.",
+            "cite_spans": [
+                {
+                    "start": 429,
+                    "end": 433,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 559,
+                    "end": 563,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Affected by COVID-19, messages related to death and religion became salient after 20 January. Reports showed severity and potential mortality of COVID-19. Research confirmed that people tended to respond to emergencies such as stress or death in the way of religion, which can comfort tense moods and bring more positive emotions [31] . That is why people prayed for the county through religion or other beliefs, leading to the phrase that appeared most frequently on the Internet at that time: God bless China.",
+            "cite_spans": [
+                {
+                    "start": 330,
+                    "end": 334,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "People showed more negative emotions (anxiety, depression, and indignation) and less positive emotions (Oxford happiness) after the declaration of COVID-19, which was supported by the theory of BIS, i.e., people did generate more negative emotions for self-protection [3, 4] . These results are consistent to previous studies as well, which found that public health emergencies (e.g., SARS) triggered a series of stress emotional response containing a higher level of anxiety and other negative emotions [32, 33] . Meanwhile, the confirmation that COVID-19 could be passed from person to person on 20 January, which was inconsistent with previous reports, lead to quite a number of people being unsatisfied with misinformation published from provincial governments (e.g., Hubei) and ineffective regulatory actions, causing an increase in indignation. However, it's worth noting that the word frequency of positive emotions increased after 20 January, which seemed to be inconsistent with the theory of BIS. In fact, positive emotion includes words such as faith and blessing, which are more inclined to reflect group cohesiveness rather than pure personal emotions (e.g., happiness). Researchers found that group threats (e.g., natural disasters and epidemic diseases) made groups a community of interests, resulting in more beneficial behaviors and social solidarity, which indicated higher group cohesiveness [34] . For example, lots of provinces (e.g., Sichuan Province, Shandong Province, etc.) formed medical teams to help the Hubei province, which was the worst affected area. Many people donated money and supplies to Hubei Red Cross to support the control of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 268,
+                    "end": 271,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 272,
+                    "end": 274,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 504,
+                    "end": 508,
+                    "text": "[32,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 509,
+                    "end": 512,
+                    "text": "33]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1411,
+                    "end": 1415,
+                    "text": "[34]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Furthermore, social risk judgement was higher and life satisfaction was lower after the declaration of COVID-19. It is consistent with the theory of BIS, which found that when social uncertainty increased, such as unknown etiology and ambiguous route of transmission, people developed the negative cognitive assessment (e.g., higher sensitivity of risk judgment or risk perception) so that they could discover potential infection sources in time and avoid infection [2, 35] . Not only that, people's fear of potential risk and lack of controllability caused by COVID-19 brought about higher risk judgement as perceived risk theory claimed [10] . Moreover, some preventive policies and regulations in terms of travel restriction and self-isolation made the quality of life worse, reflecting in lower life satisfaction.",
+            "cite_spans": [
+                {
+                    "start": 466,
+                    "end": 469,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "35]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 639,
+                    "end": 643,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The following briefly foregrounds some of the study's implications for policy makers and clinical practitioners (e.g., social workers, psychiatrists, and psychologists) plan and fight against COVID-19. For policy makers: (1) develop a consistent policy and procedure for reporting the latest confirmed cases, recent death toll, and other data about the epidemic situation. For example, the surge of cases on February 12th did not mean that the situation has been out of control, but because of the new diagnostic criteria introduced. It is important to let people understand the data properly to reduce excessive stress responses (e.g., anxiety, depression, etc.) brought on by inappropriate perception. (2) Expand public awareness of continuous progress in decision-making measures. Since indignation may come mainly from mistakes and deficiencies in preventing and controlling the epidemic, it can effectively decrease indignation if public awareness and involvement are provided. (3) Ensure the supply of medical treatment service. It is critical to set up medical service to treat the disease, and let people know how to access it conveniently. People can get help in time if they are infected. It can improve people's sense of control over risks, thereby avoiding excessive social risk perception. (4) Provide more in-door entertainment services to address good quality of life. People may be more willing to cooperate when their living and entertainment requirements are met, such as online shopping, entertainments, etc. For clinical practitioners: (1) adjust consultant configuration rationally and cooperate with each other. Psychological consultants should grasp the epidemic information correctly and conduct science popularization during counseling. Social workers can help solve practical problems in life. These actions can improve the sense of stability and relieve anxiety and depression. (2) Deliver necessary psychosocial therapy in various ways. Considering the particularity of self-isolation, relevant hotline counseling and online consulting should be applied in practice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Several other points should be considered when generalizing this study's findings. First, as Weibo users are mainly young people, the results may be biased to some extent. In addition, the current analysis is based on a weekly basis, with a relatively large granularity, which has certain influences on reflecting the changing trend of social mentality in a timely manner. In further studies, we will try to expand the range of sex and age and predict psychological traits in a finer granularity. Previous studies indicated that people tended to exaggerate attitudes and prejudices, especially when they felt more vulnerable to disease transmission [36] . It inspires us to try to build a prediction model which can predict people's attitudes and beliefs against the virus through online Weibo data for further understanding of psychological impacts of public health emergencies.",
+            "cite_spans": [
+                {
+                    "start": 649,
+                    "end": 653,
+                    "text": "[36]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In this study, we compared the difference before and after 20 January on both linguistic categories and psychological profile. We found an increase in negative emotions (anxiety, depression, and indignation) and sensitivity to social risks, as well as a decrease in positive emotions (Oxford happiness) and life satisfaction after declaration of COVID-19 in China. What's more, people show more concern for health and family, and less concern for leisure and friends. Using social media data may provide timely understanding of the impact of public health emergencies on the public's mental health during the epidemic period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Author Contributions: S.L., N.Z., and T.Z. conceived and planned this article. S.L. and Y.W. carried out the search and revision of the literature. T.Z. collected and provided the data. S.L. and Y.W. analyzed the data. S.L. drafted the study. J.X., N.Z., and T.Z. reviewed and edited the writing. All authors (S.L., Y.W., J.X., N.Z., and T.Z.) revised the article critically for important intellectual content. All authors (S.L., Y.W., J.X., N.Z., and T.Z.) commented on and approved the final manuscript and are accountable for all aspects of the work. All authors have read and agreed to the published version of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Funding: This research was funded by National Natural Science Foundation of China, grant number 31700984.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The authors declare no conflicts of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The behavioral immune system and social conservatism: A meta-analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "T J"
+                    ],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Natalie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Michael",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Evol. Hum. Behav",
+            "volume": "34",
+            "issn": "",
+            "pages": "99--108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.evolhumbehav.2012.10.003"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Infection breeds reticence: The effects of disease salience on self-perceptions of personality and behavioral avoidance tendencies",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mortensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ackerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Neuberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kenrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Psychol. Sci",
+            "volume": "21",
+            "issn": "",
+            "pages": "440--447",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0956797610361706"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Pathogens, personality, and culture: Disease prevalence predicts worldwide variability in sociosexuality, extraversion, and openness to experience",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schaller",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Personal. Soc. Psychol",
+            "volume": "95",
+            "issn": "",
+            "pages": "212--221",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0022-3514.95.1.212"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A pox on the mind: Disjunction of attention and memory in the processing of physical disfigurement",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ackerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mortensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Neuberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kenrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Exp. Soc. Psychol",
+            "volume": "45",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jesp.2008.12.008"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Parasites, behavioral defenses, and the social psychological mechanisms through which cultures are evoked",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schaller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Psychol. Inq",
+            "volume": "17",
+            "issn": "",
+            "pages": "96--101",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/20447307"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Do people avoid sitting next to someone who is facially disfigured",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Houston",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Eur. J. Soc. Psychol",
+            "volume": "24",
+            "issn": "",
+            "pages": "279--284",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ejsp.2420240205"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Implications of the behavioral immune system for social behavior and human health in the modern world",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schaller",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bangerter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Philos. Trans. Biol. Sci",
+            "volume": "370",
+            "issn": "",
+            "pages": "1--10",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2014.0105"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "000 disaster victims speak: Part II. Summary and implications of the disaster mental health research",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Norris",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Friedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Psychiatry Interpers. Biol. Process",
+            "volume": "60",
+            "issn": "",
+            "pages": "240--260",
+            "other_ids": {
+                "DOI": [
+                    "10.1521/psyc.65.3.240.20169"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Perception of risk",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Slovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Science",
+            "volume": "236",
+            "issn": "",
+            "pages": "280--285",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.3563507"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Emotions, morbidity, and mortality: New perspectives from psychoneuroimmunology",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kiecolt-Glaser",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mcguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Robles",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Glaser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Annu. Rev. Psychol",
+            "volume": "53",
+            "issn": "",
+            "pages": "83--107",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.psych.53.100901.135217"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The oxford happiness questionnaire: A compact scale for the measurement of psychological well-being",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hills",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Argyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Personal. Individ. Differ",
+            "volume": "33",
+            "issn": "",
+            "pages": "1073--1082",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0191-8869(01)00213-6"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "SCL-90: An outpatient psychiatric rating scale-Preliminary report",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Derogatis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lipman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Covi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Psychopharmacol. Bull",
+            "volume": "9",
+            "issn": "",
+            "pages": "13--28",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The satisfaction with life scale",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Diener",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Emmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J. Personal. Assess",
+            "volume": "49",
+            "issn": "",
+            "pages": "71--75",
+            "other_ids": {
+                "DOI": [
+                    "10.1207/s15327752jpa4901_13"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Women's liberation: The development of a likert-type scale",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Cary",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chaplin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deane",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hyde",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zuleger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "J. Soc. Psychol",
+            "volume": "98",
+            "issn": "",
+            "pages": "295--296",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/00224545.1976.9923404"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Construct validation of a general social attitudes scale (SAS_G)",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Milas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mla\u010di\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Miklou\u0161i\u0107",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Individ. Differ",
+            "volume": "34",
+            "issn": "",
+            "pages": "203--213",
+            "other_ids": {
+                "DOI": [
+                    "10.1027/1614-0001/a000115"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Predicting active users' personality based on micro-blogging behaviors",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS ONE",
+            "volume": "9",
+            "issn": "",
+            "pages": "1--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0084997"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Social Networks in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Che",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Facebook as a research tool for the social sciences: Opportunities, challenges, ethical considerations, and practical guidelines",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kosinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Matz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Gosling",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Popov",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stillwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am. Psychol",
+            "volume": "70",
+            "issn": "",
+            "pages": "543--556",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0039210"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Using social media to explore the consequences of domestic violence on mental health",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xue",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Interpers",
+            "volume": "2",
+            "issn": "",
+            "pages": "1--21",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0886260518757756"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "A study of clinical psychological nursing research hotspots in China and variation trends based on word frequency analysis and visualization analysis. Chin",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nurs. Res",
+            "volume": "4",
+            "issn": "",
+            "pages": "38--43",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cnre.2017.06.005"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Improving user profile with personality traits predicted from social media content",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proceedings of the 7th ACM conference on recommender systems",
+            "volume": "",
+            "issn": "",
+            "pages": "355--358",
+            "other_ids": {
+                "DOI": [
+                    "10.1145/2507157.2507219"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Evaluating the validity of simplified Chinese version of LIWC in detecting psychological expressions in short texts on social network services",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS ONE",
+            "volume": "11",
+            "issn": "",
+            "pages": "1--15",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0157947"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The linguistic platform technology",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Che",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Chin. Inf. Process",
+            "volume": "6",
+            "issn": "",
+            "pages": "53--62",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Predicting mental health status on social media",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proceedings of the 5th International Conference on Cross-Cultural Design",
+            "volume": "8024",
+            "issn": "",
+            "pages": "101--110",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-3-642-39137-8_12"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Studying user income through language, behavior and affect in social media",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Daniel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Svitlana",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vasileios",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yoram",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nikolaos",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Adriana",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS ONE",
+            "volume": "10",
+            "issn": "",
+            "pages": "1--17",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0138717"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Personality prediction for microblog users with active learning method",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "8944",
+            "issn": "",
+            "pages": "41--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-3-319-15554-8_4"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Birds of a feather do flock together: Behavior-based personality-assessment method reveals personality similarity among couples and friends",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Youyou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stillwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kosinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Psychol. Sci",
+            "volume": "28",
+            "issn": "",
+            "pages": "276--284",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0956797616678187"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "A theory of cognitive dissonance",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Foulds",
+                    "suffix": ""
+                }
+            ],
+            "year": 1963,
+            "venue": "Br. J. Psychiatry",
+            "volume": "109",
+            "issn": "",
+            "pages": "164--165",
+            "other_ids": {
+                "DOI": [
+                    "10.1192/bjp.109.458.164"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Human evolution and social cognition",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schaller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kenrick",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "In Oxford Handbook of Evolutionary Psychology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "A social cognitive perspective on religious beliefs: Their functions and impact on coping and psychotherapy",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A J"
+                    ],
+                    "last": "Carone",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Barone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin. Psychol. Rev",
+            "volume": "21",
+            "issn": "",
+            "pages": "989--1003",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0272-7358(00)00078-7"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maunder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mazzulli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Can. Med Assoc. J",
+            "volume": "168",
+            "issn": "",
+            "pages": "1245--1251",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.289.18.2432"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Severe acute respiratory syndrome (SARS) in Hong Kong in 2003: Stress and psychological impact among frontline healthcare workers",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W C"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P F"
+                    ],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C W"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chiu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Psychol. Med",
+            "volume": "34",
+            "issn": "",
+            "pages": "1197--1204",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0033291704002247"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Group cohesiveness: A dynamic perspective",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tziner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Soc. Behav. Personal",
+            "volume": "10",
+            "issn": "",
+            "pages": "205--211",
+            "other_ids": {
+                "DOI": [
+                    "10.2224/sbp.1982.10.2.205"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Risk perception and risk communication in environmental medicine",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wiedemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sch\u00fctz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Z. Arztl. Fortbild. Qual",
+            "volume": "91",
+            "issn": "",
+            "pages": "31--42",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Elevated ethnocentrism in the first trimester of pregnancy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Navarrete",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M T"
+                    ],
+                    "last": "Fessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Eng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Evol. Hum. Behav",
+            "volume": "28",
+            "issn": "",
+            "pages": "60--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.evolhumbehav.2006.06.002"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license",
+            "authors": [],
+            "year": null,
+            "venue": "\u00a9 2020 by the authors. Licensee MDPI",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Procedures of feature extraction from online Weibo data and psychological indicator predicted by dynamic features.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Procedures of feature extraction from online Weibo data and psychological indicator predicted by dynamic features.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "before represents the word frequency during 13-19 January, 2020; T-after represents the word frequency during 20-26 January, 2020; M = mean; SD = standard deviation; df = degrees of freedom. *** p < 0.001. After 20 January, the number of words increased in positive emotion (t (17,747) = \u221224.411, p < 0.001), negative emotion (t (17,747) = \u221215.273, p < 0.001), and anxiety (t (17,747) = \u221215.294, p < 0.001). Word frequency significantly increased in the category \"concerns,\" including health (t (17,747) = \u221272.392, p < 0.05), family (t (17,747) = \u221212.571, p < 0.001), death (t (17,747) = \u22126.707, p < 0.001), and religion (t (17,747) = \u221213.816, p < 0.001), but decreased in leisure (t (17,747) = 21.963, p < 0.001) and friend (t (17,747) = 6.202, p < 0.001).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": ". After 20 January, negative emotional indicators of psychological traits increased in anxiety (t (17,747) = \u221235.962, p < 0.001), depression (t (17,747) = \u221210.717, p < 0.001), and indignation (t (17,747) = 5.500, p < 0.001), while positive emotional indicators of psychological traits decreased in Oxford happiness (t (17,747) = 3.120, p < 0.01).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographic characteristics of selected participants.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Word frequency analysis before and after 20 January.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Emotional indicators before and after 20 January.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Cognitive indicators before and after 20 January.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

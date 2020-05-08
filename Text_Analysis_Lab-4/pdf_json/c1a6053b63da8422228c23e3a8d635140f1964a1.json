@@ -1,0 +1,492 @@
+{
+    "paper_id": "c1a6053b63da8422228c23e3a8d635140f1964a1",
+    "metadata": {
+        "title": "The role of masks and respirator protection against SARS-CoV-2",
+        "authors": [
+            {
+                "first": "Qiang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "postCode": "200025",
+                        "settlement": "Shanghai",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chaoran",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Fudan University",
+                    "location": {
+                        "postCode": "200025",
+                        "settlement": "Shanghai",
+                        "country": "PR China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "To the Editor-The outbreak of COVID-19, the novel coronavirus SARS-CoV-2 infection, was first reported on December 31, 2019, in Wuhan, a central city in China. The SARS-CoV-2 virus has infected >30,000 people in a very short time, with hundreds of deaths. 1 COVID-19 continues to be a flaming infectious disease across the world. However, many details of the biological features of this virus remain largely unknown.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 257,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "SARS-CoV-2 is the third coronavirus to have threatened global public health in the past 20 years, following severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012. 2 In an updated COVID-19 report, Wang et al 3 indicated that the median age of death was 75 years, and fever (64.7% of deaths) and cough (52.9% of deaths) were identified as initial clinical manifestation. 3 Genomic characterization of samples from 9 COVID-19 patients indicated that SARS-CoV-2 had 88% identity with 2 bat-derived SARS-like coronaviruses (bat-SL-CoVZC45 and bat-SL-CoVXC21), whereas these bat viruses had 79% identity with SARS-CoV and 50% identity with MERS-CoV. 4 A phylogenetic analysis has indicated that SARS-CoV-2 belongs to the genus Betacoronavirus and the subgenus sarbecovirus. 4 Given that large-scale spread of this virus is now occurring around the world, the identification of cases and the containment of possible routes of spread have become a priority. Increasing risk has narrowed the window of opportunity for effective abatement of COVID-19. Containing an outbreak becomes much more complicated and challenging when hospitalized populations are exposed. Notably, Zhou et al 5 recommended urgent interventions for the protection of Chinese healthcare workers against SARS-CoV-2. In fact, this warning raised attention regarding the role of daily-use N95 respirators and masks during this pandemic.",
+            "cite_spans": [
+                {
+                    "start": 242,
+                    "end": 243,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 448,
+                    "end": 449,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 723,
+                    "end": 724,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 847,
+                    "end": 848,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Given the similarity of SARS-CoV-2 and SARS-CoV, initial political recommendations in China highlighted the use of masks and N95 respirators for protection against SARS-CoV-2. Wearing masks and respirators and self-isolation at home has been issued as a practice guideline for public in China. Of 213 medical staff with no mask, 10 were infected by SARS-CoV-2, but none of the 278 medical staff wearing N95 respirators was infected. 6 Interestingly, a higher risk of infection has been noted in male professionals, and the study by Wang et al 6 highlights the essential role of occupational protection.",
+            "cite_spans": [
+                {
+                    "start": 433,
+                    "end": 434,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "However, evidence-based guidelines remain scarce. By definition, N95 respirators are designed to reduce oral entry of small airborne particles with clear filtration requirements. The respirator must fit tightly to wearer's face with limited seal leakage to be effective. Medical masks, also known as surgical masks, are used to protect the wearers from microorganism transmission, specifically during hand-to-face contact and large droplets and sprays. In fact, the comparably loose wearing of medical masks does not efficiently prevent the entry of small airborne particles. Both masks and N95 respirators are used to protect against airborne viral pathogens such as SARS-CoV and influenza virus. Therefore, it has been reasonable to initiate widespread mask and respirator protocols across China when facing a coronavirus similar to SARS-CoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "However, the question remains: Does N95 respirator demonstrate better outcomes than medical masks? In fact, the clinical effectiveness of N95 respirators compared with medical masks in protecting against respiratory infection transmission has not been fully assessed. Particularly, quantified protection analyses among healthcare individuals close to patients suspected of respiratory illness are limited. 7 In a randomized clinical trial of 2,862 healthcare personnel that analyzed the effectiveness of N95 respirators and medical masks, Radonovich et al 8 reported no significant difference in the incidence of laboratory-confirmed influenza between these 2 types of equipment. Notably, diseasebound features remain another uncertainty limiting the direct translational protective implementation. Experience with the influenza A virus may offer an explanation. 2 The altered specificity of influenza virus-targeting receptor has resulted in a changing disease burden due to a shift from the lower to the upper respiratory tract. The H1N1 virus targets the upper respiratory tract, with endemic populations and comparably mild disease, whereas H7N9 targets the lower respiratory tract, with fewer cases of human-to-human transmission. 2 However, without sufficient mechanistic evidence, whether this lesson can be translated into COVID-19 remains unknown.",
+            "cite_spans": [
+                {
+                    "start": 406,
+                    "end": 407,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 863,
+                    "end": 864,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1236,
+                    "end": 1237,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Nonetheless, the long-term protective role of both masks and respirators is another emerging concern given the worldwide spread of SARS-CoV-2. A previous review of published literature, including 67 randomized controlled trials and observational studies, indicated that surgical masks and N95 respirators were supportive measures offering the most consistent protection. 9 However, these reviewers also concluded that the assessment of such measures was difficult. 9 With the COVID-19 pandemic, it has become necessary to widely implement supportive protection using masks or N95 respirators, which may subsequently enable further multiregional or multinational studies on these issues. Notably, Holshue et al 10 reported the first case of COVID-19 in the United States from a stool specimen that tested positive using a real-time reverse-transcriptase polymerase chain reaction (rRT-PCR) assay.",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 372,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 465,
+                    "end": 466,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 710,
+                    "end": 712,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Because the full picture of the biological features of SARS-CoV-2 has yet to be elucidated, it is prudent to consider more routes of potential risk. In summary, the protective role of both N95 and medical masks in other diseases could be translated to the fight against SARS-CoV-2, and their specific contribution remains to be quantified.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19) situation report-13. World Health Organization website",
+            "authors": [],
+            "year": 2020,
+            "venue": "Novel coronavirus",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A novel coronavirus emerging in China-key questions for impact assessment",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "692--694",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. J Med Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "441--447",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Genomic characterization and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--574",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Protecting Chinese healthcare workers while combating the 2019 novel coronavirus",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Control Hosp Epidemiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "1--4",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/ice.2020.60"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Association between 2019-nCoV transmission and N95 respirator use",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Hosp Infect",
+            "volume": "",
+            "issn": "20",
+            "pages": "30097--30106",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2020.02.021"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Effectiveness of masks and respirators against respiratory infections in healthcare workers: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Offeddu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Yung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Msf",
+                    "middle": [],
+                    "last": "Low",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clin Infect Dis",
+            "volume": "65",
+            "issn": "",
+            "pages": "1934--1942",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "N95 respirators vs medical masks for preventing influenza among health care personnel: a randomized clinical trial",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Radonovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Simberkoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Bessesen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA",
+            "volume": "322",
+            "issn": "",
+            "pages": "824--833",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Physical interventions to interrupt or reduce the spread of respiratory viruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jefferson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Mar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C B",
+                    "middle": [],
+                    "last": "Dooley",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Cochrane Database Syst Revs",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "929--936",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "Acknowledgments. None.Financial support. No financial support was provided relevant to this article.Conflicts of interest. All authors report no conflicts of interest relevant to this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

@@ -1,0 +1,2575 @@
+{
+    "paper_id": "e7bf706da42776851d4792e31c544e1245534f4d",
+    "metadata": {
+        "title": "Coronavirus Disease 2019 (COVID-19): Emerging and Future Challenges for Dental and Oral Medicine",
+        "authors": [
+            {
+                "first": "Z",
+                "middle": [],
+                "last": "Bian",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) and Key Laboratory of Oral Biomedicine Ministry of Education",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [],
+                "last": "Meng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) and Key Laboratory of Oral Biomedicine Ministry of Education",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "F",
+                "middle": [],
+                "last": "Hua",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) and Key Laboratory of Oral Biomedicine Ministry of Education, School and Hospital of Stomatology",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The epidemic of coronavirus disease 2019 , originating in Wuhan, China, has become a major public health challenge for not only China but also countries around the world. The World Health Organization announced that the outbreaks of the novel coronavirus have constituted a public health emergency of international concern. As of February 26, 2020, COVID-19 has been recognized in 34 countries, with a total of 80,239 laboratory-confirmed cases and 2,700 deaths. Infection control measures are necessary to prevent the virus from further spreading and to help control the epidemic situation. Due to the characteristics of dental settings, the risk of cross infection can be high between patients and dental practitioners. For dental practices and hospitals in areas that are (potentially) affected with COVID-19, strict and effective infection control protocols are urgently needed. This article, based on our experience and relevant guidelines and research, introduces essential knowledge about COVID-19 and nosocomial infection in dental settings and provides recommended management protocols for dental practitioners and students in (potentially) affected areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "On January 8, 2020, a novel coronavirus was officially announced as the causative pathogen of COVID-19 by the Chinese Center for Disease Control and Prevention . The epidemics of coronavirus disease 2019 (COVID-19) started from Wuhan, China, last December and have become a major challenging public health problem for not only China but also countries around the world (Phelan et al. 2020) . On January 30, 2020, the World Health Organization (WHO) announced that this outbreak had constituted a public health emergency of international concern (Mahase 2020). The novel coronavirus was initially named 2019-nCoV and officially as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). As of February 26, COVID-19 has been recognized in 34 countries, with a total of 80,239 laboratory-confirmed cases and 2,700 deaths (WHO 2020b) .",
+            "cite_spans": [
+                {
+                    "start": 369,
+                    "end": 389,
+                    "text": "(Phelan et al. 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 824,
+                    "end": 835,
+                    "text": "(WHO 2020b)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Due to the characteristics of dental settings, the risk of cross infection may be high between dental practitioners and patients. For dental practices and hospitals in countries/regions that are (potentially) affected with COVID-19, strict and effective infection control protocols are urgently needed. This article, based on our experience and relevant guidelines and research, introduces the essential knowledge about COVID-19 and nosocomial infection in dental settings and provides recommended management protocols for dental practitioners and students in (potentially) affected areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "According to recent research, similar to SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV), SARS-CoV-2 is zoonotic, with Chinese horseshoe bats (Rhinolophus sinicus) being the most probable origin (Chan et al. 2020; Lu et al. 2020) and pangolins as the most likely intermediate host (The Chinese Preventive Medicine Association 2020).",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 234,
+                    "text": "(Chan et al. 2020;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 235,
+                    "end": 250,
+                    "text": "Lu et al. 2020)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral Etiology"
+        },
+        {
+            "text": "started with a single animal-to-human transmission, followed by sustained human-to-human spread (Chan et al. 2020; Del Rio and Malani 2020) . It is now believed that its interpersonal transmission occurs mainly via respiratory droplets and contact transmission (The Chinese Preventive Medicine Association 2020). In addition, there may be risk of fecal-oral transmission, as researchers have identified SARS-CoV-2 in the stool of patients from China and the United States (Holshue et al. 2020) . However, whether SARS-CoV-2 can be spread through aerosols or vertical transmission (from mothers to their newborns) is yet to be confirmed (Chen, Guo, et al. 2020; WHO 2020c; Zhu et al. 2020) .",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 114,
+                    "text": "(Chan et al. 2020;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 115,
+                    "end": 139,
+                    "text": "Del Rio and Malani 2020)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 472,
+                    "end": 493,
+                    "text": "(Holshue et al. 2020)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 636,
+                    "end": 660,
+                    "text": "(Chen, Guo, et al. 2020;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 661,
+                    "end": 671,
+                    "text": "WHO 2020c;",
+                    "ref_id": null
+                },
+                {
+                    "start": 672,
+                    "end": 688,
+                    "text": "Zhu et al. 2020)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral Etiology"
+        },
+        {
+            "text": "Although patients with symptomatic COVID-19 have been the main source of transmission, recent observations suggest that asymptomatic patients and patients in their incubation period are also carriers of SARS-CoV-2 (Chan et al. 2020; Rothe et al. 2020) . This epidemiologic feature of COVID-19 has made its control extremely challenging, as it is difficult to identify and quarantine these patients in time, which can result in an accumulation of SARS-CoV-2 in communities (The Chinese Preventive Medicine Association 2020). In addition, it remains to be proved whether patients in the recovering phase are a potential source of transmission (Rothe et al. 2020) .",
+            "cite_spans": [
+                {
+                    "start": 214,
+                    "end": 232,
+                    "text": "(Chan et al. 2020;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 233,
+                    "end": 251,
+                    "text": "Rothe et al. 2020)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 641,
+                    "end": 660,
+                    "text": "(Rothe et al. 2020)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Source of Transmission."
+        },
+        {
+            "text": "Incubation Period. The incubation period of COVID-19 has been estimated at 5 to 6 d on average, but there is evidence that it could be as long as 14 d, which is now the commonly adopted duration for medical observation and quarantine of (potentially) exposed persons (Backer et al. 2020; .",
+            "cite_spans": [
+                {
+                    "start": 267,
+                    "end": 287,
+                    "text": "(Backer et al. 2020;",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Source of Transmission."
+        },
+        {
+            "text": "Fatality Rate. According to current data, the fatality rate (cumulative deaths divided by cumulative cases) of COVID-19 is 0.39% to 4.05%, depending on different regions of China, which is lower than that of SARS (severe acute respiratory syndrome; \u224810%) and MERS (Middle East respiratory syndrome; \u224834% (Malik et al. 2020) and higher than that of seasonal influenza (0.01% to 0.17%) according to data for 2010 to 2017 from the US Centers for Disease Control and Prevention (2020) .",
+            "cite_spans": [
+                {
+                    "start": 304,
+                    "end": 323,
+                    "text": "(Malik et al. 2020)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 474,
+                    "end": 480,
+                    "text": "(2020)",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Source of Transmission."
+        },
+        {
+            "text": "People at High Risk of Infection. Current observations suggest that people of all ages are generally susceptible to this new infectious disease. However, those who are in close contact with patients with symptomatic and asymptomatic COVID-19, including health care workers and other patients in the hospital, are at higher risk of SARS-CoV-2 infection. In the early stage of the epidemic, in an analysis of 138 hospitalized patients with COVID-19 in Wuhan, 57 (41%) were presumed to have been infected in hospital, including 40 (29%) health care workers and 17 (12%) patients hospitalized for other reasons . As of February 14, 2020, a total of 1,716 health care workers in China were infected with SARS-CoV-2, consisting of 3.8% affected patients nationally, 6 of that group who have died.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Source of Transmission."
+        },
+        {
+            "text": "The majority of patients with COVID-19 represent relatively mild cases. According to recent studies Yang et al. 2020) and data from the National Health Commission of China (2020b), the proportion of severe cases among all patients with COVID-19 in China was around 15% to 25%.",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 117,
+                    "text": "Yang et al. 2020)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Manifestations"
+        },
+        {
+            "text": "The majority of patients experienced fever and dry cough, while some also had shortness of breath, fatigue, and other atypical symptoms, such as muscle pain, confusion, headache, sore throat, diarrhea, and vomiting (Chen, Zhou, et al. 2020; Guan et al. 2020) . Among patients who underwent chest computed tomography (CT), most showed bilateral pneumonia, with ground-glass opacity and bilateral patchy shadows being the most common patterns Wang et al. 2020) .",
+            "cite_spans": [
+                {
+                    "start": 215,
+                    "end": 240,
+                    "text": "(Chen, Zhou, et al. 2020;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 241,
+                    "end": 258,
+                    "text": "Guan et al. 2020)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 441,
+                    "end": 458,
+                    "text": "Wang et al. 2020)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Manifestations"
+        },
+        {
+            "text": "Among hospitalized patients in Wuhan, around one-fourth to one-third developed serious complications, such as acute respiratory distress syndrome, arrhythmia, and shock, and were therefore transferred to the intensive care unit (Chen, Zhou, et al. 2020; Huang et al. 2020; Wang et al. 2020) . In general, older age and the existence of underlying comorbidities (e.g., diabetes, hypertension, and cardiovascular disease) were associated with poorer prognosis (Kui et al. 2020; Wang et al. 2020; Yang et al. 2020) .",
+            "cite_spans": [
+                {
+                    "start": 228,
+                    "end": 253,
+                    "text": "(Chen, Zhou, et al. 2020;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 254,
+                    "end": 272,
+                    "text": "Huang et al. 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 273,
+                    "end": 290,
+                    "text": "Wang et al. 2020)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 458,
+                    "end": 475,
+                    "text": "(Kui et al. 2020;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 476,
+                    "end": 493,
+                    "text": "Wang et al. 2020;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 494,
+                    "end": 511,
+                    "text": "Yang et al. 2020)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Manifestations"
+        },
+        {
+            "text": "The diagnosis of COVID-19 can be based on a combination of epidemiologic information (e.g., a history of travel to or residence in affected region 14 d prior to symptom onset), clinical symptoms, CT imaging findings, and laboratory tests (e.g., reverse transcriptase polymerase chain reaction [RT-PCR] tests on respiratory tract specimens) according to standards of either the WHO (2020a) or the National Health Commission of China (2020a). It should be mentioned that a single negative RT-PCR test result from suspected patients does not exclude infection. Clinically, we should be alert of patients with an epidemiologic history, COVID-19-related symptoms, and/or positive CT imaging results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnosis and Treatment"
+        },
+        {
+            "text": "So far, there has been no evidence from randomized controlled trials to recommend any specific anti-nCoV treatment, so the management of COVID-19 has been largely supportive (WHO 2020a). Currently, the approach to COVID-19 is to control the source of infection; use infection prevention and control measures to lower the risk of transmission; and provide early diagnosis, isolation, and supportive care for affected patients . A series of clinical trials are being carried out to investigate interventions that are potentially more effective (e.g., lopinavir, remdesivir; Del Rio and Malani 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnosis and Treatment"
+        },
+        {
+            "text": "Dental patients who cough, sneeze, or receive dental treatment including the use of a high-speed handpiece or ultrasonic instruments make their secretions, saliva, or blood aerosolize to the surroundings. Dental apparatus could be contaminated with various pathogenic microorganisms after use or become exposed to a contaminated clinic environment. Thereafter, infections can occur through the puncture of sharp instruments or direct contact between mucous membranes and contaminated hands (Kohn et al. 2003) .",
+            "cite_spans": [
+                {
+                    "start": 490,
+                    "end": 508,
+                    "text": "(Kohn et al. 2003)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Risk of Nosocomial Infection in Dental Settings"
+        },
+        {
+            "text": "Due to the unique characteristics of dental procedures where a large number of droplets and aerosols could be generated, the standard protective measures in daily clinical work are not effective enough to prevent the spread of COVID-19, especially when patients are in the incubation period, are unaware they are infected, or choose to conceal their infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Risk of Nosocomial Infection in Dental Settings"
+        },
+        {
+            "text": "Hand hygiene has been considered the most critical measure for reducing the risk of transmitting microorganism to patients (Larson et al. 2000) . SARS-CoV-2 can persist on surfaces for a few hours or up to several days, depending on the type of surface, the temperature, or the humidity of the environment (WHO 2020c). This reinforces the need for good hand hygiene and the importance of thorough disinfection of all surfaces within the dental clinic. The use of personal protective equipment, including masks, gloves, gowns, and goggles or face shields, is recommended to protect skin and mucosa from (potentially) infected blood or secretion. As respiratory droplets are the main route of SARS-CoV-2 transmission, particulate respirators (e.g., N-95 masks authenticated by the National Institute for Occupational Safety and Health or FFP2-standard masks set by the European Union) are recommended for routine dental practice.",
+            "cite_spans": [
+                {
+                    "start": 123,
+                    "end": 143,
+                    "text": "(Larson et al. 2000)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effective Infection Control Protocols"
+        },
+        {
+            "text": "In January 2020, the National Health Commission of China added COVID-19 to the category of group B infectious diseases, which includes SARS and highly pathogenic avian influenza. However, it also suggested that all health care workers use protection measures similar to those indicated for group A infections-a category reserved for extremely infectious pathogens, such as cholera and plague.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for Management"
+        },
+        {
+            "text": "Since then, in most cities of the mainland of China, only dental emergency cases have been treated when strict implementation of infection prevention and control measures are recommended. Routine dental practices have been suspended until further notification according to the situation of epidemics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for Management"
+        },
+        {
+            "text": "Additionally, dentistry-related quality control centers and professional societies in many provinces and cities have put forward their recommendations for dental services during the COVID-19 outbreak, which, as supplementary measures, should be helpful in ensuring the quality of infection control (Li and Meng 2020) .",
+            "cite_spans": [
+                {
+                    "start": 298,
+                    "end": 316,
+                    "text": "(Li and Meng 2020)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for Management"
+        },
+        {
+            "text": "The School and Hospital of Stomatology, Wuhan University provided dental care (including oral and maxillofacial surgery) to around 890,000 patients last year and is home to 1,098 staff and 828 students. Our hospital does not have a fever clinic or belong to a designated one for patients with COVID-19. Any staff member who has fever, cough, sneezing, or COVID-19related symptoms or has a close family member who is confirmed with the infection is advised to undergo a medical examination in a designated hospital and cease working. Since this epidemic, 9 of our colleagues have been confirmed to have COVID-19, including 3 doctors, 3 nurses, 2 administrative staff, and 1 postgraduate student (Fig. 1, Table) . So far, there have been no further cases among colleagues or patients who had close contact with them. According to analyses of epidemiologic investigation and medical history, all these cases are without obvious aggregation, except 2 nurses from the same department (patients 2 and 3), and are unlikely to result from cross infection. The infection was possibly limited because medical masks and gloves worn during routine clinic work of dental practitioners prevented further transmission.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 694,
+                    "end": 709,
+                    "text": "(Fig. 1, Table)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Current Status of Our School and Hospital"
+        },
+        {
+            "text": "Despite the increasing number of confirmed cases during this period in Wuhan, we (169 staff involved in duty of dental emergency) have treated >700 patients with emergent dental treatment need since January 24 (Fig. 2) , under the premise of adequate protection measures. All the dental procedures were recorded daily, and patients and their accompanying persons were requested to provide their phone number and home address in the case that either our staff or patients are suspected or confirmed with COVID-19 in the future. We have also provided consultations to >1,600 patients on our online platform since February 3. No further COVID-19 infection has been reported among our staff, which confirmed the effectiveness of our infection control measures in COVID-19 prevention within dental settings (Fig. 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 210,
+                    "end": 218,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 802,
+                    "end": 810,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Current Status of Our School and Hospital"
+        },
+        {
+            "text": "According to the instructions from the Ministry of Education of China, all students, including those in our school, have been required to not return to school until further notification. Students are recommended to learn online after the Chinese Spring Festival on the mainland of China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Current Status of Our School and Hospital"
+        },
+        {
+            "text": "Interim guidance on infection prevention and control during health care is recommended when COVID-19 infection is suspected (WHO 2020a). Up to now, there has been no consensus on the provision of dental services during the epidemic of COVID-19. On the basis of our experience and relevant guidelines and research, dentists should take strict personal protection measures and avoid or minimize operations that can produce droplets or aerosols. The 4-handed technique is beneficial for controlling infection. The use of saliva ejectors with low or high volume can reduce the production of droplets and aerosols (Kohn et al. 2003; Li et al. 2004; Samaranayake and Peiris 2004) .",
+            "cite_spans": [
+                {
+                    "start": 609,
+                    "end": 627,
+                    "text": "(Kohn et al. 2003;",
+                    "ref_id": null
+                },
+                {
+                    "start": 628,
+                    "end": 643,
+                    "text": "Li et al. 2004;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 644,
+                    "end": 673,
+                    "text": "Samaranayake and Peiris 2004)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Practice"
+        },
+        {
+            "text": "During the outbreak of COVID-19, dental clinics are recommended to establish precheck triages to measure and record the temperature of every staff and patient as a routine procedure. Precheck staff should ask patients questions about the health status and history of contact or travel (WHO 2020a). Patients and their accompanying persons are provided with medical masks and temperature measurement once they enter our hospital. Patients with fever should be registered and referred to designated hospitals. If a patient has been to epidemic regions within the past 14 d, quarantine for at least 14 d is suggested. In areas where COVID-19 spreads, nonemergency dental practices should be postponed (Kohn et al. 2003; Li et al. 2004; Samaranayake and Peiris 2004) .",
+            "cite_spans": [
+                {
+                    "start": 697,
+                    "end": 715,
+                    "text": "(Kohn et al. 2003;",
+                    "ref_id": null
+                },
+                {
+                    "start": 716,
+                    "end": 731,
+                    "text": "Li et al. 2004;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 732,
+                    "end": 761,
+                    "text": "Samaranayake and Peiris 2004)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Evaluation of Patients."
+        },
+        {
+            "text": "It was reported that dental practice should be postponed at least 1 mo for convalescing patients with SARS (Samaranayake and Peiris 2004) . It is unknown yet whether the same suggestion should be recommended for patients with COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 137,
+                    "text": "(Samaranayake and Peiris 2004)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Evaluation of Patients."
+        },
+        {
+            "text": "Oral Examination. Preoperative antimicrobial mouth rinse could reduce the number of microbes in the oral cavity (Kohn et al. 2003; Marui et al. 2019) . Procedures that are likely to induce coughing should be avoided (if possible) or performed cautiously (WHO 2020a). Aerosol-generating procedures, such as the use of a 3-way syringe, should be minimized as much as possible. Intraoral x-ray examination is the most common radiographic technique in dental imaging; however, it can stimulate saliva secretion and coughing (Vandenberghe et al. 2010) . Therefore, extraoral dental radiographies, such as panoramic radiography and cone beam CT, are appropriate alternatives during the outbreak of COVID-19. in the main buildings in the School and Hospital of Stomatology, Wuhan University. There are 3 main buildings in our hospital. Building 1 mainly contains outpatients, classrooms, and a library. Its air renewal system depends on air conditioners. Building 2 contains outpatients, wards, and administrative regions. This building was equipped with central air conditioners and a fresh air system. Building 3 is a research laboratory, and it also depends on air conditioners. See Table for details. The staff and the student confirmed with COVID-19 did not contact one another closely, and most of them had been away since January 22 or 23, 2020, because of the Chinese Spring Festival. b Family member with COVID-19-related symptom at least 1 d earlier. c Patient 7 is a research group member supervised by a professor. No classmates or roommates of his were reported to be infected. d Zhongshang clinic and Yichang clinic are 2 of 16 satellite clinics of our hospital. The former, located within Wuhan city, is 4 km away from the hospital, and the latter is 300 km away and located in Yichang city. They both solely depend on air conditioners. Patients 8 and 9 are a couple. They were reunited, took a high-speed train back home on January 21, and had respiratory symptoms after 8 d.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 130,
+                    "text": "(Kohn et al. 2003;",
+                    "ref_id": null
+                },
+                {
+                    "start": 131,
+                    "end": 149,
+                    "text": "Marui et al. 2019)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 520,
+                    "end": 546,
+                    "text": "(Vandenberghe et al. 2010)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1179,
+                    "end": 1188,
+                    "text": "Table for",
+                    "ref_id": null
+                }
+            ],
+            "section": "Evaluation of Patients."
+        },
+        {
+            "text": "Treatment of Emergency Cases. Dental emergencies can occur and exacerbate in a short period and therefore need immediate treatment. Rubber dams and high-volume saliva ejectors can help minimize aerosol or spatter in dental procedures. Furthermore, face shields and goggles are essential with use of highor low-speed drilling with water spray (Samaranayake et al. 1989 ). According to our clinic experience during the outbreak, if a carious tooth is diagnosed with symptomatic irreversible pulpitis, pulp exposure could be made with chemomechanical caries removal under rubber dam isolation and a high-volume saliva ejector after local anesthesia; then, pulp devitalization can be performed to reduce the pain. The filling material can be replaced gently without a devitalizing agent later according to the manufacturer's recommendation. We also met a patient who had a spontaneous toothache because of a cracked tooth without dental decay, and a high-speed handpiece had to be used to access cavity preparation. Given that the patient wanted to retain the tooth, she was scheduled as the last patient in the day to decrease the risk of nosocomial infection. After treatment, environmental cleaning and disinfection procedures were followed. Alternatively, patients could be treated in an isolated and well-ventilated room (Fig. 3) or negatively pressured rooms if available for suspected cases with COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 342,
+                    "end": 367,
+                    "text": "(Samaranayake et al. 1989",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1322,
+                    "end": 1330,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Evaluation of Patients."
+        },
+        {
+            "text": "The treatment planning of tooth fracture, luxation, or avulsion is dependent on the age, the traumatic severity of dental tissue, the development of the apex, and the duration of tooth avulsion DiAngelis et al. 2012; Malmgren et al. 2012) . If the tooth needs to be extracted, absorbable suture is preferred. For patients with facial soft tissue contusion, debridement and suturing should be performed. It is recommended to rinse the wound slowly and use the saliva ejector to avoid spraying. Life-threatening cases with oral and maxillofacial compound injuries should be admitted to the hospital immediately, and chest CT should be prescribed if available to exclude suspected infection because the RT-PCR test, besides time-consuming, needs a laboratory with pan-coronavirus or specific SARS-CoV-2 detection capacity.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 216,
+                    "text": "DiAngelis et al. 2012;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 217,
+                    "end": 238,
+                    "text": "Malmgren et al. 2012)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Evaluation of Patients."
+        },
+        {
+            "text": "Education-related challenges for medical and dental schools, as well as their affiliated hospitals, are significant. It was reported that open communication among students, clinical teachers, and administrative staff would enhance mutual trust and facilitate adequate cooperation (Park et al. 2016) .",
+            "cite_spans": [
+                {
+                    "start": 280,
+                    "end": 298,
+                    "text": "(Park et al. 2016)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Education"
+        },
+        {
+            "text": "On the basis of our experience with SARS and relevant highly pathogenic infectious disease, we provide a few basic -19) in Wuhan city from December 30, 2019, to February 25, 2020. *Weekends and national holidays (including the extended spring festival holiday). # Huanan Seafood Market was closed in Wuhan city after the majority of the earliest COVID-19 cases were linked to the Huanan Seafood Wholesale Market. & Lockdown of Wuhan city started. According to the epidemic situation, the notification of city lockdown was made to stop any transportation, including airplane, train, and bus, from Wuhan city to prevent COVID-19 transmission, especially because of population movement during Chinese Spring Festival. Before January 21, WHUSS staff had only medical masks and gloves. On January 22, we started to use disposable surgical masks, N95 masks, and gowns. Goggles and protective suits were not available until January 28. recommendations for dental education during an outbreak: First, during the outbreak period, online lectures, case studies, and problem-based learning tutorials should be adopted to avoid unnecessary aggregation of people and associated risk of infection (Patil et al. 2003) . Existing smart devices and applications have already made it possible for students to listen to and review lectures whenever and wherever possible. In fact, our students started online learning from February 17. Second, it is worth advocating to encourage students to engage in selflearning, make full use of online resources, and learn about the latest academic developments. Third, during this period, it is easy for students to be affected by disease-associated fear and pressure, and dental schools should be prepared to provide psychological services to those who need them (Wong et al. 2004) .",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 119,
+                    "text": "-19)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1183,
+                    "end": 1202,
+                    "text": "(Patil et al. 2003)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1784,
+                    "end": 1802,
+                    "text": "(Wong et al. 2004)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Education"
+        },
+        {
+            "text": "With the increased knowledge of viral features, epidemiologic characteristics, clinical spectrum, and treatment, efficient strategies have been taken to prevent, control, and stop the spread of COVID-19. The infection prevention and control strategies that we have adopted are determined by the fact that we are in the center of COVID-19. Other regions should follow the recommendations from the disease control centers for infection prevention and control according to the local epidemic situation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Education"
+        },
+        {
+            "text": "What should we do to improve the current infection prevention and control strategies after the epidemic? How should we respond to similar contagious diseases in the future? These are open questions in need of further discussion and research.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Education"
+        },
+        {
+            "text": "We must be constantly aware of infectious threats that may challenge the current infection control regimen, especially in dental practices and schools of dental medicine.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recommendations for Dental Education"
+        },
+        {
+            "text": "L. Meng, contributed to conception, design, data acquisition, and analysis, drafted and critically revised the manuscript; F. Hua, contributed to design and data acquisition, drafted and critically revised the manuscript; Z. Bian, contributed to conception, design, data acquisition, analysis, and interpretation, drafted and critically revised the manuscript. All authors gave final approval and agree to be accountable for all aspects of the work. Orange: dental clinic. Red: isolation clinic. Green: resting area for staff only. As shown in the diagram, our triage staff in the yellow area wear disposable surgical mask, cap, and work clothes. In the orange area, dental staff is provided with PPE, including disposable N95 masks, gloves, gowns, cap, shoe cover, and goggles or face shield. The area is disinfected once every half day. Before February 21, all the patients were treated in this area. The isolation clinic in the red area was set up on February 21. It is designed for patients who are suspected with COVID-19, who are recovering from COVID-19 (but <1 mo after they are discharged from hospital), or who need dental procedures producing droplets and/or aerosols. Separate entrances for patients (red arrow) and staff (blue arrow) are provided in the area. Dental staff should wear protective clothing besides the aforementioned PPE. In addition, the entire isolation area is disinfected immediately after the treatment is over and the patient has left. The grid area behind the red line is for staff only. Staff can have a rest in the room (green area). They are recommended to enter the room by turn and to keep wearing medical masks unless they are eating or drinking. potential conflicts of interest with respect to the authorship and/or publication of this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Contributions"
+        },
+        {
+            "text": "F. Hua https://orcid.org/0000-0002-2438-5924 Z. Bian https://orcid.org/0000-0002-8035-4276",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ORCID iDs"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent teeth",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Andreasen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Heithersay",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Trope",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Diangelis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kenny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sigurdsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bourguignon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Flores",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Dent Traumatol",
+            "volume": "28",
+            "issn": "2",
+            "pages": "88--96",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Backer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wallinga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "5",
+            "pages": "20--28",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2020.2825.2805"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Disease burden of influenza",
+            "authors": [],
+            "year": 2020,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--523",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30360-3"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--513",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "novel coronavirus-important information for clinicians",
+            "authors": [
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Rio",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Malani",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations of permanent teeth",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Diangelis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Andreasen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ebeleseder",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kenny",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Trope",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sigurdsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bourguignon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Flores",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Dent Traumatol",
+            "volume": "28",
+            "issn": "1",
+            "pages": "2--12",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv",
+            "authors": [
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-H",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-Q",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-L",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.1102.1106.20020974"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lofy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wiesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Spitters",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ericson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wilkerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tural",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Guidelines for infection control in dental health-care settings-2003",
+            "authors": [],
+            "year": 2003,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical characteristics of novel coronavirus cases in tertiary hospitals in Hubei province",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin Med J (Engl",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/CM1099.0000000000000744"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "An organizational climate intervention associated with increased handwashing and decreased nosocomial infections",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Early",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cloonan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sugrue",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Parides",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Behav Med",
+            "volume": "26",
+            "issn": "1",
+            "pages": "14--22",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ksm",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ehy",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Severe acute respiratory syndrome (SARS) and the GDP. Part II: implications for GDPs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Samaranayake",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Br Dent J",
+            "volume": "197",
+            "issn": "3",
+            "pages": "130--134",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Prevention and control of new coronavirus infection in department of stomatology",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin J Stomatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.1002-0098.2020.0001"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--574",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "China coronavirus: WHO declares international emergency as death toll exceeds 200",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mahase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Emerging novel coronavirus (2019-nCoV)-current scenario, evolutionary perspective based on genome analysis and recent developments. Vet Q [epub ahead of print",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Malik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sircar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bhat",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sharun",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dhama",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dadar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tiwari",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chaicumpa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 3. Injuries in the primary dentition",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Malmgren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Andreasen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Flores",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Diangelis",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cavalleri",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cohenca",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Dent Traumatol",
+            "volume": "28",
+            "issn": "3",
+            "pages": "174--182",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Efficacy of preprocedural mouthrinses in the reduction of microorganisms in aerosol: a systematic review",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Marui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mls",
+                    "middle": [],
+                    "last": "Souto",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rovai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Romito",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chambrone",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pannuti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Am Dent Assoc",
+            "volume": "150",
+            "issn": "12",
+            "pages": "1015--1026",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "National Health Commission of China. 2020a. The diagnosis and treatment protocol for novel coronavirus pneumonia",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "National Health Commission of China. 2020b. An update of novel coronavirus pneumonia outbreak as of 24:00 on",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Avoiding student infection during a Middle East respiratory syndrome (MERS) outbreak: a single medical school experience",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Korean J Med Educ",
+            "volume": "28",
+            "issn": "2",
+            "pages": "209--217",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "SARS and its effect on medical education in Hong Kong",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Patil",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Med Educ",
+            "volume": "37",
+            "issn": "12",
+            "pages": "1127--1128",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The novel coronavirus originating in Wuhan, China: challenges for global health governance [epub ahead of print",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Phelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Gostin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1097"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Transmission of 2019-nCoV infection from an asymptomatic contact in Germany [epub ahead of print",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schunk",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sothmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bretzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Froeschl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wallrauch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zimmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Janke",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guggemos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001468"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The efficacy of rubber dam isolation in reducing atmospheric bacterial contamination",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Samaranayake",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "ASDC J Dent Child",
+            "volume": "56",
+            "issn": "6",
+            "pages": "442--444",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Severe acute respiratory syndrome and dentistry: a retrospective view",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Samaranayake",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Am Dent Assoc",
+            "volume": "135",
+            "issn": "9",
+            "pages": "1292--1302",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The Chinese Preventive Medicine Association. 2020. An update on the epidemiological characteristics of novel coronavirus pneumonia (COVID-19)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Modern dental imaging: a review of the current technology and clinical applications in dental practice",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Vandenberghe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bosmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Eur Radiol",
+            "volume": "20",
+            "issn": "11",
+            "pages": "2637--2655",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Psychological responses to the SARS outbreak in healthcare students in Hong Kong",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcalonan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Med Teach",
+            "volume": "26",
+            "issn": "7",
+            "pages": "657--659",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Clinical management of severe acute respiratory infection when novel coronavirus (2019-nCoV) infection is suspected: interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "COVID-19): situation report-36",
+            "authors": [],
+            "year": 2020,
+            "venue": "World Health Organization. 2020b. Coronavirus disease 2019",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "World Health Organization. 2020c. Questions and answers on coronaviruses",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jalali",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dean",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Halloran",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.1102.1110"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Clinical analysis of 10 neonates born to mothers with 2019-nCoV pneumonia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Transl Pediatr",
+            "volume": "9",
+            "issn": "1",
+            "pages": "51--60",
+            "other_ids": {
+                "DOI": [
+                    "10.21037/tp.2020.02.06"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Location of staff and student confirmed with coronavirus disease 2019",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Number of outpatients treated at the School and Hospital of Stomatology, Wuhan University (WHUSS), and cumulative number of confirmed cases with coronavirus disease 2019 (COVID",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "The personal protective equipment (PPE) diagram for divisions in the emergency care area at the School and Hospital of Stomatology, Wuhan University, during the coronavirus disease 2019 (COVID-19) outbreak. Yellow: triage and waiting area.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Brief Introduction to the Staff and Student Confirmed with COVID-19 in School and Hospital of Stomatology, Wuhan University.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The article was supported by grants from the National Natural ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

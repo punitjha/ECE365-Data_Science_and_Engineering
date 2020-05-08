@@ -1,0 +1,2427 @@
+{
+    "paper_id": "c0b3663712158fa3d2900c6e4e5ffcaa7e7e3682",
+    "metadata": {
+        "title": "Efficient functional screening of a cellular cDNA library to identify severe fever with thrombocytopenia syndrome virus entry factors",
+        "authors": [
+            {
+                "first": "Masayuki",
+                "middle": [],
+                "last": "Shimojima",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Satoko",
+                "middle": [],
+                "last": "Sugimoto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Satoshi",
+                "middle": [],
+                "last": "Taniguchi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tomoki",
+                "middle": [],
+                "last": "Yoshikawa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Takeshi",
+                "middle": [],
+                "last": "Kurosu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Masayuki",
+                "middle": [],
+                "last": "Saijo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Special Pathogens Laboratory",
+                    "institution": "National Institute of Infectious Diseases",
+                    "location": {
+                        "settlement": "Musashimurayama, Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Among different organisms, many similar but non-identical cellular molecules exist that show the same functions. Even in a single species, the expressed molecules are dependent on cell types. This is the case with virus entry factors, which are cellular components involved in viral attachment to cells and invasion into cells for viral replication 1,2 . Thus, viral infections show specificity with regards to host ranges, tissues, and cell types, indicating that the identification of virus entry factors is useful for the molecular explanation of viral tropisms 3 . Because target tissues or cell types of viruses are strongly associated with virus-induced diseases, the identification of virus entry factors often leads to a more profound understanding of the associated diseases. Furthermore, the identification of viral entry factors might aid the efficient development of countermeasures against the induced diseases 4,5 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Severe fever with thrombocytopenia syndrome (SFTS) is a recently recognised tick-borne infectious disease with a high case fatality rate of up to 30%. SFTS virus, whose species name is Huaiyangshan banyangvirus (see below for details), is the causative agent 6,7 . There are no specific countermeasures against the disease. In SFTS patients, thrombocytopenia and leukopenia are frequently observed and viral antigens are often detected in the lymphoid organs in fatal cases [8] [9] [10] [11] . In vitro, most lymphoid cell lines (e.g., Jurkat and Raji cells, which originate from T and B cells, respectively) show little susceptibility to SFTS virus infection. In contrast, most non-lymphoid cell lines (e.g., Vero cells, which originate from the kidney epithelium) show high susceptibility to the viral infection 8,12-14 . Calcium-dependent (C-type) lectins have been shown to enhance SFTS virus infection when expressed in cells that otherwise show little susceptibility 13,14 ; however, this cannot fully explain the viral tropisms because most non-lymphoid cell lines do not generally express them. Nonmuscle myosin heavy chain IIA (NMMHC-IIA) has been reported as a key entry factor of SFTS virus 15 ; however, the molecule is expressed even in Jurkat cells and direct interaction with SFTS virus has not been demonstrated. Recent studies reported important roles of glucosylceramide and sorting nexin 11 (SNX11) in the intracellular trafficking and/or penetrating process of SFTS virus infection 16, 17 ; neither of their expression is cell type-specific and therefore can explain SFTS virus tropisms.",
+            "cite_spans": [
+                {
+                    "start": 474,
+                    "end": 477,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 478,
+                    "end": 481,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 482,
+                    "end": 486,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 487,
+                    "end": 491,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1502,
+                    "end": 1505,
+                    "text": "16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1506,
+                    "end": 1508,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "These findings indicate that yet unidentified molecules or factors for virus entry contribute to SFTS viral tropism as well as the pathogenesis of SFTS, rather than C-type lectins, NMMHC-IIA, glucosylceramide, and SNX11.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The identification of virus entry factors has been performed by various methods, which are roughly classified into three categories: (I) speculation based on knowledge obtained from experiments 18-21 ; (II) screening of libraries based on gain-of-function or loss-of-function criteria [22] [23] [24] ; and (III) identification of interactive cellular molecules by peptide sequencing or mass spectrometry [25] [26] [27] . We have developed an efficient, low-cost cellular cDNA library screening method using a classical panning to identify virus entry factors (hereafter referred to as 1 st generation panning for virus entry factor identification or simply 1 st generation panning) 28-30 , which could be classified into category II. In 1 st generation panning, cellular cDNA libraries are stably expressed in non-adherent cell lines by using a retroviral vector, which integrates genes into cellular genomes with no or low cytotoxicity and do not inhibit cell growth, and screened based on colony formation of target cells on viral particle-coated dishes. From genome of colony-forming cells, cDNAs encoding molecules which confer adhesiveness onto viral particles to non-adherent cells are recovered by polymerase chain reaction (PCR) with primers targeting retroviral vector sequences flanking to cDNA library. Therefore, interaction between viral particles and surface molecules of target cells that is strong enough to trap target cells onto viral particle-coated dishes is a prerequisite for the method. The method was also applied to identify a receptor of a protozoa Plasmodium falciparum 31 . For viruses for which the interaction with target cells is not strong, we have developed another efficient screening method to identify virus entry factors (hereafter referred to as 2 nd generation panning for virus entry factor identification or simply 2 nd generation panning) 32,33 . In 2 nd generation panning, same as in 1 st generation panning, cellular cDNA libraries are stably expressed in non-adherent cell lines by using a retroviral vector, but two additional non-or low-cytotoxic retroviral/lentiviral vectors which bear intended viral envelope proteins and whose genome encode either a membrane spanning protein or a fluorescence protein as a reporter are used for screening. Upon inoculation of library-expressing cells with a first screening vector encoding a membrane spanning protein, target cells would be specifically infected with the vector, express the reporter stably on cell surface, and form colonies on anti-reporter antibody-coated dishes during cell culture. Because infrequent infection of non-target cells with the screening vectors would occur and result in colony formation as authentic target cells, resultant colonies are superinfected with a second screening vector whose genome encode a fluorescence protein to eliminate false positive. Fluorescent colonies are found out under a fluorescence microscope and inserted cDNA recovered by PCR like with 1 st generation panning. The ability to produce moderate to high titres of retroviral/lentiviral vectors bearing intended viral envelope proteins (as a guide, \u226510 5 infectious units [IU]/mL) is a perquisite for 2 nd generation panning. However, we have experienced cases in which some viruses (e.g., West Nile virus) did not meet the prerequisites for either method and for which virus entry factors could not be identified by our methods (data not shown).",
+            "cite_spans": [
+                {
+                    "start": 285,
+                    "end": 289,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 290,
+                    "end": 294,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 295,
+                    "end": 299,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 404,
+                    "end": 408,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 414,
+                    "end": 418,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "In the current taxonomy SFTS virus is classified as follows: species, Huaiyangshan banyangvirus; genus, Banyangvirus; family, Phenuiviridae, and order, Bunyavirales (https://talk.ictvonline.org/taxonomy/). In members of this genus, non-evident cytopathic effects are characteristically observed in in vitro short cell culture 15,34-36 . The genome of the genus members is composed of three negative sense RNAs of large (L), middle (M), and small (S) segments, which encode viral proteins (RNA-dependent RNA polymerase, glycoprotein [GP], and nuclear and non-structural proteins, respectively). The rescue of SFTS virus with or without mutations from cDNA (reverse genetics) has been reported 37 ; in that study, five plasmids expressing three anti-genome RNAs and two viral proteins (RNA-dependent RNA polymerase and nuclear protein) were used. As an application of the reverse genetics, a virus-like particle (VLP) assay was recently reported to assess the reassortment potential of SFTS virus with its related viruses Heartland virus (a member of the same genus) and Uukuniemi virus (a member of the genus Phlebovirus of the same family) 38 . Crimean-Congo haemorrhagic fever (CCHF) virus, a member of the family Nairoviridae of the same order, has similar characteristics to SFTS virus with regard to cytopathic effectivity, genome composition, transmission modes, and disease manifestations 39-41 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The methods used for identification of SFTS virus entry factors to date are classified into categories I (C-type lectins 29,30 ), II with loss-of-function criteria (glucosylceramide and SNX11 32,33 ), and III (NMMHC-IIA 31 ) described above. However, there are no reports on the application of category II methods with gain-of-function criteria in the identification of SFTS virus entry factors. In this report, we show the success of cellular cDNA library screening to identify SFTS virus entry factors with a novel method, which is combination of our 2 nd generation panning 32,33 and the reverse genetics for SFTS virus 37,38 and is the first category II method with gain-of-function criteria applied for SFTS virus. Its application in the identification of previously unidentified SFTS virus entry factor(s), as well as entry factor(s) for viruses related to SFTS virus will be discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(2020) 10:5996 | https://doi.with primary anti-SFTS virus monoclonal antibody and secondary goat anti-mouse IgG (H + L) Alexa Fluor488 was performed as described previously 32 . A FACSCalibur system and Cell QuestPro software program were used to analyse labelled cells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "were treated and stained with antibodies with BD Perm/Wash \u2122 Buffer (Thermo Fisher Scientific) according to the manufacture's protocol. Labelled cells were analysed as described above.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Coating with SFTS virus and panning. Petri dishes were first coated with anti-mouse IgG antibody followed by anti-SFTS virus antibody and SFTS virus, as described previously 28 . Vero cells were suspended in cold DMEM-2FCS (described in the Flow cytometry for SFTS virus binding section) and put onto SFTS virus-coated dishes. The dishes with Vero cells were incubated in a refrigerator for 30 min and observed under a microscope to assess the adhesion of the Vero cells to the virus-coated dishes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Preparation of retroviral/lentiviral vectors. Murine leukaemia virus (MLV)-based retroviral and human immunodeficiency virus type 1-based lentiviral vectors were prepared by transfection of plasmids as described previously 32, 33 . GP cDNA cloned in pCAGGS (pC030GP) 34 was used to express SFTS virus GP. Titres of retroviral/lentiviral vectors were calculated from both the positivity of Vero cells inoculated (2 days post-inoculation) in flow cytometry and the numbers of Vero cells used.",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 226,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 227,
+                    "end": 229,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Expression of cDNA library. The human liver cDNA library in the pFB plasmid was purchased from Stratagene (La Jolla, CA). MLV-based retroviral vectors carrying the library were prepared as described previously 32 and were then used to infect Jurkat cells at an MOI of 0.2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "First and second generation panning for the identification of SFTS virus entry factors. We first tried to identify SFTS virus entry factor(s) with one of our previously reported methods (1 st generation panning) [28] [29] [30] . In flow cytometry, the binding of SFTS virus particles to Vero cells, an SFTS virus-highly susceptible cell line 8, 12, 14 , was observed (Fig. 1a) . However, Petri dishes pre-coated with SFTS virus particles were not able to trap Vero cells (data not shown). These findings indicated that the interaction observed between SFTS virus particles and entry factor(s) on Vero cells was not strong enough to trap Vero cells on the panning dishes. Thus, 1 st generation panning could not be applied in the identification of SFTS virus entry factors.",
+            "cite_spans": [
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 222,
+                    "end": 226,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 342,
+                    "end": 344,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 345,
+                    "end": 348,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 349,
+                    "end": 351,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 367,
+                    "end": 376,
+                    "text": "(Fig. 1a)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Next, we examined the usability of 2 nd generation panning 32, 33 to identify SFTS virus entry factor(s). Retroviral and lentiviral vectors were prepared with an SFTS virus GP-expression plasmid, as described in the Methods. Vero cells were inoculated with media containing the vectors at a dilution of 1:5, but no apparent reporter expression (enhanced green fluorescence protein or Venus 42 ) was observed under a fluorescence microscope (Fig. 1b) . In contrast, the usage of a vesicular stomatitis virus G (VSV G)-expression plasmid for the preparation of retroviral/lentiviral vectors resulted in moderate reporter expression (Fig. 1b) . The retroviral/lentiviral vector titres determined by flow cytometry (Supplementary Fig. S1 ) were as follows: 2.5 \u00d710 2 IU/mL (retroviral -SFTS virus GP), 5.0 \u00d7 10 2 IU/mL (lentiviral -SFTS virus GP), 2.9 \u00d7 10 5 IU/mL (retroviral -VSV G), and 6.7 \u00d7 10 5 IU/mL (lentiviral -VSV G) (detection limit of the assay: 2.5 \u00d7 10 2 IU/mL). These indicated that the titres of retroviral/ lentiviral vectors conferred by SFTS virus GP were considerably low, meaning that it was difficult to apply 2 nd generation panning for the identification of SFTS virus entry factors.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 62,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 63,
+                    "end": 65,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 440,
+                    "end": 449,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 630,
+                    "end": 639,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 711,
+                    "end": 733,
+                    "text": "(Supplementary Fig. S1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Thus, these panning-based screening methods would need to be improved or other methods would need to be used to identify SFTS virus entry factor(s).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "A VLP assay using components of SFTS virus was recently reported. In this assay, luciferase was used as a reporter to quantify VLP infection 38 . In the assay, luciferase activity mirrors both the entry level of VLP and the replication and transcription levels of the luciferase gene-coding viral segment in VLP-inoculated cell populations. To develop an assay to identify SFTS virus entry factors, in which the identification or isolation of reporter-expressing cells among the VLP-inoculated cell population would be required, we used a fluorescence protein, Venus 42 , as a reporter. SFTS virus-based infectious VLP (iVLP) was prepared as described in the Methods and used to inoculate Vero cells. On the day after inoculation, inoculated cells showed fluorescence under a fluorescence microscope, as demonstrated in Fig. 2a (left) . Additionally, the observation of the morphology of the inoculated cells revealed were no evident cytopathic effects (e.g., cell-rounding) in the inoculated cells. In www.nature.com/scientificreports www.nature.com/scientificreports/ contrast, when inoculated with iVLP, which was prepared with empty pCAGGS instead of pC030GP for the envelope protein expression (Fig. 2a , centre) or inoculated with medium ( Fig. 2a, right) , Vero cells showed no fluorescence. Flow cytometry confirmed expression of a fluorescence protein in cells inoculated with iVLP that was prepared with pC030GP ( Fig. 2b) . The iVLP titre determined with Vero cells was 6.0 \u00d7 10 5 IU/mL. The results strongly suggested that the observed fluorescence was derived from a reporter of iVLP (Venus), that its expression was SFTS virus GP-dependent, and that the identification of iVLP-infected cells would be possible.",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 143,
+                    "text": "38",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 820,
+                    "end": 834,
+                    "text": "Fig. 2a (left)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1199,
+                    "end": 1207,
+                    "text": "(Fig. 2a",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1246,
+                    "end": 1261,
+                    "text": "Fig. 2a, right)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1424,
+                    "end": 1432,
+                    "text": "Fig. 2b)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Characterisation of SFTS virus-based infectious virus-like particle (VLP) carrying Venus reporter gene."
+        },
+        {
+            "text": "Furthermore, to examine the dependency of the observed reporter expression on SFTS virus components, inoculation with iVLP was performed with antibody pretreatment or in the presence of inhibitory compounds. iVLP was premixed with normal human IgG or SFTS virus-neutralising monkey IgG then inoculated onto Vero cells and cultured overnight. As shown in Fig. 2c , SFTS virus-neutralising IgG, but not normal human IgG, reduced the reporter expression upon iVLP inoculation in a dose-dependent manner. The neutralising IgG within similar ranges showed the inhibitory effects also on authentic SFTS virus infection ( Supplementary Fig. S2) . A nucleoside analogue 2'-deoxy-2'-fluorocytidine (2'-FdC) has been reported to have strong inhibition activity against SFTS virus infection; the underlying mechanism of this is probably the inhibition of transcription/replication of the SFTS virus genome 43 . Vero cells were inoculated with iVLP in the presence of 2'-FdC. As shown in Fig. 2d , 2'-FdC reduced the reporter expression upon iVLP inoculation in a dose-dependent manner without cytotoxicity. An inhibitor of glucosylceramide synthase, N-butyldeoxynojirimycin, was reported to reduce intracellular trafficking and/or penetrating process of SFTS virus infection 16 . The inhibitor, as shown in Fig. 2e , reduced the reporter expression upon iVLP inoculation in dose-dependent manners, although showed slight cytotoxicity at high doses (e.g. 25 and 100 \u03bcM). We previously reported that SFTS virus proliferation in Jurkat cells is enhanced by expression of C-type lectins (i.e., dendritic cell-specific ICAM-3 grabbing non-integrin [DC-SIGN], DC-SIGN-related [DC-SIGNR], and liver and lymph node sinusoidal endotherial cell C-type lectin [LSECtin]) in the cells 14 . Therefore, we compared Jurkat cell susceptibility to iVLP with or without C-type lectin expression. Expression of each C-type lectin in Jurkat cells analysed by flow cytometry is shown in Supplementary  Fig. S3 . As shown in Fig. 2f , a control molecule (fCD2\u0394CT) did not enhance susceptibility of Jurkat cells to iVLP infection, however, in contrast, any of C-type lectins examined did.",
+            "cite_spans": [
+                {
+                    "start": 895,
+                    "end": 897,
+                    "text": "43",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1264,
+                    "end": 1266,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1762,
+                    "end": 1764,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 354,
+                    "end": 361,
+                    "text": "Fig. 2c",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 615,
+                    "end": 637,
+                    "text": "Supplementary Fig. S2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 976,
+                    "end": 983,
+                    "text": "Fig. 2d",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1296,
+                    "end": 1303,
+                    "text": "Fig. 2e",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1955,
+                    "end": 1977,
+                    "text": "Supplementary  Fig. S3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1992,
+                    "end": 1999,
+                    "text": "Fig. 2f",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Characterisation of SFTS virus-based infectious virus-like particle (VLP) carrying Venus reporter gene."
+        },
+        {
+            "text": "Thus, the reporter expression in iVLP-inoculated cells occurred through the same mechanisms as cell entry to genome transcription/replication steps during authentic SFTS virus infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Characterisation of SFTS virus-based infectious virus-like particle (VLP) carrying Venus reporter gene."
+        },
+        {
+            "text": "The absence of evident cytopathic effects in iVLP-infected cells (Fig. 2a) was reminiscent of retroviral/lentiviral vectors that are well known to express intended genes stably with quite low cytotoxicity. With the combination of panning and the retroviral/ lentiviral vectors, we developed an efficient method for identifying the entry factors of Ebola virus and Lassa virus, in which entry factor-expressing cells were isolated from other cells by panning and cultured for approximately one week for colony-formation in order to reduce false-positive selection (2 nd generation panning) 32, 33 .",
+            "cite_spans": [
+                {
+                    "start": 589,
+                    "end": 592,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 593,
+                    "end": 595,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 65,
+                    "end": 74,
+                    "text": "(Fig. 2a)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Usage of iVLP in a screening model to identify virus entry factors."
+        },
+        {
+            "text": "We investigated whether SFTSV iVLP could work like retroviral/lentiviral vectors in the identification of virus entry factors. As a model experiment, 1.6 \u00d7 10 6 Jurkat cells were mixed with 0, 10, 100, and 1,000 Jurkat cells expressing LSECtin (Jurkat[0LS], Jurkat[10LS], Jurkat[100LS], and Jurkat[1000LS], respectively), which is a C-type lectin that confers SFTS virus-susceptibility to Jurkat cells 30 . The 4 cell mixtures were separately inoculated with iVLP carrying fCD2\u0394CT reporter gene (iVLP[fCD2\u0394CT]) at a multiplicity of infection (MOI) of 1 and on the following day subjected to panning with anti-fCD2 antibody. Trapped cells started to divide in the subsequent cell culture; however, 1 week later they detached from the antibody-coated panning dishes (data not shown). The detached cells were harvested, cultured for one additional week, then re-inoculated with iVLP(fCD2\u0394CT). Panning was then performed again. In this 2 nd -round of panning, as shown in Fig. 3a , the numbers of trapped cells increased in ascending order as follows: Jurkat(0LS), Jurkat(10LS), Jurkat(100LS), and Jurkat(1000LS). Accumulation of LSECtin-expressing cells by repetition of iVLP infection and panning was confirmed by flow cytometry with anti-LSECtin antibody (Fig. 3b) . The results indicated that iVLP-infected cells were able to continue cell division but that the reporter expression was reduced as cell division proceeded. Thus, SFTS virus-based iVLP could replace the retroviral/lentiviral vectors in 2 nd generation panning for the identification of virus entry factors 32, 33 ; however, colonies should be picked up within 1 week after panning.",
+            "cite_spans": [
+                {
+                    "start": 402,
+                    "end": 404,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1571,
+                    "end": 1574,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1575,
+                    "end": 1577,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 968,
+                    "end": 975,
+                    "text": "Fig. 3a",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1254,
+                    "end": 1263,
+                    "text": "(Fig. 3b)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Usage of iVLP in a screening model to identify virus entry factors."
+        },
+        {
+            "text": "Human liver cDNA library screening using iVLPs. Based on the results of the model experiment described above, we performed screening of a human liver cDNA library to identify SFTS virus entry factor(s). Jurkat cells (1.0 \u00d7 10 7 ) expressing a human liver cDNA library were inoculated with iVLP(fCD2\u0394CT), then subjected to panning on the following day. On the third day after panning, the Jurkat colonies that had formed on the panning dish were inoculated with iVLP(Venus). The next day, under a fluorescence microscope, six Jurkat colonies (Clone1-6) in which most cells expressed Venus were identified (Fig. 4a, Supplementary Fig. S4 ) and picked up separately. Among the six colonies, unfortunately, only Clone2 could propagate. The propagated Clone2, control molecule (fCD2\u0394CT)-expressing Jurkat cells and LSECtin-expressing Jurkat cells were examined to evaluate their susceptibility to iVLP(Venus) infection. As shown in Fig. 4b, Clone2 and LSECtin-expressing cells, but not control molecule-expressing Jurkat cells, showed iVLP(Venus)-susceptibility. PCR with a pMX primer pair amplified an approximately 2 kb fragment from the Clone2 cellular genome (Fig. 4c) the sequence of which was determined to be a variant of DC-SIGNR, which had 4 tandem-repeats of 23 amino acids in the neck region 44, 45 .",
+            "cite_spans": [
+                {
+                    "start": 1298,
+                    "end": 1301,
+                    "text": "44,",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1302,
+                    "end": 1304,
+                    "text": "45",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 604,
+                    "end": 635,
+                    "text": "(Fig. 4a, Supplementary Fig. S4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 927,
+                    "end": 942,
+                    "text": "Fig. 4b, Clone2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1158,
+                    "end": 1167,
+                    "text": "(Fig. 4c)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Usage of iVLP in a screening model to identify virus entry factors."
+        },
+        {
+            "text": "We repeated library screening on a larger scale (1.0 \u00d7 10 8 Jurkat cells expressing human liver cDNA library) and obtained 49 colonies after iVLP(Venus) inoculation. To expand the colonies, 10 na\u00efve Jurkat cells were added to each colony culture. All mixtures grew but only 24 showed susceptibility to iVLP(Venus) infection in a susceptibility-confirmation test (data not shown). Among the 24 clones, 16 clones were revealed to have variants of DC-SIGNR cDNA originating from the liver cDNA library in their genome: 10 and 6 clones with 4 and (2020) 10:5996 | https://doi.org/10.1038/s41598-020-62876-1 www.nature.com/scientificreports www.nature.com/scientificreports/ 7 tandem-repeats, respectively, in the neck region of DC-SIGNR. With the genome of the remaining 8 clones, however, no cDNA originating from the liver could be rescued.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Usage of iVLP in a screening model to identify virus entry factors."
+        },
+        {
+            "text": "has 7 tandem-repeats in the neck region [44] [45] [46] , and so did DC-SIGNR used in the characterisation of iVLP in this report (e.g. Fig. 2f ). The two DC-SIGNR variants with 4 (DC-SIGNR4r) and 7 (DC-SIGNR7r) tandem-repeats in the neck region were expressed in Jurkat cells by using lentivirus vectors and susceptibilities of the cells to infection of iVLP(Venus) and SFTS virus were examined. Expression of each variant was confirmed by flow cytometry, with DC-SIGNR7r showing higher positivity (65%) than DC-SIGNR4r (35%, Fig. 5a ). When inoculated, MOI-dependent expression of a reporter (Venus by iVLP[Venus]) or a viral protein (nuclear protein by SFTS virus) were observed within Jurkat cells expressing either of the two variants (Fig. 5b) . The higher positivity of the reporter expression in DC-SIGNR7r-expressing cells than in DC-SIGNR4r-expressing cells (Fig. 5b) correlated with the variant positivity (Fig. 5a) . These results indicated that cellular molecules identified by a method www.nature.com/scientificreports www.nature.com/scientificreports/ reported here indeed involved SFTS virus infection and suggested that no apparent difference existed between the two variants with regard to enhancement of SFTS virus infection.",
+            "cite_spans": [
+                {
+                    "start": 40,
+                    "end": 44,
+                    "text": "[44]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 45,
+                    "end": 49,
+                    "text": "[45]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 50,
+                    "end": 54,
+                    "text": "[46]",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 135,
+                    "end": 142,
+                    "text": "Fig. 2f",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 526,
+                    "end": 533,
+                    "text": "Fig. 5a",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 739,
+                    "end": 748,
+                    "text": "(Fig. 5b)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 867,
+                    "end": 876,
+                    "text": "(Fig. 5b)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 916,
+                    "end": 925,
+                    "text": "(Fig. 5a)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Two DC-SIGNR variants identified and SFTS virus infection. A most common form of DC-SIGNR"
+        },
+        {
+            "text": "We tried but failed to identify SFTS virus entry factors using our 1 st and 2 nd generation panning methods, which were previously used for other viruses [28] [29] [30] 32, 33 . We focused on the established reverse genetics of the SFTS virus for viral genome manipulation 37,38 and on a characteristic of SFTS virus that the virus shows no or weak cytotoxicity in infected cells 15, 34 and investigated whether SFTS virus-based vectors (iVLPs), like retroviral/lentiviral www.nature.com/scientificreports www.nature.com/scientificreports/ vectors, could be useful for identifying SFTS virus entry factors. Although the reporter expression by iVLP did not continue for more than one week, we screened a liver cDNA library with iVLPs and succeeded in identifying a C-type lectin, DC-SIGNR, which has been reported as an entry-enhancing factor 13, 14 . Thus, even though the envelope protein of the virus did not show strong binding to the cell surface and conferred no or low retroviral/ lentiviral titres, we showed that efficient gain-of-function screening for virus entry factor(s) could be performed using a VLP based on the virus itself (hereafter referred to as 3 rd generation panning for virus entry factor identification or simply 3 rd generation panning). To our knowledge, this is the first report on gain-of-function-based entry factor screening methods for SFTS virus. A prerequisite for 3 rd generation panning is that the VLP does not significantly inhibit cell growth upon infection (for at least a few days), because the growth of cells, which obtain susceptibility to the intended viruses through the induction of cDNA clones and become infected with iVLP, is required for efficient selection 32, 33 . From this viewpoint, it is unlikely that a vesicular stomatitis virus (VSV)-based pseudotyping system would work for such gain-of-function screening due to the high cytotoxicity of VSV replication, whereas envelope proteins of many viruses, including SFTS virus, confer infectivity to VSV-pseudotypes 13, 14 . Another prerequisite is that moderate titres of VLP can be obtained-as a guide, VLP titres of \u226510 5 IU/mL without concentration are desired, because in screening approximately 10 7 library-expressing cells are generally needed in order to be infected at an MOI of 1 [28] [29] [30] 32, 33 . Usability of SFTS virus-based iVLP as a backbone is now under investigation to analyse entry mechanisms and/or viral particle-formation mechanisms and/or identify entry factors for other envelope viruses. Although we used SFTS virus as a backbone of the VLP for virus entry factor identification, the usage of VLPs based on other viruses (e.g., Guertu virus, Heartland virus and Uukuniemi virus, members of the same genus or family as SFTS virus) would be acceptable if the prerequisites are fulfilled. In particular, CCHF virus (like SFTS virus) shows no evident cytopathic effects 39-41 and a VLP assay based on reverse genetics is available 47 . There is limited information on the entry mechanism of CCHF virus 48, 49 or the pathogenesis of CCHF 39 . We observed that glycoprotein of CCHF virus conferred relatively low retroviral/lentiviral vectors titres (data not shown). In addition, the disease manifestations in CCHF and SFTS patients display a large degree of overlap 8, 39 . Thus, identification of CCHF virus entry factors using CCHF virus-based (or other virus-based) VLP might be feasible and may help to understand the pathogeneses of CCHF and SFTS.",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 158,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 164,
+                    "end": 168,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 169,
+                    "end": 172,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 173,
+                    "end": 175,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 380,
+                    "end": 383,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 384,
+                    "end": 386,
+                    "text": "34",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 842,
+                    "end": 845,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 846,
+                    "end": 848,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1710,
+                    "end": 1713,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1714,
+                    "end": 1716,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2020,
+                    "end": 2023,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2024,
+                    "end": 2026,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2295,
+                    "end": 2299,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 2300,
+                    "end": 2304,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 2305,
+                    "end": 2309,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 2310,
+                    "end": 2313,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 2314,
+                    "end": 2316,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2963,
+                    "end": 2965,
+                    "text": "47",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 3034,
+                    "end": 3037,
+                    "text": "48,",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 3038,
+                    "end": 3040,
+                    "text": "49",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 3298,
+                    "end": 3300,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 3301,
+                    "end": 3303,
+                    "text": "39",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The DC-SIGNR molecule has considerable polymorphism, especially within its neck region, which includes 3 to 9 highly conserved repeats containing 23 amino acids [44] [45] [46] and the polymorphism may affect host susceptibility to infection with some pathogens 46, 50 . In the present study with a liver cDNA library, two variants of DC-SIGNR with 4 and 7 repeats in the neck regions were identified as SFTS virus entry factors, suggesting that polymorphism of DC-SIGNR may not be important in DC-SIGNR-mediated SFTS virus infection. Because the cDNA library used was prepared from a male, the two identified variants were due to the donor's DC-SIGNR alleles.",
+            "cite_spans": [
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "[44]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "[45]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "[46]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 261,
+                    "end": 264,
+                    "text": "46,",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 265,
+                    "end": 267,
+                    "text": "50",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It is presently unclear whether C-type lectins, including DC-SIGNR, can work as receptors for SFTS virus or as enhancers that facilitate receptor-mediated SFTS virus infection. A study with SFTS virus-related Uukuniemi www.nature.com/scientificreports www.nature.com/scientificreports/ virus showed the differential use of C-type lectins (DC-SIGN and DC-SIGNR) for its endocytosis 51 . Nevertheless, because SFTS virus replicates efficiently in cell lines that do not express C-type lectins (e.g., Vero and Huh cells) in vitro 8, [12] [13] [14] , other yet unidentified cellular factors are likely to be involved in SFTS virus cell entry. There are several possible reasons why no molecule rather than DC-SIGNR was identified in the present study: e.g., cDNA clones encoding other entry factors might be not included or truncated in the cDNA library used due to the length (long cDNAs tend to be missed or damaged during cDNA library preparation and/or retrovirus vector packaging) or there might be a viral entry route(s) for which more than one cellular molecules were necessary but lacked in cells used for library assessment (simultaneous identification of two or more molecules involving a single entry route is quite difficult in gain-of-function screening). Thus, Vero and Huh cells will be usable as sources of cDNA libraries. In addition, Raji and Molt-4 cells, which are highly resistant to SFTS virus infection 13, 14 , may be usable as target cells to assess cDNA libraries. The use of different combinations of cDNA library origins/target cells rather than liver/Jurkat cells, which was used in this report, might lead to the identification of unidentified cellular factors involved in SFTS virus cell entry and may eventually lead to a better understanding of the viral tropism and the pathogenesis of SFTS.",
+            "cite_spans": [
+                {
+                    "start": 527,
+                    "end": 529,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 530,
+                    "end": 534,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 535,
+                    "end": 539,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 540,
+                    "end": 544,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1422,
+                    "end": 1425,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1426,
+                    "end": 1428,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the small scale-library screening, 5 of the 6 cellular clones that were picked up did not grow in the subsequent cell culture. In the large scale-library screening, the addition of na\u00efve cells supported the growth of 24 of 49 iVLP-infected cell clones; however, in the remaining 25 cell cultures it is likely that only na\u00efve Jurkat cells grew. Thus, infection with SFTS virus-based iVLP affected cell growth somewhat. The usage of prolactin 52 or non-dividing feeder cells or the usage of inhibitors of viral genome replication/transcription such as 2'-FdC 43 to support the growth of the cells that are picked up might improve screening efficiency.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Two recombinant SFTS viruses, similar to iVLP, which express reporters in inoculated cells, have been reported. One is replication-competent SFTS virus whose genome encodes non-structural protein-reporter fusion protein or lacks non-structural protein gene but encodes a reporter 53 . Use of this virus for entry factor screening has never been reported but would probably result in low efficiency due to target cell damage and/or high background caused by its replication competency. The other is replication-incompetent SFTS virus whose genome encodes only reporters 38 . Because sufficient reporter expression upon the viral infection needs in-trans expression of viral RNA-dependent RNA polymerase and nuclear protein in inoculated cells 38 , entry factor screening with this virus would be considerably complicated and the range of target cells usable for screening would be narrow. Because the genome of iVLP reported here encodes all viral proteins except GP (see Methods), iVLP is expected to be replication incompetent but does not require in-trans expression of viral proteins for detection of reporter in inoculated cells. Therefore, we believe that iVLP is the best tool for conducting gain-of-function screening to identify SFTS virus entry factors.",
+            "cite_spans": [
+                {
+                    "start": 280,
+                    "end": 282,
+                    "text": "53",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 569,
+                    "end": 571,
+                    "text": "38",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 742,
+                    "end": 744,
+                    "text": "38",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "We reported a screening method to identify virus entry factors; however, theoretically, the method could be applicable to the identification of host factors involved in replication/transcription of the viral genome. The partial inhibition of the replication/transcription of the SFTS viral genome via innate immunity was observed in rodent cells 54 ; thus, truncated forms affecting the inhibition of replication/transcription might be identified using this screening method. In fact, we previously discovered a novel role of ribosomal protein S6 kinase alpha 3 (RSK2) in innate immune responses to influenza virus infection through identification of truncated RSK2 which dominates full length RSK2 and eventually increases reporter expression driven by influenza virus genome replication/transcription 55 . The identification of factors involved in the replication/transcription of the SFTS viral genome will advance the understanding of cellular anti-SFTS virus mechanisms.",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 348,
+                    "text": "54",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the present study we reported the successful identification of SFTS virus entry factors by establishing a novel, efficient virus entry factor screening method using SFTS virus-based infectious VLP. This method may be a key to understanding not only the viral tropism and pathogenesis of SFTS but also that of other viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Cells. Vero cells (ATCC CCL-81) were cultured in DMEM (Sigma) supplemented with 5% heat-inactivated foetal calf serum (FCS) and antibiotics (Gibco, Pen Strep). Upon inoculation, Vero cells were maintained in DMEM with 2% FCS (DMEM-2FCS) and antibiotics. Jurkat cells (Clone E6-1, ATCC TIB-152) were cultured and maintained in RPMI1640 (Sigma) supplemented with 10% FCS and antibiotics. BSR-T7/5 cells 56 were kindly provided by Dr. Karl-Klaus Conzelmann and cultured in DMEM supplemented with 10% FCS, 10% tryptose phosphate broth, antibiotics, and 1 mg/mL of G418 (Sigma, in every other passage). Jurkat cells expressing LSECtin or a control molecule were prepared using a lentiviral vector as described previously 32 . Reagents. Anti-feline CD2 monoclonal antibody SKR2 and anti-SFTS virus nuclear protein monoclonal antibody 9D3 were reported previously 57, 58 . Purified SFTS virus-neutralising antibody was prepared from sera of monkeys that were inoculated with SFTS virus using Protein G Sepharose 4 Fast Flow (GE Healthcare) Flow cytometry for SFTS virus binding. Adherent Vero cells were detached and suspended as described previously 34 . Suspended cells were mixed with DMEM-2FCS containing no virus or SFTS virus SPL030 strain 12 at a ratio of 100 times the 50% tissue culture infectious dose/cell on ice for 1 h with occasional mixing. After washing with DMEM-2FCS, cells were fixed in 10% formalin for 1 h at room temperature. The incubation of fixed cells Infectious virus-like particles (iVLPs) carrying reporter gene. Plasmids for SFTS virus reverse genetics (HB29 strain) were kindly provided by Dr. Benjamin Brennan 37 . Inserts of pTVT7-HB29L, pTVT7-HB-29ppM, and pTVT7-HB29S were replaced with the L, M, and S segment cDNAs of the SFTS virus SPL030 strain genome 12 (pTV7OriL, pTV7OriM, pTV7OriS) . The open reading frame of GP in pTV7OriM was replaced with the cDNA of a fluorescence protein Venus 42 or feline CD2 lacking cytoplasmic tail 57 (pTV7MVenus and pTV7Mf-CD2\u0394CT). To produce iVLPs, plasmids pTM1-HB29ppL, pTM1-HB29N, pTV7OriL, pTV7OriS, pC030GP, and pTV7MVenus or pTV7MfCD2\u0394CT were co-transfected to BSR-T7/5 cells using TransIT-LT1 reagent (Takara). The supernatant of the transfected cells was harvested at 4 days post-transfection and used directly or after concentration with Amicon Ultra 100 K MWCO (Merck).",
+            "cite_spans": [
+                {
+                    "start": 716,
+                    "end": 720,
+                    "text": "32 .",
+                    "ref_id": null
+                },
+                {
+                    "start": 857,
+                    "end": 860,
+                    "text": "57,",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 861,
+                    "end": 863,
+                    "text": "58",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 1144,
+                    "end": 1146,
+                    "text": "34",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1635,
+                    "end": 1637,
+                    "text": "37",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1784,
+                    "end": 1786,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1787,
+                    "end": 1817,
+                    "text": "(pTV7OriL, pTV7OriM, pTV7OriS)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Methods"
+        },
+        {
+            "text": "To titrate iVLPs, serially diluted iVLP(Venus) were inoculated onto Vero cells and the reporter expression was analysed by flow cytometry. iVLP(fCD2\u0394CT) was prepared in parallel with iVLP(Venus) and the titre of iVLP(f-CD2\u0394CT) was considered to be the same as that of iVLP(Venus).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Library screening. cDNA library-expressing Jurkat cells were inoculated with iVLP(fCD2\u0394CT) at an MOI of 1. The next day, panning was performed with anti-fCD2 antibody, as described previously 59 . Panning dishes were cultured with RPMI1640 medium containing 10% FCS and antibiotics for 3 to 4 days. Colony-forming cells were further inoculated with iVLP(Venus). The next day, colony-forming Venus-positive cells were picked up for propagation followed by genome extraction using DNAzol (Molecular Research Center). To recover integrated cDNAs, the extracted genome was subjected to PCR with a pMX primer pair (pMX5F: 5\u2032-GGTGGACCATCCTCTAGACT-3\u2032 and pMX3R: 5\u2032-CCCTTTTTCTGGAGACTAAAT-3\u2032) 59 and PrimeSTAR Max DNA Polymerase (Takara) under the following conditions: 98 \u00b0C for 2 min followed by 35 cycles of 98 \u00b0C for 10 s, 55 \u00b0C for 5 s, and 72 \u00b0C for 30 s. The sequences of the PCR products were determined by Sanger's method with the pMX primer. Equipment and settings for imaging. Images of cells were obtained as TIFF 8-bit by using a fluorescence microscope BZ-X710 and BZ-X Viewer software (KEYENCE). Fluorescence was detected by the single colour setting (488 nm). Images of DNA gel electrophoresis were obtained by using FAS-III (TOYOBO) with GelRed nucleic acid gel stain reagent (Biotium).",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 194,
+                    "text": "59",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 684,
+                    "end": 686,
+                    "text": "59",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Cell viability. Cell viability was examined by using WST-1 reagent (Sigma-Aldrich) according to the manufacturer's protocol.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Welch's t-test was used to determine the significance of the difference between the means of two groups. A value of P < 0.05 was considered to indicate statistical significance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses."
+        },
+        {
+            "text": "No datasets were generated or analysed during the current study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Parrish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Biol. Rev",
+            "volume": "72",
+            "issn": "",
+            "pages": "457--470",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Development of mouse models for analysis of human virus infections",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Oshiumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shingai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matsumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Seya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Microbiol. Immunol",
+            "volume": "61",
+            "issn": "",
+            "pages": "107--113",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Virus-receptor interactions and receptor-mediated virus entry into host cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Casasnovas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Subcell. Biochem",
+            "volume": "68",
+            "issn": "",
+            "pages": "441--466",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Evolution of cell recognition by viruses: a source of biological novelty with medical implications",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Baranowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ruiz-Jarabo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Pariente",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Verdaguer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Adv. Virus. Res",
+            "volume": "62",
+            "issn": "",
+            "pages": "19--111",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Dengue virus receptor",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Hidari",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Trop. Med. Health",
+            "volume": "39",
+            "issn": "",
+            "pages": "37--43",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Fever with thrombocytopenia associated with a novel bunyavirus in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "N. Engl. J. Med",
+            "volume": "364",
+            "issn": "",
+            "pages": "1523--1532",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Metagenomic analysis of fever, thrombocytopenia and leukopenia syndrome (FTLS) in Henan Province, China: discovery of a new bunyavirus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The first identification and retrospective study of severe fever with thrombocytopenia syndrome in Japan",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Infect. Dis",
+            "volume": "209",
+            "issn": "",
+            "pages": "816--827",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Two autopsy cases of severe fever with thrombocytopenia syndrome (SFTS) in Japan: a pathognomonic histological feature and unique complication of SFTS",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hiraki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pathol. Int",
+            "volume": "64",
+            "issn": "",
+            "pages": "569--575",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Fatal severe fever with thrombocytopenia syndrome: an autopsy case report",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Uehara",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yano",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ishihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saijou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Intern. Med",
+            "volume": "55",
+            "issn": "",
+            "pages": "831--838",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Hemophagocytic lymphohistiocytosis in a fatal case of severe fever with thrombocytopenia syndrome",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nakano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Intern. Med",
+            "volume": "56",
+            "issn": "",
+            "pages": "1597--1602",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Effects of ribavirin on severe fever with thrombocytopenia syndrome virus in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Jpn. J. Infect. Dis",
+            "volume": "67",
+            "issn": "",
+            "pages": "423--427",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Severe fever with thrombocytopenia virus glycoproteins are targeted by neutralizing antibodies and can use DC-SIGN as a receptor for pH-dependent entry into human and animal cell lines",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "4384--4394",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Characterization of glycoprotein-mediated entry of severe fever with thrombocytopenia syndrome virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "5292--5301",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Nonmuscle myosin heavy chain IIA is a critical factor contributing to the efficiency of early infection of severe fever with thrombocytopenia syndrome virus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Virol",
+            "volume": "88",
+            "issn": "",
+            "pages": "237--248",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A role for glycolipid biosynthesis in severe fever with thrombocytopenia syndrome virus entry",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Drake",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS Pathog",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "SNX11 identified as an essential host factor for SFTS virus infection by CRISPR knockout screening",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Virol. Sin",
+            "volume": "34",
+            "issn": "",
+            "pages": "508--520",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Prevention of virus infection with enzyme of V. cholerae; studies with viruses of mumps-influenza group in chick embryos",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Stone",
+                    "suffix": ""
+                }
+            ],
+            "year": 1948,
+            "venue": "Aust. J. Exp. Biol. Med. Sci",
+            "volume": "26",
+            "issn": "",
+            "pages": "49--64",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "The CD4 (T4) antigen is an essential component of the receptor for the AIDS retrovirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Dalgleish",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Nature",
+            "volume": "312",
+            "issn": "",
+            "pages": "763--767",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "T-lymphocyte T4 molecule behaves as the receptor for human retrovirus LAV",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klatzmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Nature",
+            "volume": "312",
+            "issn": "",
+            "pages": "767--768",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The ubiquitous glucose transporter GLUT-1 is a receptor for HTLV",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Manel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "449--459",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "HIV-1 entry cofactor: functional cDNA cloning of a seven-transmembrane, G protein-coupled receptor",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Broder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Berger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Science",
+            "volume": "272",
+            "issn": "",
+            "pages": "872--877",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "SLAM (CDw150) is a cellular receptor for measles virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tatsuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ono",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yanagi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "406",
+            "issn": "",
+            "pages": "893--897",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "EGFR and EphA2 are host factors for hepatitis C virus entry and possible targets for antiviral therapy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lupberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat. Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "589--595",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Identification of alpha-dystroglycan as a receptor for lymphocytic choriomeningitis virus and Lassa fever virus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "282",
+            "issn": "",
+            "pages": "2079--2081",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "EphrinB2 is the entry receptor for Nipah virus, an emergent deadly paramyxovirus",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Negrete",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "436",
+            "issn": "",
+            "pages": "401--405",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Use of CD134 as a primary receptor by the feline immunodeficiency virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "1192--1195",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Junctional adhesion molecule 1 is a functional receptor for feline calicivirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "4482--4490",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Human P-selectin glycoprotein ligand-1 is a functional receptor for enterovirus 71",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nishimura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat. Med",
+            "volume": "15",
+            "issn": "",
+            "pages": "794--797",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Application of retrovirus-mediated expression cloning for receptor screening of a parasite",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Anal. Biochem",
+            "volume": "389",
+            "issn": "",
+            "pages": "80--82",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Tyro3 family-mediated cell entry of Ebola and Marburg viruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "10109--10116",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Identification of cell surface molecules involved in dystroglycan-independent Lassa virus cell entry",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Str\u00f6her",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ebihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "2067--2078",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "A neutralization assay with a severe fever with thrombocytopenia syndrome virus strain that makes plaques in inoculated cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Taniguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Virol. Methods",
+            "volume": "244",
+            "issn": "",
+            "pages": "4--10",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "A new phlebovirus associated with severe febrile illness in Missouri",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mcmullan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N. Engl. J. Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "834--841",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "A novel tick-borne phlebovirus, closely related to severe fever with thrombocytopenia syndrome virus and Heartland virus, is a potential pathogen",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Emerg. Microbes Infect",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Reverse genetics system for severe fever with thrombocytopenia syndrome virus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brennan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Virol",
+            "volume": "89",
+            "issn": "",
+            "pages": "3026--3037",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "M segment-based minigenomes and virus-like particle assays as an approach to assess the potential of tick-borne phlebovirus genome reassortment",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Rezelj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Virol",
+            "volume": "93",
+            "issn": "",
+            "pages": "2068--2086",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Comparison of methods for isolation and titration of Crimean-Congo hemorrhagic fever virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shepherd",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Swanepoel",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Leman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shepherd",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Clin. Microbiol",
+            "volume": "24",
+            "issn": "",
+            "pages": "654--656",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Crimean-Congo hemorrhagic fever virus-infected hepatocytes induce ER-stress and apoptosis crosstalk",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Paranhos-Baccal\u00e0",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vernet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Peyrefitte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "A variant of yellow fluorescent protein with fast and efficient maturation for cell-biological applications",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat. Biotechnol",
+            "volume": "20",
+            "issn": "",
+            "pages": "87--90",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "2'-Fluoro-2'-deoxycytidine is a broad-spectrum inhibitor of bunyaviruses in vitro and in phleboviral disease mouse models",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Smee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Westover",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gowen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Antiviral Res",
+            "volume": "160",
+            "issn": "",
+            "pages": "48--54",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Extensive repertoire of membrane-bound and soluble dendritic cell-specific ICAM-3-grabbing nonintegrin 1 (DC-SIGN1) and DC-SIGN2 isoforms. Inter-individual variation in expression of DC-SIGN transcripts",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mummidi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Biol. Chem",
+            "volume": "276",
+            "issn": "",
+            "pages": "33196--33212",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Oligomerization domains in the glycan-binding receptors DC-SIGN and DC-SIGNR: Sequence variation and stability differences",
+            "authors": [
+                {
+                    "first": "\u00c1",
+                    "middle": [],
+                    "last": "Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Protein Sci",
+            "volume": "26",
+            "issn": "",
+            "pages": "306--316",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "The VNTR polymorphism of the DC-SIGNR gene and susceptibility to HIV-1 infection: a meta-analysis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Assessment of inhibitors of pathogenic Crimean-Congo hemorrhagic fever virus strains using virus-like particles",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zivcec",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS Negl. Trop. Dis",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Identification of a putative Crimean-Congo hemorrhagic fever virus entry factor",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dimitrov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Biochem. Biophys. Res. Commun",
+            "volume": "411",
+            "issn": "",
+            "pages": "253--258",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Analysis of the entry mechanism of Crimean-Congo hemorrhagic fever virus, using a vesicular stomatitis virus pseudotyping system",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Suda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Arch. Virol",
+            "volume": "161",
+            "issn": "",
+            "pages": "1447--1454",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Impact of polymorphisms in the DC-SIGNR neck domain on the interaction with pathogens",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gramberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "347",
+            "issn": "",
+            "pages": "354--363",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Differential use of the C-type lectins L-SIGN and DC-SIGN for phlebovirus endocytosis",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "L\u00e9ger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Traffic",
+            "volume": "17",
+            "issn": "",
+            "pages": "639--656",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Prolactin is an autocrine growth factor for the Jurkat human T-leukemic cell line",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Matera",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Neuroimmunol",
+            "volume": "79",
+            "issn": "",
+            "pages": "12--21",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Mapping of transcription termination within the S segment of SFTS Phlebovirus facilitated generation of NSs deletant viruses",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brennan",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Rezelj",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Elliott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Virol",
+            "volume": "91",
+            "issn": "",
+            "pages": "743--760",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Species-specific pathogenicity of severe fever with thrombocytopenia syndrome virus is determined by anti-STAT2 activity of NSs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yoshikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sakabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Urata",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yasuda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Virol",
+            "volume": "93",
+            "issn": "",
+            "pages": "2226--2244",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Mitogen-activated protein kinase-activated kinase RSK2 plays a role in innate immune responses to influenza virus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kakugawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "2510--2517",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Generation of bovine respiratory syncytial virus (BRSV) from cDNA: BRSV NS2 is not essential for virus replication in tissue culture, and the human RSV leader region acts as a functional BRSV genome promoter",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Buchholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Finke",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Conzelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "251--259",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "A feline CD2 homologue interacts with human red blood cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Immunology",
+            "volume": "105",
+            "issn": "",
+            "pages": "360--366",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Severe fever with thrombocytopenia syndrome virus antigen detection using monoclonal antibodies to the nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fukuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS. Negl. Trop. Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Usage of myeloma and panning in retrovirus-mediated expression cloning",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimojima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Anal. Biochem",
+            "volume": "315",
+            "issn": "",
+            "pages": "138--140",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "First and second generation panning for the identification of virus entry factors (a) Vero cells were mixed with medium (thin line) or SFTS virus (bold line) on ice and SFTS virus on the cell surface was detected by flow cytometry. (b) The infectivity of retroviral and lentiviral vectors prepared with SFTS virus glycoprotein (GP) or vesicular stomatitis virus G (VSV G), whose reporter was enhanced green fluorescence protein or Venus, was examined in Vero cells by fluorescence microscopy.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Characterisation of SFTS virus-based infectious virus-like particle (iVLP) carrying Venus reporter gene (a,b) Vero cells were inoculated with iVLP prepared with (pC030GP, dotted line) or without (pCAGGS, bold line) SFTS virus GP-expression or inoculated with medium (Medium, thin line) and observed under a fluorescence microscope (a) or analysed by flowcytometry (b). (c) Inoculation with iVLP was performed with pretreatment with normal human IgG or SFTS virus-neutralising monkey IgG. iVLP infection was quantified as fluorescence positivity by flow cytometry. The experiment was performed in triplicate and the infection relative to control (no IgG) is shown in means (%) + standard deviations (s.d.). Statistical comparison was performed between normal IgG and SFTSV IgG (Welch's t-test, two-tailed, n = 3). (d,e) Inoculation with iVLP was performed in the presence of a nucleoside analogue (2\u2032-deoxy-2\u2032-fluorocytidine [2\u2032-FdC]) (d) or a glucosylceramide synthase inhibitor N-butyldeoxynojirimycin. (e) The infection was quantified and analysed as in. (c) Cell viability was also measured in triplicate, and viability relative to control (no drug) is shown in means (%) + s.d. Statistical comparison was performed between control and drug treatment (Welch's t-test, two-tailed, n = 3). (f) Jurkat cells or Jurkat cells expressing control molecule (fCD2\u0394CT) or C-type lectins were inoculated with iVLP(Venus) at the indicated MOIs and analysed by flow cytometry. Data shown are means of duplicate experiments. NA, not available. Scientific RepoRtS | (2020) 10:5996 | https://doi.org/10.1038/s41598-020-62876-1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "A screening model to identify SFTS virus entry factors. (a) Jurkat cells (1.6 \u00d7 10 6 ) mixed with 0, 10, 100, and 1,000 Jurkat cells expressing LSECtin (Jurkat[0LS], Jurkat[10LS], Jurkat[100LS], and Jurkat[1000LS], respectively) were inoculated with an infectious virus-like particle carrying fCD2\u0394CT reporter gene (iVLP[fCD2\u0394CT]) at a multiplicity of infection of 1 and subjected to panning. Cells that were trapped but later detached were harvested, cultured, then re-inoculated with iVLP(fCD2\u0394CT), followed by panning again. Trapped cells in the 2 nd -round of panning, are shown in (a). (b) Positivity (%) by flow cytometry with anti-LSECtin antibody was measured for each cell mixture before panning (pre) or after the 1 st (post 1 st panning) or 2 nd (post 2 nd panning) panning. Scientific RepoRtS | (2020) 10:5996 | https://doi.org/10.1038/s41598-020-62876-1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Human liver cDNA library screening using infectious virus-like particle (iVLP). (a) In screening of the human liver cDNA library to identify SFTS virus entry factors, six Jurkat colonies (Clones1-6), which consisted of Venus-expressing cells, were found on a panning dish and one of them (Clone2) is shown. (b) Propagated Clone2, control molecule (fCD2\u0394CT)-expressing Jurkat cells and LSECtin-expressing Jurkat cells were examined to check their susceptibility to iVLP(Venus). (c) The genomes of na\u00efve and Clone2 were subjected to polymerase chain reaction with a pMX primer pair. A 1-kb DNA ladder was used as a marker.Scientific RepoRtS |(2020) 10:5996 | https://doi.org/10.1038/s41598-020-62876-1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Two DC-SIGNR variants identified and SFTS virus infection. (a) DC-SIGNR4r (left) and DC-SIGNR7r (right) were expressed in Jurkat cells by lentivirus vectors and their expressions were analysed by flow cytometry with control IgG (thin line) and anti-DC-SIGNR IgG (bold line). (b) Jurkat cells expressing a control molecule (fCD2\u0394CT), DC-SIGNR4r, or DC-SIGNR7r were inoculated with iVLP(Venus) (left) or authentic SFTS virus (right) at the indicated MOIs and the expression of a reporter (Venus) or a viral protein (NP) in the cells was examined by flow cytometry. Data shown are means of duplicate experiments. Scientific RepoRtS | (2020) 10:5996 | https://doi.org/10.1038/s41598-020-62876-1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "(Shimojima et al., manuscript in preparation). Mouse anti-SFTS virus GP monoclonal antibodies (Immune Technology Corp., clones 62D6 and 21D2), mouse IgG1 isotype control (R&D Systems), mouse anti-DC-SIGN/ DC-SIGNR (clone DC28, R&D Systems), mouse anti-LSECtin monoclonal antibody (clone SOTO-1, Santa Cruz Biotechnology), normal human IgG (Wako Pure Chemical Industries, Ltd.), goat anti-mouse IgG (H + L) Alexa Fluor488 (Thermo Fisher Scientific), 2\u2032-deoxy-2\u2032-fluorocytidine hydrate (Tokyo Chemical Industry Co., Ltd.), N-butyldeoxynojirimycin (Cayman Chemical), WST-1 (Sigma-Aldrich) and 1 kb DNA Ladder (New England Biolabs Japan) were purchased.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "M.Sh., S.S. and S.T. designed the study; M.Sh. and S.S. performed the experiments and analysed the data; and T.Y. and T.K. performed the sequence analyses. All authors contributed to the writing or editing to the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contributions"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "Supplementary information is available for this paper at https://doi.org/10.1038/s41598-020-62876-1.Correspondence and requests for materials should be addressed to M.S.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Additional information"
+        },
+        {
+            "text": "Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Reprints and permissions information is available at www.nature.com/reprints."
+        }
+    ]
+}

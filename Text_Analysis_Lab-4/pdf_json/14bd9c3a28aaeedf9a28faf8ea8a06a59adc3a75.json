@@ -1,0 +1,749 @@
+{
+    "paper_id": "14bd9c3a28aaeedf9a28faf8ea8a06a59adc3a75",
+    "metadata": {
+        "title": "Adaptive mechanism between dynamical synchronization and epidemic behavior on complex networks",
+        "authors": [
+            {
+                "first": "Kezan",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Guilin University of Electronic Technology",
+                    "location": {
+                        "postCode": "541004",
+                        "settlement": "Guilin",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xinchu",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Shanghai University",
+                    "location": {
+                        "postCode": "200444",
+                        "settlement": "Shanghai",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Small",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Guilin University of Electronic Technology",
+                    "location": {
+                        "postCode": "541004",
+                        "settlement": "Guilin",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zhongjun",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Many realistic epidemic networks display statistically synchronous behavior which we will refer to as epidemic synchronization. However, to the best of our knowledge, there has been no theoretical study of epidemic synchronization. In fact, in many cases, synchronization and epidemic behavior can arise simultaneously and interplay adaptively. In this paper, we first construct mathematical models of epidemic synchronization, based on traditional dynamical models on complex networks, by applying the adaptive mechanisms observed in real networks. Then, we study the relationship between the epidemic rate and synchronization stability of these models and, in particular, obtain the conditions of local and global stability for epidemic synchronization. Finally, we perform numerical analysis to verify our theoretical results. This work is the first to draw a theoretical bridge between epidemic transmission and synchronization dynamics and will be beneficial to the study of control and the analysis of the epidemics on complex networks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Exploring the correlation between different dynamical behaviors which may appear in complex networks is an important and interesting pursuit on the way toward understanding them better. Among these different dynamical behaviors, synchronization and epidemic spreading on networks are closely related. For example, with the spread of an infective disease, people may reduce the frequency of inter-personal contact and take collective protective measures with increased regularity (for example, by washing hands frequently with clear water and soap, avoiding going to crowded place, and so on). This means that the spread of information between people during transmission of an epidemic disease can induce spontaneously collective risk-minimisation behaviour in spite of (or at least independently of) the actual disease pathology. Similar phenomena can also be found in many animal-borne infections. Hence, synchronization of individual's behavior and their epidemic behavior on networks can occur simultaneously and interplay adaptively. However, very little theoretical work has been done to consider these two dynamical behaviors together. In this work, we address this deficit. We will investigate mathematically the correlation between the dynamical synchronization and the epidemic behavior on complex networks for us to understand them in depth.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "It is well known that complex networks can accurately describe the topological structure of many dynamical systems in the real world. For example, the world wide web can be considered as a network of websites with hyperlinks. The Internet is formed by routers with physical connections. Similarly, the human brain can be also regarded as a system of neurons linked by synapses. Many other examples can be also found: the global economy, market, food cycle, metabolism, disease spreading, computer virus, energy diffusion, etc. Recently, research in the area of complex network has advanced significantly and will lead to a deeper study and more practical applications in future. Synchronization dynamics and epidemic dynamics are two of the main research fields in complex network science. In the last ten years, with the important discovery of small-world and scale-free networks, synchronization in complex networks has attracted great attention. [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] Epidemic transmission in complex networks has also become an important research focus as it offers potential to advance the simple assumptions of homogeneously mixed models. [14] [15] [16] [17] [18] [19] Since synchronization and epidemic spreading are apparently two quite distinct behaviors, there is very little work to consider them together. Actually, synchronization and epidemic behavior on networks can arise simultaneously and interplay adaptively. Many realistic epidemic networks have displayed statistically synchronized behavior that we define as the epidemic synchronization which, for the moment, can be classified as epidemic induced synchronization and epidemic characteristic synchronization. For examples, with the spread of SARS (the severe acute respiratory syndrome), Bird Flu, or H1N1 influenza, people will spontaneously take some protective measures such as washing hands frequently with clear water and soap, avoiding going to crowded place, and so on in order to improve self-protection. 20 When rhinoceroses and hippopotami are infected with epidemic ringworm, they will a) Author to whom correspondence should be addressed. spontaneously go to a lakefront to have a bath in mud which will also provide either cure or protection. As the spread of these epidemic diseases becomes weak, these spontaneous protective behaviors (in either humans or animals) will decrease accordingly. Here, we choose to describe these consistent human or animal behaviors, which result from epidemic spreading, as the epidemic induced synchronization. For another example, weekly measles case reports 21 for Birmingham, Newcastle, Cambridge, and Norwich between 1944 and 1958 have shown their singular oscillatory behavior and an in-phase synchronized pattern between Birmingham and Newcastle, but an anti-phase pattern between Cambridge and Norwich. Similarly, the reported cases of syphilis and gonorrhoea for the Midwest, South, Northeast, and West cities in United States between 1941 and 2002 have also exhibited the oscillatory characteristic and phase synchronized patterns. 22 In addition, collective synchronization induced by epidemic dynamics on complex networks has also been studied numerically. 23 For integrality, we define here these consistent oscillation of measures, which quantify the epidemic degree or other characteristics and do not refer to concrete human or animal behaviors, in epidemic networks as the epidemic characteristic synchronization. In this paper, we just address the epidemic induced synchronization.",
+            "cite_spans": [
+                {
+                    "start": 949,
+                    "end": 952,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 953,
+                    "end": 956,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 957,
+                    "end": 960,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 961,
+                    "end": 964,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 965,
+                    "end": 968,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 969,
+                    "end": 972,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 973,
+                    "end": 976,
+                    "text": "[7]",
+                    "ref_id": null
+                },
+                {
+                    "start": 977,
+                    "end": 980,
+                    "text": "[8]",
+                    "ref_id": null
+                },
+                {
+                    "start": 981,
+                    "end": 984,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 985,
+                    "end": 989,
+                    "text": "[10]",
+                    "ref_id": null
+                },
+                {
+                    "start": 990,
+                    "end": 994,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 995,
+                    "end": 999,
+                    "text": "[12]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1000,
+                    "end": 1004,
+                    "text": "[13]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1179,
+                    "end": 1183,
+                    "text": "[14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1184,
+                    "end": 1188,
+                    "text": "[15]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1189,
+                    "end": 1193,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1194,
+                    "end": 1198,
+                    "text": "[17]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1199,
+                    "end": 1203,
+                    "text": "[18]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1204,
+                    "end": 1208,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2020,
+                    "end": 2022,
+                    "text": "20",
+                    "ref_id": null
+                },
+                {
+                    "start": 3095,
+                    "end": 3097,
+                    "text": "22",
+                    "ref_id": null
+                },
+                {
+                    "start": 3222,
+                    "end": 3224,
+                    "text": "23",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "The spatial synchronization of epidemics is considered to be a key factor affecting their long-term patterns of persistence and extinction. 24 However, there are very few theoretical works exploring the real reason for epidemic synchronization apart from some numerical analyses from the view of statistics. So, it is significant to seek a reliable theory for epidemic synchronization. To this end, in this paper, we first establish the mathematical models to realize the epidemic synchronization and make further analysis of these models to reveal their exhibition mechanisms, based on the theory of dynamical systems. This paper is organized as follows. In Sec. II, we introduce the traditional models of complex dynamical network and the epidemic network. In Sec. III, the models of SIS (the susceptible-infected-susceptible) epidemic synchronization and SIR (the susceptible-infected-recovered or the susceptible-infectedremoved) epidemic synchronization are constructed. Then, we investigate the local and global conditions of epidemic synchronization with respect to the epidemic rate of these models. Finally, in Sec. IV, we use some numerical simulations to verify our theoretical results obtained in Sec. III. Section V concludes this paper and lists some possible further works.",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 142,
+                    "text": "24",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Without loss of generality, we introduce a complex dynamical network 5 with linear coupling which can be described as",
+            "cite_spans": [
+                {
+                    "start": 69,
+                    "end": 70,
+                    "text": "5",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "a ij Hx j \u00f0t\u00de; i \u00bc 1; 2; \u2026; N;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "where x i \u00f0t\u00de 2 R n denotes the state variable of the ith node at the time t, and the function f(\u00c1) defines the local dynamics of each node and is supposed to be chaotic. The constant c > 0 is coupling strength and the matrix H 2 R n\u00c2n represents the inner-coupling matrix which is a constant 0 -1 matrix linking coupled variables, and we assume it is positive. The coupling matrix A \u00bc (a ij ) N \u00c2 N with zero-sum rows shows the coupling configuration of the network. If nodes i and j are connected, then a ij \u00bc a ji \u00bc 1, otherwise a ij \u00bc a ji \u00bc 0. The diagonal elements of the coupling matrix A are",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "where k i denotes the degree of node i. With these assumptions, the eigenvalues of matrix A can be given by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": ". Now, the standard SIS and SIR epidemic models 17, 19 in a complex network can be written as",
+            "cite_spans": [
+                {
+                    "start": 48,
+                    "end": 51,
+                    "text": "17,",
+                    "ref_id": null
+                },
+                {
+                    "start": 52,
+                    "end": 54,
+                    "text": "19",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "respectively. Here, the epidemic rate k 2 0; 1 \u00f0 denotes the probability with which each susceptible node is infected if it is connected to one infected node and d m represents the maximal degree in the network. The variables S k (t), I k (t), and R k (t) denote the densities of susceptible, infected, and removed nodes (individuals) with connectivity (contact) k at time t, respectively. These variables satisfy the normalization condi- (3) or (4). The term H(t,k) gives the probability that a randomly chosen link emanating from a node of connectivity k leads to an infected node. Moreover, H(t,k) has the form",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "where the conditional probability p k 0 jk \u00f0 \u00de means that a randomly chosen link emanating from a node of connectivity k leads to a node of connectivity k 0 . We suppose that the connectivities of nodes in the whole network are uncorrelated, i.e., p k 0 jk",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "The further details of models (3) and (4) can be found in Refs. 17, 19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. MODELS OF COMPLEX DYNAMICAL NETWORK AND EPIDEMIC NETWORK"
+        },
+        {
+            "text": "Based on the above traditional models (1) and (3), we can construct the following model of SIS epidemic synchronization:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "a ij Hx j \u00f0t\u00de; _ I k \u00f0t\u00de \u00bc kk\u00bd1 \u00c0 I k \u00f0t\u00deH\u00f0t; k\u00de \u00c0 I k \u00f0t\u00de;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "where i \u00bc 1, 2, \u2026, N, k \u00bc 1, 2, \u2026 , d m , parameter a > 0, and I\u00f0t\u00de \u00bc P d m k\u00bc1 p\u00f0k\u00deI k \u00f0t\u00de. The initial condition of system (6) can be set as follows. The initial state x i (0) is chosen randomly from real number set and I k (0) \u00bc q, c(0) \u00bc 0 with 0 < q ( 1. The state variable s(t) is the synchronous state of system (6) with respect to epidemic induced synchronization or epidemic characteristic synchronization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "By the similar entrainment mechanism between the above traditional models (1) and (4), we can design the following model of SIR epidemic synchronization as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "a ij Hx j \u00f0t\u00de;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "where i \u00bc 1, 2, \u2026 , N, k \u00bc 1, 2, \u2026 , d m , parameter a > 0, and epidemic prevalence I\u00f0t\u00de \u00bc P d m k\u00bc1 p\u00f0k\u00deI k \u00f0t\u00de.The initial condition of system (7) can be set as follows. The initial state x i (0) is chosen randomly from real number set and S k (0) \u00bc q,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "When we consider the epidemic induced synchronization, x i (t) indicates the state variable of node-i in the epidemic network. In this case, the models (1) and (3) (similarly for Eqs. (1) and (4)) have the same topological structure, i.e., dynamical process of individuals and epidemic process arise simultaneously in the same network. And f defines the locally dynamical behavior which indicates the summation of various behavior of individual node concerning epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "By supposing that f is chaotic, we mean that the functional behaviour of each individual node is active, dynamic, and sufficiently complex.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "When we take the epidemic characteristic synchronization into account, the variables x i (t) denotes the various factors influencing the epidemic transmission (such as the weekly infection rate of cities) and f shows the locally dynamical behavior of that variable. In this case, the models (1) and (3) (similarly for Eqs. (1) and (4)) may have different general topological structures. In this paper, we just address the first case where the synchronization is induced by the epidemic dynamics, which is realized by the adaptive coupling strength c(t) mainly depending on the change of I(t) and synchronization error.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "In the third equation of model (6) , the change of c(t) is controlled synthetically by I(t) and P N j\u00bc1 ks\u00f0t\u00de\u00c0x j \u00f0t\u00dek 2 1\u00feks\u00f0t\u00de\u00c0x j \u00f0t\u00dek 2 , where I(t) denotes the average density of infected nodes and this summation term can measure synchronization degree in a network. On one hand, individuals will send spontaneously safeguard information more frequently to protect themselves when disease prevalence becomes larger. So, it is reasonable to conclude that the rate of change of the coupling strength _ c\u00f0t\u00de is directly proportional to the density I(t) of infected nodes. On the other hand, when the collective protective behavior increases sufficiently, communication of safeguard information among individuals will become stable since they have come to an agreement of protection. Thus, the proportional relation between _ c\u00f0t\u00de and synchronization error P N j\u00bc1 ks\u00f0t\u00de\u00c0x j \u00f0t\u00dek 2 1\u00feks\u00f0t\u00de\u00c0x j \u00f0t\u00dek 2 is also valid. We take the same consideration in the fourth equation of model (7) .",
+            "cite_spans": [
+                {
+                    "start": 31,
+                    "end": 34,
+                    "text": "(6)",
+                    "ref_id": null
+                },
+                {
+                    "start": 980,
+                    "end": 983,
+                    "text": "(7)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "A. Local stability of epidemic synchronization For the network system (1), we have the following basic result.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Lemma 1: Considering the network (1) with chaotic individual nodes, the coupling strength c \u00bc c(t), H \u00bc I N , and the maximal Lyapunov Exponent h max of function f, if there is T > 0 such that",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "then the synchronization of network (1) is exponentially stable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Proof: By reference, 25 we know that the n(N -1) Lyapunov exponents of network (1) on the synchronization manifold can be expressed as",
+            "cite_spans": [
+                {
+                    "start": 21,
+                    "end": 23,
+                    "text": "25",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "This means all n(N -1) Lyapunov exponents of network (1) on the synchronization manifold are negative. According to the transverse stability of synchronization, 25 we obtain the exponential stability of network (1).",
+            "cite_spans": [
+                {
+                    "start": 161,
+                    "end": 163,
+                    "text": "25",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "h Theorem 1: Suppose that k c > 0 is the epidemic threshold of system (3) and f(\u00c1) is a chaotic function of the corresponding model (6) with H \u00bc I N . If the epidemic rate k > k c in system (6), then x i (t), i \u00bc 1, 2, \u2026 ,N can achieve synchronization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Proof: If k > k c , by the definition of epidemic threshold, there is a constant I \u00c3 2 0; 1 \u00f0 ] such that lim t!\u00fe1 I t \u00f0 \u00de \u00bc I \u00c3 . By defining d\u00f0t\u00de \u00bc aI\u00f0t\u00de",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "1\u00feks\u00f0t\u00de\u00c0x j \u00f0t\u00dek 2 , we know d(t) ! 0. Now, we show that x i (t), i \u00bc 1, 2, \u2026 ,N can realize synchronization in model (6) .",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 121,
+                    "text": "(6)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "If this is not the case, we obviously have lim t!\u00fe1 d t \u00f0 \u00de 6 \u00bc 0. Now, we will prove lim t!1 c t \u00f0 \u00de \u00bc \u00fe1. In order to verify this limitation, we first show c(t) is boundless. Otherwise, there exists M > 0 such that jc(t)j < M for all t ! 0. By noting _ c\u00f0t\u00de \u00bc d\u00f0t\u00de ! 0, we can deduce that c(t) must have limitation with t ! \u00fe 1, which means lim t!1 d t \u00f0 \u00de \u00bc 0. So c(t) is unbounded in (0, \u00fe 1). By combining the monotone property of c(t), we get lim t!1 c t \u00f0 \u00de \u00bc \u00fe1. On the other hand, by Lemma 1, x i (t), i \u00bc 1, 2, \u2026 , N can achieve synchronization if c t \u00f0 \u00de > h max = k 2 j j. This contradiction concludes this theorem.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "h Theorem 2: Suppose that k c > 0 is the epidemic threshold of system (3) and f(\u00c1) is a chaotic function of the corresponding model (7) with H \u00bc I N . If the epidemic rate k > k c in system (7), then x i (t), i \u00bc 1, 2, \u2026 , N can achieve synchronization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Proof: The proof is similar to the proof of theorem 1, we omit it here for simplicity. h Now, we consider the infinite state of coupling strength c(t).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Theorem 3: Considering the model (6) or (7), for every k 2 0; 1 \u00f0 \u00de, there is always a constant c \u00c3 > 0, such that lim t!1 c t \u00f0 \u00de \u00bc c \u00c3 . Proof: Obviously, for the model of epidemic synchronization (6) or (7), its epidemic threshold satisfies k c 2 0; 1 \u00f0 \u00de in its corresponding epidemic model. Now, we will prove this theorem for two cases with respect to k.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "On one hand, if 1 < k k c , by the above analysis, we know that x i (t), i \u00bc 1, 2, \u2026 ,N can realize synchronization. This means that lim t!1 k s t \u00f0 \u00de \u00c0 x j t \u00f0 \u00de k\u00bc 0 for every j 2 1; 2; \u2026; N f g . Moreover, it is easy to see that 0 < aI\u00f0t\u00de N a N . So, we get lim t!1 _ c\u00f0t\u00de \u00bc 0 for the model of SIS epidemic synchronization (6) or SIR epidemic synchronization (7) . By combining the initial condition c\u00f00\u00de \u00bc 0; _ c\u00f00\u00de > 0 and inequality _ c\u00f0t\u00de ! 0, we find that there is always a constant c * > 0, such that lim t!1 c t \u00f0 \u00de \u00bc c \u00c3 . On the other hand, if 0 < k k c , we have lim t!1 I t \u00f0 \u00de \u00bc 0 for the models (6) and (7) by the definition of epidemic threshold. In addition, it is obvious to see that",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 329,
+                    "text": "(6)",
+                    "ref_id": null
+                },
+                {
+                    "start": 362,
+                    "end": 365,
+                    "text": "(7)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Thus, for the model of SIS epidemic synchronization (6) or SIR epidemic synchronization (7), we obtain lim t!1 _ c\u00f0t\u00de \u00bc 0. In this case, by combining the initial condition c\u00f00\u00de \u00bc 0, _ c\u00f00\u00de > 0, and inequality _ c\u00f0t\u00de ! 0, we obtain the same result. Hence, the Theorem is proved. h",
+            "cite_spans": [
+                {
+                    "start": 52,
+                    "end": 55,
+                    "text": "(6)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. MODELS OF EPIDEMIC SYNCHRONIZATION AND ITS ANALYSIS"
+        },
+        {
+            "text": "Based on the paper, 10 the synchronous state in network (6) or (7) can be defined as s\u00f0t\u00de \u00bc 1 N P N i\u00bc1 x i \u00f0t\u00de. Hence, the corresponding synchronization errors can be set as e i (t) \u00bc x i (t)s(t), i \u00bc 1, 2, \u2026 ,N. It is easy to obtain P N i\u00bc1 e i \u00f0t\u00de \u00bc 0 and _ s\u00f0t\u00de \u00bc 1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "Consequently, the error system can be described as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "a ij He j \u00f0t\u00de \u00fe g\u00f0t\u00de;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "where g\u00f0t\u00de \u00bc f \u00f0s\u00f0t\u00de\u00de \u00c0 1 N P N i\u00bc1 f \u00f0x i \u00f0t\u00de\u00de. Hypothesis 1: Suppose that P \u00bc diag(p 1 ,p 2 , \u2026 ,p n ) is a positive matrix. If there is a constant n, such that for all x t \u00f0 \u00de; y t \u00f0 \u00de 2 R n , and t > 0, then we always have that \u00f0x \u00c0 y\u00de T P\u00bdf \u00f0x\u00de \u00c0 f \u00f0y\u00de n\u00f0x \u00c0 y\u00de T \u00f0x \u00c0 y\u00de:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "By letting ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "where is Kronecker product.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "Theorem 4: Suppose that k c > 0 is the epidemic threshold of system (3) . If k > k c in system (6) , then the synchronous manifold of system (6) is globally asymptotically stable.",
+            "cite_spans": [
+                {
+                    "start": 68,
+                    "end": 71,
+                    "text": "(3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 95,
+                    "end": 98,
+                    "text": "(6)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "Proof: We construct the following Lyapunov function candidate",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "where b \u00bc \u00c0 k 2 k min (PH) > 0, k min (PH) denote the minimal eigenvalue of matrix PH and c 0 is a undetermined constant. The derivative of V(t) with respect to t along the solution of system (6) is given by ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "If epidemic rate k > k c , then there exists I \u00c3 2 0; 1 \u00f0 , such that lim t!\u00fe1 I t \u00f0 \u00de \u00bc I \u00c3 . By choosing e 0 2 0; I \u00c3 \u00f0 \u00de, then there is t 0 such that I t \u00f0 \u00de > I \u00c3 \u00c0 e 0 > 0 for all t > t 0 . When t > t 0 , by Eq. Thus, we can select an adequately large constant c 0, such that dV\u00f0t\u00de dt 0. On the other hand, it is easy to see that k min \u00f0P\u00de 2 e T \u00f0t\u00dee\u00f0t\u00de\u00fe 1 2 b\u00f0c 0 \u00c0c\u00f0t\u00de\u00de 2 V\u00f0t\u00de k max \u00f0P\u00de 2 e T \u00f0t\u00dee\u00f0t\u00de\u00fe 1 2 b\u00f0c 0 \u00c0c\u00f0t\u00de\u00de 2 . So, the Lyapunov function V(t) has infinitesimal upper bound and is infinitely large. 26, 27 Therefore, the zero solution of error system (9) is globally asymptotically stable, i.e., the synchronisation manifold of system (6) is globally asymptotically stable.",
+            "cite_spans": [
+                {
+                    "start": 516,
+                    "end": 519,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 520,
+                    "end": 522,
+                    "text": "27",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "h Similarly, if epidemic rate k > k c , the synchronisation manifold of system (7) is also globally asymptotically stable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "Remark 1: Actually, we just need the existence of the above constant n in Hypothesis 1 to achieve the global stability of epidemic synchronization, as shown by the above analysis. So, it is convenient to use Theorem 4 for analysis in realistic applications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "Remark 2:. In fact, since some certain synchronization patterns can accelerate or weaken epidemic prevalence, it is more realistic to consider the effect of these synchronization dynamics on epidemics synchronously, as we investigate the relationship between the epidemic dynamics and synchronization dynamics on a network. If we embed this anti-effect function in model (6) or (7), it must influence the epidemic process, i.e., either enhancing or reducing the epidemic prevalence I(t). But from the results obtained above, our synchronization conditions are all independent on this epidemic process, but depend only on the epidemic rate. So, the above synchronization conditions are still valid in this case.",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "(6)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "B. Global stability of epidemic synchronization"
+        },
+        {
+            "text": "To verify the above results, we now investigate numerically the model of SIS epidemic synchronization (6) . Since this analysis can be generalized analogously to the model of SIR epidemic synchronization (7), we omit this generalization for simplicity. The network embedded in model (6) is made to be the BA (the Barabasi and Albert model) scale-free (preferential attachment) network 28 with size N \u00bc 500. This network evolves from initial network with size m 0 \u00bc 4 and we add each new node with m \u00bc 3 new edges. Without loss of generality, we suppose that the f in model (6) is defined as the chaotic Lorenz oscillation. Certainly, this assumption is rather difficult to justify from the point of view of a physical epidemic transmission process, but we just use it for numerical simulations. This oscillation can be described as",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 105,
+                    "text": "(6)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "IV. NUMERICAL SIMULATION"
+        },
+        {
+            "text": "where parameters a 1 \u00bc 10, a 2 \u00bc 28, and a 3 \u00bc (8/3). H is chosen as the identity matrix. The Figures 1, 2, and 3 show the changes in synchronization error e(t), epidemic prevalence I(t), and coupling strength c(t) in the model (6) with epidemic rate k \u00bc 0.02, 0.1, and 0.2, respectively. Here, the synchronization error is defined as e\u00f0t\u00de \u00bc P N j\u00bc2 x 1 \u00f0t\u00de k \u00c0x j \u00f0t\u00de = N. From Fig 1, we can see that I(t) ! 0(t ! 1), i.e., the epidemic does not break out. In this case, the synchronization error e(t) does not converge to zero, which means that the epidemic dynamics cannot successfully induce the synchronization of individuals under small epidemic rate k \u00bc 0.02. From Fig 2, we can see that I(t) converges to a positive number and e(t) converges to zero, which implies that the epidemic dynamics can induce successfully the synchronization of individuals with larger epidemic rate k \u00bc 0.1. Increasing further the epidemic rate to 0.2, we find that the epidemic dynamics can not only induce successfully the synchronization, but also enhance the speed of synchronization. These simulations show that if the epidemic transmission spreads more easily on the network, then the epidemic dynamics can induce the synchronization of individuals more effectively. This is consistent with the attained theoretic results in Sec. III-an aggressive disease leads to a strong response from individuals.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "text": "The Figures 1, 2, and 3",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 374,
+                    "end": 385,
+                    "text": "From Fig 1,",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 667,
+                    "end": 678,
+                    "text": "From Fig 2,",
+                    "ref_id": null
+                }
+            ],
+            "section": "IV. NUMERICAL SIMULATION"
+        },
+        {
+            "text": "Based on the synchronization behavior of individuals induced by epidemic dynamics in real epidemic networks, this paper has proposed some mathematical models of epidemic synchronization which can characterize this kind of phenomenon very well. We have studied the relationship between the epidemic rate and synchronization stability of these models and obtained a very explicit condition for synchronization with respect to the epidemic rate, i.e., k > k c . Numerical simulations show that if the epidemic disease breaks out more easily, then the epidemic dynamics can induce the synchronization of its individuals more effectively. This conclusion accords very well with the characteristics of real epidemic networks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "V. CONCLUSIONS"
+        },
+        {
+            "text": "In future, we will extend our work to address the following two issues. First, since in realistic epidemic networks the individuals are generally different, the local dynamics of nodes can not be identical in a whole network. So, it must be more appropriate to consider network models with both community structure and (distinct) individual behavior. Second, we anticipate that some certain synchronization patterns can accelerate or weaken epidemic prevalence. So, it may be very significant to consider the effect of these synchronization dynamics on epidemics when we study the epidemic synchronization on complex networks. (6) with epidemic rate k \u00bc 0.2. The network is BA scale-free network with size N \u00bc 500, the maximal degree d m \u00bc 60 and 192 nodes with the minimal degree 3. Other parameters are set as a \u00bc N -1, initial infection density q 3 \u00bc 0.03125, q k \u00bc 0, k \u00bc 4,\u2026,d m , i.e., there are originally 6 infected nodes with degree 3 and the other nodes are all susceptible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "V. CONCLUSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Synchronization: A Universal Concept in Nonlinear Science",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pikovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rosenblum",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kurths",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Nonlinear and Adaptive Control Design",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Krstic",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kanellakopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kokotovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "T , and e t \u00f0 \u00de \u00bc e T 1 ; \u2026; e T N \u00c0 \u00c1 T , then the system (9) is rewritten as _ e\u00f0t\u00de \u00bc F\u00f0t\u00de \u00fe c\u00f0t\u00de\u00f0A H\u00dee\u00f0t\u00de \u00fe \u00f0I N I n \u00deG\u00f0t\u00de;",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "T P\u00bdf \u00f0x i \u00f0t\u00de\u00de \u00c0 f \u00f0s\u00f0t\u00de\u00de \u00fe c\u00f0t\u00dee\u00f0t\u00de T \u00f0A PH\u00dee\u00f0t\u00de \u00fe e\u00f0t\u00de T \u00f0I N P\u00deG\u00f0t\u00de \u00c0 b\u00f0c 0 \u00c0 c\u00f0t\u00de\u00de _ c\u00f0t\u00de \u00bc X N i\u00bc1 e i \u00f0t\u00de T P\u00bdf \u00f0x i \u00f0t\u00de\u00de \u00c0 f \u00f0s\u00f0t\u00de\u00de \u00fe c\u00f0t\u00dee\u00f0t\u00de T \u00f0A PH\u00dee\u00f0t\u00de \u00c0 b\u00f0c 0 \u00c0 c\u00f0t\u00de\u00de _ c\u00f0t\u00de n X N i\u00bc1 e i \u00f0t\u00de T e i \u00f0t\u00de \u00fe c\u00f0t\u00dee\u00f0t\u00de T \u00f0A PH\u00dee\u00f0t\u00de \u00c0 b\u00f0c 0 \u00c0 c\u00f0t\u00de\u00de _ c\u00f0t\u00de: \u00f0t\u00de T e i \u00f0t\u00de \u00fe c\u00f0t\u00dey T \u00f0t\u00de\u00f0K PH\u00dey\u00f0t\u00de \u00c0 b\u00f0c 0 \u00c0 c\u00f0t\u00de\u00de _ c\u00f0t\u00de \u00bc n X N i\u00bc1 e i \u00f0t\u00de T e i \u00f0t\u00de \u00c0 bc 0 _ c\u00f0t\u00de \u00fe c\u00f0t\u00dey T \u00f0t\u00de\u00f0K PH\u00dey\u00f0t\u00de \u00fe bc\u00f0t\u00de _ c\u00f0t\u00de e i \u00f0t\u00de T e i \u00f0t\u00de \u00c0 c\u00f0t\u00dek 2 k min \u00f0PH\u00de _ c\u00f0t\u00de:",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "The changes of synchronization error e(t), epidemic prevalence I(t), and coupling strength c(t) in model (6) with epidemic rate k \u00bc 0.02. The network is BA scale-free network with size N \u00bc 500, the maximal degree d m \u00bc 60 and 192 nodes with the minimal degree 3. Other parameters are setas a \u00bc N -1, initial infection density q 3 \u00bc 0.03125, q k \u00bc 0, k \u00bc 4,\u2026,d m , i.e.,there are originally 6 infected nodes with degree 3 and the other nodes are all susceptible. FIG. 2. The changes of synchronization error e(t), epidemic prevalence I(t), and coupling strength c(t) in model (6) with epidemic rate k \u00bc 0.1. The network is BA scale-free network with size N \u00bc 500, the maximal degree d m \u00bc 60 and 192 nodes with the minimal degree 3. Other parameters are set as a \u00bc N -1, initial infection density q 3 \u00bc 0.03125, q k \u00bc 0, k \u00bc 4,\u2026,d m , i.e., there are originally 6 infected nodes with degree 3 and the other nodes are all susceptible.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "The changes of synchronization error e(t), epidemic prevalence I(t), and coupling strength c(t) in model",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Electronic mail: xcfu@su.edu.cn.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

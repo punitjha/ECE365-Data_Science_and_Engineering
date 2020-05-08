@@ -1,0 +1,1206 @@
+{
+    "paper_id": "5153a8443badd214949a5626e34dfc3e6e576d5e",
+    "metadata": {
+        "title": "Viral Infections",
+        "authors": [
+            {
+                "first": "Per",
+                "middle": [],
+                "last": "Ljungman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jan",
+                "middle": [],
+                "last": "Styczynski",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hermann",
+                "middle": [],
+                "last": "Einsele",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "CMV can cause symptoms from almost any organ as well as unspecific symptoms such as fever, malaise, and bone marrow suppression in stem cell transplant patients. However, the most important clinical entities in allo-HSCT patients are pneumonia, gastroenteritis, and retinitis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The likelihood for symptomatic infection is much higher after allo-HSCT compared to auto-HSCT. Being CMV seropositive (CMV (+)) is also associated with decreased OS after allo-HSCT as is the use of a CMV (+) donor to a CMV-seronegative (CMV (\u2212)) patient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "In patients undergoing MAC allo-HSCT, the use of a CMV (\u2212) donor to a CMV (+) patient has been associated with an increased risk for NRM and decreased OS. In addition, proof of CMV replication is associated with increased NRM, while the effect on the risk for leukemia relapse is controversial.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "CMV antibody status should be determined pretransplant in all patients undergoing HSCT and in allogeneic stem cell donors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Allo-HSCT patients should be monitored weekly for CMV replication with a sensitive diagnostic technique at least the first 3 months after HSCT. Patients with GVHD and those with documented CMV replication should be monitored longer. There is no need to routinely monitor patients after autologous HSCT.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "The most commonly used technique is qPCR, but also the so-called pp65 antigenemia assay and other tests detecting CMV nucleic acids can be used. Recently tests detecting CMV-specific T-cells have become available, but further evaluation of these tests' usefulness in routine care is necessary.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "To diagnose CMV disease, it is important to combine symptoms and signs with documentation of the presence of CMV in affected tissue. An exception is CMV retinitis where ophthalmologic findings are characteristic although to detect CMV in vitreous fluid can be helpful. Established techniques for detection of CMV in tissue are histopathology, immunohistochemistry, and DNA hybridization. High levels of CMV DNA in BAL are associated with CMV pneumonia, while its absence almost excludes CMV pneumonia. PCR in CSF supports the diagnosis of CMV encephalitis. For other end-organ diseases, qPCR needs additional study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Letermovir has been shown in a placebocontrolled randomized trial to decrease the risk for clinically significant CMV infection (need for preemptive antiviral therapy and/or CMV disease) and also decrease all-cause mortality in CMV (+) patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Ganciclovir can reduce the risk for CMV disease but is associated with significant toxicity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "High-dose acyclovir/valaciclovir can reduce the risk for CMV replication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "The data regarding prophylactic Ig is conflicting and its use is currently not recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Ganciclovir, valganciclovir, and foscarnet have all been shown to be effective to prevent development of CMV disease in allo-HSCT recipients when used for so-called preemptive therapy based on detection of CMV in blood. Their efficacy is similar, so the choice should be based on the risk for side effects and practical aspects.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "It is not possible to give a recommendation on what CMV DNA level preemptive therapy should be initiated since this depends on patient factors, the material used for monitoring (plasma/whole blood), and the performance of the assay used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Therapy is usually given for at least 2 weeks, but longer therapy courses might be needed. Second episodes of CMV replication are common, and second-line therapy can be given with either the same or other antiviral drugs mentioned above.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Ganciclovir (valganciclovir) and foscarnet are the most used drugs for CMV disease. The addition of high-dose Ig for treatment of CMV pneumonia has been commonly used, but the data supporting this combination is limited. There is no data supporting the addition of Ig to antiviral treatment for other types of CMV disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Cidofovir can be considered as failure therapy. The duration of therapy has to be decided on a case-by-case basis, but normally longer therapy is needed compared to preemptive therapy (6-8 weeks) .",
+            "cite_spans": [
+                {
+                    "start": 184,
+                    "end": 195,
+                    "text": "(6-8 weeks)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Cidofovir is also a possibility for second-or third-line antiviral therapy. New antiviral drugs are in development but have not been proven efficacious on this indication. Leflunomide and artesunate have been tested, but data supporting their use is very limited.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Several groups have tried to prevent or treat CMV infection and disease following allo-HSCT by the transfer of CMV-specific T-cells. The T-cell lines and clones specific for CMV were mostly derived from the HSC donor but in some studies also from a third-party donor or even patientderived CMV-specific T-cells obtained from the patient prior to conditioning therapy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cellular Immunotherapy"
+        },
+        {
+            "text": "New strategies were applied to select CMVspecific T-cell without long-term in vitro culture. Thus, techniques like the cytokine capture assay combined with the Miltenyi CliniMACS system or tetramers, pentamers, or streptamers were applied to generate CMV-specific T-cells for prophylactic or therapeutic transfer. The transfer of these cells was shown to reconstitute virus-specific T-cell immunity. When given therapeutically to patients with chemotherapyrefractory CMV infection, a drop in the viral load after an increase in the number of CMV-specific T-cells could be documented. In patients with chemotherapy-refractory CMV infection post-HSCT, adoptive T-cell therapy is a valid therapeutic option.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cellular Immunotherapy"
+        },
+        {
+            "text": "The efficacy in patients receiving high-dose (\u22652 mg/kg) corticosteroids is likely to be low.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cellular Immunotherapy"
+        },
+        {
+            "text": "HHV-6A primary infection has so far not been associated with specific symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HHV-6B primary infection is the main cause of exanthema subitum in young children. It has also been associated with febrile seizures. Almost all children are infected by the age of 2 years.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HHV-6B is the main cause of viral encephalitis after allo-HSCT, but HHV-6A has also been documented. Patients undergoing CBT are at an increased risk. Other symptoms suggested to be associated with HHV-6 are bone marrow suppression, pneumonia, and acute GVHD.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Serology is not helpful. HHV-6 DNA can be analyzed in blood by qPCR. The usefulness of monitoring is not established. HHV-6 can be integrated in germline, and these individuals are strongly positive in qPCR, and this is not a proof of viral replication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "MRI is recommended for diagnosis of HHV-6 encephalitis. The typical finding is of limbic encephalitis, but other patterns are also seen. HHV-6 DNA is usually positive in the CSF in patients with encephalitis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Foscarnet has been used but its usefulness is not established.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Either ganciclovir or foscarnet can be used for treatment of HHV-6 encephalitis. There is no established treatment for HHV-6 infection or patients with other suspected HHV-6-associated complications. Cellular immunotherapy was only performed in a few patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "HHV-7 primary infection in young children occasionally causes exanthema subitum (roseola) and rarely status epilepticus with fever. Nearly all children are infected with HHV-7 by the age of 5 years.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HHV-7 detection after HSCT is relatively infrequent, with rare cases in which HHV-7 has been associated with CNS disease (encephalitis, myelitis).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The risk of infection in HSCT patients: allo > auto, TBI-based > chemo-based, children > adults.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Reactivation of HHV-7 occurs in about 10% of patients after allo-HSCT.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HHV-7 DNA by qPCR. HHV-7 might be a cofactor of CMV reactivation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Not used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Infection by HHV-7 does not require specific treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "HHV-8 (KSHV, Kaposi's sarcoma-associated herpesvirus) is the cause of Kaposi's sarcoma (KS), primary effusion lymphoma, or multicentric Castleman's disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The prevalence of KSHV infection is high in Africa and parts of the Amazon basin. KS is very rare after HSCT (only 14 cases are described).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Fever and marrow aplasia with plasmacytosis after HSCT can occur. Skin involvement is the dominant clinical presentation in adults, while pediatric cases have visceral involvement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Detection of HHV-8 DNA by qPCR. KS can be clinically defined on the basis of characteristic skin lesions or histopathologically defined in a malignant tumor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Not recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "In disease limited to the skin only, surgical excision or electrochemotherapy is the most preferable approach.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "For visceral or disseminated disease, possible options include the use of interferon alpha or chemotherapy. The use of antiviral treatment is considered without benefit. Imatinib showed promising results in HIV-related KS patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Syndromes caused by primary EBV infection include infectious mononucleosis, chronic active EBV infection, and X-linked lymphoproliferative syndrome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "In HCT patients EBV can cause lifethreatening complication: post transplant lymphoproliferative disorder (PTLD) or end-organ diseases such as encephalitis/myelitis, pneumonia, or hepatitis. Details on EBV-PTLD are presented in Chap. 45.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Donor EBV seropositivity contributes also to the risk of cGVHD in patients with acute leukemia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "All allo-HCT patients and donors should be tested for EBV Ab before HCT.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Since EBV sero-mismatch is a risk factor for PTLD, the selection of an EBV-matched donor, if possible, might be beneficial.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "As EBV-PTLD after HCT is usually of donor origin and EBV might be transmitted with the graft, the risk of EBV-PTLD is higher when the donor is seropositive.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Most EBV reactivations are subclinical and require no therapy. Details on treatment of EBV-PTLD are presented in Chap. 45.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "HSV reactivation can be caused by either type 1 or 2 and is usually associated with localized mucocutaneous disease in the orofacial region (85-90%) and less frequently in the esophageal and genital area. Uncommon manifestations are pneumonia, hepatitis, meningitis (HSV-2), and encephalitis (HSV-1).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "All patients should be tested for HSV antibodies before HSCT. The diagnosis of mucocutaneous HSV disease is suspected on clinical grounds, and the diagnosis is usually verified by PCR. PCR in CSF is the technique of choice for the diagnosis of HSV meningitis and encephalitis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Primary HSV infection in HSCT patients is unusual, and antiviral drug prophylaxis is thus not recommended in HSV-seronegative patients after HSCT (but might be needed against VZV; see below).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "HSV-seropositive patients undergoing allo-HSCT should receive antiviral drug prophylaxis. IV acyclovir 250 mg/m 2 or 5 mg/kg q12h, oral acyclovir 3 \u00d7 200 to 2 \u00d7 800 mg/day, oral valaciclovir 2 \u00d7 500 mg/day, or famciclovir 2 \u00d7 500 mg/ day can be used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "The duration depends on if also prophylaxis against VZV (see below) is indicated but should be given for at least 4 weeks after HSCT in VZVseronegative patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "IV acyclovir 250 mg/m 2 or 5 mg/kg q8h for 7-10 days is the therapy of choice for severe mucocutaneous or visceral HSV disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Oral acyclovir, from 5 \u00d7 200 to 5 \u00d7 400 mg/ day, valaciclovir 2 \u00d7 500 mg/day, or famciclovir 2 \u00d7 500 mg/day for 10 days are considered as alternatives for less serious manifestations of HSV disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "For HSV pneumonia or HSV meningitis and encephalitis, IV acyclovir 500 mg/m 2 or 10 mg/ kg q8h for at least 14-21 days is recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "HSV resistance occurs in approximately 5-15% of patients and is mediated through mutation in the HSV thymidine kinase. Foscarnet or cidofovir are second-line therapy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Primary infection (varicella) occurs rarely after HSCT, but it might have severe clinical course.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Reactivation as herpes zoster is frequently complicated by prolonged neuralgia and is common unless long-term antiviral prophylaxis is given.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Clinically, severe symptoms include disseminated infection similar to varicella, visceral disease presenting as severe abdominal pain or acute hepatitis, and rarely encephalitis, retinal necrosis, or pneumonitis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Patients should be tested for VZV antibodies before HSCT. The rash in clinical varicella or zoster is usually characteristic. However, in some cases disseminated HSV can have a similar appearance. PCR on vesicular material for VZV and HSV can differentiate.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Visceral VZV disease can occur without rash and then PCR on blood is diagnostic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "VZV-seropositive patients should be given antiviral prophylaxis for at least 12 months or up to the end of IS therapy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Prophylaxis can be given with acyclovir (2 \u00d7 800 mg; in children 2 \u00d7 20 mg/kg) or valacyclovir (2 \u00d7 500 mg).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "In seronegative patients exposed to VZV, postexposure prophylaxis with acyclovir or valacyclovir is recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Prophylaxis should be started as soon as possible and continued until 21 days after exposition.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "First-line therapy for varicella, disseminated zoster, and visceral disease is acyclovir 3 \u00d7 500 mg/ m 2 /d IV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "For localized or limited infections, oral valaciclovir (3 \u00d7 1000 mg), acyclovir (5 \u00d7 800 mg; in children 4 \u00d7 20 mg/kg), or famciclovir (3 \u00d7 500 mg) can be given until the lesion crusts over (usually 7-10 days).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "In case of resistance to acyclovir, second-line therapies are foscarnet (60 mg/kg q12h) or cidofovir (5 mg/kg weekly, together with probenecid and hydration).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "VZIg is not recommended. Only case reports exist on cellular therapy for VZV infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "ADV is transmitted mainly from person to person; however it can persist in epithelial cells and lymphoid tissue and reactivate during IS. Children are more frequently affected than adults.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The spectrum of ADV-associated disease in HSCT patients ranges from mild gastroenteric or respiratory symptoms to severe hemorrhagic enteritis, hemorrhagic cystitis, nephritis, hepatitis, pneumonia, encephalitis, myocarditis, and multiple organ involvement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Risk factors for ADV infection/disease include haploidentical or URD graft, CBT, TCD, GVHD III-IV, severe lymphopenia, and treatment with alemtuzumab.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "ADV-DNA by qPCR. Monitoring with qPCR of ADV viremia in PB is recommended on at least weekly basis for patients with at least one risk factor. qPCR is also recommended in case of clinical suspicion of ADV infection/ disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Non-pharmacological prophylaxis is mandatory: strict isolation and hygienic measures in patients shedding the virus are absolutely necessary to prevent horizontal transmission and nosocomial outbreaks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Prophylactic antiviral therapy with available antiviral drugs is not recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Patients especially children, with increasing viral load and at least one risk factor, should receive preemptive antiviral treatment with cidofovir 3-5 mg/kg/week for 2-3 weeks and, thereafter, every other week.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Patients with probable or proven ADV disease should be treated with IV cidofovir (5 mg/kg weekly for at least three doses; thereafter, every other week), together with hyperhydration and oral probenecid.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Ribavirin is not recommended for ADV. Donor-derived ADV-specific CTLs are an option for clinically non-responding patients. Oral brincidofovir 2 mg/kg twice weekly might be obtained for compassionate use.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Influenza is a yearly occurring respiratory viral infection with outbreaks of different sizes depending on the circulating strain.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Influenza can be a very severe infection in HSCT recipients. The risk for lower tract disease (LTD) has been reported to be as high as 33%, and mortality has varied in different reports between 0 and 15%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The risk for LTD is higher when occurring just prior to or during conditioning, very early after HSCT, with viruses resistant to neuraminidase inhibitors and with new viral strains such as the recent H1N1 (\"swine flu\").",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Symptoms are similar as in the immunecompetent individual. Respiratory symptoms vary from very mild to life-threatening symptoms. GI symptoms and CNS symptoms can also occur. Secondary bacterial infections are not uncommon.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Several commercial tests detecting either nucleic acid or influenza antigens are available. Since the symptoms frequently are uncharacteristic, multi-plex tests detecting different respiratory viruses are frequently used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "The most important prophylactic measure is vaccination, which is recommended yearly to all HSCT recipients. The efficacy of the vaccine varies from season to season depending on the fitness of the strains used in preparing the vaccine to the circulating strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "The immune response to vaccination is better when given at least 6 months after HSCT although vaccination can be considered from 3 months after HSCT in outbreak situations. A second dose of vaccine can be considered. Antiviral prophylaxis is not generally recommended but can be considered in patients exposed to an infected individual.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Standard therapy is with neuraminidase inhibitors mainly oseltamivir or zanamivir although no study has shown efficacy specifically in HSCT recipients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "It should be recognized that the normally recommended duration of 5 days often is too short since viral excretion might continue for a long time. Resistance to oseltamivir is not rare although variable with the strain circulating in that particular season.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Respiratory Viruses (CARVs)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Other Community-Acquired"
+        },
+        {
+            "text": "Infections with CARVs including respiratory syncytial virus (RSV), parainfluenza viruses (PIV), metapneumovirus, rhinoviruses, and coronaviruses are very common in HSCT recipients. Most infections are mild causing only upper respiratory symptoms but LTD occurs. Importantly CARV infections occurring before start of conditioning have been associated with severe symptoms and increased NRM, and therefore deferring the start of conditioning shall be considered at least in symptomatic patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Multiplex PCR testing of different CARVs is today the most used technique.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "The only available measure is to avoid nosocomial spread of these infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "No therapy of a CARV has been proven efficacious in controlled trials.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Ribavirin either given as inhalation or systemically has been suggested to reduce the risk for progression of upper respiratory tract RSV infection to LTD and possibly to reduce mortality in RSV pneumonia. No licensed therapy is available for any other CARV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Reactivation of the ubiquitous, neurotropic John Cunningham polyomavirus (JCV) may cause PML, a rare, opportunistic, and severe disease of the CNS.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "PML awareness increased following the introduction of new immunomodulatory or IS treatments with natalizumab, rituximab, efalizumab, infliximab, brentuximab, fingolimod, dimethyl fumarate, azathioprine, tacrolimus, and MMF.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "JCV-DNA by PCR, especially in CSF (also multiplex PCR).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "The new option is high-resolution melting analysis (PCR-HRM) for diagnosis of JCV in patients with PML.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Profound suppression in cellular immunity T-lymphopenia may constitute a primary PML risk factor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Not used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "No specific treatment is currently available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "The application of G-CSF may facilitate immune reconstitution and JCV clearance in the CSF. BKV-specific CTLs might demonstrate anti-JCV activity due to virus homology.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "BKV (See Chap. 51: Hemorrhagic Cystitis and Renal Dysfunction)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "BKV"
+        },
+        {
+            "text": "Enteric transmission via person-to-person contact is the predominant way of spreading.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Infection with HAV in HSCT recipients can increase the risk of SOS/VOD, and HAV has been associated with aplastic anemia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Due to the scarcity of chronic HAV infection, blood products and HSCT donors are not routinely tested for HAV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "PCR is the preferred method in HSCT setting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Liver function tests (LFT) should be performed in donors before HSC harvesting. Donors with abnormal LFT should be tested for anti-HAV-IgM. If HAV is detected, donation should be delayed until HAV-RNA is no longer detectable in the donor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "HSCT is not recommended if the donor or the recipient is viremic for HAV because of an increased risk of SOS/VOD.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Vaccination should be considered in HAV-IgG-negative patients at risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Symptomatic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "After primary infection, even in case of HBsAg seroconversion, HBV probably persists lifelong in the nucleus of hepatocytes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HBV can reactivate after treatment-induced loss of immune control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Hepatitis, including cases of fulminant hepatic failure, typically occurs after immune system reconstitution, de novo recognition, and destruction of HBV-infected hepatocytes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Fibrosing cholestatic hepatitis can be a consequence of HBV reactivation. The case-fatality rate of HBV reactivation is high in patients with hematological malignancy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "All donors and recipients must be screened for anti-HBsAg, anti-HBc, and anti-HBs and HBV-DNA if anti-HBc is detected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Antiviral prophylaxis should be given to anti-HBc-positive patients and those receiving grafts from HBV-infected donors. Tenofovir or entecavir are the drugs of choice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Vaccination of anti-HBc-negative and anti-HBs-negative patients before and after HSCT is recommended. Double vaccine doses may be required to achieve an anti-HBs response in immunocompromised patients (0-1-2-6 months).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Vaccination of anti-HBc-negative and anti-HBsnegative stem cell donors before HSCT harvesting should be considered; an accelerated single-dose 3-week (0-10-21 days) schedule may be an alternative to the conventional 6-month protocols.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Indication for treatment includes all HBsAgpositive patients. Vaccination and the addition of hepatitis B immune globulin can be considered in this setting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Antiviral treatment should be started with the beginning of IST. Tenofovir or entecavir are the drugs of choice. The treatment should be continued 1 year after withdrawal of IST, longer in recipients with cGVHD and patients exposed to depleting Ab.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Assessment of liver fibrosis in HCV-RNApositive recipients is recommended, as close monitoring is essential in patients with known underlying fibrosis. Liver fibrosis is a risk factor for SOS/VOD and drug toxicity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The risk of acute flare-ups is higher in patients on rituximab-containing treatment regimens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Cirrhosis and a worse outcome have been clearly documented after HSCT.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Close monitoring of LFT and HCV-RNA is recommended in infected patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "A HCV-RNA-positive donor could be considered, if other donor options are considered inferior. In this case, the donor should be rapidly evaluated by a hepatologist, and treatment with directly acting antivirals should be considered.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "The presence of HCV-RNA positive in the recipient does not constitute a contraindication for HSCT, but antiviral therapy should be considered if it is possible to postpone the HSCT to allow completion of a treatment course.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Antiviral treatment should be considered for all HCV-RNA-positive hematological patients, once the hematological disease has been brought under control. This should be done in consultation with an expert hepatologist.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "HEV exists in at least four different subtypes that can spread either through water, undercooked food, or blood transfusions. The main source of spread varies between different parts of the world with infected water being the most common route in resource-poor areas. In other areas the most common route of spread is via undercooked food produced from infected animals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "HEV infection in HSCT recipients is usually mildly symptomatic although acute hepatitis with jaundice has been reported and also fatal infections in pregnant women.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The probably more important clinical picture in HSCT recipients is chronic hepatitis since rapid progression to cirrhosis has been reported in IS patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Serology to detect previously infected patients or PCR to detect acute or chronic infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "None available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Ribavirin has been suggested as a treatment for chronic infection based on case reports and small case series. However, no controlled data exists.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "Noroviruses are the most common cause of foodborne disease and acute nonbacterial gastroenteritis worldwide.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Its prevalence was 2% in adults and up to 22% among pediatric transplant recipients with diarrhea, requiring hospitalization in 55% and ICU admission in 27%. Recurrence rate 29%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Risk factors: second HSCT, intestinal GVHD, children.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Norovirus can cause severe, prolonged disease complicated by enteritis, fever, recurrent hospitalizations for dehydration, chronic diarrhea, acute renal failure, weight loss, malnutrition, pneumatosis intestinalis, peritonitis, secondary bacteremia, and death.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Viral RNA by RT-PCT in the stool.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Non-pharmacological prophylaxis is mandatory: strict isolation and hygiene measures in patients shedding the virus are absolutely necessary to prevent horizontal transmission and nosocomial outbreaks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Symptomatic. Some reports indicate oral human immunoglobulin therapy. Specific therapies are not available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment"
+        },
+        {
+            "text": "ZIKV infection is transmitted mainly by Aedes aegypti mosquitoes, sexual contact, or blood transfusion. It is typically a mild, asymptomatic disease in the general population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "The disease is a self-limiting febrile illness lasting 4-7 days. Infection can be followed by neurological consequences including Guillain-Barre syndromes and microcephaly or other congenital neurological syndromes after vertical transmission from an infected mother to her fetus during pregnancy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical Symptoms"
+        },
+        {
+            "text": "Direct detection of ZIKV-RNA or specific viral antigens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostics"
+        },
+        {
+            "text": "Blood, tissues, and cells should not be imported from areas of ZIKV transmission or should be tested negative for the presence of ZIKV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Donor diagnosed with ZIKV infection or who has just returned from an affected area should be deferred for at least 28 days after cessation of symptoms. The deferral should be at least 3 months after sexual contact with person at risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prophylaxis"
+        },
+        {
+            "text": "\u2022 Epidemiology: Latent (especially CMV), endemic (especially CARV), and hepatotropic viruses are the main problem in patients after HSCT \u2022 Diagnosis: Viral diagnostics after HSCT require qPCR or multiplex PCR \u2022 Prophylaxis and treatment: Prophylaxis (pharmacological or environmental) or preemptive treatment is necessary. All patients after HSCT should undergo vaccinations according to current recommendations \u2022 Outcome: Viral infections contribute to non-relapse mortality after HSCT",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Key Points"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "European guidelines for prevention and management of influenza in hematopoietic stem cell transplantation and leukemia patients: summary of ECIL-4",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Engelhard",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mohty",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De La Camara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Transpl Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "219--251",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "ECIL-4): guidelines for diagnosis and treatment of human respiratory syncytial virus, parainfluenza virus, metapneumovirus, rhinovirus, and coronavirus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hirsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Martino",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boeckh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Einsele",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ljungman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Fourth European Conference on Infections in Leukaemia",
+            "volume": "56",
+            "issn": "",
+            "pages": "258--66",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "CMV and HHV6 update",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ljungman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De La Camara",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Crocchiolo",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Management of viral hepatitis in patients with haematological malignancy and in patients undergoing haemopoietic stem cell transplantation",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mallet",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van B\u00f6mmel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Doerig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "recommendations of the 5th European Conference on Infections in Leukaemia (ECIL-5)",
+            "volume": "16",
+            "issn": "",
+            "pages": "606--623",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "European guidelines for diagnosis and treatment of adenovirus infection in leukemia and stem cell transplantation: summary of ECIL-4",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matthes-Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Feuchtinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Transpl Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "555--63",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Management of HSV",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Styczynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Reusser",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Einsele",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "VZV and EBV infections in patients with hematological malignancies and after SCT: guidelines from the Second European Conference on Infections in Leukemia",
+            "volume": "43",
+            "issn": "",
+            "pages": "757--70",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "No report on Zika virus infection in EBMT registry: Infectious Diseases Working Party statement",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Styczynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hoek",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Knelange",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Bone Marrow Transplant",
+            "volume": "52",
+            "issn": "",
+            "pages": "1345--1351",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Viral disease prevention after hematopoietic cell transplantation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zaia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Baden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Boeckh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Bone Marrow Transplant",
+            "volume": "44",
+            "issn": "",
+            "pages": "471--82",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

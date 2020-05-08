@@ -1,0 +1,1182 @@
+{
+    "paper_id": "6b4ecf5007f65703ebf6d5705809aa3a8d6ff123",
+    "metadata": {
+        "title": "Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection",
+        "authors": [
+            {
+                "first": "Emmie",
+                "middle": [],
+                "last": "De Wit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Friederike",
+                "middle": [],
+                "last": "Feldmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jacqueline",
+                "middle": [],
+                "last": "Cronin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Robert",
+                "middle": [],
+                "last": "Jordan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Atsushi",
+                "middle": [],
+                "last": "Okumura",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "postCode": "10032",
+                        "settlement": "New York",
+                        "region": "NY"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tina",
+                "middle": [],
+                "last": "Thomas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dana",
+                "middle": [],
+                "last": "Scott",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tomas",
+                "middle": [],
+                "last": "Cihlar",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Heinz",
+                "middle": [],
+                "last": "Feldmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "NIH",
+                    "location": {
+                        "postCode": "59840",
+                        "settlement": "Hamilton",
+                        "region": "MT"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The continued emergence of Middle East Respiratory Syndrome (MERS) cases with a high case fatality rate stresses the need for the availability of effective antiviral treatments. Remdesivir (GS-5734) effectively inhibited MERS coronavirus (MERS-CoV) replication in vitro, and showed efficacy against Severe Acute Respiratory Syndrome (SARS)-CoV in a mouse model. Here, we tested the efficacy of prophylactic and therapeutic remdesivir treatment in a nonhuman primate model of MERS-CoV infection, the rhesus macaque. Prophylactic remdesivir treatment initiated 24 h prior to inoculation completely prevented MERS-CoV\u2212induced clinical disease, strongly inhibited MERS-CoV replication in respiratory tissues, and prevented the formation of lung lesions. Therapeutic remdesivir treatment initiated 12 h postinoculation also provided a clear clinical benefit, with a reduction in clinical signs, reduced virus replication in the lungs, and decreased presence and severity of lung lesions. The data presented here support testing of the efficacy of remdesivir treatment in the context of a MERS clinical trial. It may also be considered for a wider range of coronaviruses, including the currently emerging novel coronavirus 2019-nCoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "MERS-CoV | antiviral | animal model | remdesivir | therapy",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The continued emergence of Middle East Respiratory Syndrome (MERS) cases with a high case fatality rate stresses the need for the availability of effective antiviral treatments. Remdesivir (GS-5734) effectively inhibited MERS coronavirus (MERS-CoV) replication in vitro, and showed efficacy against Severe Acute Respiratory Syndrome (SARS)-CoV in a mouse model. Here, we tested the efficacy of prophylactic and therapeutic remdesivir treatment in a nonhuman primate model of MERS-CoV infection, the rhesus macaque. Prophylactic remdesivir treatment initiated 24 h prior to inoculation completely prevented MERS-CoV\u2212induced clinical disease, strongly inhibited MERS-CoV replication in respiratory tissues, and prevented the formation of lung lesions. Therapeutic remdesivir treatment initiated 12 h postinoculation also provided a clear clinical benefit, with a reduction in clinical signs, reduced virus replication in the lungs, and decreased presence and severity of lung lesions. The data presented here support testing of the efficacy of remdesivir treatment in the context of a MERS clinical trial. It may also be considered for a wider range of coronaviruses, including the currently emerging novel coronavirus 2019-nCoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "MERS-CoV | antiviral | animal model | remdesivir | therapy S ince its discovery in 2012, cases of Middle East Respiratory Syndrome coronavirus (MERS-CoV) have continued to emerge, with the current case count close to 2,500 cases, and a case fatality rate \u223c35% (1). This continuous emergence of MERS-CoV infections in Saudi Arabia and its ability to spread through humanto-human transmission has prompted the World Health Organization to include MERS on their list of emerging diseases likely to cause major epidemics and for which countermeasures are urgently needed (2) . Through the Coalition for Epidemic Preparedness Innovations, MERS-CoV vaccines are going to advance through preclinical and clinical trials (3), but, despite the urgent need, a similar initiative does not exist for the development and clinical testing of antivirals effective against MERS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 567,
+                    "end": 570,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Remdesivir (GS-5734) is a nucleotide prodrug that has broad antiviral activity against viruses from different families in vitro (4) , and therapeutic efficacy in nonhuman primate models of lethal Ebola virus and Nipah virus infection (5, 6) . Studies in human airway epithelial cells showed that remdesivir also inhibits replication of a wide range of coronaviruses, including MERS-CoV (7) . Efficacy studies in mice showed that remdesivir had therapeutic efficacy against Severe Acute Respiratory Syndrome (SARS)-CoV and MERS-CoV in Ces1c \u2212/\u2212 mice, deficient in a secreted carboxylesterase responsible for poor pharmacokinetics profile of remdesivir in mice, when administered before the peak of virus replication (7, 8) . In vitro studies with mouse hepatitis virus showed that remdesivir inhibits coronavirus replication through interference with the viral polymerase, despite the presence of a viral proofreading exoribonuclease (9) . Importantly, coronaviruses partially resistant to inhibition by remdesivir, obtained in vitro following >20 passages in the presence of GS-441524, a parent nucleoside that is metabolized into the same active triphosphate metabolite, were still sensitive to higher concentrations of remdesivir, and fitness was impaired in the resistant viruses as compared to wild-type MERS-CoV (9) . With these promising data in mind, we tested the prophylactic and therapeutic efficacy of remdesivir treatment in a nonhuman primate model of MERS-CoV infection, the rhesus macaque (10) .",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 131,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 234,
+                    "end": 237,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 238,
+                    "end": 240,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 386,
+                    "end": 389,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 715,
+                    "end": 718,
+                    "text": "(7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 719,
+                    "end": 721,
+                    "text": "8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 933,
+                    "end": 936,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1317,
+                    "end": 1320,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1504,
+                    "end": 1508,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "and Therapeutic Treatment. To assess the efficacy of remdesivir to alleviate clinical signs of MERS-CoV infection, 18 rhesus macaques were randomly assigned to three groups of six animals. Three animals in the control group were treated with 1 mL/kg vehicle solution 24 h before MERS-CoV inoculation, and three animals were treated at 12 h post MERS-CoV inoculation. Another group of six rhesus macaques was treated prophylactically 24 h before MERS-CoV inoculation with 5 mg/kg remdesivir, and one group of six animals was treated therapeutically at 12 h postinoculation with MERS-CoV with 5 mg/kg remdesivir. Treatment",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Remdesivir Reduces Clinical Signs in Rhesus Macaques upon Prophylactic"
+        },
+        {
+            "text": "Middle East Respiratory Syndrome, caused by the MERS coronavirus (MERS-CoV), continues to cause severe respiratory disease with a high case fatality rate. To date, potential antiviral treatments for MERS-CoV have shown limited efficacy in animal studies. Here, we tested the efficacy of the broad-acting antiviral remdesivir in the rhesus macaque model of MERS-CoV infection. Remdesivir reduced the severity of disease, virus replication, and damage to the lungs when administered either before or after animals were infected with MERS-CoV. Our data show that remdesivir is a promising antiviral treatment against MERS that could be considered for implementation in clinical trials. It may also have utility for related coronaviruses such as the novel coronavirus 2019-nCoV emerging from Wuhan, China. Data deposition: All data discussed here will be made available to readers upon request. 1 To whom correspondence may be addressed. Email was continued once daily until 6 d postinoculation (dpi), when animals were euthanized and necropsied (Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 891,
+                    "end": 892,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 934,
+                    "end": 939,
+                    "text": "Email",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1042,
+                    "end": 1049,
+                    "text": "(Fig. 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Significance"
+        },
+        {
+            "text": "After inoculation with MERS-CoV on day 0, all animals were closely observed for signs of disease, and clinical scores were assigned according to a previously determined scoring sheet. All vehicle-treated animals displayed signs of disease, starting as early as 1 dpi, such as decreased appetite and ruffled fur; all vehicle-treated animals had respiratory signs such as increased respiration for 4 (n = 1) or 5 (n = 5) d after inoculation. The animals treated prophylactically with remdesivir did not show any respiratory signs of disease, but decreased appetite, possibly due to daily anesthesia, was noted in five of six animals. The animals treated therapeutically with remdesivir all displayed reduced appetites, and five out of six animals had increased respiration rates at 2 (n = 2), 3 (n = 2), or 4 (n = 1) d after inoculation. These observations are reflected in the clinical scores of the animals, with clinical scores in the prophylactically treated animals being statistically significantly lower than in vehicletreated control animals at 2 to 6 dpi, and in the therapeutically treated animals at 2 to 4 dpi ( Fig. 2A) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1122,
+                    "end": 1130,
+                    "text": "Fig. 2A)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Significance"
+        },
+        {
+            "text": "On days 0, 1, 3, 5, and 6, clinical examinations were performed on the animals, and respiration rates were determined on anesthetized animals. There was a clear increase in respiration rates in the vehicle-treated animals ( Fig. 2B ), while respiration rates in prophylactically treated animals remained normal throughout the study. Although respiration rate was increased in therapeutically treated animals at 1 dpi, respiration was statistically significantly lower than in vehicle-treated controls at 3 and 6 dpi (Fig. 2B ). On examination days, radiographs were collected from all animals and analyzed for the presence of infiltrates; from 3 dpi onward, lung infiltrates became visible on X-ray (SI Appendix, Fig. S1 ). At 6 dpi, there was statistically significantly less infiltration in the lungs of animals treated both prophylactically and therapeutically with remdesivir as compared to vehicle-treated control animals (Fig. 2C ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 224,
+                    "end": 231,
+                    "text": "Fig. 2B",
+                    "ref_id": null
+                },
+                {
+                    "start": 516,
+                    "end": 524,
+                    "text": "(Fig. 2B",
+                    "ref_id": null
+                },
+                {
+                    "start": 713,
+                    "end": 720,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 927,
+                    "end": 935,
+                    "text": "(Fig. 2C",
+                    "ref_id": null
+                }
+            ],
+            "section": "Significance"
+        },
+        {
+            "text": "At 6 dpi, all animals were euthanized, and respiratory tissues were collected for quantitative analysis of the levels of viral RNA by qRT-PCR. Compared to vehicle-treated control animals, prophylactic remdesivir treatment resulted in significantly lower levels of MERS-CoV replication in the lungs, with lung viral loads 2.5 to 4 logs lower in each lung lobe (Fig. 3A) . Although lung viral loads were, on average, lower in individual lung lobes after therapeutic treatment, this was statistically significant in only a few lung lobes, due to larger variation between animals in the therapeutically treated group (Fig. 3A) . However, when all lung lobes were combined, the lung viral load in therapeutically treated animals was clearly lower than in vehicle-treated animals (Fig. 3B ). Additionally, viral loads were significantly lower in trachea, bronchi, tonsils, and mediastinal lymph nodes of animals treated prophylactically and therapeutically with remdesivir than in vehicle-treated control animals ( Fig. 3C and SI Appendix, Fig. S2 ); viral RNA was not detected in kidney tissue samples (SI Appendix, Fig. S2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 359,
+                    "end": 368,
+                    "text": "(Fig. 3A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 613,
+                    "end": 622,
+                    "text": "(Fig. 3A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 774,
+                    "end": 782,
+                    "text": "(Fig. 3B",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1009,
+                    "end": 1016,
+                    "text": "Fig. 3C",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1034,
+                    "end": 1041,
+                    "text": "Fig. S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1111,
+                    "end": 1118,
+                    "text": "Fig. S2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reduced MERS-CoV Viral Lung Loads in Remdesivir-Treated Animals."
+        },
+        {
+            "text": "Treatment. Upon necropsy, the area of each lung lobe affected by gross lesions was estimated by a board-certified veterinary pathologist. Gross lung lesions were present in several lung lobes of all of the vehicle-treated control animals (Fig. 4A ). In contrast, gross lung lesions were completely absent in the lungs of animals that received prophylactic remdesivir treatment. In animals treated therapeutically with remdesivir, there were obvious gross lesions present in five out of six animals; however, the total area of lungs affected by gross lesions was statistically significantly smaller than in vehicle-treated control animals (Fig. 4A ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 238,
+                    "end": 246,
+                    "text": "(Fig. 4A",
+                    "ref_id": null
+                },
+                {
+                    "start": 638,
+                    "end": 646,
+                    "text": "(Fig. 4A",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reduced Gross and Histologic Lung Lesions upon Remdesivir"
+        },
+        {
+            "text": "In addition, the severity of histologic lung lesions was assessed by assigning a score for each lung lobe. The resulting cumulative lung histology score was compared between treatment groups to assess differences in the severity of histologic lesions. Cumulative lung histology scores were significantly lower in animals treated prophylactically with remdesivir (Fig. 4B) . The large variation between animals in the therapeutically treated group meant that the lower average histology score did not reach statistical significance (Fig. 4B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 362,
+                    "end": 371,
+                    "text": "(Fig. 4B)",
+                    "ref_id": null
+                },
+                {
+                    "start": 531,
+                    "end": 540,
+                    "text": "(Fig. 4B)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reduced Gross and Histologic Lung Lesions upon Remdesivir"
+        },
+        {
+            "text": "Histologically, all of the vehicle-treated control animals developed some degree of pulmonary pathology when inoculated with MERS-CoV. Lesions were multifocal, frequently centered on terminal bronchioles, and consisted of minimal to marked, interstitial pneumonia, characterized by thickening of alveolar septae by edema fluid and fibrin and small to moderate numbers of macrophages and fewer neutrophils. Alveoli contained moderate numbers of pulmonary macrophages and neutrophils. In areas with moderate to marked changes, there was abundant alveolar edema and fibrin with multifocal formation of hyaline membranes, as well as abundant type II pneumocyte hyperplasia. Perivascular infiltrates of inflammatory cells multifocally within and adjacent to affected areas of the lung were also observed (Fig. 4C ). In contrast, all animals treated prophylactically with remdesivir had essentially normal pulmonary tissue with no evidence of coronavirus infection (Fig.  4C ). Animals treated with remdesivir therapeutically demonstrated various levels of severity of coronaviral pneumonia. In two out of six animals, no histologic evidence of pneumonia was detected. In three animals, multifocal, minimal to moderate interstitial pneumonia was observed like that described for the control animals; however, the lesions were less severe than in the controls and not as widely distributed throughout the lung lobes. Only one out of six animals had moderate interstitial pneumonia that was indistinguishable from the vehicle-treated control animals in severity and distribution.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 799,
+                    "end": 807,
+                    "text": "(Fig. 4C",
+                    "ref_id": null
+                },
+                {
+                    "start": 959,
+                    "end": 968,
+                    "text": "(Fig.  4C",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reduced Gross and Histologic Lung Lesions upon Remdesivir"
+        },
+        {
+            "text": "Immunohistochemical analysis for the presence of MERS-CoV antigen showed small numbers of antigen-positive type I pneumocytes in all vehicle-treated control animals and in five out of six animals treated therapeutically with remdesivir; there was no difference in number or distribution of antigen-positive cells in animals where antigen was detected. MERS-CoV antigen could not be detected in any of the animals treated prophylactically with remdesivir (Fig. 4D ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 454,
+                    "end": 462,
+                    "text": "(Fig. 4D",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reduced Gross and Histologic Lung Lesions upon Remdesivir"
+        },
+        {
+            "text": "Prophylactic remdesivir treatment prevented MERS-CoV\u2212induced clinical disease and lung lesions in rhesus macaques inoculated with MERS-CoV, and strongly inhibited MERS-CoV replication in respiratory tissues. Since nosocomial transmission accounts for approximately one-third of MERS-CoV cases (11) , prophylactic remdesivir treatment of patients, contacts of patients, and healthcare personnel with high-risk exposure to a diagnosed MERS patient and at high risk of developing severe MERS due to underlying conditions (12) could be considered. Therapeutic remdesivir treatment also provided a clear clinical benefit, with a reduction in clinical signs and virus replication, and the absence of lung lesions in two out of six remdesivir-treated animals and a reduction in lesion severity in three additional animals. Absence of histologic lung lesions, as seen in two out of the six animals with therapeutic remdesivir treatment, has so far rarely been observed in studies testing the efficacy of MERS-CoV antivirals in nonhuman primate models (13) (14) (15) (16) ; it has only been shown once before in one out of three common marmosets treated with hyperimmune plasma at 6 h after inoculation (17) . Thus, although it is hard to compare different studies due to the fact that different species were used and treatment was initiated at different time points after inoculation, remdesivir appears to be one of the most promising antiviral treatments tested in a nonhuman primate model to date.",
+            "cite_spans": [
+                {
+                    "start": 293,
+                    "end": 297,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1043,
+                    "end": 1047,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1048,
+                    "end": 1052,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1053,
+                    "end": 1057,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1058,
+                    "end": 1062,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1194,
+                    "end": 1198,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Therapeutic remdesivir treatment was administered at 12 h after inoculation with MERS-CoV, and, although this may seem relatively early after inoculation, it is close to the peak of MERS-CoV replication in the rhesus macaque model (10) . A drug that inhibits virus replication may be of little use once virus replication has reached its peak, as was shown in vitro (9) . However, in a considerable number of severe cases of MERS, viral RNA and infectious virus can still be detected in respiratory tract samples several weeks after the onset of symptoms (18, 19) , with this prolonged virus replication most likely due to the presence of underlying conditions such as diabetes mellitus (18) . Likewise, an increase in virus replication over a longer period of time was observed in immunocompromised rhesus macaques (20) . Thus, remdesivir treatment could not only be of benefit to patients diagnosed with MERS early after symptom onset but may also improve recovery in those patients with severe cases of MERS where prolonged virus replication occurs.",
+            "cite_spans": [
+                {
+                    "start": 231,
+                    "end": 235,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 365,
+                    "end": 368,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 554,
+                    "end": 558,
+                    "text": "(18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 559,
+                    "end": 562,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 686,
+                    "end": 690,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 815,
+                    "end": 819,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Human safety data are available for remdesivir. It has been used on a compassionate basis in several unique cases of Ebola virus disease (21, 22) , as well as on a large scale in the ongoing Ebola virus outbreak in the Democratic Republic of Congo (23), with around 400 treated patients. In addition, its efficacy is currently being tested in a clinical trial in Ebola virus disease survivors with prolonged virus shedding (24, 25) . Although the efficacy of remdesivir was lower in the Ebola virus trial than that of the different antibody treatments tested, survival was increased as compared to overall survival rate in this outbreak.",
+            "cite_spans": [
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "(21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 142,
+                    "end": 145,
+                    "text": "22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 423,
+                    "end": 427,
+                    "text": "(24,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 428,
+                    "end": 431,
+                    "text": "25)",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Taken together, the data presented here on the efficacy of remdesivir in prophylactic and therapeutic treatment regimens, the difficulty of coronaviruses to acquire resistance to remdesivir (9) , and the availability of human safety data warrant testing of the efficacy of remdesivir treatment in the context of a MERS clinical trial. Our results, together with replication inhibition by Fig. 2 . Clinical findings in rhesus macaques inoculated with MERS-CoV and treated with remdesivir. Three groups of six rhesus macaques were inoculated with MERS-CoV strain HCoV-EMC/2012; one group was i.v.-administered 1 mL/kg vehicle solution (vehicle control; gray circles), one group was administered 5 mg/kg remdesivir starting at 24 h before inoculation (prophylactic remdesivir; black squares), and one group was administered 5 mg/kg remdesivir starting at 12 h after inoculation (therapeutic remdesivir; red triangles). After inoculation, the animals were observed twice daily for clinical signs of disease and scored using a predetermined clinical scoring system (A). On 0, 1, 3, 5 and 6 dpi, clinical examinations were performed during which respiration rate was determined (B), and radiographs were taken. Radiographs were used to score individual lung lobes for severity of pulmonary infiltrates by a clinical veterinarian according to a standard scoring system (0: normal; 1: mild interstitial pulmonary infiltrates; 2: moderate pulmonary infiltrates perhaps with partial cardiac border effacement and small areas of pulmonary consolidation; 3: serious interstitial infiltrates, alveolar patterns and air bronchograms); the cumulative X-ray score is the sum of the scores of the six individual lung lobes per animal; scores shown are from 6 dpi (C). Asterisks indicate statistically significant difference in a two-way (A and B) or one-way (C) ANOVA with Dunnett's multiple comparisons; black asterisks indicate statistical significance between the vehicle control and prophylactic remdesivir groups, and red asterisks indicate statistical significance between the vehicle control and therapeutic remdesivir groups. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001. ",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 193,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 388,
+                    "end": 394,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Ethics and Biosafety Statement. All animal experiments were approved by the Institutional Animal Care and Use Committee of Rocky Mountain Laboratories, NIH and carried out by certified staff in an Association for Assessment and Accreditation of Laboratory Animal Care International accredited facility, according to the institution's guidelines for animal use, and followed the guidelines and basic principles in the United States Public Health Service Policy on Humane Care and Use of Laboratory Animals, and the Guide for the Care and Use of Laboratory Animals. Rhesus macaques were housed in adjacent individual primate cages allowing social interactions, in a climate-controlled room with a fixed light\u2212dark cycle (12-h light/12-h dark). Animals were monitored at least twice daily throughout the experiment. Commercial monkey chow, treats, and fruit were provided twice daily by trained personnel. Water was available ad libitum. Environmental enrichment consisted of a variety of human interaction, commercial toys, videos, and music. The Institutional Biosafety Committee (IBC) approved work with infectious MERS-CoV strains under BSL3 conditions. Sample inactivation was performed according to IBC-approved standard operating procedures for removal of specimens from high containment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Study Design. To evaluate the effect of remdesivir treatment on MERS-CoV disease outcome, we used the rhesus macaque model of MERS-CoV infection that results in transient lower respiratory tract disease (10) . Rhesus macaques were chosen because of the requirement of daily anesthesia and intravenous (i.v.) injections that were perceived to be problematic in the alternative nonhuman primate model of MERS-CoV infection, the common marmoset (27), due to their small size. All animals were randomly assigned to groups and inoculated as described previously with a total dose of 7 \u00d7 10 6 TCID50 of MERS-CoV strain HCoV-EMC/2012 via intranasal, oral, ocular (1 \u00d7 10 6 TCID50 each), and intratracheal (4 \u00d7 10 6 TCID50) routes (10) . In the first experiment, the efficacy of prophylactic remdesivir treatment was tested in one group of six rhesus macaques (all males; female rhesus macaques were not available from the supplier at the time of this study) treated with 5 mg/kg remdesivir in vehicle solution (5 mg/mL 12% sulfobutylether-\u03b2-cyclodextrin in water and hydrochloric acid, pH3.5) and three control rhesus macaques (all males) who received the same volume (1 mL/kg) of vehicle solution. This 5 mg/kg dosing in rhesus macaques is roughly equivalent to the 100-mg daily dosing used in humans in the Ebola virus clinical trials. Treatment was initiated at 24 h before virus inoculation and continued once daily until 6 dpi. After observing good efficacy of remdesivir upon prophylactic treatment, a second experiment was performed to assess its therapeutic efficacy. One group of six rhesus macaques (all males) was treated with 5 mg/kg remdesivir, and three control rhesus macaques (all males) received the same volume of vehicle solution. Due to the acute nature of the MERS-CoV model in rhesus macaques, therapeutic treatment was initiated at 12 h after inoculation with MERS-CoV and continued once daily until 6 dpi. Treatment was delivered as a slow i.v. bolus injection (total dose delivered over \u223c5 min) administered alternatingly in the left or right cephalic and saphenous veins. The animals were observed twice daily for clinical signs of disease, using a standardized scoring sheet as described previously (28); the same person, who was blinded to the group assignment of the animals, assessed the animals throughout the study. The predetermined endpoint for this experiment was 6 dpi. Clinical examinations were performed at 0, 1, 3, 5, and 6 dpi on anesthetized animals. On examination days, clinical parameters such as body weight and respiration rate were collected, as well as dorsal\u2212ventral and lateral chest radiographs. Chest radiographs were analyzed by a board-certified clinical veterinarian blinded to the group assignment of the animals. After euthanasia at 6 dpi, necropsies were performed. The percentage of gross lung lesions were scored by a board-certified veterinary pathologist blinded to the group assignment of the animals, and samples of the following tissues were collected: conjunctiva, nasal mucosa, mandibular lymph node, tonsil, pharynx, trachea, all six lung lobes, mediastinal lymph node, liver, spleen, kidney, and bladder. Histopathological analysis of tissue slides was performed by a board-certified veterinary pathologist blinded to the group assignment of the animals. -administered 1 mL/kg vehicle solution (vehicle control; gray circles), one group was administered 5 mg/kg remdesivir starting at 24 h before inoculation (prophylactic remdesivir; black squares), and one group was administered 5 mg/kg remdesivir starting at 12 h after inoculation (therapeutic remdesivir; red triangles). Treatment was continued once daily until 6 dpi, when all animals were euthanized and necropsies were performed. At necropsy, tissue samples were collected from all six lung lobes, RNA was extracted, and viral load was determined as TCID50 equivalents per gram tissue. Individual animals and lung lobes are indicated (A), and averages and SDs per group (B). Similarly, viral loads were determined in additional tissues from the respiratory tract of each animal (C). R: right; L: left. Asterisks indicate statistically significant differences in a two-way ANOVA with Dunnett's multiple comparisons. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 207,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 723,
+                    "end": 727,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "qPCR. Tissues (30 mg) were homogenized in RLT buffer, and RNA was extracted using the RNeasy kit (Qiagen) according to the manufacturer's instructions. For detection of viral RNA, 5 \u03bcL of RNA was used in a one-step real-time RT-PCR upE assay (29) using the Rotor-Gene probe kit (Qiagen) according to instructions of the manufacturer. In each run, standard dilutions of a titered virus stock were run in parallel, to calculate TCID50 equivalents in the samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Histopathology and Immunohistochemistry. Histopathology and immunohistochemistry were performed on rhesus macaque tissues. After fixation for 7 d in 10% neutral-buffered formalin and embedding in paraffin, tissue sections were stained with hematoxylin and eosin (H&E). To detect HCoV-EMC/2012 antigen, immunohistochemistry was performed using an in-house rabbit polyclonal antiserum against HCoV-EMC/2012 (1:1,000) as a primary antibody. Stained slides were analyzed by a board-certified veterinary pathologist blinded to the group assignment of the animals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Statistical Analysis. Statistical analyses were performed using GraphPad Prism software version 7.04. For analysis, the three vehicle control animals from the first and second experiment were combined to form one group of six animals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Data Availability Statement. All data discussed here will be made available to readers upon request. Fig. 4 . Pathological findings in the lungs of rhesus macaques inoculated with MERS-CoV and treated with remdesivir. Three groups of six rhesus macaques were inoculated with MERS-CoV strain HCoV-EMC/2012; one group was i.v.-administered 1 mL/kg vehicle solution (vehicle control; gray circles), one group was administered 5 mg/kg remdesivir starting at 24 h before inoculation (prophylactic remdesivir; black squares), and one group was administered 5 mg/kg remdesivir starting at 12 h after inoculation (therapeutic remdesivir; red triangles). Treatment was continued once daily until 6 dpi, when all animals were euthanized and necropsies were performed. At necropsy, the percentage of each lung lobe affected by gross lesions was estimated by a board-certified veterinary pathologist (A). Lung samples were collected and stained with H&E and analyzed for the presence of lesions by a board-certified veterinary pathologist. Each lung was given a score from 0 to 4 based on the abundance of lesions; the cumulative histology score is the sum of the scores of the six individual lung lobes per animal (B). One representative H&E image was chosen for each group (magnification: 100\u00d7) (C). Lung samples were also stained with a polyclonal \u03b1-MERS-CoV antibody; one representative image was chosen for each group (magnification: 200\u00d7) (D). Images in C and D were chosen as representative images of lung lesions and antigen expression, respectively, rather than being images from consecutive tissue slides. Asterisks indicate statistically significant differences in a two-way ANOVA with Dunnett's multiple comparisons. **P < 0.01; ****P < 0.0001.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 101,
+                    "end": 107,
+                    "text": "Fig. 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Materials and Methods"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization, Coronavirus infections",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A roadmap for MERS-CoV research and product development: Report from a World Health Organization consultation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Modjarrad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat. Med",
+            "volume": "22",
+            "issn": "",
+            "pages": "701--705",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "CEPI-a new global R&D organisation for epidemic preparedness and response",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brende",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Lancet",
+            "volume": "389",
+            "issn": "",
+            "pages": "233--235",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "GS-5734 and its parent nucleoside analog inhibit Filo-, Pneumo-, and Paramyxoviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci. Rep",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in rhesus monkeys",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Warren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nature",
+            "volume": "531",
+            "issn": "",
+            "pages": "381--385",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Remdesivir (GS-5734) protects African green monkeys from Nipah virus challenge",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sci. Transl. Med",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci. Transl. Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat. Commun",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Coronavirus susceptibility to the antiviral remdesivir (GS-5734) is mediated by the viral polymerase and the proofreading exoribonuclease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Agostini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "MBio",
+            "volume": "9",
+            "issn": "",
+            "pages": "221--239",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) causes transient lower respiratory tract infection in rhesus macaques",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "110",
+            "issn": "",
+            "pages": "16598--16603",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Middle East respiratory syndrome coronavirus: Risk factors and determinants of primary, household, and nosocomial transmission",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Lancet Infect. Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "217--227",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Epidemiological, demographic, and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: A descriptive study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect. Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "752--761",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Treatment with lopinavir/ritonavir or interferon-\u03b21b improves outcome of MERS-CoV infection in a nonhuman primate model of common marmoset",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Infect. Dis",
+            "volume": "212",
+            "issn": "",
+            "pages": "1904--1913",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Human neutralizing monoclonal antibody inhibition of Middle East respiratory syndrome coronavirus replication in the common marmoset",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Infect. Dis",
+            "volume": "215",
+            "issn": "",
+            "pages": "1807--1815",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Prophylactic and therapeutic efficacy of mAb treatment against MERS-CoV in common marmosets",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Antiviral Res",
+            "volume": "156",
+            "issn": "",
+            "pages": "64--71",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Treatment with interferon-\u03b12b and ribavirin improves outcome in MERS-CoV-infected rhesus macaques",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat. Med",
+            "volume": "19",
+            "issn": "",
+            "pages": "1313--1317",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Efficacy of antibody-based therapies against Middle East respiratory syndrome coronavirus (MERS-CoV) in common marmosets",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Antiviral Res",
+            "volume": "143",
+            "issn": "",
+            "pages": "30--37",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Middle East respiratory syndrome coronavirus infection dynamics and antibody responses among clinically diverse patients, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Al-Abdely",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "25",
+            "issn": "",
+            "pages": "753--766",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Environmental contamination and viral shedding in MERS patients during MERS-CoV outbreak in South Korea",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Bin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Clin. Infect. Dis",
+            "volume": "62",
+            "issn": "",
+            "pages": "755--760",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Pathogenicity and viral shedding of MERS-CoV in immunocompromised rhesus macaques",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Prescott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front. Immunol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "First newborn baby to receive experimental therapies survives Ebola virus disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "D\u00f6rnemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Infect. Dis",
+            "volume": "215",
+            "issn": "",
+            "pages": "171--174",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Late Ebola virus relapse causing meningoencephalitis: A case report",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "498--503",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "PALM Writing Group; PALM Consortium Study Team, A randomized, controlled trial of Ebola virus disease therapeutics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mulangu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "381",
+            "issn": "",
+            "pages": "2293--2303",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "GS-5734 to assess the antiviral activity, long-term clearance of Ebola virus and safety in male Ebola survivors with evidence of Ebola virus persistence in semen",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Clinicaltrials",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Investigational therapeutics for the treatment of people with Ebola virus disease",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Clinicaltrials",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Infection with MERS-CoV causes lethal pneumonia in the common marmoset",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS Pathog",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Thoracic radiography as a refinement methodology for the study of H1N1 influenza in cynomologus macaques (Macaca fascicularis)",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brining",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Comp. Med",
+            "volume": "60",
+            "issn": "",
+            "pages": "389--395",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Detection of a novel human coronavirus by real-time reversetranscription polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro. Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Author contributions: E.d.W., R.J., and H.F. designed research; E.d.W., F.F., J.C., A.O., T.T., and D.S. performed research; T.C. contributed new reagents/analytic tools; E.d.W., A.O., and D.S. analyzed data; E.d.W. and H.F. wrote the paper; and F.F., J.C., R.J., A.O., T.T., D.S., and T.C. read and approved the manuscript. Competing interest statement: The authors affiliated with Gilead Sciences are employees of the company and may own company stock; R.J. holds a patent on the use of remdesivir to treat Filovirus infections. The authors affiliated with NIH have no conflict of interest to report. This article is a PNAS Direct Submission. This open access article is distributed under Creative Commons Attribution License 4.0 (CC BY).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Study outline. To test the prophylactic and therapeutic efficacy of remdesivir treatment in the rhesus macaque model of MERS-CoV infection, three groups of six rhesus macaques were inoculated with MERS-CoV strain HCoV-EMC/2012; one group was administered 5 mg/kg remdesivir starting at 24 h before inoculation (black circles), and one group was administered 5 mg/kg remdesivir starting at 12 h after inoculation (red circles). One group of six control animals was i.v.-administered 1 mL/kg vehicle solution, with three animals receiving vehicle solution according to the prophylactic treatment schedule, and three animals receiving it according to the therapeutic treatment schedule. Treatment was continued once daily until 6 dpi, when all animals were euthanized. At 0, 1, 3, 5, and 6 dpi, clinical examinations were performed to monitor the health status of the animals.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "de Wit et al. PNAS | March 24, 2020 | vol. 117 | no. 12 | 6773 remdesivir of a wide range of coronaviruses in vitro and in vivo (7), may further indicate utility of remdesivir against the novel coronavirus 2019-nCoV emerging from Wuhan, China (26).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Viral loads in respiratory tract tissues of rhesus macaques inoculated with MERS-CoV and treated with remdesivir. Three groups of six rhesus macaques were inoculated with MERS-CoV strain HCoV-EMC/2012; one group was i.v.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ": Emmie.deWit@nih.gov. This article contains supporting information online at https://www.pnas.org/lookup/suppl/ doi:10.1073/pnas.1922083117/-/DCSupplemental. www.pnas.org/cgi/doi/10.1073/pnas.1922083117",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Virus and Cells. HCoV-EMC/2012 (Vero passage 6) was kindly provided by the Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands, and propagated once in VeroE6 cells in Dulbecco's modified Eagle's medium (DMEM) (Sigma) supplemented with 2% fetal calf serum (FCS) (Logan), 1 mM L-glutamine (Lonza), 50 U/mL penicillin, and 50 \u03bcg/mL streptomycin (Gibco) (virus isolation medium). Next-generation sequencing of our MERS-CoV inoculum revealed that there was a deletion in ORF5 in a small percentage of sequences (\u223c10%). VeroE6 cells were maintained in DMEM supplemented with 10% FCS, 1 mM L-glutamine, 50 U/mL penicillin, and 50 \u03bcg/mL streptomycin.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,3122 @@
+{
+    "paper_id": "11cf6b6e850c012a4e3aae6b61d213f261e968ab",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Abdullah",
+                "middle": [
+                    "I A"
+                ],
+                "last": "Al-Mubarak",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "King Faisal University",
+                    "location": {
+                        "settlement": "Hofuf",
+                        "country": "Saudi Arabia"
+                    }
+                },
+                "email": "aialmubark@kfu.edu.sa"
+            },
+            {
+                "first": "Anwar",
+                "middle": [
+                    "A G"
+                ],
+                "last": "Al-Kubati",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "King Saud University",
+                    "location": {
+                        "country": "Saudi Arabia"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Avian infectious bronchitis virus (IBV) is an evolving and dynamic virus that causes major economic losses for the poultry industry worldwide. Continuous evolution and emergence of new variants of this virus are the major challenges for controlling the disease with routine vaccination. Successful vaccination usually requires the use of a homologous vaccine, which in turn necessitates continuous investigation of the circulating strains. Herein, we performed a reverse transcriptase-polymerase chain reaction-(RT-PCR-) based investigation in broiler chicken flocks of the Eastern Region of Saudi Arabia. IBV was detected in 36.5% of the tested flocks (42 out of 115) from January 2012 to March 2014. Direct sequencing of hypervariable region-3 (HVR-3) of the Spike (S)-1 gene was performed, followed by phylogenetic analysis to determine the circulating IBV genotypes. Four lineages appear to coexist in this region, including the GI-13 or 4/91 IBV (31%), GI-16 or CK/CH/LDL/97I IBV (28.6%), GI-1 or Mass IBV (19%), and GI-23 or Middle East IBV (21.4%). e latter lineage include two subgroups: IS/720/99 IBV (16.7%) and IS/ Variant2/98 IBV (4.7%). Some of the detections made in the 4/91 and Mass lineages are expected to belong to the vaccine strains. Lineages without a homologous vaccine in use (CK/CH/LDL/97I and Middle East) represent 50% of the isolates recovered in this study. Based on identity with the vaccine sequences, field observations, and frequent detection, these two lineages appear to be out of coverage of the IBV vaccines used in Saudi Arabia. is is the first time to identify Middle East lineage (IS/720/99 IBV and IS/ Variant2/98 IBV) in the Eastern Region of Saudi Arabia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Infectious bronchitis (IB) is an acute highly contagious respiratory disease of chickens (Gallus gallus domesticus) that is present in virtually all regions with an intensive poultry industry. In addition to respiratory involvement, IB may also affect the urogenital and/or alimentary tracts. IB causes significant economic losses by adversely affecting weight gain and the quality and quantity of produced eggs as well as predisposing birds to secondary infections [1] . e causative agent, infectious bronchitis virus (IBV), belongs to group III Coronaviruses of family Coronaviridae. IBV is an enveloped virus with a single-stranded positivesense RNA genome of approximately 27.6 kb. Four structural proteins (spike (S), envelope (E), membrane (M), and nucleocapsid (N)) were reported to be encoded by the IBV genome [2] . e glycosylated S protein is posttranslationally cleaved by cellular proteases into S1, which forms the spike bulb, and S2, which anchors S1 to the virion membrane. e S1 and S2 subunits have been shown to mediate viral attachment and membrane fusion, respectively. Virus neutralizing epitopes are located in the first and third quarters of the S1 glycoprotein [2, 3] . ree hypervariable regions (HVR)-1, 2, and 3 were reported to be located in the S1 subunit between amino acids 38 to 67, 91 to 141, and 274 to 387, respectively [4] . Genetic variability of these HVRs due to mutations and/or recombination was incriminated in the continuous emergence of new IBV serotypes/genotypes [5] . In this regard, substitution of 10 to 15 amino acids (2-3%) in the S1 subunit has been shown to result in generation of a new serotype [6] .",
+            "cite_spans": [
+                {
+                    "start": 466,
+                    "end": 469,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 819,
+                    "end": 822,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1184,
+                    "end": 1187,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1188,
+                    "end": 1190,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1353,
+                    "end": 1356,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1507,
+                    "end": 1510,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1566,
+                    "end": 1572,
+                    "text": "(2-3%)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1648,
+                    "end": 1651,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Large numbers of IBV serotypes have been reported worldwide, some of which remain restricted to particular geographic areas, whereas others tend to spread over the majority of the world [5, 7] . Vaccination is the primary measure used to control IBV infection, but caution must be taken when choosing a vaccine strain(s) that should be homologous with the circulating IBV serotype(s). Vaccination-challenge studies have shown that protection by heterologous vaccines ranges between very poor to moderate depending on the criteria used. Poor cross protection may be induced by as little as a 5% difference in the S1 amino acid sequence, while most IBV serotypes differ from each other by 20-25% and up to 50% [6] . Accordingly, S1 nucleotide sequence similarity and genotyping approaches have been used successfully to predict cross-protection and circulating serotypes, with some exceptions [8, 9] . Recently, IBV was genotyped based on S1 sequences into 6 major genotypes (Genotype I (GI) to GVI] containing 32 lineages [10] .",
+            "cite_spans": [
+                {
+                    "start": 186,
+                    "end": 189,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 190,
+                    "end": 192,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 708,
+                    "end": 711,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 891,
+                    "end": 894,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 895,
+                    "end": 897,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1021,
+                    "end": 1025,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Few reports have evaluated IBV infection in Saudi Arabia. IBV infection in this region extends back to 1984 when Zwaagstra and others reported an IBV isolate without specifying its serotype [11] . e 4/91 IBV serotype (GI-13 lineage) was detected in Saudi Arabia in 2000 [12] . Vaccine strains belonging to this serotype and the Mass serotype (GI-1 lineage), such as H120 and Ma5, are in use to control IB occurrence; however, IB still occurs due to the CH/CK/LDL/ 97I (GI-16) lineage, the Middle East (GI-23) lineage (IS/720/ 99 and IS/Variant2/98), and D274 (GI-12) lineage [13, 14] . Strains similar to those circulating in Egypt, India, China, and Italy have also been reported in the Eastern Region of Saudi Arabia [15] . In the present study, we report the IBV lineages circulating in 115 broiler chicken flocks in the Eastern Region of Saudi Arabia. e reaction was performed using the previously published primers N784, N1145, N791, and N1129 [17] , which were obtained from Integrated DNA Technologies (IDT, Coralville, IA, USA) and presented in Table 1 . e nested PCR reactions were performed using the Go Taq \u00ae Green Master Mix (Cat #M7122, Promega) in a final volume of 25 \u03bcl containing the primers at a final concentration of 0.8 \u03bcM with 2 \u03bcl of the template cDNA. e Bio-Rad T-100 ermal Cycler was used to perform an amplification reaction that consisted of 94\u00b0C for 5 minutes and 35 cycles of 94\u00b0C for 45 seconds, 60\u00b0C for 1 minute, and 72\u00b0C for 2 minutes, followed by a final extension step of 72\u00b0C for 7 minutes. A similar thermal profile was used for the second round of the nested PCR except that the annealing step was performed at 53\u00b0C for 1 minute and the extension step lasted for 1 minute and 10 minutes for the cyclic and final extension steps, respectively. e second-round PCR products were separated on a 1.5% agarose gel in Tris-Borate-EDTA (TBE) buffer. Red Safe (Cat #21141, iNtRON Biotechnology) was used as a DNA stain. Positive samples were subjected to the S1 gene PCR.",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 194,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 270,
+                    "end": 274,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 575,
+                    "end": 579,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 580,
+                    "end": 583,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 949,
+                    "end": 953,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1053,
+                    "end": 1060,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "2.5. S1 Gene PCR. For sequencing purposes, another nested PCR targeting HVR-3 of the IBV-S1 gene was performed. We used previously published primers, including SX1, SX2, SX3, and SX4 [18] , which were obtained from Integrated DNA Technologies (IDT, Coralville, IA) and presented in ",
+            "cite_spans": [
+                {
+                    "start": 183,
+                    "end": 187,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Isolation. e isolation protocol described by Gelb and Jackwood [19] was performed to propagate the virus in embryonated Specific Pathogen Free (SPF) eggs (Nile SPF, Egypt). Isolation was attempted from samples ( Table 2 ) that gave positive results in the N gene PCR but turned either negative or weakly positive in the S1 gene PCR. Before inoculation, homogenized tissue samples were centrifuged at 1000 \u00d7g for 10 minutes. e centrifugation-derived supernatant was passed through a 0.2 \u03bcm sterile nylon syringe filter ( ermo Scientific, Nalgene \u00ae , Cat #195-2520, USA). A 200 \u03bcl volume of filtrated liquid was inoculated into the allantoic cavity in 10-day-old embryonated eggs. Forty-eight hours postinoculation, inoculated eggs were placed at 4\u00b0C overnight. Allantoic fluids (AFs) were collected and used as inocula, at a rate of 100 \u03bcl/egg, for additional two passages. AFs collected from the third passage were retested by RT-PCR.",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 67,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 212,
+                    "end": 219,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "2.6."
+        },
+        {
+            "text": "e sequence analysis was performed using the Molecular Evolutionary Genetic Analysis (MEGA) version X software [20] . Sequences were aligned using the Clustal W method. e aligned sequences were trimmed to a length of 327 nt. (from nt. 718 to 1044 based on the 793/B S1 gene sequence (GB#Z83979)). A phylogenetic tree was constructed using the maximum likelihood method with bootstrap values of 1000 replicates. Twenty-nine IBV reference sequences were included ( Figure 1 ). e overall mean distance was used as an indicator of sequence divergence for the Saudi isolates and was shown as the number of different bases per sequence from averaged overall sequence pairs. Sequence identity was calculated using the BioEdit version 7.1.7 software [21] . A BLAST search was performed for all sequences to determine the most related sequence in GenBank.",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 114,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 741,
+                    "end": 745,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 462,
+                    "end": 470,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Sequence Analysis."
+        },
+        {
+            "text": "Vaccination histories for the flocks in which IBV was detected are presented in Table 2 . Regarding the 13 flocks in which 4/91 IBV was detected, four flocks received only the 4/91 vaccine, one flock received both the Mass and 4/91 vaccines, and four flocks received only the Mass vaccine twice. Histories were not available for the other four flocks. For the 12 flocks in which the CK/CH/LDL/97I IBV was detected, eight flocks received the Mass vaccine either once (n \ufffd 5) or twice (n \ufffd 3), one flock received the 4/ 91 vaccine once, and histories were not available for the additional three flocks. In the 8 flocks that were positive for the Mass IBV, five flocks received the Mass vaccine, and histories were not available for the other three flocks. Concerning the seven flocks positive for the IS/720/99 IBV, 2 flocks received the H120 vaccine and one received the 4/91 vaccine; histories were not available for the other 4 flocks. Finally, the two flocks in which IS/Variant2/98 was detected had received the Mass vaccine.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 80,
+                    "end": 87,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Vaccination History."
+        },
+        {
+            "text": "e methods used in this study could not definitely determine the fraction contributed by the vaccine viruses; however, removal of sequences with 100% nucleotide identity to the reference vaccine sequences was used only as a guide, as previously reported by [14, 18, 22] . Comparisons were performed with the two Mass vaccines (H120 and Ma5) and with the 4/91 vaccine.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 260,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 261,
+                    "end": 264,
+                    "text": "18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 265,
+                    "end": 268,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Differentiation between Field and Vaccine Viruses."
+        },
+        {
+            "text": "e sequences of the 42 IBV isolates from the present study have been deposited in the GenBank database with accession numbers MH648687 to MH648727 and MH449644, as shown in Figure 1 and Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 172,
+                    "end": 180,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 185,
+                    "end": 192,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "GenBank Accession Numbers."
+        },
+        {
+            "text": "During the study period, tissue samples were collected from 115 broiler flocks in the Eastern Region of Saudi Arabia. Samples from forty-two e Izovac CHB vaccine contains IBV Mass (H120 and BNF 28/86) and NDV clone. H120 (GB#M21970) showed complete nucleotide identity throughout the S1 gene with 28/86 strains (GB#AY846750). A Samples for which isolation in embryonated SPF eggs were performed. B Identities based on sequenced part of the S1 gene. ND: data were not available. 4 Veterinary Medicine International flocks (36.52%) were positive for IBV in the N and S1 genes RT-PCRs (Table 2 ) either directly or after isolation in SPF eggs. Isolation were performed for 7 samples including SA/ IH1/12, SA/IH5/12, SA/IH11/13, SA/IH19/13, SA/IH21/13, SA/IC8/13, and SA/IC15/13. Phylogenetic analysis based on partial S1 gene sequences of these forty-two Saudi isolates and twenty-nine reference sequences showed segregation of these isolates into four lineages (Figure 1 and Supplementary Veterinary Medicine International 5 91-like sequences showed that the 4/91 strain (GB#AF093794) was the most similar sequence, with identities ranging between 96.9% and 100% over the sequenced region of the S1 gene. Sequences of this lineage showed an overall mean distance of 3.000 \u00b1 0.720 nucleotides and an average nucleotide identity of 99.5% with the 4/ 91 vaccine (Table 3) .",
+            "cite_spans": [
+                {
+                    "start": 478,
+                    "end": 479,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 582,
+                    "end": 590,
+                    "text": "(Table 2",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 959,
+                    "end": 968,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1357,
+                    "end": 1366,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Detection Rate and Genotyping."
+        },
+        {
+            "text": "Lineage. e second lineage included twelve sequences that clustered around the CK/ CH/LDL/97I, CK/CH/SCYA/101, Q1, and J2 reference sequences. A BLAST search for CK/CH/LDL/97I-like sequences showed that Chinese Q1 was the most similar sequence, with nucleotide identities ranging between 99.0% and 100% over the sequenced part of the S1 gene. e overall mean distance was 0.667 \u00b1 0.316 nucleotides. e average nucleotide identity of these sequences with the IBV vaccines was 79.5% with the H120 and Ma5 vaccines and 81.7% with the 4/91 vaccine (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 541,
+                    "end": 550,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "GI-16 or CK/CH/LDL/97I"
+        },
+        {
+            "text": "Eight Saudi sequences were included in this lineage together with the Mass serotype strains, including the H120, Ma5, M41, Beaudette, and Connecticut reference sequences. A BLAST search for Masslike sequences revealed H120 as the most similar sequence, with identities ranging between 97.8% and 100% over the sequenced part of the S1 gene. e overall mean distance of this group was 2.000 \u00b1 0.674 nucleotides.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "GI-1 or Mass Lineage."
+        },
+        {
+            "text": "e presented sequences showed a 99.7% average nucleotide identity with the H120 and Ma5 vaccines (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 96,
+                    "end": 105,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "GI-1 or Mass Lineage."
+        },
+        {
+            "text": "e fourth lineage included nine Saudi isolates and further subdivided into two subgroups: IS/720/00 IBV and IS/Variant2/98 IBV. IS/720/ 99 IBV included seven Saudi isolates that were assembled around the Middle East Sul/01/09, IR/59/2010, IS/885/00, and IS/720/99 reference sequences. A BLAST search for IS/ 720/99-like sequences revealed that IR/IS720/H140/11 was the most related sequence, with identities ranging between 97.8% and 99.3% over the sequenced region of the S1 gene. e overall mean distance for these sequences was 4.952 \u00b1 1.463 nucleotides, and their nucleotide identities were on average 81.9% with both the Mass vaccines and the 4/91 vaccine (Table 3 ). In the other subgroup, IS/Variant2/98 IBV, only two Saudi sequences were located with the IS/ Variant2/98 and IS/1494/06 reference sequences. A BLAST search for the IS/Variant2/98-like sequences showed that IS/ 1494/06 was the most similar sequence, with identities ranging between 97.8% and 100% over the sequenced part of the S1 gene. e overall mean distance was 7.000 \u00b1 2.552 nucleotides. e average nucleotide identity was 82.2% with the Mass vaccines and 83.0% with the 4/91 vaccine (Table 3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 659,
+                    "end": 667,
+                    "text": "(Table 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1158,
+                    "end": 1167,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "GI-23 or Middle East Lineage."
+        },
+        {
+            "text": "At least two types of IBV vaccines (Mass and 4/91) are in use in Saudi Arabia. Hence, isolates in these two lineages could belong to vaccine viruses. We compared the partial S1-gene sequences of isolates in these lineages with those of the relevant vaccines. Nine out of the 13 sequences in 4/91 lineage and 6 out of the 8 sequences in Mass lineage showed complete nucleotide identities with corresponding vaccine sequences over the sequenced part of S1 gene (Table 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 459,
+                    "end": 467,
+                    "text": "(Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Field and Vaccine Viruses."
+        },
+        {
+            "text": "e present investigation documents the IBV lineages circulating in broiler chicken flocks of the Eastern Region of Saudi Arabia during the period from January 2012 to March 2014. For IBV detection, we used a validated and highly sensitive nested PCR that targeted the conserved part of the N gene and was used frequently in other studies [13, 17, 23, 24] .",
+            "cite_spans": [
+                {
+                    "start": 337,
+                    "end": 341,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 342,
+                    "end": 345,
+                    "text": "17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 346,
+                    "end": 349,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 350,
+                    "end": 353,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the current work, IBV was detected in 36.5% of the tested flocks. A slightly higher detection rate (42.7%) was reported in Riyadh between October 2009 and May 2010 [25] . Caution should be taken in interpreting these results because samples were collected only from flocks showing signs of respiratory illness. Similar investigations revealed detection rates as high as 74% in south Iraq [26] , 64% in Egypt [27] , 60% in Jordan [28] , 59% in western Europe [18] , 52% in Iran [29] , 37.5% in eastern Iran [30] , 34% in Russia [22] , and 32% in middle-south Iraq [31] . Testing flocks regardless of their clinical picture are expected to reveal lower detection rates as previously reported by Chen and others [32] . Furthermore, vaccine isolates represent a fraction of this percentage.",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 391,
+                    "end": 395,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 411,
+                    "end": 415,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 432,
+                    "end": 436,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 461,
+                    "end": 465,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 480,
+                    "end": 484,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 530,
+                    "end": 534,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 566,
+                    "end": 570,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 712,
+                    "end": 716,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Comparison of sequences of the present Saudi isolates with those of the IBV vaccines revealed that six and nine isolates from the Mass and 4/91 lineages, respectively, had vaccine-identical sequences ( Table 2) . Comparable vaccine detection rates were reported in other RT-PCR-based investigations, where vaccines represented approximately half or more of the total detections made in the vaccines lineages [14, 18, 22] . If the vaccine-identical sequences were removed, the CK/CH/LDL/97I lineage would become the dominant lineage in the Eastern Region of Saudi Arabia.",
+            "cite_spans": [
+                {
+                    "start": 408,
+                    "end": 412,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 413,
+                    "end": 416,
+                    "text": "18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 417,
+                    "end": 420,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 202,
+                    "end": 210,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In Saudi Arabia, the CK/CH/LDL/97I (GI-16) lineage was first reported in Riyadh in 2009-2010 [25] . en, this strain was reported in 2011 in Saudi Arabia, Jordan, and Iraq by Ababneh and colleagues [13] . In the present study, the CK/CH/LDL/97I lineage was detected at a rate of 28.6% (12/ 42) between January 2012 and March 2014 in the Eastern Region of Saudi Arabia. A detection rate of 17% for this lineage was reported from Saudi Arabia during an overlapping period from 2009 to 2014 [14] . Conversely, this strain was either absent or had a low prevalence rate in surrounding countries because it was not detected in studies in Egypt, Lebanon, Jordan, Kuwait, the United Arab Emirate (UAE) and Oman [14, 33] , Iraq [26, 31] , and Iran [29, 30] .",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 97,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 197,
+                    "end": 201,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 487,
+                    "end": 491,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 703,
+                    "end": 707,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 708,
+                    "end": 711,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 724,
+                    "end": 727,
+                    "text": "31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 739,
+                    "end": 743,
+                    "text": "[29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 744,
+                    "end": 747,
+                    "text": "30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our data showed that 8 of the 12 flocks in which the CK/ CH/LDL/97I lineage was detected received only the Mass vaccine and that one received only the 4/91 vaccine; histories were not available for the remaining three flocks. is finding was not surprising because the original CK/CH/ LDL/97I strain was isolated from an H120-vaccinated flock. Likewise, a vaccination-challenge experiment showed that 6 Veterinary Medicine International heterologous vaccines did not provide sufficient protection against CK/CH/LDL/97I IBV. In contrast, complete protection was provided by a homologous vaccine derived from the same type and attenuated by passaging in embryonated hen eggs [34] . In Saudi Arabia, the high prevalence of this lineage in broiler chickens appears to be facilitated by an immunity gap created by use of only heterologous vaccines. A similar scenario was suggested for spread of the IT-02 IBV strain in Spanish 4/91-vaccinated flocks [9] . e 4/91 (G1-13) lineage was first reported in Saudi Arabia in 2000 [12] . In the present investigation, the 4/91 lineage was detected at a rate of 31% in the Eastern Region of Saudi Arabia between 2012 and 2014. Similarly, it was the most prevalent lineage with a detection rate of 43% in Saudi Arabia during the period from 2009 to 2014 [14] and had reported detection rates of 40% and 50% in Iraq [26, 31] , 64% and 81% in Oman, and 85% in the UAE [14, 33] . e 4/91 lineage was also the second most prevalent lineage in Iran (19% and 27%), Egypt (17%), and Lebanon (13%) but was undetectable in Jordan and Kuwait [14, 29, 30] .",
+            "cite_spans": [
+                {
+                    "start": 400,
+                    "end": 401,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 672,
+                    "end": 676,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 945,
+                    "end": 948,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1017,
+                    "end": 1021,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1288,
+                    "end": 1292,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1349,
+                    "end": 1353,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1354,
+                    "end": 1357,
+                    "text": "31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1400,
+                    "end": 1404,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1405,
+                    "end": 1408,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1565,
+                    "end": 1569,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1570,
+                    "end": 1573,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1574,
+                    "end": 1577,
+                    "text": "30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the current study, approximately two-thirds of the 4/ 91 lineage isolates (9 out of 13) showed 100% sequence identity with the 4/91 vaccine virus. ese isolates most likely belong to the vaccine virus. is speculation is supported by the history of recent use of the 4/91 vaccine in 4 out of these 9 flocks. Conversely, four of these nine flocks received only the Mass vaccine, and the vaccination history was not available for the ninth flock. Keeping in mind that approximately 70% of the 4/91-like sequences were vaccineidentical, and this lineage contains some isolates that displayed relatively high sequence divergence (Table 3) . Heavy vaccine application may contribute to such divergence, as previously suggested by Lee and Jackwood [35] . In contrast, the CK/CH/LDL/97I lineage showed the lowest divergence, which could further support our justification of the low immune pressure exerted by the used vaccines on CK/CH/ LDL/97I lineage viruses.",
+            "cite_spans": [
+                {
+                    "start": 743,
+                    "end": 747,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 626,
+                    "end": 635,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "e Mass (GI-1) lineage was detected at a rate of 19% in the present study. A similar rate (17%) was reported by Ganapathy and colleagues (2015) in Saudi Arabia during the 2009-2014 period. A relatively lower prevalence was reported in surrounding countries, including Egypt (8%), Lebanon (4%), the UAE (4%), Iraq (6%), Oman (6% and 3%), and Iran (3%), and it was undetectable in Jordan and Kuwait [14, 26, 29, 33] .",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 142,
+                    "text": "Ganapathy and colleagues (2015)",
+                    "ref_id": null
+                },
+                {
+                    "start": 396,
+                    "end": 400,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 401,
+                    "end": 404,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 405,
+                    "end": 408,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 409,
+                    "end": 412,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Out of the eight isolates recovered for the Mass lineage, six showed vaccine-identical sequences and were likely to belong to the Mass vaccine strain. In favor of this opinion, four out of these six vaccine-identical isolates were obtained from flocks that received the Mass vaccines; histories were not available for the remaining two flocks. On the contrary, two out of the eight Mass isolates showed incomplete identity with Mass vaccines (SA/IH20/13 and SA/IC79/13). SA/IH20/13 showed 99.6% nucleotide identity with the Mass vaccine sequence and was recovered from a Mass-vaccinated flock (Table 2) . Similarly, SA/IH3/12 (4/91-like isolate) showed 99.6% nucleotide identity with the 4/91 vaccine sequence and was recovered from a 4/91-vaccinated flock. Whether these isolates belong to field viruses or to mutant vaccine viruses is not clear. Nucleotide mutations and subsequent amino acid substitutions may affect vaccine protectivity or even lead to vaccine reversion. An escape mutant of the Mass M41 strain was reported to occur due to a single nucleotide mutation at position 134, leading to an amino acid change at position 45 of HVR-1 of the S1 gene [36] .",
+            "cite_spans": [
+                {
+                    "start": 1162,
+                    "end": 1166,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 593,
+                    "end": 602,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the current study, the IS/720/99 IBV of the Middle East (GI-23) lineage was detected in 7 flocks (16.7%) in the Eastern Region of Saudi Arabia during the period from 2012 to 2014. is subdivision was first reported in Saudi Arabia in 2010 by Ganapathy and others and up to 2014 was detected in 11% of IBV-positive samples [14] . In the present study, all seven isolates were recovered in 2013 (Table 2) . Similarly, most of the detections by Ganapathy and colleagues were made in 2013, whereas this virus was almost undetectable in 2011 and 2012 [14] . is difference in the detection rate may reflect the time of introduction and ongoing spread of this genotype inside the country. e IS/ 720/99 IBV was shown to have a low prevalence in Oman (3%) and was not detected in Jordan, Lebanon, Kuwait, the UAE, Iraq, and Iran. In contrast, IS/720/99 IBV was the most prevalent (71%) in Egypt [14, 26, [29] [30] [31] 33] .",
+            "cite_spans": [
+                {
+                    "start": 324,
+                    "end": 328,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 548,
+                    "end": 552,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 888,
+                    "end": 892,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 893,
+                    "end": 896,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 897,
+                    "end": 901,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 902,
+                    "end": 906,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 907,
+                    "end": 911,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 912,
+                    "end": 915,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 395,
+                    "end": 404,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Vaccination histories were available for 3 of the 7 flocks in which the IS/720/99 IBV was detected. Two flocks received the Mass vaccine, and one flock received the 4/91 Table 3 : e proportions of the detected lineages, range of identity with the most related sequence in GenBank, and relatedness with the used vaccines based on homology over the sequenced part of S1 gene.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 170,
+                    "end": 177,
+                    "text": "Table 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Lineages [10] GI-13 ( Veterinary Medicine International vaccine. A vaccination-challenge experiment showed that the H120 vaccine provided little protection against IS/720/99 [37] . Over the sequenced region in the present study, genetic relatedness between the IS/720/99-like isolates and the Ma5 or 4/91 vaccines was not better than that with H120. erefore, we can rationally expect poor cross-protection with these heterologous vaccines. e other subdivision of the Middle East (GI-23) lineage detected in this study was the IS/Variant2/98 IBV. Our data showed that the IS/Variant2/98 IBV had the lowest prevalence (4.7%) in Eastern Region of Saudi Arabia. From 2009 to 2014, a prevalence of 11% was reported in Saudi Arabia and 4% in Egypt, and the strain was not detected in the UAE [14] . Similarly, variable prevalence rates of 21% and 3% were reported in Oman during overlapping periods from 2009 to 2014 and during 2012, respectively [14, 33] . In contrast, this strain was reported to be the most prevalent in the neighboring north countries, including prevalence rates of 100% in Jordan and Kuwait; 82% in Lebanon; 67%, 70%, and 75% in Iran; and 47% in Iraq [14, [29] [30] [31] 38] . e two isolates within the IS/Variant2/98 subdivision reported in this study were recovered from two Mass-vaccinated broiler flocks. Based on reported field observations of H120-vaccinated flocks [39] and sequence similarity of the detected isolates with available vaccines (Mass and 4/91), which showed \u226483% sequence identity (Table 3) , these vaccines seem unlikely to be able to provide protection against IS/variant2-like strains.",
+            "cite_spans": [
+                {
+                    "start": 9,
+                    "end": 13,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 20,
+                    "end": 21,
+                    "text": "(",
+                    "ref_id": null
+                },
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 786,
+                    "end": 790,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 941,
+                    "end": 945,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 946,
+                    "end": 949,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1167,
+                    "end": 1171,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1172,
+                    "end": 1176,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1177,
+                    "end": 1181,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1182,
+                    "end": 1186,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1187,
+                    "end": 1190,
+                    "text": "38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1388,
+                    "end": 1392,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1519,
+                    "end": 1528,
+                    "text": "(Table 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "As stated above, considerable variation existed between the detection rates reported from different countries and even from the same countries, for example, the difference in the detection rates of 4/91 lineage in Saudi Arabia reported by this study and Ganapathy and others (2015) and the above mentioned difference in the detection rates of IS/Variant2/ 98 IBV in Oman. Likewise, other lineages were reported in surrounding countries but not in Saudi Arabia or vice versa; for example, the QX (or GI- 19) lineage was detected at rates of 7% and 8% in Iran and 9% in Iraq [29] [30] [31] . Similarly, Ganapathy and colleagues (2015) detected the D274 (or GI-12) lineage at a frequency of once out of 236 samples during the period from 2009 to 2014, whereas we did not detect this lineage at the Eastern Region of Saudi Arabia during the period from 2012 to 2014. Similarly, the CK/CH/LDL/97I lineage was prevalent in Saudi Arabia but not in surrounding countries. Several factors may contribute to this inconsistency, including but not limited to the following: (1) differences in the sampled population, such as those that arise from sampling different birds (broilers, layers, breeders etc.);",
+            "cite_spans": [
+                {
+                    "start": 503,
+                    "end": 506,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 573,
+                    "end": 577,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 578,
+                    "end": 582,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 583,
+                    "end": 587,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "(2) serotype(s) of the used vaccines, frequency of their application, and the protection they provide against the circulating genotypes; (3) the effect of migratory birds and localization of the sampled flocks on the migration route [40, 41] ; (4) applied biosecurity measures; and (5) exchange of poultry products between countries and regions [13] . Additionally, testing different tissues would also contribute to variation in the detection rates. IBV vaccine and field viruses, or their genome/antigen, were detected in variety of tissues [42] [43] [44] and reported to persist in some viscera, particularly cecal tonsils [18, [45] [46] [47] [48] . Consequently, testing the latter tissue would increase the detection rate on the one hand and increase the fraction contributed by vaccine viruses, on the other hand, as previously speculated by Callison and others [49] .",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 237,
+                    "text": "[40,",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 238,
+                    "end": 241,
+                    "text": "41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 345,
+                    "end": 349,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 543,
+                    "end": 547,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 548,
+                    "end": 552,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 553,
+                    "end": 557,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 626,
+                    "end": 630,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 631,
+                    "end": 635,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 636,
+                    "end": 640,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 641,
+                    "end": 645,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 646,
+                    "end": 650,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 868,
+                    "end": 872,
+                    "text": "[49]",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the present study, IBV genotyping was performed by direct sequencing of amplicon produced by nested RT-PCR that targets the HVR-3 of the S1 gene [18] . Since being introduced, this method has been frequently used for IBV genotyping [14, 29, [50] [51] [52] . Advantages and disadvantages of full and partial sequencing of IBV-S1 gene was previously reported [53] . According to the phylogenetic analysis of the partial (HVR-3) S1 gene sequences published by Valastro et al. [10] , all of the lineages involved in the present study (G1-1, -13, -16, and -23) formed distinct and well-supported clusters (Shimodaira-Hasegawa-like test support values of \u22650.93). Indeed, Valastro et al. specify 8 lineages (GI-5, -7, -10, -18, -22, -24, -25, and -27) that loss their unity in phylogeny when using the partial 342 nt. encoding the HVR3 [10] . However, the main limitation of the current work is the partial sequence of the S1 gene that was used for phylogenetic analysis. Full S1 gene sequence would provide more accurate analysis especially for differentiation between field and vaccine viruses.",
+            "cite_spans": [
+                {
+                    "start": 148,
+                    "end": 152,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 235,
+                    "end": 239,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 240,
+                    "end": 243,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 244,
+                    "end": 248,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 249,
+                    "end": 253,
+                    "text": "[51]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 254,
+                    "end": 258,
+                    "text": "[52]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "[53]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 476,
+                    "end": 480,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 832,
+                    "end": 836,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, our data show that IB is a prevalent disease in broiler chicken flocks of the Eastern Region of Saudi Arabia. Four IBV lineages were found to cocirculate in this region. Half of the detected isolates belong to two of these lineages (CK/CH/LDL/97I and Middle East) against which no homologues vaccines are available, and these lineages are expected to keep causing IBV outbreaks and economic losses in the absence of such vaccines. Further studies to elucidate the serotypic, pathotypic, and protectotypic properties of the endemic types are required. Continuous monitoring of the IBV types circulating in Saudi Arabia as well as continuous update of the vaccination strategy seem to be necessary to control IBV infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "e epidemiological data used to support findings of this article are included within the article. e sequence data used to support findings of this article were deposited in GenBank under accession numbers shown in the article. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Availability"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Infectious bronchitis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gelb",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Saif",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fadly",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Glisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcdougald",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Nolan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Diseases of Poultry",
+            "volume": "",
+            "issn": "",
+            "pages": "117--135",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Veterinary Research",
+            "volume": "38",
+            "issn": "2",
+            "pages": "281--297",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Spike glycoprotein cleavage recognition site analysis of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Callison",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-W",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Plaza",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wade",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Diseases",
+            "volume": "45",
+            "issn": "2",
+            "pages": "366--372",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Molecular characterization of avian infectious bronchitis virus strains from outbreaks in Argentina",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rimondi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Craig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vagnozzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "K\u00f6nig",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Delamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pereda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Pathology",
+            "volume": "38",
+            "issn": "2",
+            "pages": "149--153",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Infectious bronchitis virus variants: a review of the history, current situation and control measures",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K A"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M J F"
+                    ],
+                    "last": "Van Der Heijden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Avian Pathology",
+            "volume": "40",
+            "issn": "3",
+            "pages": "223--235",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Severe acute respiratory syndrome vaccine development: experiences of vaccination against avian infectious bronchitis coronavirus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Pathology",
+            "volume": "32",
+            "issn": "6",
+            "pages": "567--582",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ignjatovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sapats",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Revue Scientifique et Technique de l'OIE",
+            "volume": "19",
+            "issn": "2",
+            "pages": "493--508",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Infectious bronchitis virus S1 gene sequence comparison is a better predictor of challenge of immunity in chickens than serotyping by virus neutralization",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ladman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Loupos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gelb",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Avian Pathology",
+            "volume": "35",
+            "issn": "2",
+            "pages": "127--133",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Molecular epidemiology and evolution of avian infectious bronchitis virus in Spain over a fourteen-year period",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dolz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pujols",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ord\u00f3\u00f1ez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Porta",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maj\u00f3",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology",
+            "volume": "374",
+            "issn": "1",
+            "pages": "50--59",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "S1 gene-based phylogeny of infectious bronchitis virus: an attempt to harmonize virus classification",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Valastro",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Infection, Genetics and Evolution",
+            "volume": "39",
+            "issn": "",
+            "pages": "349--364",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Rapid detection and identification of avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zwaagstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Van Der Zeijst",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kusters",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "30",
+            "issn": "1",
+            "pages": "79--84",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Variation in the spike protein of the 793/B type of infectious bronchitis virus, in the field and during alternate passage in chickens and embryonated eggs",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-P",
+                    "middle": [],
+                    "last": "Picault",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gough",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hess",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mawditt",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Avian Pathology",
+            "volume": "34",
+            "issn": "1",
+            "pages": "20--25",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Presence of infectious bronchitis virus strain CK/CH/LDL/ 97I in the Middle East",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dalab",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alsaad",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Al-Zghoul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "ISRN Veterinary Science",
+            "volume": "2012",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Genotypes of infectious bronchitis viruses circulating in the Middle East between",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ganapathy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ball",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Forrester",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virus Research",
+            "volume": "210",
+            "issn": "",
+            "pages": "198--204",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Molecular characterization and phylogenetic analyses of virulent infectious bronchitis viruses isolated from chickens in Eastern Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Hammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H S"
+                    ],
+                    "last": "Daleb",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gonsalves",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "28",
+            "issn": "",
+            "pages": "189--199",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A nomenclature for avian coronavirus isolates and the question of species status",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Pathology",
+            "volume": "30",
+            "issn": "2",
+            "pages": "109--115",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Molecular epizootiology of infectious bronchitis virus in Sweden indicating the involvement of a vaccine strain",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ros",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H M"
+                    ],
+                    "last": "Renstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Baule",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "So\u00f3s",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bel\u00e1k",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Avian Pathology",
+            "volume": "31",
+            "issn": "3",
+            "pages": "229--236",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "A reverse transcriptase-polymerase chain reaction survey of infectious bronchitis virus genotypes in Western Europe from",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Worthington",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J W"
+                    ],
+                    "last": "Currie",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Avian Pathology",
+            "volume": "37",
+            "issn": "3",
+            "pages": "247--257",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A Laboratory Manual for the Isolation and Identification of Avian Pathogens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gelb",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W E"
+                    ],
+                    "last": "Jackwood ; D",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Swayne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Glisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "169--174",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Mega X: molecular evolutionary genetics analysis across computing platforms",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Knyaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Molecular Biology and Evolution",
+            "volume": "35",
+            "issn": "6",
+            "pages": "1547--1549",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/ NT",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nucleic Acids Symposium Series",
+            "volume": "41",
+            "issn": "",
+            "pages": "95--98",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Molecular characterization of infectious bronchitis virus isolates from Russia and neighbouring countries: identification of intertypic recombination in the S1 gene",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ovchinnikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bochkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Shcherbakova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Avian Pathology",
+            "volume": "40",
+            "issn": "5",
+            "pages": "507--514",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Isolation and molecular characterization of Sul/01/09 avian infectious bronchitis virus, indicates the emergence of a new genotype in the Middle East",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Sleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Uthman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Veterinary Microbiology",
+            "volume": "150",
+            "issn": "1-2",
+            "pages": "21--27",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Isolation and molecular characterization of infectious bronchitis virus from recent outbreaks in broiler flocks reveals emergence of novel strain in India",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dhama",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gowthaman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Barathidasan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sukumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Tropical Animal Health and Production",
+            "volume": "44",
+            "issn": "7",
+            "pages": "1791--1795",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Molecular survey and phylogenic analysis of infectious bronchitis virus (IBV) circulating among chicken flocks in Riyadh province, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Al-Hammad",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Al-Afaleq",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H A"
+                    ],
+                    "last": "Mohamed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Animal and Veterinary Advances",
+            "volume": "13",
+            "issn": "",
+            "pages": "1002--1008",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Prevalence of avian infectious bronchitis virus in broiler chicken farms in south of Iraq",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Seger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Langeroudi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Karimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Madadgar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vasfi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marandi",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hashemzadeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Vet Res Forum",
+            "volume": "7",
+            "issn": "4",
+            "pages": "317--321",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Molecular characterization of infectious bronchitis viruses isolated from broiler and layer chicken farms in Egypt during 2012",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Selim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Arafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hussein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "El-Sanousi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "International Journal of Veterinary Science and Medicine",
+            "volume": "1",
+            "issn": "2",
+            "pages": "102--108",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Molecular subtype of infectious bronchitis virus in broiler flocks in Jordan",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Roussan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Totanji",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Khawaldeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Poultry Science",
+            "volume": "87",
+            "issn": "4",
+            "pages": "661--664",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Genotyping of avian infectious bronchitis viruses in Iran (2015-2017) reveals domination of IS-1494 like virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hamadana",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghalyanchilangerodui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hashemzadeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Virus Research",
+            "volume": "240",
+            "issn": "",
+            "pages": "101--106",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Genotyping of infectious bronchitis viruses in the East of Iran",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghalyanchi-Langeroudi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Karimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jannat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Iranian Journal of Virology",
+            "volume": "9",
+            "issn": "2",
+            "pages": "31--35",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Genotyping of infectious bronchitis viruses from broiler farms in Iraq during",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Seger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghalyanchilangeroudi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Karimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Madadgar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Marandi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hashemzadeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Archives of Virology",
+            "volume": "161",
+            "issn": "5",
+            "pages": "1229--1237",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Identification of intertypic recombinant infectious bronchitis viruses from slaughtered chickens",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Poultry Science",
+            "volume": "89",
+            "issn": "3",
+            "pages": "439--446",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Molecular detection of infectious bronchitis and avian metapneumoviruses in Oman backyard poultry",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Al-Shekaili",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baylis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ganapathy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Research in Veterinary Science",
+            "volume": "99",
+            "issn": "",
+            "pages": "46--52",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Evaluation of the protection conferred by commercial vaccines and attenuated heterologous isolates in China against the CK/CH/LDL/97I strain of infectious bronchitis coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Veterinary Journal",
+            "volume": "179",
+            "issn": "1",
+            "pages": "130--136",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Origin and evolution of Georgia 98 (GA98), a new serotype of avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "C.-W",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virus Research",
+            "volume": "80",
+            "issn": "1-2",
+            "pages": "33--39",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Amino acids within hypervariable region 1 of avian coronavirus IBV (Massachusetts serotype) spike glycoprotein are associated with neutralization epitopes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P A"
+                    ],
+                    "last": "Mockett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Virus Research",
+            "volume": "11",
+            "issn": "2",
+            "pages": "141--150",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "S1 gene characteristics and efficacy of vaccination against infectious bronchitis virus field isolates from the United States and Israel",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gelb",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Weisman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ladman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Meir",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Avian Pathology",
+            "volume": "34",
+            "issn": "3",
+            "pages": "194--203",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Molecular characterization of infectious bronchitis viruses isolated from broiler flocks in Bushehr province",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Saadat",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bozorgmehri Fard",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Charkhkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hosseini",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shaikhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Akbarpour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Veterinary Research Forum",
+            "volume": "8",
+            "issn": "",
+            "pages": "195--201",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Presence of IS/1494/06 genotype-related infectious bronchitis virus in breeder and broiler flocks in Turkey",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kahya",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Coven",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Temelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eyigor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Carli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Ankar\u00e4 Universitesi Veteriner Fak\u00fcltesi Dergisi",
+            "volume": "60",
+            "issn": "1",
+            "pages": "27--31",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "A Massachusetts prototype like coronavirus isolated from wild peafowls is pathogenic to chickens",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.-H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-W",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virus Research",
+            "volume": "130",
+            "issn": "1-2",
+            "pages": "121--128",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Genetically diverse coronaviruses in wild bird populations of northern England",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Savage",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Naylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chantrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Emerging Infectious Diseases",
+            "volume": "15",
+            "issn": "",
+            "pages": "1091--1094",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Early pathogenesis in chicks of infection with an enterotropic strain of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ambali",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Avian Diseases",
+            "volume": "34",
+            "issn": "4",
+            "pages": "809--817",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "01; a novel genotype of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abdel-Moneim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Madbouly",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "El-Kady",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Beni Suef Veterinary Medical Journal",
+            "volume": "15",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Comparative dynamic distribution of avian infectious bronchitis virus M41, H120, and SAIBK strains by quantitative real-time RT-PCR in SPF chickens",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Al",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Bioscience, Biotechnology, and Biochemistry",
+            "volume": "76",
+            "issn": "12",
+            "pages": "2255--2260",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Detection of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Avian Pathology",
+            "volume": "29",
+            "issn": "2",
+            "pages": "71--93",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Establishment of persistent avian infectious bronchitis virus infection in antibody-free and antibody-positive chickens",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Naqi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Patalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mondal",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Diseases",
+            "volume": "47",
+            "issn": "3",
+            "pages": "594--601",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Detection of Massachusetts and Arkansas serotypes of infectious bronchitis virus in broilers",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Alvarado",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Villegas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "El-Attrache",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Avian Diseases",
+            "volume": "50",
+            "issn": "2",
+            "pages": "292--297",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Detection the 4/91 strain of infectious bronchitis virus in testicular tissue from experimentally infected rooster by reverse transcription-polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Amjad",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hassan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Arsalan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "African Journal of Agricultural Research",
+            "volume": "4",
+            "issn": "",
+            "pages": "1093--1096",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Development and evaluation of a real-time Taqman RT-PCR assay for the detection of infectious bronchitis virus from infected chickens",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Callison",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilt",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Boynton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Journal of Virological Methods",
+            "volume": "138",
+            "issn": "1-2",
+            "pages": "60--65",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Molecular characterization of infectious bronchitis virus strains isolated from vaccinated flocks in Serbia and their comparison with the isolated strains from neighboring countries",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Vidovi\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "\u0160ekler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Kafkas Universitesi Veteriner Fakultesi Dergisi",
+            "volume": "24",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Genotyping of Avian Infectious Bronchitis Virus in Afghanistan",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sadri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghalyanchilangeroudi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fallah Mehrabadi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "20",
+            "issn": "",
+            "pages": "60--63",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Molecular characterization of pathogenic 4/91-like and QX-like infectious bronchitis virus infecting commercial poultry farms in Indonesia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wibowo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ginting",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Asmara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Veterinary World",
+            "volume": "12",
+            "issn": "2",
+            "pages": "277--287",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Full versus partial S1 gene sequencing of classical and variant avian infectious bronchitis viruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ball",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Manswr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Forrester",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chantrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ganapathy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Proceedings of the 9th International Symposium on Avian Corona-and Pneumoviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "156--161",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Phylogenetic tree showing the relationship between the detected IBV isolates and the reference sequences over the sequenced region of the S1 gene. Reference sequences are tagged with a black square. e GenBank accession numbers are shown in brackets. * CK/CH/ Guangdong/Fengmulang/0901 (GB#GU938441).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "13, SA/IH28/13, SA/IH29/13, SA/IC7/13, and SA/ IC16/13 resembling SA/IH8/12; SA/H21/13, SA/IH22/13, SA/IC3/13, SA/IC24/13, and SA/IC72/13 resembling SA/ IH6/12; SA/H14/13 resembling SA/H10/13; and SA/C8/13 and SA/IC9/13 resembling SA/IC6/13. (Supplementary Materials)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "2.1. Ethical Approval.All experimental procedures and management conditions used in this study were approved by the Ethics Committee at King Faisal University, Saudi Arabia.2.2. Sampling and Nucleic Acid Extraction.e study was conducted between January 2012 and March 2014. Samples were collected from 115 broiler chicken flocks in the Eastern Region (Al-Hassa and Dammam) of Saudi Arabia by visiting broilers farms, broilers slaughterhouse, and the poultry clinic at the Veterinary Teaching Hospital of King Faisal University. Tissue samples, such as trachea, lung, spleen, kidney, and bursa of Fabricius, were collected from birds showing signs of respiratory illness. Although not always successful, attempts were made to collect various organs and a complete history from the sampled flocks. For each flock, each organ was pooled together from all sampled birds. Tissue samples were collected in 10 volumes of phosphatebuffered saline (PBS) containing gentamicin and nystatin (50 \u03bcg of each/ml). e samples were stored at \u221280\u00b0C until being homogenized. Homogenization was performed using the Omni International Ceramic bead kit and the Bio-SpecMini-Beadbeater-16 instrument. For each organ, viral nucleic acids were extracted from homogenized tissues with the IQEasy Plus Viral DNA/RNA Extraction Kit (Cat #17153, iNtRON Biotechnology, South Korea) according to the manufacturer's instructions. e extracted nucleic acids were stored at \u221280\u00b0C until being tested by RT-PCR. e isolates were named according to the Cavanagh nomenclature system[16] that includes the country/sample name/ sampling year.2.3. Synthesis of cDNA.First-strand cDNA synthesis was performed using a Reverse Transcription System (Cat #A3500, Promega, USA) according to the manufacturer's instructions. e reaction was performed in a final volume of 20 \u03bcl containing the following ingredients: 5 mM MgCl 2 , 1x RT buffer, 1 mM of each dNTP, 1 U/\u03bcl of Recombinant RNasin \u00ae Ribonuclease Inhibitor, 0.75 U/\u03bcl of AMV reverse transcriptase, 25 ng/\u03bcl of Random Primers, and 50 ng/\u03bcl of total RNA. e reaction mixture was incubated at 42\u00b0C for 45 minutes, followed by heat inactivation of the enzyme at 95\u00b0C for 5 minutes and 4\u00b0C for 5 minutes. e cDNA was diluted with nuclease-free water to a final volume of 50 \u03bcl and stored at \u221280\u00b0C until being tested by PCR.2.4. N Gene PCR.For diagnostic purposes, a nested PCR targeting the nucleocapsid (N) gene of IBV was carried out.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "A PCR was performed using i-StarMAX II (Cat",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Primers used for IBV detection and sequencing targeting the N and S1 genes, respectively.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Detected IBV lineages in the Eastern Region of Saudi Arabia from 2012 to 2014 and associated sample data.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Supplementary Table 1 : nucleotide identity matrix based on partial S1 gene sequences from seventeen IBV isolates and",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 14,
+                    "end": 21,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Supplementary Materials"
+        }
+    ]
+}

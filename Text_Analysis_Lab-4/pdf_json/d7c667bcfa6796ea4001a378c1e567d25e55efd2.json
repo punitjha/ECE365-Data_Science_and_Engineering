@@ -1,0 +1,3207 @@
+{
+    "paper_id": "d7c667bcfa6796ea4001a378c1e567d25e55efd2",
+    "metadata": {
+        "title": "Association between Angiotensin-Converting Enzyme Inhibitors and Lung Cancer-A Nationwide, Population-Based, Propensity Score-Matched Cohort Study",
+        "authors": [
+            {
+                "first": "Shih-Yi",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cheng-Li",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {},
+                "email": "cclin@mail.cmuh.org.twc.-c.l."
+            },
+            {
+                "first": "Cheng-Chieh",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wu-Huei",
+                "middle": [],
+                "last": "Hsu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chia-Der",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "I.-Kuan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": "ikwang@mail.cmuh.org.twi.-k.w."
+            },
+            {
+                "first": "Chung-Y",
+                "middle": [],
+                "last": "Hsu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chia-Hung",
+                "middle": [],
+                "last": "Kao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "China Medical University",
+                    "location": {
+                        "postCode": "40447",
+                        "settlement": "Taichung",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Direct evidence of lung cancer risk in Asian users of angiotensin-converting enzyme inhibitors (ACEIs) is lacking. Methods: The ACEI cohort comprised 22,384 patients aged \u2265 18 years with a first prescription of ACEI. The comparison angiotensin receptor blocker (ARB) cohort consisted of age-, sex-and comorbidity-matched patients at a ratio of 1:1. The primary outcome was the incidence of lung cancer, which was evaluated using a proportional hazard model. Results: The overall incidence rates of lung cancer in the ACEI and ARB cohorts were 16.6 and 12.2 per 10,000 person-years, respectively. The ACEI cohort had a significantly higher risk of lung cancer than the ARB cohort (adjusted hazard ratio [aHR]. = 1.36; 95% confidence interval [CI]. = 1.11-1.67). Duration-response and dose-response analyses revealed that compared with patients who did not receive ACEIs, patients who received ACEIs for more than 45 days per year (aHR = 1.87; 95% CI = 1.48-2.36) and patients who received more than 540 defined daily doses of ACEIs per year (aHR =1.80; 95% CI = 1.43-2.27) had a significantly higher risk of lung cancer. The cumulative incidence of lung cancer was also significantly higher in the ACEI cohort than in the ARB cohort (log-rank test, p = 0.002). Conclusions: ACEI use is associated with an increased risk of lung cancer compared with ARB use. Patients using ARBs have a significantly lower risk of lung cancer than non-ARB users.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Angiotensin-converting enzyme inhibitors (ACEIs) cause vasodilation by inhibiting the formation of angiotensin II and ACEIs comprise a critical class of antihypertensive medication indicated for heart failure, asymptomatic left ventricular dysfunction, proteinuria, diabetic nephropathy and postmyocardial infarction [1, 2] . Safety concerns regarding the use of ACEIs have been raised, especially their cancer risk [3] [4] [5] . Hicks et al. reported that the use of ACEIs is associated with a 1.14-fold higher risk of lung cancer compared with the use of angiotensin receptor blockers (ARBs) [6] . However, the latest meta-analysis conducted by Bahaj et al. concluded that no significant association exists between ACEI use and the development of lung cancer [7] . Therefore, the association between ACEIs and lung cancer remains unclear [4, [6] [7] [8] [9] [10] . Possible reasons for the discrepancies among these studies might be the baseline bias of other comorbidities, insufficient follow-up, confounding effects of other antihypertensive medications and inadequate selection of the control cohort [4, 6, [9] [10] [11] [12] .",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 320,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 321,
+                    "end": 323,
+                    "text": "2]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 416,
+                    "end": 419,
+                    "text": "[3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 420,
+                    "end": 423,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 424,
+                    "end": 427,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 430,
+                    "end": 442,
+                    "text": "Hicks et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 594,
+                    "end": 597,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 647,
+                    "end": 659,
+                    "text": "Bahaj et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 840,
+                    "end": 843,
+                    "text": "[4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 844,
+                    "end": 847,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 848,
+                    "end": 851,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 852,
+                    "end": 855,
+                    "text": "[8]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 856,
+                    "end": 859,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 860,
+                    "end": 864,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1106,
+                    "end": 1109,
+                    "text": "[4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1110,
+                    "end": 1112,
+                    "text": "6,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1113,
+                    "end": 1116,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1117,
+                    "end": 1121,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1122,
+                    "end": 1126,
+                    "text": "[11]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1127,
+                    "end": 1131,
+                    "text": "[12]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A nationwide propensity score-matched cohort study to reduce baseline bias from comorbidities and other antihypertensive medications is required.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In addition, air pollution has gradually become a global concern and is associated with an increased risk of lung cancer [13, 14] . When determining the hazardous effects of drugs on lung cancer risk in the real-world setting, exposure to air pollutants should be considered a confounding factor. Furthermore, the variant of insertion or deletion in the ACE gene is significantly different between Asian and Caucasian populations [15] . Hicks et al. reported an association between ACEI use and lung cancer but their study participants were mostly Caucasian. Chiang et al. indicated that ACEI and ARB use is not associated with all-cancer risk in the Taiwanese population [16] . However, the results of Chiang et al. cannot be used to establish whether Asian ACEI users have a higher lung cancer risk because that study had a relatively short follow-up period for cancer latency, did not consider other antihypertensive medications and did not specify lung cancer as a study outcome [16] . Direct evidence of lung cancer risk in Asian ACEI users is lacking. Therefore, we combined data from the National Health Insurance Research Database (NHIRD) and Taiwan Air Quality Monitoring Database (TAQMD) to conduct a propensity score-matched cohort study to determine lung cancer risk in Asian ACEI users.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 125,
+                    "text": "[13,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 126,
+                    "end": 129,
+                    "text": "14]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 430,
+                    "end": 434,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 437,
+                    "end": 449,
+                    "text": "Hicks et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 672,
+                    "end": 676,
+                    "text": "[16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 983,
+                    "end": 987,
+                    "text": "[16]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The National Health Insurance (NHI) program of Taiwan was established in 1995 and provides universal coverage to over 99% of the residents of Taiwan. The NHIRD is a comprehensive database that includes information on hospitalization, emergency care and medical visits. We conducted this population-based retrospective cohort study using data from the Longitudinal Health Insurance Database (LHID), a subset constructed from original registration files and original claims data in the NHIRD. The LHID contains the data of one million enrollees randomly sampled individuals from the NHIRD. Diagnoses were coded with International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnostic codes. The NHIRD ensures the encryption of patient information; therefore, informed consent is not required. This study was approved by the Institutional Review Board of China Medical University (CMUH104-REC2-115 ). We also used the TAQMD for obtaining information on the air pollutants PM2.5, PM10 and SO 2 . We combined and stratified the LHID and the TAQMD data by linking the residential areas of enrollees with nearby air quality monitoring stations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Source"
+        },
+        {
+            "text": "We enrolled patients aged older than 20 years from 1 January 2000 to 31 December 2012 and divided them into two cohorts: the ACEI cohort and the ARB cohort. The ACEI cohort consisted of patients prescribed ACEIs for at least 28 days, whereas the ARB cohort consisted of patients prescribed ARB for at least 28 days. The date of first ACEI or ARB use during the study period was defined as the index date. Patients who had cancer (ICD-9-CM codes 140-208) during the study period or who had a history of lung cancer before the index date were excluded from this study. To control for confounding effects, we performed 1:1 propensity score matching between the ACEI and ARB cohorts by the following covariates: age, sex, monthly income, urbanization level; diagnosis of hypertension, diabetes, tuberculosis, alcohol-related disease, chronic obstructive pulmonary disease (COPD), chronic liver disease, hyperlipidemia, asthma, stroke, coronary artery disease and rheumatologic disease; use of medication, including \u03b1-blockers, \u03b2-blockers, potassium-sparing diuretics, thiazides, loop diuretics and calcium channel blockers; and air pollutants. Air pollutant concentrations refer to the daily average concentrations of PM2.5, PM10 and SO 2 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Population"
+        },
+        {
+            "text": "Lung cancer (ICD-9-CM code 162) was defined as the endpoint of this study. All participants were followed-up from the index date until the date of lung cancer diagnosis, withdrawal from the NHI program or December 31, 2013, whichever occurred first.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Population"
+        },
+        {
+            "text": "To estimate the propensity score, a logistic regression model was used, in which ACEI and ARB use status was regressed on the baseline characteristics listed in Table 1 . The distributions of demographic characteristics and clinical comorbidity status were compared between the ACEI and ARB cohorts. Differences were examined using Student's t-test for continuous variables and the chi-square test for categorical variables. The age, PM2.5 \u00b5g/m3 daily average, PM10 \u00b5g/m 3 daily average and SO 2 ppb daily average distribution is not Gaussian/normal distribution. Therefore, we used nonparametric statistics (Mann-Whitney U test) to test age, PM2.5 \u00b5g/m 3 daily average, PM10 \u00b5g/m 3 daily average and SO 2 ppb daily average differences between both cohorts. We classified monthly income and urbanization into three and four levels, respectively. Cox proportional hazard regression was used to estimate the adjusted hazard ratio (aHR) and 95% confidence interval (CI) of lung cancer occurrence and the results were further analyzed according to the various dose-response categories. Covariables listed in the Table 1 were included in a multivariable Cox proportional hazards regression model. We further analyzed the dose-response effect among patients using ACEI or ARB. We calculated the average days, average dose and average DDD (defined daily dosages) of ACEI and ARB per year by dividing the total used days or total prescribed dose by the follow-up period. We classified the patients into two subgroups by median. We measured the cumulative incidence of lung cancer in the ACEI and ARB cohorts using the Kaplan-Meier method and we assessed the curve difference using the log-rank test. SAS version 9.4 (SAS Institute Inc., Cary, NC, USA) was used for all data analyses. The two-sided significance level was set at p < 0.05. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 168,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1108,
+                    "end": 1115,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "We selected 22,384 patients who received ACEI treatment and 22,384 patients who received ARB treatment. Sex and age distributions were similar between the two cohorts. The mean age in both cohorts was approximately 59 years. Significant differences were observed in monthly income and urbanization level between the two cohorts (p < 0.05). The ARB cohort was more likely to have coronary artery disease (p < 0.05). Regarding the distribution of air pollutants, the daily average concentrations of PM2.5, PM10 and SO 2 were significantly higher in the ACEI cohort than in the ARB cohort (p < 0.05) ( Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 599,
+                    "end": 607,
+                    "text": "Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The mean follow-up times were 6.33 \u00b1 3.52 years and 6.12 \u00b1 3.47 years in the ARB and ACEI cohorts, respectively. At the end of the study period, the overall incidence rates of lung cancer in the ARB and ACEI cohorts were 12.2 and 16.6 per 10,000 person-years, respectively. After multivariable Cox proportional hazards regression model adjusting for age, sex, comorbidities, medication and air pollutants, a significantly higher risk of lung cancer was observed in the ACEI cohort than in the ARB cohort (aHR = 1.36; 95% CI = 1.11-1.67) ( Table 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 539,
+                    "end": 547,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Duration-response and dose-response analyses revealed that compared with patients who did not receive ACEI treatment, patients who received ACEI treatment for more than 45 days per year (aHR = 1.87; 95% CI = 1.48-2.36), patients who received more than 540 mg of ACEIs per year (aHR =1.80; 95% CI = 1.43-2.27) and patients who received more than 50 defined daily doses (DDDs) of ACEIs per year (aHR =1.85; 95% CI = 1.46-2.34) had a significantly higher risk of lung cancer. Compared with patients who did not receive ARB treatment, patients who received ARB treatment for fewer than 200 days per year (aHR = 0.61; 95% CI = 0.47-0.80), patients who received more than 11200 mg of ARB per year (aHR =0.62; 95% CI = 0.50-0.79) and patients who received fewer than 200 DDDs of ARB per year (aHR = 0.63; 95% CI = 0.48-0.81) had a significantly lower risk of lung cancer (Table 3) . In Kaplan-Meier analysis, the cumulative incidence of lung cancer was significantly higher in the ACEI cohort than in the ARB cohort (log-rank test, p = 0.002) (Figure 1 ). In Kaplan-Meier analysis, the cumulative incidence of lung cancer was significantly higher in the ACEI cohort than in the ARB cohort (log-rank test, p = 0.002) (Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 864,
+                    "end": 873,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1036,
+                    "end": 1045,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1209,
+                    "end": 1218,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Similar to the findings of Hick et al., 6 our study revealed that ACEI users were at a 1.36-fold higher risk of lung cancer compared with ARB users. Further analysis revealed that ACEI users were at a 1.87-fold and 1.8-fold higher risks of lung cancer when the medication was used for > 45 days or the accumulated dosage of ACEI was > 540 mg, respectively. Patients receiving ARB at an accumulated dosage of > 11,200 mg were at a 0.62-fold lower risk of lung cancer.",
+            "cite_spans": [
+                {
+                    "start": 40,
+                    "end": 41,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to causing vasodilatation in the circulation system, ACEIs are also active in the lungs, where ACEs are abundant [17] . Use of ACEIs could result in increased levels of bradykinin in the lungs, which are normally degraded by ACEIs. This may mediate the sensitization of the airway and enhance the cough reflex [18] . Furthermore, bradykinin is associated with the regulation of neointimal formation and mitogenesis through the mitogen-activated protein kinase pathway [19] [20] [21] . Chee et al. indicated that bradykinin receptors are highly expressed in the cytoplasm of all types of lung tumors, [22] . which would mediate proangiogenic properties and cancer migration, invasion and metastasis [23] . In addition, ACEI use could cause the accumulation of substance P in the lung. Esteban et al. reported that the activation of neurokinin-1 receptors through substance P is one mechanism linking mitogenesis and cancer promotion and progression [24] . Munoz et al. indicated that substance P may induce the proliferation of both tumor cells and endothelial cells, thus stimulating angiogenesis [25] . Therefore, increased levels of substance P and bradykinin in the lungs may be the mechanism through which ACEI users are at a higher risk of lung cancer. The durationresponse and dose-response relationships between ACEI use and lung cancer further strengthen our clinical findings.",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 322,
+                    "end": 326,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 480,
+                    "end": 484,
+                    "text": "[19]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 485,
+                    "end": 489,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 490,
+                    "end": 494,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 960,
+                    "end": 964,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1109,
+                    "end": 1113,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the present study, we observed that ARB users had a significantly lower risk of lung cancer than non-ARB users. The meta-analysis of Zhang et al. also demonstrated that ARBs are associated with significantly lower lung cancer risk [26] . Cohort studies conducted by Chang et al. and Huang et al. have also revealed that ARB use is associated with a decreased risk of lung cancer [11, 27] . Bhaskaran et al. observed a 0.84-fold decreased risk of lung cancer in ARB users [28] . Studies have reported that angiotensin II receptors, AT1 receptors and AT2 receptors are involved in enhancing tissue vascular endothelial growth factor protein levels, angiogenesis and tumor growth [29, 30] . In ",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 238,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 286,
+                    "end": 298,
+                    "text": "Huang et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "[11,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 387,
+                    "end": 390,
+                    "text": "27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 474,
+                    "end": 478,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 680,
+                    "end": 684,
+                    "text": "[29,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 685,
+                    "end": 688,
+                    "text": "30]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Similar to the findings of Hick et al. [6] our study revealed that ACEI users were at a 1.36-fold higher risk of lung cancer compared with ARB users. Further analysis revealed that ACEI users were at a 1.87-fold and 1.8-fold higher risks of lung cancer when the medication was used for > 45 days or the accumulated dosage of ACEI was > 540 mg, respectively. Patients receiving ARB at an accumulated dosage of > 11,200 mg were at a 0.62-fold lower risk of lung cancer.",
+            "cite_spans": [
+                {
+                    "start": 39,
+                    "end": 42,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to causing vasodilatation in the circulation system, ACEIs are also active in the lungs, where ACEs are abundant [17] . Use of ACEIs could result in increased levels of bradykinin in the lungs, which are normally degraded by ACEIs. This may mediate the sensitization of the airway and enhance the cough reflex [18] . Furthermore, bradykinin is associated with the regulation of neointimal formation and mitogenesis through the mitogen-activated protein kinase pathway [19] [20] [21] . Chee et al. indicated that bradykinin receptors are highly expressed in the cytoplasm of all types of lung tumors, [22] . which would mediate proangiogenic properties and cancer migration, invasion and metastasis [23] . In addition, ACEI use could cause the accumulation of substance P in the lung. Esteban et al. reported that the activation of neurokinin-1 receptors through substance P is one mechanism linking mitogenesis and cancer promotion and progression [24] . Munoz et al. indicated that substance P may induce the proliferation of both tumor cells and endothelial cells, thus stimulating angiogenesis [25] . Therefore, increased levels of substance P and bradykinin in the lungs may be the mechanism through which ACEI users are at a higher risk of lung cancer. The duration-response and dose-response relationships between ACEI use and lung cancer further strengthen our clinical findings.",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 322,
+                    "end": 326,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 480,
+                    "end": 484,
+                    "text": "[19]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 485,
+                    "end": 489,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 490,
+                    "end": 494,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 960,
+                    "end": 964,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1109,
+                    "end": 1113,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the present study, we observed that ARB users had a significantly lower risk of lung cancer than non-ARB users. The meta-analysis of Zhang et al. also demonstrated that ARBs are associated with significantly lower lung cancer risk [26] . Cohort studies conducted by Chang et al. and Huang et al. have also revealed that ARB use is associated with a decreased risk of lung cancer [11, 27] . Bhaskaran et al. observed a 0.84-fold decreased risk of lung cancer in ARB users [28] . Studies have reported that angiotensin II receptors, AT1 receptors and AT2 receptors are involved in enhancing tissue vascular endothelial growth factor protein levels, angiogenesis and tumor growth [29, 30] . In addition, AT1 receptors are abundantly expressed in malignant neoplasms, including various types of lung cancer [31] [32] [33] [34] . Fujita et al. revealed that blocking angiotensin II receptors could reduce tumor growth and metastasis [35] . Suganuma et al. and Fujimoto et al. have reported that blockade therapy for angiotensin II receptors could suppress the metastasis of human ovarian cancer and pancreatic cancer in vitro [36, 37] . Gong et al. indicated that blocking angiotensin II type 1 receptors could induce apoptotic cell death in human pancreatic cancer cells in vitro [38] . The aforementioned findings indicate the potential biological mechanisms for the finding that ARB users have a lower risk of lung cancer.",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 238,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 269,
+                    "end": 298,
+                    "text": "Chang et al. and Huang et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "[11,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 387,
+                    "end": 390,
+                    "text": "27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 474,
+                    "end": 478,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 680,
+                    "end": 684,
+                    "text": "[29,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 685,
+                    "end": 688,
+                    "text": "30]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 806,
+                    "end": 810,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 811,
+                    "end": 815,
+                    "text": "[32]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 816,
+                    "end": 820,
+                    "text": "[33]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 821,
+                    "end": 825,
+                    "text": "[34]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 931,
+                    "end": 935,
+                    "text": "[35]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 938,
+                    "end": 978,
+                    "text": "Suganuma et al. and Fujimoto et al. have",
+                    "ref_id": null
+                },
+                {
+                    "start": 1124,
+                    "end": 1128,
+                    "text": "[36,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1129,
+                    "end": 1132,
+                    "text": "37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1279,
+                    "end": 1283,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Blockade of the renin-angiotensin system (RAS) is well-known to be beneficial in preserving heart and kidney function in those with heart failure, postmyocardial infarction and kidney disease [39] . Therefore, it would be impossible to completely omit all RAS-blocking medications in patients with heart or kidney diseases. Therefore, we employed a study design similar to that of Hicks et al. [6] to compare lung cancer risk in the ACEI and ARB cohorts. We compared lung cancer risk in ACEI and non-ACEI users as well as in ARB users and non-ARB users. Our results directly answer real-world clinical questions and provide sufficient information for decision-making in the selection of RAS blockers.",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 196,
+                    "text": "[39]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 394,
+                    "end": 397,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Several limitations of the current study should be noted. First, information on smoking habits, including intensity and duration; physical exercise; personal exposure to secondhand smoke, asbestos, beryllium, cadmium, silica and other inhaled carcinogens; and body mass index is unavailable in the NHIRD. Since lung cancer was end point of this paper, lack information about smoking habits and exposure to carcinogens of lung cancer should raise concern for baseline bias. However, we have attempted to use COPD as proxy for smoking habitats and we also considered and analyzed asthma, tuberculosis and levels of air pollutants PM2.5, the possible baseline bias might be minimized. Second, we did not adjust for medical visits and chest examination frequency, including chest X-ray, computed tomography, magnetic resonance imaging and ultrasonography; therefore, surveillance bias might be present, because ACEI users have more symptoms of dry cough and undergo more chest examinations. Third, detailed pathological reports such as small cell or non-small cell lung cancer and staging of lung cancer are unavailable in the NHIRD; therefore, further analysis of the association between ACEI use and subgroups of lung cancer could not be performed in this study. Fourth, the mobility of each participant could not be certain. Therefore, select PM2.5 in residential area as a feature would not so representative of real PM2.5 exposure conditions of each participant. Finally, medication adherence could not be fully ascertained in this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This study has several strengths. First, we used propensity score matching to mitigate baseline bias between the ACEI and ARB cohorts. Because diverse populations have different reasons for ACEI use, propensity score matching could minimize baseline bias of underlying diseases between the ACEI and ARB cohorts. In addition to matching comorbidities, we also matched each type of antihypertensive medication between the ACEI and ARB cohorts; thereby, baseline bias of antihypertensive medications was minimized. Second, we considered air pollutants (PM2.5, PM10 and SO 2 ), which have been recognized as significant risk factors for lung cancer [14, 40, 41] . According to our literature review, this is the first study considering air pollutants as covariables in the investigation of the association between ACEIs and lung cancer. Third, this study only enrolled those who started using ACEI or ARB from the index date. Those who used ACEIs or ARBs before the index date or those who switched between ACEIs and ARBs were all excluded from our study. Thereby, the bias was considerably minimized. Fourth, NHI covers over 99.7% of the population of Taiwan and contains decades of data. Thus, to the best of our knowledge, the mean follow-up duration of this nationwide population-based study is the longest among similar studies of ACEIs and lung cancer [3, 6, 42] . This long follow-up enabled a more representative analysis of the relationship between ACEI dosage and duration and lung cancer risk. Furthermore, Hicks et al. speculated that the increased lung cancer risk observed in ACEI users might be due to the protective effect of ARBs against lung cancers [6] . Our study clearly demonstrated the protective effects of ARBs against lung cancer and the potential of ACEIs to cause lung cancer because we separately compared ACEI users and non-ACEI users and ARB users and non-ARB users.",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 649,
+                    "text": "[14,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 650,
+                    "end": 653,
+                    "text": "40,",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 654,
+                    "end": 657,
+                    "text": "41]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1354,
+                    "end": 1357,
+                    "text": "[3,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1358,
+                    "end": 1360,
+                    "text": "6,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1361,
+                    "end": 1364,
+                    "text": "42]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1664,
+                    "end": 1667,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, ACEI users are at a higher risk of lung cancer than ARB users in Taiwan. Dosage-response and duration-response relationships exist between ACEI use and lung cancer risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Angiotensin Converting Enzyme Inhibitors (ACEI)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Herman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bashir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "StatPearls",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "ACE inhibitors improve diabetic nephropathy through suppression of renal MCP-1",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Amann",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tinzmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Angelkort",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Diabetes Care",
+            "volume": "26",
+            "issn": "",
+            "pages": "2421--2425",
+            "other_ids": {
+                "DOI": [
+                    "10.2337/diacare.26.8.2421"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Treatment of kidney transplant recipients with ACEi/ARB and risk of respiratory tract cancer: A collaborative transplant study report",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Opelz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "D\u00f6hler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Am. J. Transplant",
+            "volume": "11",
+            "issn": "",
+            "pages": "2483--2489",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-6143.2011.03681.x"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Long term use of drugs affecting the renin-angiotensin system and the risk of cancer: A population-based case-control study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hallas",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Christensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Friis",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bjerrum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Br. J. Clin. Pharmacol",
+            "volume": "74",
+            "issn": "",
+            "pages": "180--188",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2125.2012.04170.x"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Antihypertensive drugs and risk of cancer: Network meta-analyses and trial sequential analyses of 324,168 participants from randomised trials",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bangalore",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kjeldsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Makani",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Grossman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wetterslev",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sever",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gluud",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Messerli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Lancet Oncol",
+            "volume": "12",
+            "issn": "",
+            "pages": "65--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1470-2045(10)70260-6"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Angiotensin converting enzyme inhibitors and risk of lung cancer: Population based cohort study",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Filion",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sakr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Udell",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Azoulay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMJ",
+            "volume": "363",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.k4209"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Angiotensin converting enzyme inhibitors use and development of lung cancer: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bahaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Albawaliz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Qureini",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "K M"
+                    ],
+                    "last": "Abughanimeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Younis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tahboub",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Noman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Abdulhak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Clin. Oncol",
+            "volume": "37",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1200/JCO.2019.37.15_suppl.e13093"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Use of angiotensin receptor blockers and the risk of cancer",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Pasternak",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Svanstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Callr\u00e9us",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Melbye",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hviid",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Circulation",
+            "volume": "123",
+            "issn": "",
+            "pages": "1729--1736",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/CIRCULATIONAHA.110.007336"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Do inhibitors of angiotensin-I-converting enzyme protect against risk of cancer?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lever",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hole",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gillis",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mccallum",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mcinnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mackinnon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Meredith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Robertson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Lancet",
+            "volume": "352",
+            "issn": "",
+            "pages": "179--184",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(98)03228-0"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Angiotensinconverting enzyme inhibitors and the risk of cancer: A population-based cohort study in Denmark",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Friis",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "S\u00f8rensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mellemkjaer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mclaughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Blot",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cancer",
+            "volume": "92",
+            "issn": "",
+            "pages": "2462--2470",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/1097-0142(20011101)92:9<2462::AID-CNCR1596>3.0.CO;2-L"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Angiotensin receptor blockade and risk of cancer in type 2 diabetes mellitus: A nationwide case-control study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Clin. Oncol",
+            "volume": "29",
+            "issn": "",
+            "pages": "3001--3007",
+            "other_ids": {
+                "DOI": [
+                    "10.1200/JCO.2011.35.1908"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Comparison of diagnostic evaluations for cough among initiators of angiotensin converting enzyme inhibitors and angiotensin receptor blockers",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gokhale",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Girman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Pate",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Funk",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "St\u00fcrmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Pharmacoepidemiol. Drug Saf",
+            "volume": "25",
+            "issn": "",
+            "pages": "512--520",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pds.3977"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pope",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Iii; Burnett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Thun",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Calle",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Krewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ito",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Thurston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "JAMA",
+            "volume": "287",
+            "issn": "",
+            "pages": "1132--1141",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.287.9.1132"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Air pollution and lung cancer incidence in 17 European cohorts: Prospective analyses from the European Study of Cohorts for Air Pollution Effects (ESCAPE)",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Raaschou-Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beelen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Samoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stafoggia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Weinmayr",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Nieuwenhuijsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brunekreef",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Oncol",
+            "volume": "14",
+            "issn": "",
+            "pages": "813--822",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1470-2045(13)70279-1"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Angiotensin-converting enzyme (ACE) gene insertion/deletion polymorphism and ACE inhibitor-related cough: A meta-analysis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Bian",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.-S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.-C",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS ONE",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0037396"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Lowered cancer risk with ACE inhibitors/ARBs: A populationbased cohort study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tsai",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tsai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Clin. Hypertens. Greenwich",
+            "volume": "16",
+            "issn": "",
+            "pages": "27--33",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jch.12228"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kuba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nat. Med",
+            "volume": "11",
+            "issn": "",
+            "pages": "875--879",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1267"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Bradykinin-evoked sensitization of airway sensory nerves: A mechanism for ACE-inhibitor cough",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Lalloo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Belvisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bernareggi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barnes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nat. Med",
+            "volume": "2",
+            "issn": "",
+            "pages": "814--817",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0796-814"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Bradykinin B2 receptor-mediated proliferation via activation of the Ras/Raf/MEK/MAPK pathway in rat vascular smooth muscle cells",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chien",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hsiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biomed. Sci",
+            "volume": "10",
+            "issn": "",
+            "pages": "208--218",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02256056"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Regulation of mitogen-activated protein kinase signaling networks by G protein-coupled receptors",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gutkind",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Sci. STKE",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/stke.2000.40.re1"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The kinin system-Bradykinin: Biological effects and clinical implications. Multiple role of the kinin system-Bradykinin",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Golias",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Charalabopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stagikas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Charalabopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Batistatou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Hippokratia",
+            "volume": "11",
+            "issn": "",
+            "pages": "124--128",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Expression of tissue and plasma kallikreins and kinin B1 and B2 receptors in lung cancer",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Naran",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Misso",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bhoola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biol. Chem",
+            "volume": "389",
+            "issn": "",
+            "pages": "1225--1233",
+            "other_ids": {
+                "DOI": [
+                    "10.1515/BC.2008.139"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The role of kinin receptors in cancer and therapeutic opportunities",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Da Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Tannock",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chammas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cancer Lett",
+            "volume": "345",
+            "issn": "",
+            "pages": "27--38",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.canlet.2013.12.009"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "A role for substance P in cancer promotion and progression: A mechanism to counteract intracellular death signals following oncogene activation or DNA damage",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Esteban",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gonz\u00e1lez-Moles",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rosso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cancer Metastasis Rev",
+            "volume": "25",
+            "issn": "",
+            "pages": "137--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10555-006-8161-9"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Involvement of substance P and the NK-1 receptor in cancer progression",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cove\u00f1as",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Peptides",
+            "volume": "48",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.peptides.2013.07.024"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Angiotensin receptor blockers (ARBs) reduce the risk of lung cancer: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Int. J. Clin. Exp. Med",
+            "volume": "8",
+            "issn": "",
+            "pages": "12656--12660",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Angiotensin II receptor blockers and risk of cancer in patients with systemic hypertension",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Leu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Am. J. Cardiol",
+            "volume": "107",
+            "issn": "",
+            "pages": "1028--1033",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.amjcard.2010.11.026"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Angiotensin receptor blockers and risk of cancer: Cohort study among people receiving antihypertensive drugs in UK General Practice Research Database",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bhaskaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Douglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Van Staa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Smeeth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "BMJ",
+            "volume": "344",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.e2697"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Role of host angiotensin II type 1 receptor in tumor angiogenesis and growth",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Egami",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Murohara",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shimada",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shintani",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sugaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ishii",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Akagi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ikeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Matsuishi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Clin. Investig",
+            "volume": "112",
+            "issn": "",
+            "pages": "67--75",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI16645"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Angiotensin AT(1) and AT(2) receptors differentially regulate angiopoietin-2 and vascular endothelial growth factor expression and angiogenesis by modulating heparin binding-epidermal growth factor (EGF)-mediated EGF receptor transactivation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fujiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Matsubara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nozawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maruyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tsutsumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Masaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Uchiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Koyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nose",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Circ. Res",
+            "volume": "88",
+            "issn": "",
+            "pages": "22--29",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/01.RES.88.1.22"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Angiotensin II type 1 receptor expression in ovarian cancer and its correlation with tumour angiogenesis and patient survival",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ino",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shibata",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kajiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nagasaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kikkawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Br. J. Cancer",
+            "volume": "94",
+            "issn": "",
+            "pages": "552--560",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.bjc.6602961"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Angiotensin II elevates cytosolic free calcium in human lung adenocarcinoma cells via activation of AT1 receptors",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Batra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gopalakrishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcneill",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hickie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Cancer Lett",
+            "volume": "76",
+            "issn": "",
+            "pages": "19--24",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0304-3835(94)90129-5"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Association between AT1 and AT2 angiotensin II receptor expression with cell proliferation and angiogenesis in operable breast cancer",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Arrieta",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Villarreal-Garza",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vizca\u00edno",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Pineda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hern\u00e1ndez-Pedro",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Guevara-Salazar",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wegman-Ostrosky",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Villanueva-Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gamboa-Dominguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Tumour Biol",
+            "volume": "36",
+            "issn": "",
+            "pages": "5627--5634",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s13277-015-3235-3"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The angiotensinconverting enzyme 2 in tumor growth and tumor-associated angiogenesis in non-small cell lung cancer",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Che",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Oncol. Rep",
+            "volume": "23",
+            "issn": "",
+            "pages": "941--948",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Blockade of angiotensin AT1a receptor signaling reduces tumor growth, angiogenesis, and metastasis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yamashina",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Itoman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Majima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. Biophys. Res. Commun",
+            "volume": "294",
+            "issn": "",
+            "pages": "441--447",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(02)00496-5"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Functional expression of the angiotensin II type 1 receptor in human ovarian carcinoma cells and its blockade therapy resulting in suppression of tumor invasion, angiogenesis, and peritoneal dissemination",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suganuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ino",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shibata",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kajiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nagasaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kikkawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin. Cancer Res",
+            "volume": "11",
+            "issn": "",
+            "pages": "2686--2694",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/1078-0432.CCR-04-1946"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Angiotensin II type 1 receptor expression in human pancreatic cancer and growth inhibition by angiotensin II type 1 receptor antagonist",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fujimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tsuchida",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chayama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "FEBS Lett",
+            "volume": "495",
+            "issn": "",
+            "pages": "197--200",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(01)02377-8"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Blocking angiotensin II Type 1 receptor triggers apoptotic cell death in human pancreatic cancer cells",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chipitsyna",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Arafat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Pancreas",
+            "volume": "39",
+            "issn": "",
+            "pages": "581--594",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/MPA.0b013e3181c314cd"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Efficacy and safety of dual blockade of the renin-angiotensin system: Meta-analysis of randomised trials",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Makani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bangalore",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Desouza",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Messerli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMJ",
+            "volume": "346",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.f360"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "The impact of PM2.5 on the human respiratory system",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Lian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Thorac. Dis",
+            "volume": "8",
+            "issn": "",
+            "pages": "69--74",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Mortality from lung cancer in workers exposed to sulfur dioxide in the pulp and paper industry",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Teschke",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kauppinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "J\u00e4ppinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Szadkowska-Stanczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Pearce",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Persson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bergeret",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Facchini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Environ. Health Perspect",
+            "volume": "110",
+            "issn": "",
+            "pages": "991--995",
+            "other_ids": {
+                "DOI": [
+                    "10.1289/ehp.02110991"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Impact of angiotensin I converting enzyme inhibitors and angiotensin II type 1 receptor blockers on survival in patients with advanced non-small-cell lung cancer undergoing first-line platinum-based chemotherapy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wilop",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Von Hobe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Crysandt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Esser",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Osieka",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jost",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Cancer Res. Clin. Oncol",
+            "volume": "135",
+            "issn": "",
+            "pages": "1429--1435",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00432-009-0587-3"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license",
+            "authors": [],
+            "year": null,
+            "venue": "\u00a9 2020 by the authors. Licensee MDPI",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Cumulative incidence of lung cancer between ACEI and ARB users.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographic characteristics and clinical comorbidity status in study cohorts by propensity score matching.Chi-square test, a Mann-Whitney U test. \u2020 New Taiwan Dollar (NTD), 1 NTD is equal to 0.03 USD. \u2021 Urbanization level was divided into four levels according to the population density of the residential area, with level 1 being the most urbanized and level 4 being the least. Abbreviations: CAD, coronary artery disease.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Cox analysis of overall incidence of lung cancer (per 10,000 person-years) and estimated hazard ratios according to medication status.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Incidence and adjusted hazard ratios of lung cancer stratified by average days used per year, average dose per year and average DDD (defined daily dosages) per year of angiotensin-converting enzyme inhibitor (ACEI) or angiotensin receptor blocker (ARB) therapy.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

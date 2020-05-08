@@ -1,0 +1,442 @@
+{
+    "paper_id": "12576b0dffeb58f9ef7c7ad536e925ef1ea61ca5",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [
+        {
+            "text": "Recently, the novel coronavirus disease 2019 (COVID-19) started spreading in Japan. Therefore, the number of patients with severe COVID-19 requiring extracorporeal membranous oxygenation (ECMO) is expected to increase. A working group has been formed to provide telephone consultation services for cases with severe respiratory failure caused by COVID-19 in Japan. During the first 13 days of the service, there were 12 consultations. For each consultation, we advised the patient on the initiation of ECMO and arranged transportation for patients with ECMO. Based on experience from the H1N1 influenza pandemic, transporting patients to experienced facilities is essential to obtain better outcomes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The novel 2019 coronavirus-induced disease (COVID-19) has recently started spreading in Japan. According to the initial report from Wuhan in China, 4 of 138 hospitalized patients (2.8%) required extracorporeal membranous oxygenation (ECMO) [1] . As treatment for severe respiratory failure with ECMO requires specialized knowledge and training, the number of patients who present to a hospital for ECMO annually is positively associated with the survival rate of the patients [2] . It is also known that hospitalization at a center where health care professionals are well-trained on respiratory care results in improved outcomes [3] .",
+            "cite_spans": [
+                {
+                    "start": 240,
+                    "end": 243,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 476,
+                    "end": 479,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 630,
+                    "end": 633,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor"
+        },
+        {
+            "text": "Based on these findings, the Japanese Society of Intensive Care Medicine, the Japanese Association for Acute Medicine, the Japanese Society of Respiratory Care Medicine, and the PCPS/ECMO study group launched a COVID-19 ECMOnet working group in Japan. The group provides telephone consultations available 24 h a day for patients with severe respiratory failure, especially those who require ECMO. This group comprises 19 physicians who are well-trained ECMO specialists selected from all over Japan; initially, these specialists were mainly from the Kanto area. The consultations were initiated on February 15, 2020 with the Japanese Respiratory Society joining on February 20, and the Japanese Society for Infectious Disease joining on February 21. The telephone number was assigned to the members of this society. Furthermore, the Japanese Society of Intensive Care Medicine and the Japanese Association for Acute Medicine, registered in the Designated Medical Institutions for Infectious Diseases, compiled a registry system to review available beds for the ECMO run.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "To the Editor"
+        },
+        {
+            "text": "Between February 15 and 27, there were 12 consultations during the 12-day period. The mean age of the patients was 71.2, and the mean P/F ratio was 93.0. All patients were COVID-19 PCR positive. Nine of 12 patients consulted on the initiation of and general questions about ECMO. We recommended the initiation of ECMO for 3 cases: one was introduced to the ECMO at the local hospital, and second was introduced by ECMO specialists who came from an ECMO center and transported the patient to the ECMO center, and the last patient is currently arranging transportation to an ECMO center. Three of 12 patients had already had ECMO performed and consulted on further management. One patient consulted for secondary transport to an ECMO center; we discussed the indications and arranged transportation to the higher ECMO center.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "To the Editor"
+        },
+        {
+            "text": "The survival discharge rate for 2009 H1N1 influenza patients in Japan was only 35.7% [4] , which, surprisingly, was much lower than that the 100% survival discharge rate at Karolinska University Hospital in Sweden [5] . There are three main reasons for this difference. First, the patients in Japan were not hospitalized at specialized hospitals with many facilities used V-V ECMO for the first time. Second, the diameter of the cannula used in Japan was small, resulting in insufficient blood flow. Third, the health care professionals who handled the patients were not well-informed about the general management during V-V ECMO; the main purpose of using ECMO is not oxygenation but lung rest. Mechanical ventilation which exceeds 1 week is not indicated before introducing ECMO [3] . Since the 2009 H1N1 influenza pandemic, associated academic societies have built ECMO centers and initiated ECMO education courses. As a result of these efforts, by 2016, the survival rate of H1N1 influenza respiratory patients on ECMO had increased, reaching the world standard of the ECMO center level [6] .",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 88,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 214,
+                    "end": 217,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 781,
+                    "end": 784,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1091,
+                    "end": 1094,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor"
+        },
+        {
+            "text": "Hence, based on the experience gained with H1N1 influenza ECMO, we are attempting to save the lives of as many COVID-19 severe respiratory failure patients as much as possible by spreading awareness about the appropriate use of ECMO with the help of the COVID-19 ECMOnet group.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "To the Editor"
+        },
+        {
+            "text": "Abbreviations ECMO: Extracorporeal membranous oxygenation; COVID-19: Coronavirusinduced disease 2019",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "To the Editor"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. JAMA",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Association of hospital-level volume of extracorporeal membrane oxygenation cases and mortality. Analysis of the extracorporeal life support organization registry",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Barbaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Odetola",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kidwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Paden",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bartlett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "191",
+            "issn": "",
+            "pages": "894--901",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Efficacy and economic assessment of conventional ventilatory support versus extracorporeal membrane oxygenation for severe adult respiratory failure (CESAR): a multicentre randomised controlled trial",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Peek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mugford",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tiruvoipati",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Allen",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Thalanany",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Lancet",
+            "volume": "374",
+            "issn": "",
+            "pages": "1351--63",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Extracorporeal membrane oxygenation for 2009 influenza a (H1N1) severe respiratory failure in Japan",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kotani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ichiba",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Aokage",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ochiani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Anesth",
+            "volume": "26",
+            "issn": "",
+            "pages": "650--657",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Extracorporeal membrane oxygenation for pandemic H1N1 2009 respiratory failure",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Holzgraefe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Broom\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kalz\u00e9n",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Konrad",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Palm\u00e9r",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Frenckner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Minerva Anestesiol",
+            "volume": "76",
+            "issn": "",
+            "pages": "1043--51",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Comparison of extracorporeal membrane oxygenation outcome for influenza-associated acute respiratory failure in Japan between",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ohshimo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shime",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Nishida",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Intensive Care",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "We acknowledge the below members. This letter is equally contributed by the members of Japan ECMOnet for COVID-19. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions YI drafted the manuscript and all other members have equally supervised the manuscript. The author(s) read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "No funding was used for this report.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The datasets used and analyzed during the current study are available from the corresponding author on reasonable request.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.Received: 27 February 2020 Accepted: 6 March 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

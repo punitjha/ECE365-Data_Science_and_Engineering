@@ -1,0 +1,1447 @@
+{
+    "paper_id": "12332e3ee5f8253ed8db253e1acb48ea3bc8f27f",
+    "metadata": {
+        "title": "Kirigia and Muthuri BMC Res Notes The fiscal value of human lives lost from coronavirus disease (COVID-19) in China",
+        "authors": [
+            {
+                "first": "Joses",
+                "middle": [
+                    "M"
+                ],
+                "last": "Kirigia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rose",
+                "middle": [],
+                "last": "Nabi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Deborah",
+                "middle": [
+                    "Karimi"
+                ],
+                "last": "Muthuri",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "China is a member state of the WHO Western Pacific region. It has a population of 1409.29 million and a total gross domestic product (GDP) of Int$ 29,712.83 billion [1] .",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 168,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "According to WHO, as at 24 February 2020, there was a total of 79,331 confirmed coronavirus disease cases in the world, which including 2618 deaths [2] . About 77,262 (97.39%) of those cases and 2595 (99.12%) were in China. Huang et al. [3] study entitled \"Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\" revealed that 49% of people who died of COVID-19 were aged 25-49 years, 34% were aged 50-64 years, and 17% were aged 65 years and above.",
+            "cite_spans": [
+                {
+                    "start": 148,
+                    "end": 151,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 237,
+                    "end": 240,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "China's capacity to contain the spread of COVID-19 hinges on the strength and resilience of its national health system (NHS), disease surveillance system and other systems that address social determinants of health (SDH). The Universal Health Coverage (UHC) service coverage index [4] for China of 76% implies a gap in coverage of essential health services (reproductive, maternal, newborn and child health; infectious diseases; noncommunicable diseases (NCD); and service capacity and access) of 24% [5] . The average of 13 international health regulations (IHR) core capacities (i.e. legislation and financing, coordination and national focal point, zoonotic events, and the humananimal interface, food safety, laboratory, surveillance, human resources, national health emergency framework, health service provision, risk communication, points of entry, chemical events, and radiation emergencies) scores for China is 94%; implying gaps in IHR core capacities of 6% [6] . Approximately, 92% of China's population uses safely managed drinking water services, implying a gap of 8% [7] . And the population using safely managed sanitation services is 72%, meaning the existence of a coverage gap of 28%. Also, nearly 4.9% of adults (those aged 15 years and above) are not literate [8] . The gaps in NHS (as indicated by coverage of essential health services), disease surveillance (shown in the sub-optimal IHR capacities), and systems",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 501,
+                    "end": 504,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 968,
+                    "end": 971,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1081,
+                    "end": 1084,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1280,
+                    "end": 1283,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "*Correspondence: muthurijoses68@gmail.com that tackle SDH (such as water, sanitation, and education) might hamper China's efforts expand effective coverage of various preventive interventions against COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "BMC Research Notes"
+        },
+        {
+            "text": "Therefore, there is a need for economic studies that can be used to contribute towards making a case for investing more resources in the strengthening of NHS, IHR capacities and other systems that tackle SDH. To date, no study has attempted to estimate the fiscal value of human lives lost due to COVID-19. The specific objective of this study was to estimate the fiscal value of human lives lost due to COVID-19 in China as of 24th February 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "BMC Research Notes"
+        },
+        {
+            "text": "This study employed the value of human life analytical framework developed by Weisbrod [9] , Landefeld and Seskin [10] , Hall and Jones [11] , Chisholm et al. [12] and WHO [13] ; and applied in the past to estimate the productivity losses associated with Ebola Virus Disease (EVD) in the Democratic Republic of the Congo [14] ; deaths associated with non-communicable diseases in Africa [15] ; deaths due to neglected tropical diseases in Africa [16] ; tuberculosis deaths in Africa [17] ; maternal deaths in Africa in 2013 [18] ; child mortality in Africa [19] ; EVD deaths in West Africa [20] ; and maternal deaths in Africa in 2010 [21] .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 114,
+                    "end": 118,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 136,
+                    "end": 140,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 172,
+                    "end": 176,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 321,
+                    "end": 325,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 446,
+                    "end": 450,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 483,
+                    "end": 487,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 524,
+                    "end": 528,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 557,
+                    "end": 561,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 590,
+                    "end": 594,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 635,
+                    "end": 639,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "Any individual death from COVID-19 constitutes a permanent loss of potential years of life lost (YLL) to society. According to Murray [22] , YLL equals potential limit to life minus the age at death. In the current study, YLL was estimated as the difference between the relevant country's average life expectancy at birth and age at death from COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 138,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "In line with past studies [14] [15] [16] [17] [18] [19] [20] [21] , China's non-health GDP per capita (i.e. the difference between GDP per person and current health expenditure per person) was used as a proxy indicator of the money value of each YLL.",
+            "cite_spans": [
+                {
+                    "start": 26,
+                    "end": 30,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 31,
+                    "end": 35,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 36,
+                    "end": 40,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 41,
+                    "end": 45,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 46,
+                    "end": 50,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 51,
+                    "end": 55,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 56,
+                    "end": 60,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 61,
+                    "end": 65,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "China's fiscal value of YLL (FVYLL C ) through COVID-19 deaths is the sum of the potential non-health GDP lost among those aged 25-49 (FVYLL 25\u221249 ) , those aged 50-64 (FVYLL 50\u221264 ) , and those aged 65 years and above (FVYLL 65 ) . Each age group's FVYLL was obtained by multiplying the total discounted years of life lost, nonhealth GDP per person in international dollars (Int$) (NGDPC Int$ ) and the total number of coronavirus disease deaths (COVID-19D) for age group [9] . China's FVYLL C associated with COVID-19 deaths was estimated using the eq. 1 and 2 below [14] :",
+            "cite_spans": [
+                {
+                    "start": 473,
+                    "end": 476,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 569,
+                    "end": 573,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "(1)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "where 1 (1 + r) t is the discount factor used to convert future non-health GDP losses into today's dollars; r is an interest rate that measures the opportunity cost of lost earnings, which was 3% in the current study [9] ; t=n t=1 is the summation from year t = 1 to t = n ; t is the first year of life lost, and n is the final year of the total number of YLL per COVID-19 death within an age group; NGDPC Int$ is per capita non-health GDP in Int$ or purchasing power parity (PPP); COVID \u2212 19D j is the number of COVID-19 deaths in jth age group, where j = 1 corresponds to the age group 25-49 years, j = 2 to the age group 50-64 years, and j = 3 to the age group 65 years and above in China [9] [10] [11] [12] [13] [14] [15] [16] . Future non-health GDP losses were discounted to their present values using 2020 as the base year. China's mean fiscal value per COVID-19 death was estimated by dividing FVYLL C by the total number of COVID-19 deaths borne by the country.",
+            "cite_spans": [
+                {
+                    "start": 217,
+                    "end": 220,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 692,
+                    "end": 695,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 696,
+                    "end": 700,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 701,
+                    "end": 705,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 706,
+                    "end": 710,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 711,
+                    "end": 715,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 716,
+                    "end": 720,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 721,
+                    "end": 725,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 726,
+                    "end": 730,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "Additional File 1 contains an illustration of how the fiscal value of human lives lost from COVID-19 among age groups 25-49 years, 50-64 years, and 65 years and above were calculated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Analytical framework"
+        },
+        {
+            "text": "Data on the number of COVID-19 associated deaths for China (2595) was extracted from the WHO COVID-19 situation report 35 [2] . The life expectancy at birth data for China (76.4 years) was obtained from the WHO world health statistics report 2019 [5] . The GDP per capita data for China (Int$ 21,083.57) was extracted from the IMF World Economic Outlook Database [1] . The current health expenditure (CHE) per capita for China (Int$ 841) data was gotten from the WHO Global Health Expenditure Database [23].",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 125,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 247,
+                    "end": 250,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 363,
+                    "end": 366,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data and data sources"
+        },
+        {
+            "text": "As Briggs [24] explains that economic analyses always have some degree of uncertainty, imprecision or methodological controversy. For example: What if discount rates of 5% and 10% had been used, each at a time, instead of 3%? What is the highest life expectancy in the world was used instead of the China average life expectancy? In order to shed light on these two questions, we varied discount rate and life expectancy one at (2)",
+            "cite_spans": [
+                {
+                    "start": 10,
+                    "end": 14,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sensitivity analysis"
+        },
+        {
+            "text": "a time to investigate the impact on FVYLL C . First, the economic model was alternately re-estimated using 5% and 10% discount rates [14, 25] . Second, the economic model was also re-estimated with the world highest average life expectancy (i.e. the Japanese average female life expectancy) of 87.1 years instead of the national average life expectancy. Thus, the latter was done to gauge the impact of changes in life expectancy on the FVYLL C . Table 1 shows fiscal value of human lives lost due to COVID-19 in China by 24th February 2020",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 137,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 447,
+                    "end": 454,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Sensitivity analysis"
+        },
+        {
+            "text": "The 2595 deaths from COVID-19 had a potential total fiscal value of Int$ 924,346,795, i.e. assuming a discount rate of 3% and China's average life expectancy. Out of which, 63.2% was borne by people aged 25-49 years, 27.8% by people aged 50-64 years, and 9.0% by people aged 65 years and above. The average fiscal value per COVID death was Int$ 356,203 and per person in population was Int$0.000,656.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Re-estimation of the economic model alternately with 5% and 10 discount rates led to a reduction in the expected total fiscal value by Int$ 197,031,189 (21.3%) and Int$ 466,042,007 (50.4%), respectively. This is equivalent to reductions in average fiscal value per death due to COVID-19 of Int$ 75,927and Int$ 179,592. Table 2 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 319,
+                    "end": 326,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The study reported in this paper had some limitations. First, the scope of our study was limited to the potential indirect costs associated with premature mortality from COVID-19. It did not include the direct costs, such as cost of diagnosing and treating COVID-19 cases, transport of patients and family members, post-mortem (autopsy), interment, funeral ceremony, etc. Second, our study did not capture the negative macroeconomic (including effects on industry, trade, commerce, tourism/travel, education, investment, consumption, etc.) ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Supplementary information accompanies this paper at https ://doi. org/10.1186/s1310 4-020-05044 -y. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary information"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Economic Outlook Database",
+            "authors": [
+                {
+                    "first": "Washington",
+                    "middle": [],
+                    "last": "Imf",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Monetary Fund (IMF)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus disease (COVID-19) situation report-35",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "30183--30188",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Tracking universal health coverage: 2017 global monitoring report. Geneva and Washington (DC): WHO and The World Bank",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Who",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "The World",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bank",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "World health statistics overview: monitoring health for the SDGs, sustainable development goals. Geneva: WHO",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "State party annual report. Geneva: WHO",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Global Health Observatory data repository. Water, sanitation and hygiene. WHO, Geneva",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Human development indices and indicators: 2018 statistical update",
+            "authors": [],
+            "year": 2018,
+            "venue": "New York: UNDP",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The valuation of human capital",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Weisbrod",
+                    "suffix": ""
+                }
+            ],
+            "year": 1961,
+            "venue": "J Political Econ",
+            "volume": "69",
+            "issn": "5",
+            "pages": "425--461",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The economic value of life: linking theory to practice",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Landefeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Seskin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Am J Public Health",
+            "volume": "72",
+            "issn": "",
+            "pages": "555--66",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The value of life and the rise in health spending",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Q J Econ",
+            "volume": "122",
+            "issn": "1",
+            "pages": "39--72",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Economic impact of disease and injury: counting what matters",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chisholm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stanciole",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ttt",
+                    "middle": [],
+                    "last": "Edejer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMJ",
+            "volume": "340",
+            "issn": "c924",
+            "pages": "583--589",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "WHO guide to identifying the economic consequences of disease and injury",
+            "authors": [],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The monetary value of human lives lost through Ebola Virus Disease in the Democratic Republic of Congo in 2019",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rndk",
+                    "middle": [],
+                    "last": "Muthuri",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Muthuri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12889-019-7542-2"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Indirect cost of non-communicable diseases deaths in the World Health Organization African Region",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mwabu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "&apos;imunya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Muthuri",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rdkm",
+                    "middle": [],
+                    "last": "Nkanata",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lhk",
+                    "middle": [],
+                    "last": "Gitonga",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int Arch Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3823/2304"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The monetary value of human lives lost due to neglected tropical diseases in Africa",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Mburugu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Infect Dis Poverty",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40249-017-0379-y"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Productivity losses associated with tuberculosis deaths in the World Health Organization African Region",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rdk",
+                    "middle": [],
+                    "last": "Muthuri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40249-016-0138-5"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Indirect cost of maternal deaths in the WHO African Region",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mwabu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Orem",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rdk",
+                    "middle": [],
+                    "last": "Muthuri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Int J Soc Econ",
+            "volume": "43",
+            "issn": "5",
+            "pages": "532--580",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Counting the cost of child mortality in the World Health Organization African region. BMC Public Health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rdk",
+                    "middle": [],
+                    "last": "Muthuri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Orem",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12889-015-2465-z"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "convenient online submission \u2022 thorough peer review by experienced researchers in your field \u2022 rapid publication on acceptance \u2022 support for research data, including large and complex data types \u2022 gold Open Access which fosters wider collaboration and increased citations maximum visibility for your research: over 100M website views per year \u2022 At BMC",
+            "authors": [
+                {
+                    "first": "\u2022",
+                    "middle": [],
+                    "last": "Fast",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Indirect costs associated with deaths from the Ebola virus disease in West Africa",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Masiye",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Akweongo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Infect Dis Poverty",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40249-015-0079-4"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Indirect cost of maternal deaths in the WHO African Region in 2010",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirigia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mwabu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Orem",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rdk",
+                    "middle": [],
+                    "last": "Muthuri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMC Pregnancy Childb",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Quantifying the burden of disease: the technical basis for disability-adjusted life years",
+            "authors": [
+                {
+                    "first": "Cjl",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Bull World Health Organ",
+            "volume": "72",
+            "issn": "3",
+            "pages": "429--474",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Economic evaluation in health care: merging theory with practice",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Briggs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "172--214",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Methods for the economic evaluation of health care programmes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sculpher",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Torrance",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "O&apos;brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Stoddart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "presents a comparison of the fiscal value of human lives lost due to COVID-19 in China assuming the average life expectancy of China and the highest life expectancy in the world. Clearly, the re-estimation of the economic model using the highest average life expectancy in the world of 87.1 years, instead of the national life expectancy of 76.4 years, yielded a discounted total fiscal value of Int$ 1153,803,224 and an average fiscal value per death of Int$ 444,626. The use of this higher life expectancy increased the total fiscal value by Int$ 229,456,430 (24.8%).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Illustration of calculation of fiscal value of human lives lost due to COVID-19 in China. Abbreviations CHE: Current health expenditure; COVID-19: Coronavirus disease; COVID-19D j : Number of COVID-19 deaths in jth age group; EVD: Ebola Virus Disease; FVYLL: Fiscal value of years of life lost; FVYLL C : China's fiscal value of years of life lost due to COVID-19 deaths; FVYLL 25-49 : Fiscal value of potential years of life lost among those aged 25-49 years; FVYLL 50-64 : Fiscal value of potential years of life lost among those aged 50-64 years; FVYLL \u226565 : Fiscal value of potential years of life lost among those aged 65 years and above; GDP: Gross domestic product; IHR: International health regulations; IMF: International Monetary Fund; Int$: International Dollars or Purchasing Power Parity (PPP); NCD: Noncommunicable disease; NGDPC Int$ : Non-health GDP per person in purchasing power parity; NHS: National health system; YLL: Potential Years of Life Lost; r: Discount rate; SDH: Social determinants of health; UHC: Universal health coverage; WHO: World Health Organization.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Fiscal value of human lives lost due to COVID-19 in China (in 2020 Int$)-assuming different discount rates",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "impact on both the Chinese and the rest of the world economies. Third, according to WHO world statistics report 2019[5] completeness of cause-of-death primary data for China was 62% in 2017. This implies that the reported number of deaths from COVID-19 might be underestimate; and should that be the case our estimates could be underestimates of the actual fiscal value deaths from COVID-19.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Adonai Elohim inspired us and met all our needs in all stages of this study. BRN editor and peer reviewers provided important suggestions that were used to improve our paper. Lenity Honesty Kainyu Nkanata provided lots of encouragement and moral support. This paper is dedicated to COVID-19 patients and their families, national political leaders, health workers and health development partners battling against the spread of COVID-19. The views expressed in this paper are solely those of the authors and should not be attributed to institutions they are affiliated to.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "JMK and RDKM designed the study; extracted the data on GDP per capita from IMF World Economic Outlook Database, COVID-19 from the WHO coronavirus disease situation report, life expectancy from World health statistics report, and current health expenditure per capita from WHO Global Health Expenditure Database; designed the economic model on Excel software; reviewed literature; and drafted the manuscript. Both authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "All data generated or analysed during this study are included in this published article.Ethics approval and consent to participate Not applicable. No ethical clearance was required because the study relied completely on analysis of secondary data publicly available in the IMF World Economic Outlook Database [1] , WHO Coronavirus disease (COVID-19) Situation Report-35 [2] , World Health Statistics Report [5] , and WHO Global Health Expenditure Database [19] .",
+            "cite_spans": [
+                {
+                    "start": 309,
+                    "end": 312,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 370,
+                    "end": 373,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 456,
+                    "end": 460,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

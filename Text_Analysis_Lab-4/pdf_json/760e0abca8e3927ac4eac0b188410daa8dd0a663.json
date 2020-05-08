@@ -1,0 +1,793 @@
+{
+    "paper_id": "760e0abca8e3927ac4eac0b188410daa8dd0a663",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Anna-Leena",
+                "middle": [],
+                "last": "Lohiniva",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Finnish Institute for Health and Welfare",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jussi",
+                "middle": [],
+                "last": "Sane",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Finnish Institute for Health and Welfare",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Katja",
+                "middle": [],
+                "last": "Sibenberg",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Finnish Institute for Health and Welfare",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Taneli",
+                "middle": [],
+                "last": "Puumalainen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Finnish Institute for Health and Welfare",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mika",
+                "middle": [],
+                "last": "Salminen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Finnish Institute for Health and Welfare",
+                    "location": {
+                        "settlement": "Helsinki",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Understanding risk perceptions of the public is critical for risk communication. In February 2020, the Finnish Institute for Health and Welfare started collecting weekly qualitative data on coronavirus disease (COVID-19) risk perception that informs risk communication efforts. The process is based on thematic analysis of emails and social media messages from the public and identifies factors linked to appraisal of risk magnitude, which are developed into risk communication recommendations together with health and communication experts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In February 2020, The Finnish Institute for Health and Welfare (THL) initiated a practical exercise to analyse risk perceptions and trust towards public authorities in the context of coronavirus disease . The process allows qualitative data collection and analysis in real time, based on social media posts and emails from the public. Its objective is to inform risk communication efforts on weekly basis. This process was developed in collaboration with a medical anthropologist and experts in risk communication and public health. The information can be used to help identify appropriate responses and communication strategies to COVID-19 related topics of public interest. This paper describes the methodology and the results of the first 3 weeks of the exercise.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "This approach uses qualitative data collection and analysis methods to explore the subjective COVID-19 risk perceptions of members of the public who request information from THL or comment on COVID-19 via THL's email or social media. The process takes an anthropological approach to explore the meanings of risk and the elements that steer the assessment of a risk situation. It uses a conceptual framework of subjective perception of risk, reflecting individual, societal and cultural contexts [1] . It also includes exploring the perceived trust [2] towards those who are communicating about COVID-19 in Finland.",
+            "cite_spans": [
+                {
+                    "start": 495,
+                    "end": 498,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 548,
+                    "end": 551,
+                    "text": "[2]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Exploring COVID-19 subjective risk perceptions"
+        },
+        {
+            "text": "The narrative data from email accounts and social media channels are forwarded daily to a data analyst. Thematic analysis is carried out weekly to systematise and recognise emerging themes by organising the narrative data according to the risk model, identifying codes and categories within each domain, followed by developing concepts based on data interpretation [3] . The concepts are developed into operational recommendations through the methodology of knowledge co-production. This methodology uses the knowledge of different disciplines to ensure that findings and resulting recommendations are seen as relevant [4] , following best practices for public health and risk communication [5] . The process requires expertise in qualitative analysis and a robust system for retrieving social media data from various sources. Qualitative software can facilitate organising the data.",
+            "cite_spans": [
+                {
+                    "start": 365,
+                    "end": 368,
+                    "text": "[3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 619,
+                    "end": 622,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 691,
+                    "end": 694,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Exploring COVID-19 subjective risk perceptions"
+        },
+        {
+            "text": "The data presented in this paper is based on information collected during three consecutive weeks, between 3 and 25 February 2020. The narrative data was based on the 116 social media posts and emails from the public, and the findings related to five risk perception domains: catastrophic potential, probability of dying, reasons for exposure, the belief of being in control of the situation, and trust towards authorities (Table) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 423,
+                    "end": 430,
+                    "text": "(Table)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Risk perception concepts and risk communication recommendations"
+        },
+        {
+            "text": "The analysis identified four concepts linked to catastrophic potential: 'emotional response', 'anticipation of growth of the epidemic', 'belief that authorities are not interested in taking action' and 'suspicion that authorities are not able to take action'. Lack of knowledge generated further uncertainty that also increased perceptions of catastrophic potential. Accordingly, risk communication recommendations included avoiding downplaying strong emotions, providing factual information, expressing concern and care and sharing facts about available resources for pandemic planning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Catastrophic potential"
+        },
+        {
+            "text": "The analysis identified two different concepts increasing the perception of the probability of death during the COVID-19 epidemic. 'Death' was described as 'uncontrollable' and perceived as 'likely' since authorities were perceived as having taken insufficient actions to protect the public. Risk communication recommendations included emphasising known facts about case fatality ratios in different age groups and about actions taken by authorities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Probability of death"
+        },
+        {
+            "text": "Reasons for exposure to COVID-19 were believed to be 'contact with infected persons', 'people coming from abroad' or 'foreign nationals'. The concepts linked with types of exposures included 'stigmatising attitudes towards foreign nationals' and 'individuals who have resided in or travelled to foreign countries'. Communication recommendations included humanising individuals with COVID-19 by personalising a risk story that generates empathy among the public.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Reasons for exposure"
+        },
+        {
+            "text": "The findings showed that there was a lack of the belief that a person can individually control the spread of the ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Controllability beliefs"
+        },
+        {
+            "text": "The analysis identified that trust in authorities was discussed through 'distrust of information provided' and 'actions taken by the authorities'. Risk communication recommendations included repeating and explaining information given earlier to the public, and communicating the actions taken.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Trust"
+        },
+        {
+            "text": "This qualitative data collection provided evidencebased recommendations for risk communication purposes. It proved to be a practical and participatory way to develop messages that can be used during the epidemic. This is critical as risk communication programmes must produce trustworthy and relevant information during emergencies to inform people about risk, influence behavioural change, and encourage participation in decision making about emergency measures. Communication must be meaningful and understood by those receiving it [6] [7] [8] [9] .",
+            "cite_spans": [
+                {
+                    "start": 534,
+                    "end": 537,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 538,
+                    "end": 541,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 542,
+                    "end": 545,
+                    "text": "[8]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 546,
+                    "end": 549,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Knowing which risk perceptions influence a complex phenomenon, affected by multiple psychological, societal and cultural factors that are changing in place and time [1, [10] [11] [12] , is central for pandemic preparedness and planning. These risk perceptions guide individuals' judgments and evaluations of threats, and can limit public compliance with and response to information communicated by authorities. Risk communication should be based on a sound understanding of the factors underlying risk perception, risk attitudes and trust towards communicating authorities [5, 12, 13] .",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 168,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "[11]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 179,
+                    "end": 183,
+                    "text": "[12]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 573,
+                    "end": 576,
+                    "text": "[5,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 577,
+                    "end": 580,
+                    "text": "12,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 581,
+                    "end": 584,
+                    "text": "13]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This exercise focused on context specific explanations of risk in which the subjective meaning of risk is central. Accordingly, qualitative methods were considered appropriate to understand and explore the meaning behind risk perceptions. In the future, these perceptions could also be quantified through scaling and survey techniques to assess, for example, if trust towards authorities is growing or decreasing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "People who contact health authorities during an emergency are often highly emotional and have strong opinions [9] . Therefore, they do not represent the risk perceptions of the general public in Finland. The strengths of this exercise are its ability to produce culturally competent and context-specific risk communication messages that are readily available for risk communicators during the COVID-19 response.",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 113,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Risk perception, risk attitude, risk communication, risk management: a conceptual Appraisal",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rohrmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "The International Emergency Management Society",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Annual Conference in Prague",
+            "authors": [],
+            "year": 2008,
+            "venue": "",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Risk, communication and trust: towards an emotional understanding of trust",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Engdahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lidskog",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Public Underst Sci",
+            "volume": "23",
+            "issn": "6",
+            "pages": "703--720",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/0963662512460953"
+                ],
+                "PMID": [
+                    "25414929"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Using thematic analysis in psychology",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Braun",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Clarke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Qual Res Psychol",
+            "volume": "3",
+            "issn": "2",
+            "pages": "77--101",
+            "other_ids": {
+                "DOI": [
+                    "10.1191/1478088706qp063oa"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Navigating complexity through knowledge coproduction: Mainstreaming ecosystem services into disaster risk reduction",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Reyers",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nel",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "O&apos;farrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sitas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "112",
+            "issn": "24",
+            "pages": "7362--7370",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1414374112"
+                ],
+                "PMID": [
+                    "26082541"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Risk communication as a core public health competence in infectious disease management: Development of the ECDC training curriculum and programme",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dickmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Abraham",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sarkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wysocki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cecconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Apfel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Euro Surveill",
+            "volume": "21",
+            "issn": "14",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2016.21.14.30188"
+                ],
+                "PMID": [
+                    "27103616"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Risk as value: combining affect and analysis in risk judgements",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Finucane",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holup",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Risk Res",
+            "volume": "9",
+            "issn": "2",
+            "pages": "141--64",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13669870500166930"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Assessing perceptions of risks due to multiple hazards",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "French",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kinmonth",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Marteau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Risk Res",
+            "volume": "9",
+            "issn": "6",
+            "pages": "657--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13669870600813837"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Perception of risk -research overview. In: Gough J. Sharing the future risk communication in practice",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rohrmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Crisis and emergency risk communication (CERC): psychology of crisis",
+            "authors": [],
+            "year": null,
+            "venue": "Centers for Disease Control (CDC)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Risk communication for public health emergencies",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Glik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Annu Rev Public Health",
+            "volume": "28",
+            "issn": "1",
+            "pages": "33--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.publhealth.28.021406.144123"
+                ],
+                "PMID": [
+                    "17222081"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "A literature review on effective risk communication for the prevention and control of communicable diseases in Europe",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Infanti",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sixsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Barry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "N\u00fa\u00f1ez-C\u00f3rdoba",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Oroviogoicoechea-Ortega",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Guill\u00e9n-Grima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The interplay between social and cultural context and perceptions of cardiovascular disease",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Manktelow",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Clifford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Adv Nurs",
+            "volume": "32",
+            "issn": "5",
+            "pages": "1224--1257",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2648.2000.01593.x"
+                ],
+                "PMID": [
+                    "11115008"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Global encyclopedia of public administration",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Haupt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Farazmand A (ed)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-3-319-31816-5_794-1"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "License, supplementary material and copyright",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "and risk communication analytical framework, based on data collected from social media posts and emails from the public on coronavirus disease, Finland, 3-25 February 2020 (n = 116)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank Riia J\u00e4rvenp\u00e4\u00e4 and Jonas Sivel\u00e4 from the Finnish Institute for Health and Welfare for reviewing an earlier version of the paper.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Funding: This study was funded by the Finnish Institute for Health and Welfare.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "All authors have been involved in concept development and co-production of the risk communication recommendations. AL analysed the data and wrote the draft. All authors have commented on the draft and approved the final version.This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0) Licence. You may share and adapt the material, but must give appropriate credit to the source, provide a link to the licence and indicate if changes were made.Any supplementary material referenced in the article can be found in the online version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        }
+    ]
+}

@@ -1,0 +1,1099 @@
+{
+    "paper_id": "d846a3532f569e0051c35e686ef18f6beb9bd57a",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Yun-Yun",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongnan Hospital of Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430071, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ying-Hui",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongnan Hospital of Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430071, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xue-Qun",
+                "middle": [],
+                "last": "Ren",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Henan University",
+                    "location": {
+                        "postCode": "475000",
+                        "settlement": "Kaifeng, Henan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi-Rong",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongnan Hospital of Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430071, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Chun",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Leishenshan Hospital of Wuhan",
+                    "location": {
+                        "addrLine": "Wuhan 430200, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xian-Tao",
+                "middle": [],
+                "last": "Zeng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongnan Hospital of Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430071, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xing-Huan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongnan Hospital of Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430071, Hubei",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "On 6 February 2020, our team had published a rapid advice guideline for diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infection, and this guideline provided our experience and make well reference for fighting against this pandemic worldwide. However, the coronavirus disease 2019 (COVID-19) is a new disease, our awareness and knowledge are gradually increasing based on the ongoing research findings and clinical practice experience; hence, the strategies of diagnosis and treatment are also continually updated. In this letter, we answered one comment on our guideline and provided the newest diagnostic criteria of \"suspected case\" and \"confirmed case\" according to the latest Diagnosis and Treatment Guidelines for COVID-19 (seventh version) that issued by the National Health Committee of the People's Republic of China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In December 2019, the 2019 novel coronavirus (2019-nCoV) has caused an outbreak, which is now officially named as the coronavirus disease 2019 (COVID-19) and the virus has been named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). On 11 March 2020, WHO characterized COVID-19 as a pandemic [1] . In order to fight against the SARS-CoV-2 infection, our team has developed a rapid advice guideline and that has been published online in Military Medical Research on 06 February 2020 [2] . It has attracted a great attention since published. Note however that COVID-19 is a new disease, our awareness and knowledge is gradually increasing based on the ongoing research findings and clinical practice experience [3] [4] [5] [6] [7] [8] ; hence, the strategies of diagnosis and treatment are also continually updated. For instance the Diagnosis and Treatment Guidelines for COVID-19 issued by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/), among 16 January 2020 to 3 March 2020, has issued a total of seven editions with some contexts being substantively changed. Now our guideline received a comment by Zhou et al. [9] , they introduced a simple scoring proposal based on their clinical experience. Their work added new evidence for our guideline and also make valuable reference for this pandemic worldwide. We endorse their significant work and express our thanks. However, their work also needs update according to the latest Diagnosis and \u00a9 The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data. [10] and recently studies.",
+            "cite_spans": [
+                {
+                    "start": 304,
+                    "end": 307,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 494,
+                    "end": 497,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 721,
+                    "end": 724,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 725,
+                    "end": 728,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 729,
+                    "end": 732,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 733,
+                    "end": 736,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 737,
+                    "end": 740,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 741,
+                    "end": 744,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1167,
+                    "end": 1170,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 2579,
+                    "end": 2583,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "According to the seventh edition (3 March 2020), to confirm the suspected case needs to combine any one item of epidemiological history features with two items of clinical manifestations to make a comprehensive analysis, or needs to meet three items of clinical manifestations if without clear epidemiological history:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "Epidemiological history: (1) a history of travel or residence in Wuhan city and surrounding areas, or other communities where COVID-19 cases had been reported in the last 14 days before symptom onset;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "(2) a history of contact with SARS-CoV-2 infectious cases (with positive nucleic acid test); (3) a history of contacting with patients with fever or respiratory symptoms from Wuhan city and surrounding areas, or other communities where COVID-19 had been reported in the last 14 days before symptom onset; (4) a history of contacting with cluster of confirmed cases (\u2265 2 cases with fever and/or respiratory symptoms occurred within 2 weeks in small areas, such as home, office, class of school, etc). Clinical manifestations: (1) fever and/ or respiratory symptoms; (2) with imaging features of COVID-19 infection; (3) total white blood cell counts showing normal, decreased, or reduced lymphocyte count in the early onset stage.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "Diagnosing the confirmed case should base on suspected case with any one item of pathogenic or serological evidence as following: (1) real-time PCR test positive for SARS-CoV-2; (2) viral whole genome sequencing showing high homogeneity to the known novel coronaviruses; (3) positive for the specific IgM antibody and IgG antibody to SARS-CoV-2 in serum test; or a change of the SARS-CoV-2-specific IgG antibody from negative to positive, or titer rising \u22654 times in the recovery phase above that in the acute phase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "We can see that the real-time PCR test for nucleic acid in respiratory tract or blood samples was added to the second (18 January 2020) and third (22 January 2020) editions. The pathogenic detection of blood sample was added to the fourth (27 January 2020) and fifth (8 February 2020) editions; and then the serological evidence was added to the seventh edition. These modifications based on the researchers continued work that to search for an optimal nucleic acid detection kit for rapid diagnosis, as well as the samples from respiratory tract including blood sampling, which increased the availability of different specimens, and supported bringing the specific antibody positive result into the confirmed criteria [11] [12] [13] [14] .",
+            "cite_spans": [
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 724,
+                    "end": 728,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 729,
+                    "end": 733,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 734,
+                    "end": 738,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "Besides, there are more and more evidence that remind us to caution with the atypical symptomatic and asymptomatic patients [13, [15] [16] [17] [18] . Hence, the flow chart of Zhou et al. [9] should be updated, as they classified the person without clinical symptoms as \"low risk\". The score system also needs to be verified in further clinical practice and studies.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 128,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 134,
+                    "end": 138,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 139,
+                    "end": 143,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 144,
+                    "end": 148,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 188,
+                    "end": 191,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        },
+        {
+            "text": "To conclude, we hope more direct evidence coming up and call for readers to provide their comments. For the diagnosis of \"suspected case\" and \"confirmed case\", we suggest to trace and obey the newest guidelines of their home countries. Our team will also timely update our guideline to offer help. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor,"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization. WHO characterizes COVID-19 as a pandemic -11",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version)",
+            "authors": [
+                {
+                    "first": "Y-H",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-S",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-P",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mil Med Res",
+            "volume": "7",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Reporting, epidemic growth, and reproduction numbers for the 2019 novel coronavirus (2019-nCoV) epidemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tuite",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Fisman",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Ann Intern Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7326/m20-0358"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak -an update on the status",
+            "authors": [
+                {
+                    "first": "Y-R",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q-D",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-S",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-Y",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-D",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mil Med Res",
+            "volume": "7",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A guideline for homology modeling of the proteins from newly discovered betacoronavirus, 2019 novel coronavirus (2019-nCoV)",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25768"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Don't rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "7799",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical, laboratory and imaging features of COVID-19: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rodriguez-Morales",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cardona-Ospina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gutierrez-Ocampo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Villamizar-Pena",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Holguin-Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Escalera-Antezana",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Travel Med Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tmaid.2020.101623:101623"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Thrombocytopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: a meta-analysis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lippi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Plebani",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Michael",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Chim Acta",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cca.2020.03.022"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Primary stratification and identification of suspected Corona Virus Disease 2019 (COVID-19) from clinical perspective by a simple scoring proposal",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mil Med Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40779-020-00246-8"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "General Office of National Health Committee, Office of State Administration of Traditional Chinese Medicine. Notice on the issuance of a programme for the diagnosis and treatment of COVID-19 (Trial Version 7",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Detection of SARS-CoV-2 in different types of clinical specimens",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.3786"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Evaluation of a quantitative RT-PCR assay for the detection of the emerging coronavirus SARS-CoV-2 using a high throughput system",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pfefferle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Reucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Norz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lutgehetmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.Es.2020.25.9.2000152"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Detection of novel coronavirus by RT-PCR in stool specimen from asymptomatic child. China Emerg Infect Dis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2606.200301"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Improved molecular diagnosis of COVID-19 by the novel, highly sensitive and specific COVID-19-RdRp/Hel real-time reverse transcription-polymerase chain reaction assay validated in vitro and with clinical specimens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microbiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/jcm.00310-20"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Image of pulmonary and diagnosis of atypical novel coronavirus (2019-nCoV) infected pneumonia: case series of 14 patients",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Lv",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New Med",
+            "volume": "30",
+            "issn": "1",
+            "pages": "7--9",
+            "other_ids": {
+                "DOI": [
+                    "10.12173/j.issn.1004-5511.2020.01.04"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kinoshita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.03.020"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Asymptomatic carrier state, acute respiratory disease, and pneumonia due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): facts and myths",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hsueh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Microbiol Immunol Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmii.2020.02.012"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Coronavirus disease-2019: is fever an adequate screening for the returning travelers",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bwire",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Paulo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Trop Med Health",
+            "volume": "48",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s41182-020-00201-2"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "2019-nCoV: 2019 novel coronavirus; COVID-19: Coronavirus disease 2019; SARS-CoV-2: Severe acute respiratory syndrome coronavirus 2",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "This reply refers to the comment available online at https://doi.org/10.1186/ s40779-020-00246-8. * Correspondence: zengxiantao1128@163.com; wangxinghuan1965@163.com This Letter to the Editor is to comment on the article published in Military Medical Research, 2020;7:4. https://mmrjournal.biomedcentral.com/articles/1 0.1186/s40779-020-0233-6 Center for Evidence-Based and Translational Medicine, Zhongnan Hospital of Wuhan University, Wuhan 430071, Hubei, China Full list of author information is available at the end of the article Treatment Guidelines for COVID-19 (Trial seventh version)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Not applicable.Authors' contributions WXH and ZXT designed this letter; WYY and JYH collected and analysed data; ZXT, WYY, and JYH drafted this letter; RXQ, LYR, ZXC, and WXH",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

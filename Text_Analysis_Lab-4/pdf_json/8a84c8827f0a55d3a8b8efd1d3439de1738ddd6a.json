@@ -1,0 +1,2603 @@
+{
+    "paper_id": "8a84c8827f0a55d3a8b8efd1d3439de1738ddd6a",
+    "metadata": {
+        "title": "COVID-19: Knowns, Unknowns, and Questions",
+        "authors": [
+            {
+                "first": "Stuart",
+                "middle": [],
+                "last": "Weston",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Maryland School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "Maryland",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Matthew",
+                "middle": [
+                    "B"
+                ],
+                "last": "Frieman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Maryland School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "Maryland",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The recent emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from the Hubei province in China in late 2019 demonstrates the epidemic potential of coronaviruses. The rapid spread of this virus across the world in only 2 months highlights the transmissibility of this family of viruses and the significant morbidity and mortality that they can cause. We highlight the current state of knowledge of coronavirus biology while answering questions concerning the current outbreak of SARS-CoV-2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "U ntil the very end of 2019, there were six coronaviruses known to cause disease in humans. Four of these result in little more than a common cold and are endemic around the world. The viruses known as human coronavirus (hCoV)-229E, hCoV-HKU1, hCoV-NL63, and hCoV-OC43 are of little concern at a global public health level. The other two, however, have caused more widespread concern. In 2002, severe acute respiratory syndrome coronavirus (SARS-CoV) emerged in the human population. In a matter of months, this virus from a bat that transmitted via a palm civet to infect a human in the Guangdong province of China infected over 8,000 people, killing roughly 10% (1) . In 2003, SARS-CoV infections stopped, and the virus has not been seen since. A second epidemic coronavirus, known as Middle East respiratory syndrome coronavirus (MERS-CoV), emerged in 2012. Like the SARS-CoV outbreak, MERS-CoV started with a patient suffering pneumonia and came from a zoonotic event (this time from a bat via a camel to a human) (1) . However, MERS-CoV has shown far more limited human-to-human transmission than SARS-CoV. Since 2012, there have been roughly 2,500 cases of MERS-CoV, mostly confined to regions of the Middle East. While case numbers are low for MERS-CoV, there is a high case fatality ratio (CFR) of approximately 35%, making this virus one of the deadliest human pathogens. Coronaviruses that infect humans all appear to have respiratory transmission, making them pathogens of pandemic potential. The end of 2019 saw the emergence of a novel human coronavirus that is rapidly spreading around the global and has a higher degree of lethality than the endemic coronaviruses, though not to the level of SARS-CoV or MERS-CoV. The virus was initially named 2019-nCoV but is now termed SARS-CoV-2 and causes the disease COVID-19 (coronavirus disease 2019). At the time of writing, there have been over 115,000 cases and over 4,000 deaths.",
+            "cite_spans": [
+                {
+                    "start": 664,
+                    "end": 667,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1018,
+                    "end": 1021,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The first case of COVID-19 was reported to the WHO by Chinese authorities on 31 December 2019 as a result of a patient suffering pneumonia in Wuhan City, Hubei Province, China. Over the following days, more patients were suspected to be suffering the same disease, and by 9 January, a novel coronavirus had been detected and the sequence was published online shortly thereafter (2). The 2 months since emergence of SARS-CoV-2 have demonstrated the rapid pace at which a virus can spread and which science can develop. After an initial lag phase, cases of COVID-19 followed a closely exponential curve. The vast majority of cases are, at the time of writing, still from mainland China. However, over 100 other countries have reported cases. Most cases outside China have been associated with travel to that country, but more clusters of cases are now being detected without travel history. In this article, we will discuss what has already been learned about the virus and will then outline 10 key questions and directions of study for this novel coronavirus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "SARS-CoV-2 virology. The novel virus is in the Coronaviridae family and therefore shares common features of this family. Coronaviruses have large (\u03f330-kb) singlestranded, positive-sense RNA genomes. The genome can be roughly divided into a 5= two-thirds and a 3= third. The first two-thirds of the genome code for two large polyproteins (pp1a and pp1ab from ORF1a and ORF1b) which are proteolytically cleaved into the nonstructural proteins (nsp1 to -16) that are essential for production of new viral genetic material. The remainder of the genome codes for the structural proteins and carries the accessory genes that produce virions and alter the host response, respectively (1) .",
+            "cite_spans": [
+                {
+                    "start": 677,
+                    "end": 680,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "As the naming may suggest, the newly emerged coronavirus is closely related to SARS-CoV, sharing roughly 80% identity at a nucleotide level. The closest relative of SARS-CoV-2 appears to be a virus found in bats known as RaTG13-2013 (96% identity), suggesting that, similarly to SARS-CoV, the virus entered the human population from a spillover event either directly from a bat or through an animal intermediate (3). Early studies on SARS-CoV-2 have shown further similarities with its namesake virus in that the spike protein utilizes ACE2 as its cell surface receptor (3, 4). ACE2 is found on ciliated epithelial cells of the human lungs, and this receptor utilization influences the tropism of these viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Based on the speed at which the outbreak of COVID-19 has developed, SARS-CoV-2 appears to spread easily in the human population. Many health care workers have been infected, and more clusters of cases are being detected with each passing day. The reproductive number (R 0 ) of the virus is currently thought to be around 3 (5), again suggesting the potential for sustained human-to-human transmission that appears to be through respiratory droplets and potentially a fecal-oral route (6) .",
+            "cite_spans": [
+                {
+                    "start": 484,
+                    "end": 487,
+                    "text": "(6)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "While much can be gleaned from our general understanding of coronavirus biology and some of the early studies on SARS-CoV-2, many pertinent questions exist, for which we will outline 10 here.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(i) What is the animal reservoir/intermediate host?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The bat virus termed RaTG13-2013 has 96% identity with SARS-CoV-2 (3), strongly pointing toward a shared common ancestor and suggesting that the novel human pathogen originated in bats. When the zoonoses first occurred remains an interesting question. Both SARS-CoV and MERS-CoV also have common ancestry with viruses found in bats. Both of these viruses had an intermediate host for transmission into humans, these being palm civets and camels for SARS-and MERS-CoV, respectively (1). There has been a suggestion that pangolins may be the intermediate host for SARS-CoV-2 (7), but this remains to be established. Knowing the intermediate host is an important step for understanding how SARS-CoV-2 became a human virus and how to potentially curtail further spillover events. Knowing that MERS-CoV transmits to humans via dromedary camels has allowed for the development of a camel vaccine to potentially limit spread to humans (8, 9) . Approval for novel vaccines in animal hosts is far easier than in humans. Moreover, knowing the intermediate host allows for measures to be taken to limit human contact with the animal (e.g., not selling meat from these animals in wet food markets), which can again help reduce the chances of future spillover events. However, with the spread of SARS-CoV-2 being so extensive, whether these measures would be effective at limiting human cases of COVID-19 may be unlikely.",
+            "cite_spans": [
+                {
+                    "start": 928,
+                    "end": 931,
+                    "text": "(8,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 932,
+                    "end": 934,
+                    "text": "9)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(ii) What is the true case count (mild symptoms/asymptomatic carriers) and lethality? Since the early stages of the COVID-19 outbreak, the case fatality ratio (CFR) has been around 2% to 4%. This is a much lower CFR than those seen for SARS and MERS, which are around 10% and 35%, respectively. However, many people remain in severe conditions in hospitals as a result of COVID-19, which could see the CFR increase. With that said, the true burden of disease in the human population is currently unknown. A recent report on approximately 44,000 Chinese patients showed that 81% develop only mild symptoms, while 14% develop severe symptoms and 5% become critically ill (10) . This study suggests that even among the people with symptoms severe enough to be tested for SARS-CoV-2, there can still be mild symptoms, which may suggest that many other people have symptoms mild enough to not require testing. This would make the true case count far larger and, by extension, the CFR lower. Early estimates suggested that the true case count may be as much as 10 times higher than was being reported (11) . Establishing the true disease burden in the human population will take time and retrospective serological survey and is a secondary aspect in relation to controlling the current disease outbreak. But it remains an interesting question to be determined moving forward.",
+            "cite_spans": [
+                {
+                    "start": 669,
+                    "end": 673,
+                    "text": "(10)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1095,
+                    "end": 1099,
+                    "text": "(11)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(iii) What comorbidities are associated with severe disease outcome and how do these affect viral pathogenesis? As more cases of COVID-19 occur, it is becoming established that the most severe cases and mortality are associated with underlying health conditions. The most common associated comorbidities are pulmonary disease, diabetes, and old age (10) . Interesting questions as to how these comorbidities impact viral pathogenesis are open for investigation. More severe SARS cases were also associated with age, and work in mice has demonstrated this (12) (13) (14) . Severe MERS is associated with diabetes and other underlying health conditions (15, 16) , and again, work in mice has shown that diabetes can impact the immune response to infection, leading to increased pathogenesis (17) . It will be interesting to see whether SARS-CoV-2 infection is similarly impacted.",
+            "cite_spans": [
+                {
+                    "start": 349,
+                    "end": 353,
+                    "text": "(10)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 555,
+                    "end": 559,
+                    "text": "(12)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 560,
+                    "end": 564,
+                    "text": "(13)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 565,
+                    "end": 569,
+                    "text": "(14)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 651,
+                    "end": 655,
+                    "text": "(15,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 656,
+                    "end": 659,
+                    "text": "16)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 789,
+                    "end": 793,
+                    "text": "(17)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(iv) Can spread of SARS-CoV-2 be contained/will the virus persist in the human population? Four of the seven human coronaviruses are endemic around the world but cause little more than the common cold. Currently, SARS-CoV-2 is a global epidemic, with the potential to be considered a pandemic. In one scenario, this outbreak may be contained, and the virus never seen again, like SARS-CoV. Alternatively, the virus may become an endemic virus with seasonality like influenza and the other human coronaviruses. However, it is too early to know whether SARS-CoV-2 spread will be affected by changing weather conditions. Nearly all cases of COVID-19 have been in China, where it is winter; whether cases will decrease as temperatures increase in the Northern Hemisphere, as is seen for influenza, remains to be seen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(v) What in vitro and in vivo systems can be used for research? A very important question for understanding SARS-CoV-2 infection is what systems can be used for study. Early studies on SARS-CoV-2 determined that the cellular receptor for the virus is ACE2, similarly to SARS-CoV (3). This knowledge helps to develop an understanding of susceptibility of certain in vitro cell lines to infection with the novel virus. The likelihood is that if cells were not permissive for growth of SARS-CoV, they probably will not support growth of SARS-CoV-2. As more labs around the world start researching the new virus, a better understanding of the permissive cell lines will be developed, an important step to testing therapeutic options and developing a better understanding of basic aspects of SARS-CoV-2 virology. The more challenging aspect of lab-based research on the novel human coronavirus will be developing small-animal models. The early research on receptor usage suggests the virus is not able to infect cells expressing mouse ACE2 (3), thus making a mouse model potentially challenging. Whether expression of human ACE2 in mouse lungs using adenovirus or mouse adaptation of SARS-CoV-2 can develop appropriate models, as was done for SARS-CoV (18) , is a pressing question. Whether other small-animal models can be used also needs to be investigated. These models will be essential for thoroughly testing therapeutic candidates and vaccine strategies and understanding the pathology of disease.",
+            "cite_spans": [
+                {
+                    "start": 1247,
+                    "end": 1251,
+                    "text": "(18)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(vi) Can we find therapeutic options? As the case count and death toll of the epidemic continue to increase, it becomes imperative to identify therapeutic options for COVID-19. Once in vitro and in vivo systems have been established, these tests can proceed. Drug repurposing may prove to be the best strategy for quick development of novel therapeutic options. A novel therapeutic being tested is remdesivir (19, 20) , which in combination with chloroquine has been found to inhibit SARS-CoV-2 growth in vitro (21) . It was recently announced by the NIH that remdesivir would be entering phase 3 clinical trials in humans. Chloroquine has also been reported to be effective in patients in China (22) . A combination of lopinavir and ritonavir is also under investigation in human cases of COVID-19 in China. Many more people will need to be treated with these drugs to determine true efficacy, but they are promising leads.",
+            "cite_spans": [
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "(19,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 414,
+                    "end": 417,
+                    "text": "20)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 511,
+                    "end": 515,
+                    "text": "(21)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 696,
+                    "end": 700,
+                    "text": "(22)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(vii) Can a vaccination strategy be developed? An effective strategy to contain virus spread is vaccination. During the SARS-CoV and MERS-CoV outbreaks, much research went into developing vaccine strategies (23) . However, the cessation of the SARS epidemic and the minimal human-to-human transmission of MERS-CoV have curtailed the testing of these interventions in humans. With the emergence of SARS-CoV-2, a new impetus into development of coronavirus vaccines has been generated. There are several platforms being used to develop vaccines against SARS-CoV-2, including spike subunit, DNA, RNA, whole-virion, and nanoparticle vaccines. Future testing in cells and animal models will determine which is most likely to be successful in humans.",
+            "cite_spans": [
+                {
+                    "start": 207,
+                    "end": 211,
+                    "text": "(23)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(viii) What is the host response to SARS-CoV-2 and pathology of COVID-19? After an initial push to look for therapeutic and vaccine options to help treat and prevent COVID-19, it will be important to better understand the host response to infection and the pathology of disease. A prerequisite step will of course be the development of appropriate animal models. Better understanding of how SARS-CoV-2 causes pathology and the way in which the host responds may help direct further therapeutic avenues. Understanding how comorbidities such as diabetes impact the host response to infection will also be important to better understand COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(ix) Why does SARS-CoV-2 appear to spread more rapidly than SARS-CoV or MERS-CoV in the human population? Compared to the two other highly pathogenic coronaviruses that have emerged in the 21st century, SARS-CoV-2 appears to spread very well in the human population. Why this is the case will be interesting to understand. SARS-CoV and SARS-CoV-2 appear to use the same cell receptor of ACE2, suggesting a similar tropism, yet the novel coronavirus appears to spread much more efficiently simply based on the number of cases and the speed at which they have emerged. Whether proteolytic cleavage sites, such as a furin site in the spike protein of SARS-CoV-2, influence this will be important to determine for this outbreak and for the next. There are many other coronaviruses that have been found in bats that have potential for spread in the human population (24) (25) (26) . Developing an understanding of the difference in the dynamics of spread between SARS-CoV-2 and the other coronaviruses will provide insights to understand which viruses may pose the most threat for zoonotic transmission and mass spread in the human population, leading to the final question. . . (x) What will be the next coronavirus to enter the human population? The past 18 years have seen the emergence of three novel coronaviruses that have caused significant morbidity and mortality in the human population. Continued surveillance of viruses in animal populations and understanding the factors that influence zoonotic events are essential for attempts to limit future outbreaks.",
+            "cite_spans": [
+                {
+                    "start": 861,
+                    "end": 865,
+                    "text": "(24)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 866,
+                    "end": 870,
+                    "text": "(25)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 871,
+                    "end": 875,
+                    "text": "(26)",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Conclusion. The year 2020 has started with a rapid, global epidemic of the virus SARS-CoV-2, causing the disease COVID-19. The virus appears to have transmitted to humans in a zoonotic event from bats. There are many questions to investigate regarding all aspects of SARS-CoV-2 virology and epidemiology. These questions range from how the virus emerged to how it spreads and how the disease manifests. But most pressingly as the global outbreak continues to grow, can we develop effective vaccine and therapeutic strategies to treat not only this epidemic but any future coronavirus spillover events?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "SARS and MERS: recent insights into emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Rev Microbiol",
+            "volume": "14",
+            "issn": "",
+            "pages": "523--534",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro.2016.81"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Huang C-L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-D",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R-D",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M-Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-R",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q-J",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-L",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yan",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Zhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F-X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-Y",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-L",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.biorxiv.org/content/10.1101/2020.01.22.914952v2"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vasilieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sui",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Berne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Somasundaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Luzuriaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Greenough",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farzan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02145"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa021"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Isolation of 2019-nCoV from a stool specimen of a laboratory-confirmed case of the coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zijian",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China CDC Wkly",
+            "volume": "2",
+            "issn": "8",
+            "pages": "123--124",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Identification of 2019-nCoV related coronaviruses in Malayan pangolins in southern China",
+            "authors": [
+                {
+                    "first": "Tsan-Yuk",
+                    "middle": [],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ho-Hin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shum",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-C",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-G",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-S",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yiu-Man",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-L",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.biorxiv.org/content/10.1101/2020.02.13.945485v1"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "An orthopoxvirus-based vaccine reduces virus excretion after MERS-CoV infection in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jma",
+                    "middle": [],
+                    "last": "Van Den Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Volz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wohlsein",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schipper",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Okba",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fux",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bensaid",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Foz",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Baumg\u00e4rtner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Segal\u00e9s",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "351",
+            "issn": "",
+            "pages": "77--81",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aad1283"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Humoral immunogenicity and efficacy of a single dose of ChAdOx1 MERS vaccine candidate in dromedary camels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Alharbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Qasim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Almasoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Aljami",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Alenazi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alhafufi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Aldibasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hashem",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kasem",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Albrahim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aldubaib",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Almansour",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Temperton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kupke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abu-Obaidah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alkarar",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lambe",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bayoumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aldowerij",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ibrahim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Balkhy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sci Rep",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41598-019-52730-4"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. 2020. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China",
+            "authors": [],
+            "year": null,
+            "venue": "Zhonghua Liu Xing Bing Xue Za Zhi",
+            "volume": "41",
+            "issn": "",
+            "pages": "145--151",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0254-6450.2020.02.003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Report 2: estimating the potential total number of novel coronavirus cases in Wuhan City",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cori",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Aged BALB/c mice as a model for increased severity of severe acute respiratory syndrome in elderly humans",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Paddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "5833--5838",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.9.5833-5838.2005"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Molecular determinants of severe acute respiratory syndrome coronavirus pathogenesis and virulence in young and aged mouse models of human disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frieman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Agnihothram",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Page",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Woodruff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Scorpio",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "884--897",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.05957-11"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The immunobiology of SARS",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Annu Rev Immunol",
+            "volume": "25",
+            "issn": "",
+            "pages": "443--472",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.immunol.25.022106.141706"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical determinants of the severity of Middle East respiratory syndrome (MERS): a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kutsuna",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hayakawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ohmagari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Public Health",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12889-016-3881-4"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Risk factors for primary Middle East respiratory syndrome coronavirus illness in humans",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Alraddadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Almarashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Abedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Turkistani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sadran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Housa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Almazroa",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Alraihan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Banjar",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Albalawi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Alhindi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Choudhry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Meiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Paczkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Curns",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mounts",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Feikin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Marano",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Swerdlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hajjeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Madani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "49--55",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2201.151340"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kulcsar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Beck",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Frieman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JCI Insight",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/jci.insight.131774"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "A mouse-adapted SARS-coronavirus causes disease and mortality in BALB/c mice",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deming",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Paddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Herman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Heise",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Genrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Pathog",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0030005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gralinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Case",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Leist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pyrc",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Trantcheva",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bannister",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Babusis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clarke",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Spahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Palmiotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Siegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cihlar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Transl Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/scitranslmed.aal3653"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Broad spectrum antiviral remdesivir inhibits human endemic and zoonotic deltacoronaviruses with a highly divergent RNA dependent RNA polymerase",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Won",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dinnon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cihlar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Antiviral Res",
+            "volume": "169",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2019.104541"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "30",
+            "issn": "",
+            "pages": "269--271",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Breakthrough: chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yang",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biosci Trends",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.5582/bst.2020.01047"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Middle East respiratory syndrome vaccine candidates: cautious optimism",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schindewolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11010074"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "SARS-like WIV1-CoV poised for human emergence",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Debbink",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Agnihothram",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gralinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Scobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Plante",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Royal",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Swanstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pickles",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Corti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Randell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lanzavecchia",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Marasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "113",
+            "issn": "",
+            "pages": "3048--3053",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1517719113"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Debbink",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Agnihothram",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gralinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Plante",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Scobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Randell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lanzavecchia",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Marasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat Med",
+            "volume": "21",
+            "issn": "",
+            "pages": "1508--1513",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm.3985"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chmura",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mazet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Crameri",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "503",
+            "issn": "",
+            "pages": "535--538",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12711"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

@@ -1,0 +1,560 @@
+{
+    "paper_id": "a246185ec37a0581341361ff23de439e73f81d92",
+    "metadata": {
+        "title": "Timely development of vaccines against SARS-CoV-2",
+        "authors": [
+            {
+                "first": "Shan",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Nucleic Acid Vaccines",
+                    "institution": "University of Massachusetts Medical School",
+                    "location": {
+                        "settlement": "Worcester",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "from the \"ground zero\" Wuhan City? Since the real origin of infection is still not fully confirmed, a complete control of infection in Wuhan is essential for a sustained control in the whole country. 2. Will there be any near-term resurging of cluster cases in other parts of China, including regions in Hubei beyond Wuhan, capital of the province? The random cases can be quickly put under control given the highly alert local monitoring systems and well-practiced healthcare teams' effective work over the last several weeks. But the cluster cases may pose a new threat for their potential to generate another regional outbreak. 3. Will the world, especially those countries less prepared or with less healthcare resources, be able to handle the sudden appearance of cases at their doorstep?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "The assumption of persistent transmission of SARS-2 at a global scale may no longer be so far-fetched. Even if the virus does not bring a high mortality, the scenario of Community Acquired Coronavirus Infection (CACI) caused by a SARS type virus as part of our daily life will likely disrupt the world social and economic order.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "The same calls for vaccines against SARS and Zika faded after the peak of those mysterious outbreaks, partially due to no public demand or limited commercial return to the vaccine investment. However, a timely development of vaccines against SARS-2 is needed this time, not only for controlling the infection but also for stabilizing the global mood and bringing the economy back on track.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "The current efforts to quickly develop a SARS-2 vaccine",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "The good news now is that many entities have taken actions. CEPI (Coalition for Epidemic Preparedness Innovations) [11] announced on January 23, 2020, the funding to three platform vaccine technologies, DNA, mRNA, and \"molecular clamp\", to develop vaccines against SARS-2. CEPI's mission is to \"accelerate the development of vaccines against emerging infectious diseases and enable equitable access to these vaccines for people during outbreaks.\" The current outbreak will be the first major test to CEPI since its establishment in 2017.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "There is a growing list of global public and private institutions joining the efforts to develop vaccines against SARS-2. The US NIAID Vaccine Research Centre (VRC) is drawing on broad research experience with coronaviruses, combined with a wide network of collaborators from academia, other government agencies, and industry, on the development of various SARS-2 vaccine candidates. Biotech and traditional vaccine companies in many countries announced their plans to quickly develop vaccines using their respective technologies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "From very early in the onset of this outbreak, China demonstrated confidence in developing a vaccine against this viral infection. More recently, the official announcement by the Chinese Health Commission indicated that at least five vaccine technologies will be explored: inactivated vaccine, subunit protein vaccine, nucleic acid vaccine, adenoviral vector vaccine, and recombinant influenza viral vector vaccine. With the growing size of the domestic vaccine industry in recent years, China vaccine developers are expected to announce multiple leading candidate vaccines in the near future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When will new cases of infection stop emerging"
+        },
+        {
+            "text": "The vaccine industry based on the empirical technology has made major contributions to human health over the last 100 years. However, vaccine science is still young in light of the modern immunology and molecular microbiology which have contributed to the requirement of a longer time to develop a new vaccine. Enhanced safety concerns, increasingly complicated manufacturing processes, and related assay requirements are adding to the time and cost for new vaccine development. A new set of rules and standards will need to be adopted to balance the competing scientific, technical, regulatory, and public health considerations, if a quick response SARS-2 vaccine needs to be developed for near future clinical use.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What are the challenges"
+        },
+        {
+            "text": "In recent years, immune correlates of protection are increasingly asked for a candidate vaccine [12] . Structure-guided antigen design is quite common. At the same time, vaccine development is still far from being a perfect science. The discontinuation of HVTN702 reported within the last few weeks reminded us again of the big gap between science and the development of an HIV vaccine after almost four decades' effort. Will protective antibody responses be the targeted immune responses for various vaccine programs against SARS-2? Given the potential challenge in quickly organizing efficacy studies, the animal models against challenge will be extremely valuable for selecting the candidates into humans.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 100,
+                    "text": "[12]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What are the challenges"
+        },
+        {
+            "text": "Traditional vaccine technologies need improvement and a wide variety of new technologies have emerged in the last two decades [13] . Given the unique requirements of a vaccine against the rapidly spreading emerging viral infection, vaccine technologies with previous human study experience will have the advantage, especially for the consideration of safety. Furthermore, whether the developer can quickly move its vaccine technology into a scale-up GMP production for potentially 10-million doses is another challenge. Anyone with an existing facility and the experience of such production will be in a much more favourable position.",
+            "cite_spans": [
+                {
+                    "start": 126,
+                    "end": 130,
+                    "text": "[13]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What are the challenges"
+        },
+        {
+            "text": "The challenge to the regulatory agencies for a timely SARS-2 vaccine is similar to that of the vaccine developers. Safety evaluation of a candidate vaccine against SARS-2 will receive high-level attention. The immunopathogenesis plays a major role in SARS-2 infection and thus it is important to ensure that vaccines against this virus should not elicit the same type of detrimental immune responses. This will affect the type of vaccines to be selected and immunogens to be designed. Will a qualified manufacturing process be sufficient for the advancement of a candidate vaccine or it has to be validated? Can the manufacturing and regulatory experience achieved in other countries be applied to the review of a vaccine application in the current country? Can the cell banks or other intermediate products be accepted across country borders? Will the political or commercial considerations become the barriers to the global effort in addressing the urgent need of a SARS-2 vaccine?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What are the challenges"
+        },
+        {
+            "text": "Finally, the planning should start now on how to let the world have equal access to a successful SARS-2 vaccine if the need is global. The following issues need to be addressed: vaccine ownership, the funding for production at an unprecedented scale, the pricing and supply chain, and the coordinated administration of such a vaccine to achieve the best outcome of full control of the endemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What are the challenges"
+        },
+        {
+            "text": "Even if the global spread of SARS-2 is finally under control before a successful vaccine is fully developed, the vaccine community and world public health leaders need to decide whether a SARS-2 vaccine still should be licensed to serve as a template for vaccines in the future to prevent the outbreaks of other SARS-like viruses. Within 18 years, the world has witnessed three major emerging pathogenic beta coronaviruses (SARS, MERS, and SARS-2) entering large human populations. It may not be too ambitious to suggest a vaccine that can provide broad coverage against more than one of these pathogenic viruses to prevent for future outbreaks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A vaccine beyond the current outbreak"
+        },
+        {
+            "text": "It is generally agreed that developing a new vaccine needs many years' efforts. However, the development of vaccines in recent years against EV71, a highly pathogenic virus causing severe Hand, Foot and Mouth Disease (HFMD) in children, has provided a good example that it is possible to develop a vaccine against a modern emerging infection [14, 15] . Hopefully, it can be even faster this time and possibly using newer vaccine technologies.",
+            "cite_spans": [
+                {
+                    "start": 342,
+                    "end": 346,
+                    "text": "[14,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 347,
+                    "end": 350,
+                    "text": "15]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "A vaccine beyond the current outbreak"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Importation and human-to-human transmission of a novel coronavirus in Vietnam",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Phan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Luong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001272"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "China Novel Coronavirus I, Research T. A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "20",
+            "pages": "30154--30163",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30154-9"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "221--236",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "275--277",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "313--319",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "382--385",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "386--389",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "HIV-1 did not contribute to the 2019-nCoV genome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "378--381",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS-CoV-2: no evidence of a laboratory origin",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Immunecorrelates analysis of an HIV-1 vaccine efficacy trial",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Haynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcelrath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "366",
+            "issn": "",
+            "pages": "1275--1286",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Editorial overview: vaccines against challenging viral pathogens and new vaccine technology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Curr Opin Virol",
+            "volume": "6",
+            "issn": "",
+            "pages": "viii--ix",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "EV71: an emerging infectious disease vaccine target in the Far East?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vaccine",
+            "volume": "28",
+            "issn": "",
+            "pages": "3516--3521",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "EV71 vaccines: a milestone in the history of global vaccine development",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Microbes Infect",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

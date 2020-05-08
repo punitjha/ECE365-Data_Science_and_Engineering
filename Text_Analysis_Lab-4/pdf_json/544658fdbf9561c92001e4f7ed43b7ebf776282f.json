@@ -1,0 +1,3583 @@
+{
+    "paper_id": "544658fdbf9561c92001e4f7ed43b7ebf776282f",
+    "metadata": {
+        "title": "Grand Challenge in Human/Animal Virology: Unseen, Smallest Replicative Entities Shape the Whole Globe",
+        "authors": [
+            {
+                "first": "Martin",
+                "middle": [
+                    "G"
+                ],
+                "last": "Klotz",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Akio",
+                "middle": [],
+                "last": "Adachi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansai Medical University",
+                    "location": {
+                        "settlement": "Osaka",
+                        "country": "Japan"
+                    }
+                },
+                "email": "adachiak@hirakata.kmu.ac.jp"
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "By far the most abundant species in nature is the virus that cannot replicate by itself. Viruses, parasitic entities, are found in virtually all unicellular and multicellular creatures. Viruses are everywhere. While smallest in size among all species, they can ingeniously replicate, persist, and survive in their individual hosts and/or host populations, and are transmittable among hosts. Viruses are sometimes inflicting or fatal for host species and are sometimes inter-species replicons. They keep interacting with their hosts in numerous different manners. Unseen viruses thus can reshuffle the whole world through accumulations of their subtle biological effects. In other words, viruses can shape the entire environment around us and are able to directly and/or indirectly influence us by their biologic activities. Virology is a multidisciplinary research field and, as an academic discipline of the biology, it extensively analyzes all aspects of viruses derived from every living species by scientific systems/methodologies currently available to us as exemplified and fully described in a series of Frontiers special issues designated \"Research Topic\" (RT) in the Virology section of Frontiers in Microbiology Adachi, 2010, 2017; Miyazaki et al., 2012; Nomaguchi et al., 2012; Berkhout and Coombs, 2013; Sato et al., 2013; Adachi and Miura, 2014; Dutilh et al., 2017; Sanfa\u00e7on, 2017; Yamamoto et al., 2017) . I wish to emphasize here again that virology is a branch of biological sciences studying the fundamental attributes of a wide variety of unique characteristic viruses. Virology concerns biological issues in a broad sense.",
+            "cite_spans": [
+                {
+                    "start": 1222,
+                    "end": 1241,
+                    "text": "Adachi, 2010, 2017;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1242,
+                    "end": 1264,
+                    "text": "Miyazaki et al., 2012;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1265,
+                    "end": 1288,
+                    "text": "Nomaguchi et al., 2012;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1289,
+                    "end": 1315,
+                    "text": "Berkhout and Coombs, 2013;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1316,
+                    "end": 1334,
+                    "text": "Sato et al., 2013;",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1335,
+                    "end": 1358,
+                    "text": "Adachi and Miura, 2014;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1359,
+                    "end": 1379,
+                    "text": "Dutilh et al., 2017;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1380,
+                    "end": 1395,
+                    "text": "Sanfa\u00e7on, 2017;",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1396,
+                    "end": 1418,
+                    "text": "Yamamoto et al., 2017)",
+                    "ref_id": "BIBREF75"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the past decade, as many as of 1,500 articles approximately have been published and almost 80 RTs for specific subjects have been issued or are on the way in the Virology section. During this period, we have seen constant and vast increases both in virology-specific, in a narrow sense, articles, and in those giving more conceptual and general knowledge of the biology. Notably, the observed advances frequently have been accompanied by remarkable development of novel innovative technologies. In the next decade, concomitant with successful proceeding of the powerful and sharp analyzing systems and/or methods such as computational biology, structural biology, bioinformatics, multi-omics, next-generation sequencing, genome editing, single-cell methodology, and organoid technology (Bai et al., 2015; Angermueller et al., 2016; Chen et al., 2017; Dutta et al., 2017; Hasin et al., 2017; Adli, 2018; Artegiani and Clevers, 2018; Cheng, 2018; Ibrahim et al., 2018; Rossi et al., 2018; Sbalzarini and Greber, 2018; van Dijk et al., 2018; Pickar-Oliver and Gersbach, 2019) , virology will certainly continue to contribute much to the progress in all areas of the basic biology from molecular and structural biology to environmental science. In addition, virology will surely represent one of major driving forces to solve a wide variety of practical issues, which are directly or indirectly related to the virus issue itself, i.e., nanotechnology, viral vectors, antiviral drugs, vaccines, gene therapy, interferon therapy, immune therapy, and so on (De Clercq, 2007; Guimar\u00e3es et al., 2015; Szunerits et al., 2015; De Clercq and Li, 2016; Athanasopoulos et al., 2017; Grimm and B\u00fcning, 2017; Singh et al., 2017; Snell et al., 2017; Chambers et al., 2018; Colino et al., 2018; Kaufmann et al., 2018; Ono et al., 2018; Sulczewski et al., 2018; Vetter et al., 2018; Dionne, 2019; Graham et al., 2019) . It is well-expected from our plentiful experience in the past decade that the Virology section, as an outstanding communication platform, plays a critical and central role in various activities of basic and applied sciences.",
+            "cite_spans": [
+                {
+                    "start": 789,
+                    "end": 807,
+                    "text": "(Bai et al., 2015;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 808,
+                    "end": 834,
+                    "text": "Angermueller et al., 2016;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 835,
+                    "end": 853,
+                    "text": "Chen et al., 2017;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 854,
+                    "end": 873,
+                    "text": "Dutta et al., 2017;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 874,
+                    "end": 893,
+                    "text": "Hasin et al., 2017;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 894,
+                    "end": 905,
+                    "text": "Adli, 2018;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 906,
+                    "end": 934,
+                    "text": "Artegiani and Clevers, 2018;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 935,
+                    "end": 947,
+                    "text": "Cheng, 2018;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 948,
+                    "end": 969,
+                    "text": "Ibrahim et al., 2018;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 970,
+                    "end": 989,
+                    "text": "Rossi et al., 2018;",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 990,
+                    "end": 1018,
+                    "text": "Sbalzarini and Greber, 2018;",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 1019,
+                    "end": 1041,
+                    "text": "van Dijk et al., 2018;",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 1042,
+                    "end": 1075,
+                    "text": "Pickar-Oliver and Gersbach, 2019)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 1553,
+                    "end": 1570,
+                    "text": "(De Clercq, 2007;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1571,
+                    "end": 1594,
+                    "text": "Guimar\u00e3es et al., 2015;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1595,
+                    "end": 1618,
+                    "text": "Szunerits et al., 2015;",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 1619,
+                    "end": 1642,
+                    "text": "De Clercq and Li, 2016;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1643,
+                    "end": 1671,
+                    "text": "Athanasopoulos et al., 2017;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1672,
+                    "end": 1695,
+                    "text": "Grimm and B\u00fcning, 2017;",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1696,
+                    "end": 1715,
+                    "text": "Singh et al., 2017;",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 1716,
+                    "end": 1735,
+                    "text": "Snell et al., 2017;",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 1736,
+                    "end": 1758,
+                    "text": "Chambers et al., 2018;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1759,
+                    "end": 1779,
+                    "text": "Colino et al., 2018;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1780,
+                    "end": 1802,
+                    "text": "Kaufmann et al., 2018;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1803,
+                    "end": 1820,
+                    "text": "Ono et al., 2018;",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 1821,
+                    "end": 1845,
+                    "text": "Sulczewski et al., 2018;",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 1846,
+                    "end": 1866,
+                    "text": "Vetter et al., 2018;",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 1867,
+                    "end": 1880,
+                    "text": "Dionne, 2019;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1881,
+                    "end": 1901,
+                    "text": "Graham et al., 2019)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Human and animal virology investigates viruses that infect human and all species of animals. Upon replication, some viruses are damaging for their hosts to various degrees whereas others rather peacefully co-exist with the hosts. Among these viruses, those that cause serious infectious diseases in human and/or animals, are medically, socially, and economically of particular importance, as a matter of course for scientific significance. In fact, our Virology section has published numerous articles related to this kind of human and animal viruses and has edited relevant RTs in the past decade. On one hand, more general subjects covering various pathogenic viruses and related research areas have been targeted as well. Of socially important pathogenic viruses, some are solely tropic for humans, HIV-1 as an example (Hatziioannou et al., 2006 (Hatziioannou et al., , 2009 Kamada et al., 2006; Nomaguchi et al., 2008 Nomaguchi et al., , 2013b , and some like human norovirus are known not to replicate in cultured cells (Duizer et al., 2004; Herbst-Kralovetz et al., 2013; Ettayebi et al., 2016; Murakami et al., 2020) . Indeed, these viral properties hamper and limit our experimental strategies, and are representing major study projects to overcome in the virology. Alternative practical experimental systems, irrespective of being commonly useful and applicable to numbers of viruses or specifically to certain viruses, to circumvent the observed difficulties are definitely required. Expert researchers on the viruses have been making every effort to achieve the primary purposes (Kamada et al., 2006; Nomaguchi et al., 2011 Nomaguchi et al., , 2013b Soll et al., 2013; Hatziioannou et al., 2014; Ettayebi et al., 2016; Doi et al., 2018; Schmidt et al., 2019; Murakami et al., 2020) . The trend described above is understandable and wellrecognized by published articles and RTs in the human and animal virus field in the Virology section. Most cited articles and most viewed RTs in the human/animal virus field of the section (top 5, as of February 3, 2020) are as follows, respectively: articles, \"Epidemiological aspects and world distribution of HTLV-1 infection\" (Gessain and Cassar, 2012) , \"Pathology of asthma\" (Kudo et al., 2013) , \"Challenges and opportunities in estimating viral genetic diversity from next-generation sequencing data\" (Beerenwinkel et al., 2012) , \"ER stress, autophagy, and RNA viruses\" (Jheng et al., 2014) , and \"Zika virus: the latest newcomer\" (Saiz et al., 2016) ; RTs, \"Highly mutable animal RNA viruses: adaptation and evolution\" , \"Virus discovery by metagenomics: the (im)possibilities\" (Dutilh et al., 2017) , \"Zika virus research\" (Bueno-Mar\u00ed et al., 2018), \"Pathophysiology and epidemiology of virus-induced asthma\" (Kimura and Ryo, 2014) , and \"Forefront studies on HTLV-1 oncogenesis\" (Mahieux and Watanabe, 2013) . The results described above may indicate the research field in which our peers are mostly interested. Another point worth mentioning here is the emerging pathogenic viruses such as hemorrhagic Ebola virus and pneumonia-causing new coronavirus designated SARS-CoV-2. These viruses are becoming more and more important under today's world environment, as is the case for the influenza virus, a continuous global health threat, that potentially can induce an awful pandemic. It is more and more probable that humans may encounter emerging zoonotic viral pathogens and also re-emerging viruses through extensive inroads into untouched areas. We of course do not know much about the biology, including the ecology, origin, mutation, adaptation, etc., of these new viruses as yet. Once transmitted to humans, they readily replicate in and spread among human populations without effective immunity against them. Care should be taken not to be infected with the viruses at individual and population levels. Infected individuals must be treated properly. In this regard, we virologists always have to prepare the ground for sudden onsets of new emerging diseases. Routine collaborative research activities among basic researchers, clinical doctors, and relevant staffs of various expertise underpin the basis for swift responses against them. Valid anti-viral strategies can be generated by such well-organized medical teams.",
+            "cite_spans": [
+                {
+                    "start": 822,
+                    "end": 848,
+                    "text": "(Hatziioannou et al., 2006",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 849,
+                    "end": 877,
+                    "text": "(Hatziioannou et al., , 2009",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 878,
+                    "end": 898,
+                    "text": "Kamada et al., 2006;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 899,
+                    "end": 921,
+                    "text": "Nomaguchi et al., 2008",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 922,
+                    "end": 947,
+                    "text": "Nomaguchi et al., , 2013b",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1025,
+                    "end": 1046,
+                    "text": "(Duizer et al., 2004;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1047,
+                    "end": 1077,
+                    "text": "Herbst-Kralovetz et al., 2013;",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1078,
+                    "end": 1100,
+                    "text": "Ettayebi et al., 2016;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1101,
+                    "end": 1123,
+                    "text": "Murakami et al., 2020)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1590,
+                    "end": 1611,
+                    "text": "(Kamada et al., 2006;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1612,
+                    "end": 1634,
+                    "text": "Nomaguchi et al., 2011",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1635,
+                    "end": 1660,
+                    "text": "Nomaguchi et al., , 2013b",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 1661,
+                    "end": 1679,
+                    "text": "Soll et al., 2013;",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 1680,
+                    "end": 1706,
+                    "text": "Hatziioannou et al., 2014;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1707,
+                    "end": 1729,
+                    "text": "Ettayebi et al., 2016;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1730,
+                    "end": 1747,
+                    "text": "Doi et al., 2018;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1748,
+                    "end": 1769,
+                    "text": "Schmidt et al., 2019;",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1770,
+                    "end": 1792,
+                    "text": "Murakami et al., 2020)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 2177,
+                    "end": 2203,
+                    "text": "(Gessain and Cassar, 2012)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 2228,
+                    "end": 2247,
+                    "text": "(Kudo et al., 2013)",
+                    "ref_id": null
+                },
+                {
+                    "start": 2356,
+                    "end": 2383,
+                    "text": "(Beerenwinkel et al., 2012)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 2426,
+                    "end": 2446,
+                    "text": "(Jheng et al., 2014)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 2487,
+                    "end": 2506,
+                    "text": "(Saiz et al., 2016)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 2635,
+                    "end": 2656,
+                    "text": "(Dutilh et al., 2017)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 2767,
+                    "end": 2789,
+                    "text": "(Kimura and Ryo, 2014)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 2838,
+                    "end": 2866,
+                    "text": "(Mahieux and Watanabe, 2013)",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Viruses can cause acute or chronic infections in human and animal hosts in many mechanistically different ways. While causative viruses for the former do not persist long in individual hosts in general, the latter viruses generate persistent infection and may give rise to latent infection. It is scientifically and practically important and of great interest to determine the underlying mechanisms. Elucidating biological and molecular bases for the conflict between viruses and their hosts is therefore one of major missions of current virology. Especially, for some pathogenic viruses that have incredibly lengthy interacting period with hosts, or that are prone to readily alter in nature, it is critically important to dynamically investigate their mutations, adaptation, and evolution. HIV-1, a representative virus for such category, readily mutates and adapts itself in the course of infection as experimentally revealed by a series of analytical studies (Nomaguchi et al., 2008 (Nomaguchi et al., , 2013a (Nomaguchi et al., ,c, 2014 (Nomaguchi et al., , 2018 Saito et al., 2011; Yokoyama et al., 2016; Doi et al., 2019) . Here, following seven RTs in our Virology section are cited as examples of various cases for viral interactions with their hosts: \"Codon usage and dinucleotide composition of virus genomes: from the virus-host interaction to the development of vaccines, \" \"Host and pathogen mechanisms underpinning viral ecology and emerging infections, \" \"Revealing HIV hiding places: identification and characterization of cellular and tissue reservoirs, \" \"The interplay between innate immunity and herpesviruses, \" \"HIV-1 genetic diversity, \" \"Highly mutable animal RNA viruses: adaptation and evolution\" , and \"The past and the future of human immunity under viral evolutionary pressure\" (Hurst and Magiorkinis, 2019) . As can be realized by the brief descriptions for the RTs and articles published in the RTs, there are indeed numerous distinct virus-host interactions to be noted. Lastly, regardless of their medical or economic effects on human society, all RNA and DNA viruses are equally valid targets for extensive scientific studies in today's virology. We aim to publish important articles resulting from those studies that significantly advance our understanding of the viruses and related issues in our Virology section.",
+            "cite_spans": [
+                {
+                    "start": 963,
+                    "end": 986,
+                    "text": "(Nomaguchi et al., 2008",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 987,
+                    "end": 1013,
+                    "text": "(Nomaguchi et al., , 2013a",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1014,
+                    "end": 1041,
+                    "text": "(Nomaguchi et al., ,c, 2014",
+                    "ref_id": null
+                },
+                {
+                    "start": 1042,
+                    "end": 1067,
+                    "text": "(Nomaguchi et al., , 2018",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 1068,
+                    "end": 1087,
+                    "text": "Saito et al., 2011;",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 1088,
+                    "end": 1110,
+                    "text": "Yokoyama et al., 2016;",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 1111,
+                    "end": 1128,
+                    "text": "Doi et al., 2019)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1808,
+                    "end": 1837,
+                    "text": "(Hurst and Magiorkinis, 2019)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The most noticeable topic in the field of human and animal virology in the next decade would depend upon what happens in the virological world around us. It could be a deadly virus that causes global infection, or, could be some discovery or invention that changes our concept. Attention should be paid to endogenized viral elements that affect the hosts in a biologically significant way. The relevant research field is rapidly growing as described recently in our journal (Staege and Emmer, 2018; Turnbull and Douville, 2018; Flynn and Moreau, 2019; Moelling and Broecker, 2019) . As for the correct answer to the question above, it is of course unpredictable at the present time but the virological information and biological finding of the first magnitude that move the academic and public communities will surely determine the result. Based on enormous accumulations of scientific and statistical data of numerous kinds in various fields, together with orthodox and innovative analytical systems, it is quite expected that future virology can further deepen studies on virus populations and predictive science as well as those on a specific individual virus. From this point of view, I would like to enthusiastically encourage researchers outside the virology field, in addition to those who inside, to submit their representative works to our Virology section, if there is a little relevance. Virology is multidisciplinary in its marked and essential characteristic as stated above. Nevertheless, the bottommost role for current virology in the era of \"Big Data\" is to functionally/biologically characterize individual viruses for the future by all available tools. By focusing on viruses, we can study and analyze living replicating creatures in all directions. We the Virology section of Frontiers in Microbiology most welcome the collaborative and integrative studies that impact and stimulate the whole world. Join us and share the fruits of virology.",
+            "cite_spans": [
+                {
+                    "start": 474,
+                    "end": 498,
+                    "text": "(Staege and Emmer, 2018;",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 499,
+                    "end": 527,
+                    "text": "Turnbull and Douville, 2018;",
+                    "ref_id": "BIBREF72"
+                },
+                {
+                    "start": 528,
+                    "end": 551,
+                    "text": "Flynn and Moreau, 2019;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 552,
+                    "end": 580,
+                    "text": "Moelling and Broecker, 2019)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "AA is a sole contributor to this manuscript and approved its submission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Animal model studies on viral infections",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Adachi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Miura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Front. Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2014.00672"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The CRISPR tool kit for genome editing and beyond",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1911,
+            "venue": "Nat. Commun",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41467-018-04252-2"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Deep learning for computational biology",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Angermueller",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "P\u00e4rnamaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Parts",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Stegle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Mol. Syst. Biol",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.15252/msb.20156651"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Use and application of 3D-organoid technology",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Artegiani",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Clevers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Hum. Mol. Genet",
+            "volume": "27",
+            "issn": "",
+            "pages": "99--107",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/hmg/ddy187"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Nonintegrating gene therapy vectors",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Athanasopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Munye",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Y\u00e1\u00f1ez-Mu\u00f1oz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Hematol. Oncol. Clin. North Am",
+            "volume": "31",
+            "issn": "",
+            "pages": "753--770",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.hoc.2017.06.007"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "How cryo-EM is revolutionizing structural biology",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mcmullan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H W"
+                    ],
+                    "last": "Scheres",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Trends Biochem. Sci",
+            "volume": "40",
+            "issn": "",
+            "pages": "49--57",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tibs.2014.10.005"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Challenges and opportunities in estimating viral genetic diversity from next-generation sequencing data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Beerenwinkel",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "G\u00fcnthard",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Metzner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Front. Microbiol",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2012.00329"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Quantitative omics and its application to study virus-host interactions-a new frontier",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Coombs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Front. Microbiol",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2013.00031"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Editorial: Zika virus research",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bueno-Mar\u00ed",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Saiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Salom\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Villamil-Jim\u00e9nez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Heukelbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Alencar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front. Neurol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fneur.2018.00168"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Overview of the baculovirus expression system",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chambers",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aksular",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Graves",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Irons",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Possee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Curr. Protoc. Protein Sci",
+            "volume": "91",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cpps.47"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Protein bioinformatics databases and resources",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Methods Mol. Biol",
+            "volume": "1558",
+            "issn": "",
+            "pages": "3--39",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4939-6783-4_1"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Membrane protein structural biology in the era of single particle cryo-EM",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Curr. Opin. Struct. Biol",
+            "volume": "52",
+            "issn": "",
+            "pages": "58--63",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.sbi.2018.08.008"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Nanoparticles for signaling in biodiagnosis and treatment of infectious diseases",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Colino",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mill\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lanao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Int. J. Mol. Sci",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijms19061627"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The design of drugs for HIV and HCV",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nat. Rev. Drug Discov",
+            "volume": "6",
+            "issn": "",
+            "pages": "1001--1018",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd2424"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Approved antiviral drugs over the past 50 years",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Clin. Microbiol. Rev",
+            "volume": "29",
+            "issn": "",
+            "pages": "695--747",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00102-15"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Key principles of antiretroviral pharmacology",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dionne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Infect. Dis. Clin. North Am",
+            "volume": "33",
+            "issn": "",
+            "pages": "787--805",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.idc.2019.05.006"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "HIV-1 clones are both tractable to grow in rhesus macaques",
+            "authors": [
+                {
+                    "first": "Cxcr4",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Front. Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2018.02510"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Concomitant enhancement of HIV-1 replication potential and neutralizationresistance in concert with three adaptive mutations in Env V1/C2/C4 domains",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koma",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Kotani",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Adachi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "10",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2019.00002"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Laboratory efforts to cultivate noroviruses",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Duizer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schwab",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Atmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Estes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "79--87",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19478-0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Editorial: virus discovery by metagenomics: the (im)possibilities",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dutilh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Whiteson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.01710"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Disease modeling in stem cell-derived 3D organoid systems",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dutta",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Heo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Clevers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Trends Mol. Med",
+            "volume": "23",
+            "issn": "",
+            "pages": "393--410",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molmed.2017.02.007"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Replication of human noroviruses in stem cellderived human enteroids",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ettayebi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Crawford",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Broughman",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Karandikar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tenge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "353",
+            "issn": "",
+            "pages": "1387--1393",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aaf5211"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Assessing the diversity of endogenous viruses throughout ant genomes",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Flynn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Moreau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2019.01139"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Epidemiological aspects and world distribution of HTLV-1 infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gessain",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Cassar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Front. Microbiol",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2012.00388"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Structurebased vaccine antigen design",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S A"
+                    ],
+                    "last": "Gilman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mclellan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Annu. Rev. Med",
+            "volume": "70",
+            "issn": "",
+            "pages": "91--104",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev-med-121217-094234"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Small but increasingly mighty: latest advances in AAV vector research, design, and evolution",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "B\u00fcning",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Gene Ther",
+            "volume": "28",
+            "issn": "",
+            "pages": "1075--1086",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.2017.172"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Vaccines, adjuvants and autoimmunity",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Guimar\u00e3es",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Perricone",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shoenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Pharmacol. Res",
+            "volume": "100",
+            "issn": "",
+            "pages": "190--209",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.phrs.2015.08.003"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Multi-omics approaches to disease",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hasin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seldin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lusis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Genome Biol",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s13059-017-1215-1"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "A macaque model of HIV-1 infection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatziioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ambrose",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Piatak",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Trubey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "106",
+            "issn": "",
+            "pages": "4425--4429",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0812587106"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "HIV-1-induced AIDS in monkeys",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatziioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Del Prete",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Keele",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Estes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mcnatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bitzegeio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Science",
+            "volume": "344",
+            "issn": "",
+            "pages": "1401--1405",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1250761"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Generation of simian-tropic HIV-1 by restriction factor evasion",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatziioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Princiotta",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Piatak",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lifson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "314",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1130994"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Lack of norovirus replication and histo-blood group antigen expression in 3-dimensional intestinal epithelial cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Herbst-Kralovetz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Radtke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lay",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hjelm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Bolick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sarker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "431--438",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121029"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Editorial: the past and the future of human immunity under viral evolutionary pressure",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hurst",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Magiorkinis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2019.02340"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "A new era of virus bioinformatics",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ibrahim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mcmahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Hufsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Beer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mercier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Virus Res",
+            "volume": "251",
+            "issn": "",
+            "pages": "86--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2018.05.009"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "ER stress, autophagy, and RNA viruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Jheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Horng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Front. Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2014.00388"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Generation of HIV-1 derivatives that productively infect macaque monkey lymphoid cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kamada",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Igarashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Khamsri",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hatcho",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yamashita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "103",
+            "issn": "",
+            "pages": "16959--16964",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0608289103"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Host-directed therapies for bacterial and viral infections",
+            "authors": [],
+            "year": null,
+            "venue": "Nat. Rev. Drug Discov",
+            "volume": "17",
+            "issn": "",
+            "pages": "35--56",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd.2017.162"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Pathophysiology and epidemiology of virus-induced asthma",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ryo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Front. Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2014.00562"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Forefront studies on HTLV-1 oncogenesis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mahieux",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Front. Microbiol",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2013.00156"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Structural biology for virus research",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Miyazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Front. Microbiol",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2012.00091"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Viruses and evolution -viruses first? A personal perspective",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moelling",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Broecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2019.00523"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Bile acids and ceramide overcome the entry restriction for GII. 3 human norovirus replication in human intestinal enteroids",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tengea",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Karandikara",
+                    "suffix": ""
+                },
+                {
+                    "first": "S. -C",
+                    "middle": [],
+                    "last": "Lina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ramania",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ettayebia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "117",
+            "issn": "",
+            "pages": "1700--1710",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1910138117"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Virology as biosystematics: towards understanding the viral infection biology",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Front. Microbiol",
+            "volume": "1",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2010.00002"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Editorial: highly mutable animal RNA viruses: adaptation and evolution",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.01785"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Macaquetropic HIV-1 derivatives: a novel experimental approach to understand viral replication and evolution in vivo",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "HIV-Host Interactions",
+            "volume": "",
+            "issn": "",
+            "pages": "325--348",
+            "other_ids": {
+                "DOI": [
+                    "10.5772/23624"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Systemic biological analysis of the mutations in two distinct HIV-1mt genomes occurred during replication in macaque cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Akari",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nakayama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Microbes Infect",
+            "volume": "15",
+            "issn": "",
+            "pages": "319--328",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2013.01.005"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Species barrier of HIV-1 and its jumping by virus engineering",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kamada",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Rev. Med. Virol",
+            "volume": "18",
+            "issn": "",
+            "pages": "261--275",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/rmv.576"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "HIV-1 mutates to adapt in fluxing environments",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adachi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Microbes Infect",
+            "volume": "20",
+            "issn": "",
+            "pages": "610--614",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2017.08.003"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Natural single-nucleotide variations in the HIV-1 genomic SA1prox region can alter viral replication ability by regulating Vif expression levels",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ode",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Iwatani",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ueno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "4563--4578",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02939-15"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Production of HIV-1 vif mRNA is modulated by natural nucleotide variations and SLSA1 RNA structure in SA1D2prox genomic region",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koma",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Adachi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ode",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.02542"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Natural single-nucleotide polymorphisms in the 3' region of the HIV-1 pol gene modulate viral replication ability",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Miyake",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Miyazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tsunetsugu-Yokota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Virol",
+            "volume": "88",
+            "issn": "",
+            "pages": "4145--4160",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01859-13"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Generation of rhesus macaque-tropic HIV-1 clones that are resistant to major anti-HIV-1 restriction factors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kono",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nakayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shioda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "11447--11461",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01549-13"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Gag-CA Q110D mutation elicits TRIM5-independent enhancement of HIV-1mt replication in macaque cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kono",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nakayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shioda",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Microbes Infect",
+            "volume": "15",
+            "issn": "",
+            "pages": "56--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2012.10.013"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Baculovirus as a tool for gene delivery and gene therapy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ono",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Okamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Matsuura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Viruses",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v10090510"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The next generation of CRISPR-Cas technologies and applications",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pickar-Oliver",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gersbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat. Rev. Mol. Cell Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "490--507",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41580-019-0131-5"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Progress and potential in organoid research",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Manfrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Lutolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nat. Rev. Genet",
+            "volume": "19",
+            "issn": "",
+            "pages": "671--687",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41576-018-0051-9"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Improved capacity of a monkey-tropic HIV-1 derivative to replicate in cynomolgus monkeys with minimal modifications",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Iijima",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kuroishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Microbes Infect",
+            "volume": "13",
+            "issn": "",
+            "pages": "58--64",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2010.10.001"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Zika virus: the latest newcomer",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Saiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c1",
+                    "middle": [],
+                    "last": "V\u00e1zquez-Calvo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bl\u00e1zquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Merino-Ramos",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Escribano-Romero",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mart\u00edn-Acebes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front. Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2016.00496"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Grand challenge in plant virology: understanding the impact of plant viruses in model plants, in agricultural crops, and in complex ecosystems",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sanfa\u00e7on",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.00860"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Genomics and computational science for virus research",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Toh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Front. Microbiol",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2013.00042"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "How computational models enable mechanistic insights into virus infection",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Sbalzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Greber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Methods Mol. Biol",
+            "volume": "1836",
+            "issn": "",
+            "pages": "609--631",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4939-8678-1_30"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Derivation of simian tropic HIV-1 infectious clone reveals virus adaptation to a new host",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Keele",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Del Prete",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Voronin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fennessey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Soll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "116",
+            "issn": "",
+            "pages": "10504--10509",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1818059116"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "The role of nanotechnology in the treatment of viral infections",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kruger",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E M"
+                    ],
+                    "last": "Maguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Govender",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Parboosing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Ther. Adv. Infect. Dis",
+            "volume": "4",
+            "issn": "",
+            "pages": "105--131",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/2049936117713593"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Type I interferon in chronic virus infection and cancer",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Snell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcgaha",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Brooks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Trends Immunol",
+            "volume": "38",
+            "issn": "",
+            "pages": "542--557",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.it.2017.05.005"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Assisted evolution enables HIV-1 to overcome a high TRIM5\u03b1-imposed genetic barrier to rhesus macaque tropism",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Soll",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kutluay",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatziioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bieniasz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Pathog",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1003667"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Editorial: endogenous viral elementslinks between autoimmunity and cancer?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Staege",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Emmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front. Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2018.03171"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Nanoparticle vaccines against viral infections",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sulczewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Liszbinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R T"
+                    ],
+                    "last": "Rom\u00e3o",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rodrigues",
+                    "middle": [],
+                    "last": "Junior",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Arch. Virol",
+            "volume": "163",
+            "issn": "",
+            "pages": "2313--2325",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-018-3856-0"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Nanostructures for the inhibition of viral infections",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Szunerits",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barras",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Khanal",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Pagneux",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Boukherroub",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Molecules",
+            "volume": "20",
+            "issn": "",
+            "pages": "14051--14081",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/molecules200814051"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Related endogenous retrovirus-K elements harbor distinct protease active site motifs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Turnbull",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Douville",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front. Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2018.01577"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "The third revolution in sequencing technology",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Van Dijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jaszczyszyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Naquin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thermes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Trends Genet",
+            "volume": "34",
+            "issn": "",
+            "pages": "666--681",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tig.2018.05.008"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Understanding modern-day vaccines: what you need to know",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Vetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Denizer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Friedland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shapiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ann. Med",
+            "volume": "50",
+            "issn": "",
+            "pages": "110--120",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07853890.2017.1407035"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Editorial: perspectives for the next generation of virus research: spearheading the use of innovative technologies and methodologies",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ryo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2017.00758"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "In silico analysis of HIV-1 Env-gp120 reveals structural bases for viral adaptation in growth-restrictive cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Doi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kanda",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Adachi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front. Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2016.00110"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "I would like to thank Prof. Masako Nomaguchi (Tokushima University, Tokushima, Japan) for continuous hot/extensive discussions about Virology. I also appreciate Ms. Fumie Nishina (Kansai Medical University, Osaka, Japan) and Ms. Kazuko Yoshida (Tokushima University) for excellent editorial assistance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        },
+        {
+            "text": "The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.Copyright \u00a9 2020 Adachi. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest:"
+        }
+    ]
+}

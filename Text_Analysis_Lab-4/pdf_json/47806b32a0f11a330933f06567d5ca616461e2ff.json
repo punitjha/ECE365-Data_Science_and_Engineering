@@ -1,0 +1,340 @@
+{
+    "paper_id": "47806b32a0f11a330933f06567d5ca616461e2ff",
+    "metadata": {
+        "title": "How to transform a general hospital into an \"infectious disease hospital\" during the epidemic of COVID-19",
+        "authors": [
+            {
+                "first": "Hongli",
+                "middle": [],
+                "last": "He",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Electronic",
+                    "location": {
+                        "addrLine": "No. 32 West Section 2, First Ring Road",
+                        "settlement": "Chengdu",
+                        "region": "Sichuan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Caiying",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nian",
+                "middle": [],
+                "last": "Xiong",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiaobo",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Electronic",
+                    "location": {
+                        "addrLine": "No. 32 West Section 2, First Ring Road",
+                        "settlement": "Chengdu",
+                        "region": "Sichuan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "How to transform a general hospital into an \"infectious disease hospital\" during the epidemic of COVID-19",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Hongli He 1 , Caiying Hu 2 , Nian Xiong 3,4 , Cheng Liu 5 and Xiaobo Huang 1* Dear Editor,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The newly confirmed coronavirus disease 2019 (COVID-19) cases are still increasing strikingly in many countries according to the data reported by the World Health Organization. Liu et al. suggested that reconstructing an existing hospital into an infectious disease hospital (IDH) is an important strategy to prepare for the epidemic [1] . Here, we will extend their advice and share some of our lessons.",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 337,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Wuhan Red Cross Hospital is a secondary general hospital with 500 beds. According to the instruction of the Chinese government, the hospital became a designated hospital which only received the febrile patients since January 22. The hospital responds to it very quickly. First, all the uninfected patients were transferred to other hospitals. Second, the sixteen-story hospital building was redesigned, and the changes are shown in Fig. 1a . Most importantly, two independent observation area and intensive care units (ICU) were rebuilt for COVID-19 test negative and positive patients; the ICU beds should occupy 26.1-32% of total beds [2, 3] . Third, twelve fever clinics were set to triage the patients; the protocol is shown in Fig. 1b . Fourth, infection prevention and control is very important: (a) training of the medical staff through face to face and video; (b) independent accesses for patients and medical staff; (c) the staff enter and exit the contaminated zone via two isolated aisles; (d) an infection control team checks each step of putting on and taking off personal protective equipment (PPE) to make sure that the staff is doing correctly; and (e) the doctors take 4-8 h shift, and the nurses take 4 h shift to reduce the exposure risk. Fifth, prepare enough PPEs, medical equipment like high-flow nasal cannula, ventilator, bronchoscope, sterilizing equipment, and extracorporeal membrane oxygenation (ECMO) if possible. Sixth, sufficient oxygen supply is very crucial for these patients as all the patients need oxygen therapy; unfortunately, some of our patients died because of the shortage of oxygen at the early time. Seventh, with the help of the government, several medical teams including doctors and nurses from infectious disease, pulmonary department, and ICU from other provinces came to help us. The specialists from the three departments were the leader of the new wards. Eighth, the treatment of the patients was according to the guidelines updated by the National Health Committee of China. A multidisciplinary team was formed to help to make a treatment plan for the critically ill patients, and sometimes, the teleconsultation was held for the patients either. ",
+            "cite_spans": [
+                {
+                    "start": 637,
+                    "end": 640,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 641,
+                    "end": 643,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 432,
+                    "end": 439,
+                    "text": "Fig. 1a",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 732,
+                    "end": 739,
+                    "text": "Fig. 1b",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Critical care response to a hospital outbreak of the 2019-nCoV infection in Shenzhen",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Crit Care",
+            "volume": "24",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "China. JAMA",
+            "volume": "2020",
+            "issn": "11",
+            "pages": "1061--69",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Abbreviations COVID-19: Coronavirus disease 2019; IDH: Infectious disease hospital; ICU: Intensive care unit; PPE: Personal protective equipment; ECMO: Extracorporeal membrane oxygenation Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Schematic of the hospital modification (a) and the flow chart of the treatment process of suspected COVID-19 patients (b)",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We would like to thank all the hospital members for their efforts in the reconstruction of the hospital. We would like to thank all the medical teams from Sichuan, Shanxi, Beijing, Shanghai, and Hebei for their great help to fight against the COVID-19. We would also like to thank all the caring people and organizations for their kind donations during our hard times. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions HLH drafted and conceptualized the main letter. CYH, NX, and CL drafted and revised the figure in the letter. XBH revised and proofread the contents of the letter and figure. All authors read and approved the final manuscript. Availability of data and materials Not applicable.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.Author details",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

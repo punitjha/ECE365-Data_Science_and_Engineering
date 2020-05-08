@@ -1,0 +1,4392 @@
+{
+    "paper_id": "6f904e32c03752e75e99683cbb9b0c2c2379c464",
+    "metadata": {
+        "title": "microorganisms OXA-48 Carbapenemase in Klebsiella pneumoniae Sequence Type 307 in Ecuador",
+        "authors": [
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "E"
+                ],
+                "last": "Villac\u00eds",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Pontificia Universidad Cat\u00f3lica del Ecuador",
+                    "location": {
+                        "postCode": "170143",
+                        "region": "Quito",
+                        "country": "Ecuador"
+                    }
+                },
+                "email": "jevillacis@gmail.comj.e.v."
+            },
+            {
+                "first": "Jorge",
+                "middle": [
+                    "A"
+                ],
+                "last": "Reyes",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad Central del Ecuador",
+                    "location": {
+                        "postCode": "170129",
+                        "region": "Quito",
+                        "country": "Ecuador"
+                    }
+                },
+                "email": "jorgereyes83@gmail.com"
+            },
+            {
+                "first": "Hugo",
+                "middle": [
+                    "G"
+                ],
+                "last": "Castel\u00e1n-S\u00e1nchez",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sonia",
+                "middle": [],
+                "last": "D\u00e1vila-Ramos",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Miguel",
+                "middle": [
+                    "Angel"
+                ],
+                "last": "Lazo",
+                "suffix": "",
+                "affiliation": {},
+                "email": "miguellazo2001@gmail.comm.a.l."
+            },
+            {
+                "first": "Ahmad",
+                "middle": [],
+                "last": "Wali",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luis",
+                "middle": [
+                    "A"
+                ],
+                "last": "Bodero",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yadira",
+                "middle": [],
+                "last": "Toapanta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Cristina",
+                "middle": [],
+                "last": "Naranjo",
+                "suffix": "",
+                "affiliation": {},
+                "email": "mb.cristina.naranjo@hotmail.comc.n."
+            },
+            {
+                "first": "Lorena",
+                "middle": [],
+                "last": "Montero",
+                "suffix": "",
+                "affiliation": {},
+                "email": "lpmonterot@gmail.coml.m."
+            },
+            {
+                "first": "Josefina",
+                "middle": [],
+                "last": "Campos",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud \"Dr. Carlos G. Malbr\u00e1n,\" Buenos Aires 1281",
+                    "institution": "",
+                    "location": {
+                        "country": "Argentina"
+                    }
+                },
+                "email": "jocampos05@gmail.com"
+            },
+            {
+                "first": "Marcelo",
+                "middle": [
+                    "G"
+                ],
+                "last": "Galas",
+                "suffix": "",
+                "affiliation": {},
+                "email": "galasmar@paho.org"
+            },
+            {
+                "first": "M\u00f3nica",
+                "middle": [
+                    "C"
+                ],
+                "last": "Gestal",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Louisiana State University (LSU)",
+                    "location": {
+                        "postCode": "71103",
+                        "settlement": "Shreveport",
+                        "region": "LA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Antibiotic resistance is on the rise, leading to an increase in morbidity and mortality due to infectious diseases. Klebsiella pneumoniae is a Gram-negative bacterium that causes bronchopneumonia, abscesses, urinary tract infection, osteomyelitis, and a wide variety of infections. The ubiquity of this microorganism confounds with the great increase in antibiotic resistance and have bred great concern worldwide. K. pneumoniae sequence type (ST) 307 is a widespread emerging clone associated with hospital-acquired infections, although sporadic community infections have also been reported. The aim of our study is to describe the first case of Klebsiella pneumoniae (ST) 307 harboring the blaOXA-48-like gene in Ecuador. We characterized a new plasmid that carry OXA-48 and could be the source of future outbreaks. The strain was recovered from a patient with cancer previously admitted in a Ukrainian hospital, suggesting that this mechanism of resistance could be imported. These findings highlight the importance of programs based on active molecular surveillance for the intercontinental spread of multidrug-resistant microorganisms with emergent carbapenemases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Antibiotic resistance is considered a XXI century pandemic [1] , and several federal and governmental organisms, such as the World Health Organization (WHO), are calling for an urgent action to halt the spread the multidrug resistance microorganisms [2] . Carbapenem-resistant Enterobacterales are included in the list of urgent threats provided by the CDC (https://www.cdc.gov/drugresistance/ biggest-threats.html [3] ), and its dissemination throughout the world is a major public health worry. Carbapenemases are enzymes capable of hydrolyzing almost all \u03b2-lactam antibiotics and they are commonly located in plasmids, allowing to be spread throughout a great diversity of Gram-negative bacteria [4, 5] . Serine carbapenemases (KPC) and metallo-\u03b2-lactamases (NDM, IMP, VIM) are the most prevalent carbapenemases reported all around the globe [6] , KPC being the first to be described in 2001 in an isolate of Klebsiella pneumoniae in USA [7] . Carbapenem-resistant isolates within K. pneumoniae have been spread globally [8] [9] [10] [11] , including clone 307, which has significantly increased in the mid-1990s and is associated with several resistance genes, such as OXA-48 [12, 13] .",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 62,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 250,
+                    "end": 253,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 415,
+                    "end": 418,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 699,
+                    "end": 702,
+                    "text": "[4,",
+                    "ref_id": null
+                },
+                {
+                    "start": 703,
+                    "end": 705,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 845,
+                    "end": 848,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 941,
+                    "end": 944,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1024,
+                    "end": 1027,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1028,
+                    "end": 1031,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1032,
+                    "end": 1036,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1037,
+                    "end": 1041,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1180,
+                    "end": 1184,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1185,
+                    "end": 1188,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "OXA-48-like carbapenemase was first described in Turkey in 2004 in a K. pneumoniae strain [8] , and since then it has been reported in Europe, North Africa, and the USA [14] [15] [16] [17] . Nowadays, several outbreaks have been registered in many South America countries, including Colombia [18] , Argentina [19] , and Brazil [20] . There are 11 allelic variants of OXA-48-like that have been described up to now [21] . The gene blaOXA-48 is located in 60-to 70-kb conjugative plasmids, generally associated with the transposon Tn1999 and its variants Tn1999.2 and Tn1999.3, and in the majority of the published data it has been associated with a nearby copy of IS1R [18, 22, 23] . Interestingly, OXA-48-like \u03b2-lactamases hydrolyzes penicillins and carbapenems but spares extended-spectrum cephalosporins. Here we report the first case of Klebsiella pneumoniae ST 307 carrying the blaOXA-48-like carbapenemase gene in Ecuador, and we use whole-genome sequencing (WGS) to characterize the carrying plasmid.",
+            "cite_spans": [
+                {
+                    "start": 90,
+                    "end": 93,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 179,
+                    "end": 183,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 184,
+                    "end": 188,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 292,
+                    "end": 296,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 309,
+                    "end": 313,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 327,
+                    "end": 331,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 414,
+                    "end": 418,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 668,
+                    "end": 672,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 673,
+                    "end": 676,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 677,
+                    "end": 680,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In August 2016, a woman with colorectal cancer status-post two operations-in Ukraine was admitted to the Eugenio Espejo Hospital in Quito, Ecuador, for palliative treatment. Twenty days later, an ascitic fluid sample was processed at the microbiology laboratory of the hospital. An isolate of Klebsiella pneumoniae was identified using the VITEK \u00ae 2 GN ID card (bioMerieux Inc., France).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient History"
+        },
+        {
+            "text": "Drug susceptibility was tested using the Vitek-2 compact system (bioMerieux Inc., France) utilizing the AST N272 card. Furthermore, the isolated sensititre (Trek Diagnostic Systems, UK) GNX2F microdilution broth plates and Modified Carbapenem Inactivation Methods (mCIM) and EDTA-modified carbapenem inactivation method (eCIM) were performed to differentiate metallo-\u03b2-lactamases from serine carbapenemases [24] . The results were interpreted according to the Clinical and Laboratory Standards Institute [24] .",
+            "cite_spans": [
+                {
+                    "start": 407,
+                    "end": 411,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 504,
+                    "end": 508,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antimicrobial Susceptibility"
+        },
+        {
+            "text": "The isolate was sent to the National Reference Laboratory of Antimicrobial Resistance (NRLAR) \"Dr. Leopoldo Izquieta P\u00e9rez\", Quito, for further investigation. At the NRLAR, we utilized molecular approaches to determine the mechanism of resistance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antimicrobial Susceptibility"
+        },
+        {
+            "text": "DNA was extracted following the recommendations of the manufacturer DNA Wizard (Promega). Polymerase chain reaction (PCR) was used to identify carbapenem resistance genes (blaKPC, blaIMP, blaNDM, blaVIM, and blaOXA-48-like) [25] . Multilocus sequence typing (MLST) analysis was performed using seven housekeeping genes (gapA, infB, mdh, pgi, phoE, rpoB, and tonB) [26] , as recommended by the Pasteur Institute scheme (http://www.pasteur.fr).",
+            "cite_spans": [
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 364,
+                    "end": 368,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DNA Extraction and Polymerase Chain Reaction"
+        },
+        {
+            "text": "To demonstrate the horizontal gene transference, conjugation assays were performed using the broth-mating technique with an azide-resistant Escherichia coli J53 as a recipient [27] [28] [29] . The plasmid incompatibility group was determined using a PCR-based replicon typing (PBRT) kit (Diatheva, Fano, Italy) [30] . The IS1999 element was amplified and linked with the blaOXA-48-like gene using the primers reported previously [31] .",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 186,
+                    "end": 190,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 311,
+                    "end": 315,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 429,
+                    "end": 433,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conjugation Assays"
+        },
+        {
+            "text": "Whole Genome Sequencing (WGS) was executed at the Institute Malbran using Illumina Miseq (https://www.illumina.com) for paired-end reads; the quality of reads was evaluated using a FastQC version [32] , and adapters were eliminated with PEAT [33] . The reads below a quality 25 Phred score were eliminated with Trim Galore [34] . The assembly was performed with Spades [35] , and the quality of the assembly was evaluated with Quast [36] ; our statistics are based on contigs of size \u2265 500 bp. The identity of the strain was verified using the standard 16s ribosomal, groEL, rpoB, and recA genes in the Genome Peek online tool [37] . The functional annotation was made with Prokka [38] and the NCBI Prokaryotic Genomes Automatic Annotation Pipeline [39] (http: //www.ncbi.nlm.nih.gov/genome/annotation_prok) and eggnog mapper [40] .",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 242,
+                    "end": 246,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 323,
+                    "end": 327,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 433,
+                    "end": 437,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 627,
+                    "end": 631,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 681,
+                    "end": 685,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 749,
+                    "end": 753,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 826,
+                    "end": 830,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Whole Genome Sequencing and Bioinformatic Analysis"
+        },
+        {
+            "text": "From the assembly, we search for the presence of plasmids using Plasmidfinder [41] . To identify the OXA-48-like plasmid sequence, we mapped our sequence against the reference sequence CP034283.1, both sequenced with PacBio RSII and Illumina NextSeq. Coverage was evaluated using BBmap [42] , and the consensus sequence was extracted using UGENE [29] . The plasmid map was obtained with BLAST Genome Atlas [43] .",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 82,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 286,
+                    "end": 290,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 346,
+                    "end": 350,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Whole Genome Sequencing and Bioinformatic Analysis"
+        },
+        {
+            "text": "The Ecuadorian surveillance network aims to provide solid data regarding epidemiological observation of antibacterial resistance. A Klebsiella pneumoniae strain with a high-resistance profile to imipenem, meropenem (intermediate), ertapenem (resistance), and piperacillin/tazobactam (intermediate), and susceptible to the third generation of cephalosporins (Table 1 ) was sent to the reference laboratory in order to determine the molecular mechanism of resistance associated with this phenotype. When studying inhibition to determine possible mechanisms of resistance, the mCIM resulted positive and eCIM was negative [24] , suggesting that a carbapenemase Class D might be responsible for the identified phenotype. To further explore this hypothesis, Polymerase Chain Reaction (PCR) of several carbapenemases encoding genes revealed the presence of the blaOXA-48-like gene (Genebank accession number: KY609322.1).",
+            "cite_spans": [
+                {
+                    "start": 619,
+                    "end": 623,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 357,
+                    "end": 365,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "OXA-48 was Identified a K. pneumoniae MLST ST307 Isolate"
+        },
+        {
+            "text": "Next, we wanted to investigate if this strain belongs to a previously described epidemic clone. Multilocus sequence typing (MLST) analysis using the Pasteur Institute scheme (http://www.pasteur.fr) as reference, revealed that the isolate belongs to the Sequence Type (ST) 307 (gapA: 4; infB: 1; mdh: 2; pgi:52; phoE:1; tomb: 7; rpoB:1). Interestingly, this clone was not previously reported in Ecuador, suggesting that this could be the first of many isolates. Importantly, one of the main characteristics of OXA-48 is its mobility, and this particular clone has been correlated with the presence of mobile elements. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "OXA-48 was Identified a K. pneumoniae MLST ST307 Isolate"
+        },
+        {
+            "text": "To investigate if the mechanism of resistance was located in the plasmid or in the chromosome, conjugation assays were performed [44] , revealing that the blaOXA-48-like gene was in the transconjugant strains suggesting that a plasmid was carrying the blaOXA-48-like resistance gene. The results were further corroborated using phenotypic (antimicrobial susceptibility) and molecular (PCR) tests (Table 1) .",
+            "cite_spans": [
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 396,
+                    "end": 405,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "pOXA-48 is Found on the HEEJev_01 Plasmid"
+        },
+        {
+            "text": "To determine if the plasmid also contained mobile elements that would allow to more strikingly disseminate, PCR assays were performed. PCR-based replicon typing (PBRT) from the recipient E. coli J53 (12) showed the presence of IncF, IncH, and IncL plasmid groups.",
+            "cite_spans": [
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "pOXA-48 is Found on the HEEJev_01 Plasmid"
+        },
+        {
+            "text": "Although sequencing results were somehow limited, we were able to identify the presence of three independent plasmids, namely IncFIB (Mar), IncHI1B, and IncL/M(pOXA-48), further verifying the results obtained with PCR-based replicon typing (Table 1 ). Since it is the first isolate of Klebsiella pneumoniae ST 307 containing the pOXA-48 plasmid isolated in our country (Genebank accession number: SZUX00000000), we aimed to reconstruct the pOXA-48 plasmid using fragment recruitment, and the reference sequence CP034283.1 (Figure 1 ) plasmid that was obtained completely by sequencing in PacBio. Subsequently, our plasmid was compared with the reference plasmids KX523902, KX523901, and KX523900. We chose to compare it with these plasmids because according to a phylogenetic analysis (data not shown), the OXA-Ecuador plasmid was grouped together with these sequences. Thus, we were able to identify the sequence of the blaOXA-48-like gene and the IS transposons. Interestingly, the IS transposons were inverted when comparing the strains (Figure 2 ), suggesting that this plasmid is still evolving, and that the genes are rearranging to maybe increase its transmission and fitness. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 240,
+                    "end": 248,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 522,
+                    "end": 531,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1040,
+                    "end": 1049,
+                    "text": "(Figure 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "pOXA-48 is Found on the HEEJev_01 Plasmid"
+        },
+        {
+            "text": "With the rapid increase of sophisticated mechanisms of resistance, the need for developing new methods to allow their identification is imperative [45, 46] . Although Enterobacterales are sensitive to third and fourth generation cephalosporins and with intermediate sensitivity to imipenem/meropenem and resistance to ertapenem are uncommon and difficult to identify [47] , the mCIM and eCIM appear to be suitable methods for carbapenemase screening in healthcare centers where molecular techniques are lacking [48, 49] . There is evidence that K. pneumoniae ST307 has been described as a high-risk clone [50] [51] [52] .",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "[45,",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 152,
+                    "end": 155,
+                    "text": "46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 367,
+                    "end": 371,
+                    "text": "[47]",
+                    "ref_id": null
+                },
+                {
+                    "start": 511,
+                    "end": 515,
+                    "text": "[48,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 516,
+                    "end": 519,
+                    "text": "49]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 605,
+                    "end": 609,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 610,
+                    "end": 614,
+                    "text": "[51]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 615,
+                    "end": 619,
+                    "text": "[52]",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The ST307 genome contains some virulence genes, suggesting that this clone might harbor the necessary tools to confer advantages in the hospital environment [50] . For example, glycogen synthesis can provide long-term survival and growth in environments outside the host as it increases biofilm formation, which has been correlated with nosocomial pathogens [13, [53] [54] [55] . Moreover, the presence of the IncF plasmid, which is spread among the Enterobacterales, was identified, suggesting that this may be involved in the diffusion of resistance determinants and, with a combination of certain high-risk clones, contribute to the dissemination of AMR genes [5, 56] , which has been previously reported for K. pneumoniae [57, 58] . From a search of the Institute Pasteur database (https://bigsdb.pasteur.fr/klebsiella/; 3987 STs last updated 10 April 2019), 35 human and 1 environmental isolate around the world were ST307 and 12 isolates from Europe and 1 from Asia were found in human samples with carbapenemase blaOXA-48-like [50] . We recently reported a strain of Raoutella ornithinolytica that harbored the blaOXA-48-like gene with no plasmid characterization that was recovered after this strain [59] , and to the best of our knowledge, this is the first description of carrying OXA-48-like carbapenemase in an IncL plasmid isolated in Ecuador. Interestingly, our patient came from Croatia were this mechanism of resistance was reported previously [60] [61] [62] , indicating that contagion with this strain most likely happened in Europe. The implications of globalization and free travel are now being revealed with the fast spread of the SARS-CoV-19, but in reality, this is nothing new and it has long been the case with mechanisms of resistance. Overall, these results highlight the implications of globalization, supporting previously published data from here and other countries [59, [63] [64] [65] [66] . Altogether this suggests that global guidelines for antibiotic stewardship might need to be implemented in order to better control the dissemination of the current increasing antibiotic resistance. This type of emergent resistance mechanism has an important risk as it can be easily spread between different environments, especially hospital settings. Further research will be performed in order to monitor this strain and others that can carry this and other mechanisms of resistance.",
+            "cite_spans": [
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 358,
+                    "end": 362,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 363,
+                    "end": 367,
+                    "text": "[53]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "[54]",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 373,
+                    "end": 377,
+                    "text": "[55]",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 663,
+                    "end": 666,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 667,
+                    "end": 670,
+                    "text": "56]",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 726,
+                    "end": 730,
+                    "text": "[57,",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 731,
+                    "end": 734,
+                    "text": "58]",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 1034,
+                    "end": 1038,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1208,
+                    "end": 1212,
+                    "text": "[59]",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 1460,
+                    "end": 1464,
+                    "text": "[60]",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 1465,
+                    "end": 1469,
+                    "text": "[61]",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 1470,
+                    "end": 1474,
+                    "text": "[62]",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 1898,
+                    "end": 1902,
+                    "text": "[59,",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 1903,
+                    "end": 1907,
+                    "text": "[63]",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1908,
+                    "end": 1912,
+                    "text": "[64]",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1913,
+                    "end": 1917,
+                    "text": "[65]",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 1918,
+                    "end": 1922,
+                    "text": "[66]",
+                    "ref_id": "BIBREF65"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Early detection and establishment of immediate control measures are key to control dissemination. From a public health perspective, the existence of an active national surveillance system for multidrug-resistant organisms would allow for early warnings and a subsequent quick ascertaining of the magnitude of the problem at the national level. Programs based on molecular surveillance, infection control, and antibiotic stewardship are required in hospitals of this country and all other countries, to detect emerging resistance genes as well as high-risk clones, and halt them.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Antibiotic Resistance Threats in the United States",
+            "authors": [],
+            "year": 2019,
+            "venue": "U.S. Department of Health and Human Services",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The Role of Epidemic Resistance Plasmids and International High-Risk Clones in the Spread of Multidrug-Resistant Enterobacteriaceae",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mathers",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pitout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Clin. Microbiol. Rev",
+            "volume": "28",
+            "issn": "",
+            "pages": "565--591",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00116-14"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Global dissemination of extensively drug-resistant carbapenemase-producing Enterobacteriaceae: Clinical perspectives on detection, treatment and infection control",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tangden",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Giske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Intern. Med",
+            "volume": "277",
+            "issn": "",
+            "pages": "501--512",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/joim.12342"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Novel Carbapenem-Hydrolyzing \u03b2-Lactamase, KPC-1, from a Carbapenem-Resistant Strain of Klebsiella pneumoniae",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yigit",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Queenan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dom\u00e9nech-S\u00e1nchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Biddle",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Steward",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alberti",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tenover",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "52",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01445-07"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Genomic Analysis of the Emergence and Rapid Global Dissemination of the Clonal Group 258 Klebsiella pneumoniae Pandemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bowers",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kitchel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Driebe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Maccannell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Roe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lemmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "De Man",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Rasheed",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Engelthaler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Keim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS ONE",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0133727"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The epidemiology of carbapenemases in Latin America and the Caribbean. Expert Rev. Anti-Infective Ther",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Escand\u00f3n-Vargas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Reyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guti\u00e9rrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Villegas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "15",
+            "issn": "",
+            "pages": "277--297",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/14787210.2017.1268918"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Global Spread of Carbapenemase-producing Enterobacteriaceae",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nordmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Naas",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poirel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "17",
+            "issn": "",
+            "pages": "1791--1798",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1710.110655"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Rapid evolution and spread of carbapenemases among Enterobacteriaceae in Europe",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Canton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Akova",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Carmeli",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Giske",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Glupczynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gniadkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Livermore",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Miriagou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Naas",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rossolini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clin. Microbiol. Infect",
+            "volume": "18",
+            "issn": "",
+            "pages": "413--431",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-0691.2012.03821.x"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Klebsiella pneumoniae ST307 with blaOXA-181",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kock",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Coetzee",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hoosien",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.-A",
+                    "middle": [],
+                    "last": "Strydom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ehlers",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mbelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Shashkina",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Haslam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "25",
+            "issn": "",
+            "pages": "739--747",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2504.181482"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Emergence and rapid global dissemination of CTX-M-15-associated Klebsiella pneumoniae strain ST307",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wyres",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hawkey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A K"
+                    ],
+                    "last": "Hetland",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fostervold",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kupfer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hamidian",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Howden",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "L\u00f6hr",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Holt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "74",
+            "issn": "",
+            "pages": "577--581",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dky492"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Epidemiology of Carbapenemase-Producing Enterobacteriaceae and Acinetobacter baumannii in Mediterranean Countries",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Djahmi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dunyach-R\u00e9my",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pantel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dekhil",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-P",
+                    "middle": [],
+                    "last": "Lavigne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BioMed Res. Int",
+            "volume": "305784",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1155/2014/305784"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "OXA-48-like carbapenemases: The phantom menace",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poirel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Potron",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nordmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "67",
+            "issn": "",
+            "pages": "1597--1606",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dks121"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Molecular Characterization of OXA-48-Like-Producing Enterobacteriaceae in the Czech Republic and Evidence for Horizontal Transfer of pOXA-48-Like Plasmids",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sk\u00e1lov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chud\u011bjov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Rotov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Medvecky",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "\u0160tudentov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Chud\u00e1\u010dkov\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lavicka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bergerova",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Jakubu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zemlickova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "61",
+            "issn": "",
+            "pages": "1889--1905",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01889-16"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "OXA-48-like carbapenemases producing Enterobacteriaceae in different niches",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mairi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pantel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-P",
+                    "middle": [],
+                    "last": "Lavigne",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Touati",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Eur. J. Clin. Microbiol. Infect. Dis",
+            "volume": "37",
+            "issn": "",
+            "pages": "587--604",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10096-017-3112-7"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "First reported case of an OXA-48-producing isolate from a Colombian patient",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Vanegas",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ospina",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Higuita-Guti\u00e9rrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Jim\u00e9nez-Quiceno",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Higuita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Glob. Antimicrob. Resist",
+            "volume": "6",
+            "issn": "",
+            "pages": "67--68",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jgar.2016.04.001"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Surveillance and Molecular Epidemiology of Klebsiella pneumoniae Isolates That Produce Carbapenemases: First Report of OXA-48-Like Enzymes in North America",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lascols",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hackel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Laupland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pitout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "57",
+            "issn": "",
+            "pages": "130--136",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01686-12"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Detection of OXA-370, an OXA-48-Related Class D \u03b2-Lactamase, in Enterobacter hormaechei from Brazil",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L M"
+                    ],
+                    "last": "Sampaio",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ribeiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Campos",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Rozales",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Magagnin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Falci",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C F"
+                    ],
+                    "last": "Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Dalarosa",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Luz",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vieira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "58",
+            "issn": "",
+            "pages": "3566--3567",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.02510-13"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The Global Ascendency of OXA-48-Type Carbapenemases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pitout",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kock",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.-A",
+                    "middle": [],
+                    "last": "Strydom",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Matsumura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin. Microbiol. Rev",
+            "volume": "33",
+            "issn": "",
+            "pages": "102--121",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00102-19"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Escherichia coli from Italy Producing OXA-48 Carbapenemase Encoded by a Novel Tn1999 Transposon Derivative",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Giani",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Conte",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Di Pilato",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aschbacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Larcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rossolini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "56",
+            "issn": "",
+            "pages": "2211--2213",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.00035-12"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Bonnet, R. IS1R-Mediated Plasticity of IncL/M Plasmids Leads to the Insertion of blaOXA-48 into the Escherichia coli Chromosome",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beyrouthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Robin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Delmas",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gibold",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dalmasso",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dabboussi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hamz\u00e9",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "58",
+            "issn": "",
+            "pages": "3785--3790",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.02669-14"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Performance Standards for Antimicrobial Susceptibility Testing",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Multiplex PCR for detection of acquired carbapenemase genes",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poirel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Cuvillier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nordmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Diagn. Microbiol. Infect. Dis",
+            "volume": "70",
+            "issn": "",
+            "pages": "119--123",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diagmicrobio.2010.12.002"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Multilocus Sequence Typing of Klebsiella pneumoniae Nosocomial Isolates",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Diancourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Passet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Verhoef",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A D"
+                    ],
+                    "last": "Grimont",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brisse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Clin. Microbiol",
+            "volume": "43",
+            "issn": "",
+            "pages": "4178--4182",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.43.8.4178-4182.2005"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Pathogenicity of pan-drug-resistant Serratia marcescens harbouring blaNDM-1",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gruber",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "G\u00f6ttig",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mark",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Christ",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "A J"
+                    ],
+                    "last": "Kempf",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wichelhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hamprecht",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "70",
+            "issn": "",
+            "pages": "1026--1030",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dku482"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Identification and Broad Dissemination of the CTX-M-14 \u03b2-Lactamase in Different Escherichia coli Strains in the Northwest Area of Spain",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cartelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Canle",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Molina",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Moure",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Eiros",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Guerrero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Clin. Microbiol",
+            "volume": "40",
+            "issn": "",
+            "pages": "4030--4036",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.40.11.4030-4036.2002"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Interspecies spread of CTX-M-32 extended-spectrum beta-lactamase and the role of the insertion sequence IS1 in down-regulating bla CTX-M gene expression",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gil",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cartelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "P\u00e9rez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Beceiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mallo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tom\u00e1s",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "P\u00e9rez-Llarena",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Villanueva",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "59",
+            "issn": "",
+            "pages": "841--847",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkm030"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Identification of plasmids by PCR-based replicon typing",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carattoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bertini",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Villa",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Falbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hopkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Threlfall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Microbiol. Methods",
+            "volume": "63",
+            "issn": "",
+            "pages": "219--228",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mimet.2005.03.018"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Emergence of oxacillinase-mediated resistance to imipenem in Klebsiella pneumoniae",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poirel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "H\u00e9ritier",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Tol\u00fcn",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nordmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "48",
+            "issn": "",
+            "pages": "15--22",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.48.1.15-22.2004"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "A Quality Control Tool for High Throughput Sequence Data",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Fastqc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "PEAT: An intelligent and efficient paired-end sequencing adapter trimming algorithm",
+            "authors": [
+                {
+                    "first": "Y.-L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-C",
+                    "middle": [],
+                    "last": "Weng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-C",
+                    "middle": [],
+                    "last": "Hsiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.-T",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-W",
+                    "middle": [],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-H",
+                    "middle": [],
+                    "last": "Hung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMC Bioinform",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-16-S1-S2"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "A Wrapper Tool around Cutadapt and fastQC to Consistently Apply Quality and Adapter Trimming to FastQ Files",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "Trim"
+                    ],
+                    "last": "Krueger",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Galore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Spades: A new genome assembly algorithm and its applications to single-cell sequencing",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bankevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sergey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dmitry",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Alexey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mikhail",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lesin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nikolenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Prjibelski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Comput. Biol",
+            "volume": "19",
+            "issn": "",
+            "pages": "455--477",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/cmb.2012.0021"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "QUAST: Quality assessment tool for genome assemblies",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gurevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Saveliev",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vyahhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tesler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Bioinformatics",
+            "volume": "29",
+            "issn": "",
+            "pages": "1072--1075",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btt086"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "GenomePeek-An online tool for prokaryotic genome and metagenome analysis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcnair",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "PeerJ",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7717/peerj.1025"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Prokka: Rapid prokaryotic genome annotation",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Seemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Bioinformatics",
+            "volume": "30",
+            "issn": "",
+            "pages": "2068--2069",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btu153"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "NCBI prokaryotic genome annotation pipeline",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tatusova",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dicuccio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Badretdin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chetvernin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nawrocki",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zaslavsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lomsadze",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pruitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Borodovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ostell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "6614--6624",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkw569"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Fast Genome-Wide Functional Annotation through Orthology Assignment by eggNOG-Mapper",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huerta-Cepas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Forslund",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Coelho",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Szklarczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Von Mering",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bork",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Mol. Boil. Evol",
+            "volume": "34",
+            "issn": "",
+            "pages": "2115--2122",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msx148"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Silico Detection and Typing of Plasmids using PlasmidFinder and Plasmid Multilocus Sequence Typing",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carattoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Zankari",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garc\u00eda-Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Villa",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Aarestrup",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hasman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "58",
+            "issn": "",
+            "pages": "3895--3903",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.02412-14"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Short Read Aligner",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bushnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bbmap",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Unipro UGENE NGS pipelines and components for variant calling, RNA-seq and ChIP-seq data analyses",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Golosova",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Vaskin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gabrielian",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Grekhov",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nagarajan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Oler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Quinones",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hurt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fursov",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7717/peerj.644"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "First case of New Delhi metallo-\u03b2-lactamase in Klebsiella pneumoniae from Ecuador: An update for South America",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Romero-Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Quezada",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sat\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cevallos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barrera",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Trueba",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Escobar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Villac\u00eds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int. J. Infect. Dis",
+            "volume": "65",
+            "issn": "",
+            "pages": "119--121",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2017.10.012"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "A multiplex lateral flow immunoassay for the rapid identification of NDM-, KPC-, IMPand VIM-type and OXA-48-like carbapenemase-producing Enterobacteriaceae",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Boutal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bernabeu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Devilliers",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Creton",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cotellon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Plaisance",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oueslati",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dortet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jousset",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "73",
+            "issn": "",
+            "pages": "909--915",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkx521"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "The Rapid Carbapenemase Detection Method (rCDM) for Rapid and Accurate Detection of Carbapenemase-Producing Enterobacteriaceae and Pseudomonas aeruginosa",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jing",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fcimb.2019.00371"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Modified Carbapenem Inactivation Method for Phenotypic Detection of Carbapenemase Production among Enterobacteriaceae",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pierce",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Simner",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lonsway",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Roe-Carpenter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Brasso",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bobenchik",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lockett",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Charnot-Katsikas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ferraro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Clin. Microbiol",
+            "volume": "55",
+            "issn": "",
+            "pages": "2321--2333",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00193-17"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Detection of carbapenemase activity in Enterobacteriaceae: Comparison of the carbapenem inactivation method versus the Carba NP test: Table 1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tijet",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Melano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "71",
+            "issn": "",
+            "pages": "274--276",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkv283"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Diversity, virulence, and antimicrobial resistance of the KPC-producing Klebsiella pneumoniae ST307 clone",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Villa",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Feudi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fortini",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brisse",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Passet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bonura",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Endimiani",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mammina",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ocampo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Jimenez",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/mgen.0.000110"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Multiple Benefits of Plasmid-Mediated Quinolone Resistance Determinants in Klebsiella pneumoniae ST11 High-Risk Clone and Recently Emerging ST307 Clone",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Domokos",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Damjanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kristof",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ligeti",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kocsis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Szabo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2019.00157"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Population Genomic Analysis of 1,777 Extended-Spectrum Beta-Lactamase-Producing Klebsiella pneumoniae Isolates",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Eagar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Beres",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Brettin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Musser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "489--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00489-17"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Application of Whole-Genome Sequencing for Bacterial Strain Typing in Molecular Epidemiology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Salipante",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sengupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Land",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hoogestraat",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Cookson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Clin. Microbiol",
+            "volume": "53",
+            "issn": "",
+            "pages": "1072--1079",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.03385-14"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "The successful containment of a hospital outbreak caused by NDM-1-producing Klebsiella pneumoniae ST307 using active surveillance",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bocanegra-Ibarias",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Garza-Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Padilla-Orozco",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mendoza-Olazar\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Perez-Alba",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flores-Trevi\u00f1o",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Garza-Ramos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Silva-Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Camacho-Ortiz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PLoS ONE",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0209609"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Extensively drug-resistant Klebsiella pneumoniae ST307 outbreak, north-eastern Germany",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Haller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kramer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bohnert",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Eckmanns",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hans",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-D",
+                    "middle": [],
+                    "last": "Heidecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.-O",
+                    "middle": [],
+                    "last": "H\u00fcbner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kramer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Euro Surveill",
+            "volume": "24",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2019.24.50.1900734"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Advantage of the F2:A1:B-IncF Pandemic Plasmid over IncC Plasmids in In Vitro Acquisition and Evolution of blaCTX-M Gene-Bearing Plasmids in Escherichia coli",
+            "authors": [
+                {
+                    "first": "A.-C",
+                    "middle": [],
+                    "last": "Mah\u00e9rault",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kemble",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Magnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gachet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Roche",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Le Nagard",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Tenaillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Denamur",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Branger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Landraud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "63",
+            "issn": "",
+            "pages": "1130--1149",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01130-19"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Importance of Clonal Complex 258 and IncFK2-like Plasmids among a Global Collection of Klebsiella pneumoniae with blaKPC",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bradford",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kazmierczak",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Kreiswirth",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pitout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "61",
+            "issn": "",
+            "pages": "2610--2626",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.02610-16"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Replicon sequence typing of IncF plasmids carrying virulence and resistance determinants",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Villa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garc\u00eda-Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fortini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carattoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Antimicrob. Chemother",
+            "volume": "65",
+            "issn": "",
+            "pages": "2518--2529",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkq347"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "First report of a clinical isolate of blaOXA-48-carbapenemase producing Raoultella ornithinolytica in South America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reyes",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Villavicencio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Villac\u00eds",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Pav\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Campoverde",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Espinel",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "N\u00fa\u00f1ez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Trueba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Revista Argentina de Microbiolog\u00eda",
+            "volume": "52",
+            "issn": "",
+            "pages": "82--83",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ram.2019.02.002"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Epidemic spread of OXA-48 beta-lactamase in Croatia",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bedeni\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Slade",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Starcevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sardelic",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vrani\u0107-Ladavac",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ben\u010di\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Atali\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bogdan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bubonja-Sonje",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tomi\u0107-Paradzik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Med Microbiol",
+            "volume": "67",
+            "issn": "",
+            "pages": "1031--1041",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/jmm.0.000777"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Emergence of Escherichia coli, Co-Producing NDM-1 and OXA-48 Carbapenemases, in Urinary Isolates, at a Tertiary Care Centre at Central India",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khajuria",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Praharaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grover",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Clin. Diagn. Res",
+            "volume": "8",
+            "issn": "",
+            "pages": "1--04",
+            "other_ids": {
+                "DOI": [
+                    "10.7860/JCDR/2014/7952.4413"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Characterization of Isolates Associated with Emergence of OXA-48-Producing Klebsiella pneumoniae in Croatia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jeli\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "\u0160krlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bejuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Koscak",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Butic",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Guzvinec",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Andrasevi\u0107",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Microb. Drug Resist",
+            "volume": "24",
+            "issn": "",
+            "pages": "973--979",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/mdr.2017.0168"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Genome sequencing and comparative analysis of an NDM-1-producing Klebsiella pneumoniae ST15 isolated from a refugee patient",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Salloum",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Arabaghian",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alousi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Abboud",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tokajian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Pathog. Glob. Heal",
+            "volume": "111",
+            "issn": "",
+            "pages": "166--175",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/20477724.2017.1314069"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Clinical epidemiology of the global expansion of Klebsiella pneumoniae carbapenemases",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Munoz-Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poirel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bonomo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schwaber",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Daikos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cormican",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cornaglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Garau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gniadkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect. Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "785--796",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70190-7"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Global Dissemination of Carbapenemase-Producing Klebsiella pneumoniae: Epidemiology, Genetic Context, Treatment Options, and Detection Methods",
+            "authors": [
+                {
+                    "first": "C.-R",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front. Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2016.00895"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "L\u00f3pez-Rodr\u00edguez, I.; Pascual, \u00c1. OXA-48-Like-Producing Klebsiella pneumoniae in Southern Spain in 2014-2015",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Machuca",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "L\u00f3pez-Cerero",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez-Cuenca",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mora-Navas",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mediavilla-Gradolph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Antimicrob. Agents Chemother",
+            "volume": "63",
+            "issn": "",
+            "pages": "1396--1414",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01396-18"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "From center to outside, the circular map of plasmid pOXA-48 reference CP034283.1 outside in blue plasmid, pOXA-48 from Ecuador, intrinsic curvature, stacking energy, position preference, CDS+, CDS-, global inverted repeats, GC content, GC skew, and percent AT.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "From center to outside, the circular map of plasmid pOXA-48 reference CP034283.1 outside in blue plasmid, pOXA-48 from Ecuador, intrinsic curvature, stacking energy, position preference, CDS+, CDS-, global inverted repeats, GC content, GC skew, and percent AT. From center to outside, the circular map of plasmid pOXA-48 reference CP034283.1 outside in blue plasmid, pOXA-48 from Ecuador, intrinsic curvature, stacking energy, position preference, CDS+, CDS-, global inverted repeats, GC content, GC skew, and percent AT.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Plasmid OXA-48 of K. pneumoniae of Ecuador. Whole sequence shows a high degree of identity with plasmids from Czech Republic.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Minimal concentration inhibitory of the Klebsiella pneumoniae OXA-48 producer and Escherichia coli J53 transconjugant.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgments: We thank Carolina Sat\u00e1n and Rafael Tamayo for their excellent technical assistance in performing replicon typing and antimicrobial testing. We thank Denise Galvan Rosales for her comments and revision of English.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

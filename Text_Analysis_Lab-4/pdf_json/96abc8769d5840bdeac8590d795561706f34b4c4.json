@@ -1,0 +1,456 @@
+{
+    "paper_id": "96abc8769d5840bdeac8590d795561706f34b4c4",
+    "metadata": {
+        "title": "Core Minimal Datasets to Advance Clinical Research for Priority Epidemic Diseases",
+        "authors": [
+            {
+                "first": "A",
+                "middle": [
+                    "M"
+                ],
+                "last": "Rojeck",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Epidemic Diseases Research Group",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "postCode": "OX3 7FY",
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Amanda",
+                "middle": [
+                    "M"
+                ],
+                "last": "Rojek",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Epidemic Diseases Research Group",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": "amanda.rojek@ndm.ox.ac.uk."
+            },
+            {
+                "first": "James",
+                "middle": [],
+                "last": "Moran",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Epidemic Diseases Research Group",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [
+                    "W"
+                ],
+                "last": "Horby",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Epidemic Diseases Research Group",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "country": "United Kingdom"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The Ebola virus disease outbreak in west Africa has prompted significant progress in responding to the clinical needs of patients affected by emerging infectious disease outbreaks. Among the noteworthy successes of vaccine trials, and the commendable efforts to implement clinical treatment trials during Ebola outbreaks, we should also focus on strengthening the collection and curation of epidemiological and observational data that can improve the conception and design of clinical research.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "During the currently ongoing Ebola virus disease (EVD) outbreak in the Democratic Republic of Congo, a clinical trial of potential treatments has commenced. This is a significant step toward improving outcomes for patients with the disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Ebola virus disease constitutes but one of the priority diseases that the World Health Organization (WHO), in their Blueprint for Action to Prevent Epidemics, suggests poses a severe public health risk and for which there are insufficient countermeasures [1] . The purpose of this priority list is to identify high-threat pathogens for which there is a need to prioritize and advance the development of diagnostics, vaccines, and therapeutics. Any diagnostics, drugs, or vaccines that are developed as a result of this and other initiatives, such as the Coalition for Epidemic Preparedness Innovation, will need to be fully evaluated in diagnostic evaluation studies or phase II and III clinical trials.",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 258,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "However, due to the very nature of the epidemic-prone infectious diseases that appear in the WHO list of priority diseases, evaluation in clinical studies is challenging, not least because the epidemiology is unpredictable but also because the pathogenesis and natural history of many of these diseases are not well defined. For example, during the influenza A(H1N1)pdm09 pandemic, case fatality rate (CFR) estimates varied widely from 0 to 13 500 per 100 000 laboratory-confirmed infections, with a heterogeneity of 99.97% (using I 2 estimate) [2] . A therapeutic trial designed with patient survival as a primary outcome measure would have grossly misjudged the required sample size if the trial was designed using the wrong CFR. Therapeutic trials for the prevention of congenital Zika syndrome will be hindered by the absence of consistently used criteria to define the outcome of congenital malformations [3] . For Middle East respiratory syndrome coronavirus, a lack of systematic biological sampling means that disease pathophysiology and factors associated with more severe disease and viral clearance (a commonly used secondary outcome measure) are not well understood [4] .",
+            "cite_spans": [
+                {
+                    "start": 545,
+                    "end": 548,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 910,
+                    "end": 913,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1178,
+                    "end": 1181,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The need for well-defined core minimal datasets for emerging infectious diseases is not a new observation. A decade ago Sheila Bird and Jeremy Farrar [5] noted the need to define a core minimal dataset for human cases of avian influenza A/H5N1, yet there remains no systematic examination of the completeness of the core data needed to design and conduct trials for highpriority pathogens. Table 1 identifies some key domains that could contribute to a core minimal dataset that informs clinical trial design for each priority pathogen.",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 153,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 390,
+                    "end": 397,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The benefit of this approach, when complemented by scoring or assessment of the available information, is that it allows for initial bench-marking and triaging of unmet data needs in order to prioritize further data gathering activities. Importantly, a harmonized data collection initiative can also prospectively embed data-sharing agreements into data-collection protocols. This will allow valuable clinical information to be readily available to stakeholders, while identifying and protecting the interests of those collecting data in regions where outbreaks occur.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Accumulation and curation of the data will depend on a variety of sources and methodology types, but it is critical that high-quality clinical data are highlighted as an integral component. Often lost to competing priorities for clinicians during outbreaks, standardized data collection regarding the presentation and natural history of disease, biomarkers of disease severity, and response to supportive care can be sporadic or missing. While these data have their most important benefits in improving patient management (through better recognition of disease complications and informing supportive care) and public health control, patient-based data are also used to determine key parameters for clinical trials, such as the inclusion criteria, the nature and rate of clinically relevant outcomes, and potential confounders. We suggest that adoption of clinical case registries (such as those used for rare cancers) provides a feasible option to produce standardized clinical data that have multiple clinical, public health, and research benefits [6] .",
+            "cite_spans": [
+                {
+                    "start": 1049,
+                    "end": 1052,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Compared with expensive and lengthy countermeasure development pipelines, improving the scale, relevance, and quality of observational data is likely to be an efficient and cost-effective strategy to improve global preparedness against epidemic and pandemic infections. Disclaimer. The funders had no role in the study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the paper for publication. Temporal and geographical profile of previous outbreaks This is required for logistical planning, to ensure that local teams are sufficiently trained in research practices (such as good clinical practice) and trial-specific equipment is available.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "An agreed-upon case definition Clinical characteristics of the disease are used to define enrollment criteria.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Analysis of strength of evidence for factors associated with increased disease severity or fatality Stratification (or other statistical adjustment) on the basis of severity is often required when interpreting the clinical trial outcome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Best available descriptions of the type and rate of clinical outcomes Clinical outcomes will function as a trial outcome measures. Understanding the natural course of illness will also help differentiate disease course from adverse events from treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Assessment of confidence in estimates of clinical outcomes Heterogeneity in patient outcomes between or within outbreaks creates uncertainty for power calculations and will affect selection of a statistical design for a trial. Spurious heterogeneity may occur due to random error in small cohorts, or represent ascertainment, lead-time, measurement, or follow-up bias. Real heterogeneity can occur due to improvements in care over an outbreak, pathogen evolution, or changes in host susceptibility and vulnerability but should be adjusted for.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Analysis of known or suspected covariates of outcome Highlights possible confounders that will alter outcome independently of treatment and that will require adjustment if unequally distributed between treatment and control arms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The mean time from onset of symptoms to outcome Allows for an estimation of the feasibility and logistics of medical intervention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Agreed-upon standards of care for patient treatment Determines if there is standardized supportive therapy to be adopted in all arms of a trial. This is especially important for multicenter research",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The performance characteristics of the favored diagnostic method Determines whether a trial will be performed on an ITT basis or following laboratory confirmation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Mean time for laboratory diagnosis Determines whether a trial will be performed on an ITT basis or following laboratory confirmation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Community priorities and expectations for trials Determines the priorities of affected communities in terms of access to trials, acceptable methodology, and acceptability of treatments or vaccines.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Abbreviation: ITT, intention-to-treat.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Annual review of diseases prioritized under the Research and Development Blueprint Informal Consultation",
+            "authors": [],
+            "year": 2018,
+            "venue": "Geneva: World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Case fatality risk of influenza A (H1N1pdm09): a systematic review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cowling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Epidemiology",
+            "volume": "24",
+            "issn": "",
+            "pages": "830--871",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical trials of therapeutics for the prevention of congenital Zika virus disease: challenges and potential solutions",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Salam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rojek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dunning",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Horby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Ann Intern Med",
+            "volume": "166",
+            "issn": "",
+            "pages": "725--757",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Development of medical countermeasures to Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Uyeki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Erlandson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Korch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Minimum dataset needed for confirmed human H5N1 cases",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bird",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Farrar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Lancet",
+            "volume": "372",
+            "issn": "",
+            "pages": "696--703",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A systematic review and meta-analysis of patient data from the west Africa (2013-16) Ebola virus disease epidemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rojek",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Salam",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ragotte",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Clin Microbiol Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Authors contributions. A. M. R., J. M., and P. W. H. conceived of the manuscript, contributed to drafting, and agree with the contents.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "This work was supported by the Wellcome Trust of Great Britain (grant numbers 107834/Z/15/Z and 106491/Z/14/Z). A. M. R. was funded by a Rhodes Scholarship.Potential conflicts of interest. The authors report no potential conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Suggested Elements for a Core Minimal Dataset of Observation-based Data for Designing Clinical Trials for High-priority Pathogens",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

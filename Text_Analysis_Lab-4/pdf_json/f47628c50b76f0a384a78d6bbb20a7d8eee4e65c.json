@@ -1,0 +1,2850 @@
+{
+    "paper_id": "f47628c50b76f0a384a78d6bbb20a7d8eee4e65c",
+    "metadata": {
+        "title": "Phylodynamic analysis of avian infectious bronchitis virus in South America",
+        "authors": [
+            {
+                "first": "Ana",
+                "middle": [],
+                "last": "Marandino",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ariel",
+                "middle": [],
+                "last": "Pereda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "INTA-Castelar",
+                    "location": {
+                        "addrLine": "CC 25 (1712) Castelar",
+                        "settlement": "Buenos Aires",
+                        "region": "CICVyA",
+                        "country": "Argentina"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gonzalo",
+                "middle": [],
+                "last": "Tom\u00e1",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mart\u00edn",
+                "middle": [],
+                "last": "Hern\u00e1 Ndez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gregorio",
+                "middle": [],
+                "last": "Iraola",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mar\u00eda",
+                "middle": [
+                    "Isabel"
+                ],
+                "last": "Craig",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "INTA-Castelar",
+                    "location": {
+                        "addrLine": "CC 25 (1712) Castelar",
+                        "settlement": "Buenos Aires",
+                        "region": "CICVyA",
+                        "country": "Argentina"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Diego",
+                "middle": [],
+                "last": "Hern\u00e1 Ndez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alejandro",
+                "middle": [],
+                "last": "Banda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Poultry Research and Diagnostic Laboratory",
+                    "institution": "Mississippi State University",
+                    "location": {
+                        "postBox": "PO Box 97813",
+                        "postCode": "39288",
+                        "settlement": "Pearl",
+                        "region": "MS",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Pedro",
+                "middle": [],
+                "last": "Villegas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Georgia",
+                    "location": {
+                        "addrLine": "953 College Station Road",
+                        "postCode": "30602-4875",
+                        "settlement": "Athens",
+                        "region": "GA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yanina",
+                "middle": [],
+                "last": "Panzera",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ruben",
+                "middle": [],
+                "last": "P\u00e9 Rez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de la Rep\u00fa blica",
+                    "location": {
+                        "postCode": "4225, 11400",
+                        "settlement": "Igu\u00e1, Montevideo",
+                        "country": "Uruguay"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Infectious bronchitis virus (IBV) is a coronavirus of chickens that causes great economic losses to the global poultry industry. The present study focuses on South American IBVs and their genetic relationships with global strains. We obtained full-length sequences of the S1 coding region and N gene of IBV field isolates from Uruguay and Argentina, and performed Phylodynamic analysis to characterize the strains and estimate the time of the most recent common ancestor. We identified two major South American genotypes, which were here denoted South America I (SAI) and Asia/ South America II (A/SAII). The SAI genotype is an exclusive South American lineage that emerged in the 1960s. The A/SAII genotype may have emerged in Asia in approximately 1995 before being introduced into South America. Both SAI and A/SAII genotype strains clearly differ from the Massachusetts strains that are included in the vaccine formulations being used in most South American countries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Infectious bronchitis (IB) is a globally distributed avian disease that represents one of the most persistent sanitary problems to the commercial poultry industry. The intensive production of high-density bird populations promotes IB transmission and, in spite of intensive control programmes, outbreaks are extremely frequent in commercial flocks (USDA, 2014) .",
+            "cite_spans": [
+                {
+                    "start": 348,
+                    "end": 360,
+                    "text": "(USDA, 2014)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The aetiological agent of IB is the infectious bronchitis virus (IBV), belonging to the genus Gammacoronavirus within the Coronaviridae family (de Groot, 2012) . The IBV positive-sense ssRNA genome (27.6 kb) encodes four structural proteins: the spike (S) glycoprotein, the membrane glycoprotein, the envelope protein and the phosphorylated nucleocapsid (N) protein (Stern & Sefton, 1982) . The S and N proteins are the major inducers of immune response. The S glycoprotein is post-translationally cleaved, at a cleavage recognition site sequence in the amino-terminal S1 and carboxy-terminal S2 subunits by a cellular protease during viral maturation (Lai & Cavanagh, 1997) . The S1 subunit contains epitopes and determinants for virus-neutralizing antibodies, cell attachment and serotype specificity (Ignjatovic & Galli, 1994) . The S2 subunit anchors the S1 protein to the membrane and is involved in membrane fusion. The N protein plays a role in regulation of IBV replication (Fan et al., 2005) , grouping virus particles, and inducing T-cell-mediated immune responses (Collisson et al., 2000; Seo et al., 1997) .",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 159,
+                    "text": "(de Groot, 2012)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 366,
+                    "end": 388,
+                    "text": "(Stern & Sefton, 1982)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 652,
+                    "end": 674,
+                    "text": "(Lai & Cavanagh, 1997)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 803,
+                    "end": 829,
+                    "text": "(Ignjatovic & Galli, 1994)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 982,
+                    "end": 1000,
+                    "text": "(Fan et al., 2005)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1075,
+                    "end": 1099,
+                    "text": "(Collisson et al., 2000;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1100,
+                    "end": 1117,
+                    "text": "Seo et al., 1997)",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "IBV is highly variable and evolves rapidly by mutation and recombination (Cavanagh et al., 1992; Kottier et al., 1995; Lee & Jackwood, 2000) , leading to the continuous emergence of new genetic and antigenic variants worldwide (genotypes and serotypes) (Gough et al., 1992; . However, few variants are able to persist for extended time periods and spread in new territories to become of evolutionary and economic importance. The monitoring of IBV populations from different geographical locations is important in order to map IBV genetic diversity and identify the origin and spreading of relevant genotypes.",
+            "cite_spans": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "text": "(Cavanagh et al., 1992;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 97,
+                    "end": 118,
+                    "text": "Kottier et al., 1995;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 119,
+                    "end": 140,
+                    "text": "Lee & Jackwood, 2000)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 253,
+                    "end": 273,
+                    "text": "(Gough et al., 1992;",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Analyses of the S and N genes have been widely employed to identify IBV genotypes and explore phylogenetic and epidemiological evolution of IBV strains (Adzhar et al., 1997; Kant et al., 1992; Liu et al., 2006) . Most studies use for genotyping the coding region of the S1 subunit as the main inducer of protective immunity (de Wit et al., 2011) . Genetic analyses are also useful for the selection of the most appropriate vaccination programmes using attenuated and inactivated IBV strains (Farsang et al., 2002) , a particularly important issue because IBV serotypes have a low degree of cross-protection (Cavanagh, 2003) . In several parts of the world, including most South American countries, a single strain type (Massachusetts) is included in the officially authorized vaccines, but additional strain types (e.g. Connecticut, Arkansas, D207, D3896, 4/91) are permitted elsewhere.",
+            "cite_spans": [
+                {
+                    "start": 152,
+                    "end": 173,
+                    "text": "(Adzhar et al., 1997;",
+                    "ref_id": null
+                },
+                {
+                    "start": 174,
+                    "end": 192,
+                    "text": "Kant et al., 1992;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 193,
+                    "end": 210,
+                    "text": "Liu et al., 2006)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 324,
+                    "end": 345,
+                    "text": "(de Wit et al., 2011)",
+                    "ref_id": null
+                },
+                {
+                    "start": 491,
+                    "end": 513,
+                    "text": "(Farsang et al., 2002)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 607,
+                    "end": 623,
+                    "text": "(Cavanagh, 2003)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The origin, emergence and expansion of IBV genotypes within and across continents have not been previously analysed despite the virus's relevance for the poultry industry and the evolutionary importance of coronavirus. Most studies deal with genetic variation in particular geographical regions or countries, without performing Phylodynamic analysis to explore the temporal behaviour of IBV (Han et al., 2011; Liu et al., 2006) . IBV dynamics in South America is particularly poorly understood. The first IBV isolates (Massachusetts-type) were reported in Brazil in the 1950s (Hip\u00f3 lito, 1957) and in Chile in the 1970s (Hidalgo et al., 1976) . Other IBV genotypes have been identified in Brazil, Argentina and Colombia through sequence analysis of partial-length S1 coding region of different size and position (Alvarado et al., 2005; Chacon et al., 2011; Felippe et al., 2010; Rimondi et al., 2009; Villarreal et al., 2007) . However, the full-length S1 coding region and N gene in South American strains have not yet been analysed, and there are no comparative studies of the strains that are circulating among the countries. To our knowledge, the present study provides the first integrative analysis that focuses on South American IBV strains, their phylogenetic relationships with genotypes circulating worldwide and their emergence and expansion in the continent.",
+            "cite_spans": [
+                {
+                    "start": 391,
+                    "end": 409,
+                    "text": "(Han et al., 2011;",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 410,
+                    "end": 427,
+                    "text": "Liu et al., 2006)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 576,
+                    "end": 593,
+                    "text": "(Hip\u00f3 lito, 1957)",
+                    "ref_id": null
+                },
+                {
+                    "start": 620,
+                    "end": 642,
+                    "text": "(Hidalgo et al., 1976)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 812,
+                    "end": 835,
+                    "text": "(Alvarado et al., 2005;",
+                    "ref_id": null
+                },
+                {
+                    "start": 836,
+                    "end": 856,
+                    "text": "Chacon et al., 2011;",
+                    "ref_id": null
+                },
+                {
+                    "start": 857,
+                    "end": 878,
+                    "text": "Felippe et al., 2010;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 879,
+                    "end": 900,
+                    "text": "Rimondi et al., 2009;",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 901,
+                    "end": 925,
+                    "text": "Villarreal et al., 2007)",
+                    "ref_id": "BIBREF61"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A total of 24 samples were collected from different outbreaks in commercial broilers with respiratory signs, during 2009-2012 in Uruguay and Argentina (Table S1 , available in the online Supplementary Material). IBV presence was confirmed by real-time reverse transcriptase PCR (RT-PCR) (Callison et al., 2006) . Tissues were processed as described by Rimondi et al. (2009) . The complete S1 coding region and N gene were obtained by RT-PCR using new or previously described primers (Table S2 ) and standard conditions (Hern\u00e1ndez et al., 2006) .",
+            "cite_spans": [
+                {
+                    "start": 287,
+                    "end": 310,
+                    "text": "(Callison et al., 2006)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 352,
+                    "end": 373,
+                    "text": "Rimondi et al. (2009)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 519,
+                    "end": 543,
+                    "text": "(Hern\u00e1ndez et al., 2006)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 151,
+                    "end": 160,
+                    "text": "(Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 483,
+                    "end": 492,
+                    "text": "(Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "A full-length S1 dataset was built using the nucleotide sequence of the S1 subunit (position from ATG start codon to the cleavage recognition site) of global reference strains (n530), the Argentine and Uruguayan strains here obtained (n524), and Brazilian IBV sequences (n519) that were recently deposited in GenBank. Partial-length S1 datasets were built using different portions of the S1 coding region. A full-length N gene dataset was built using global reference strains (n524), and the Argentine and Uruguayan strains here obtained (n524).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Sequences were aligned using MAFFT (Katoh et al., 2002) , and the best-fit model of nucleotide substitution was selected under the Akaike information criterion and Bayesian information criterion as implemented in jModelTest (Posada, 2008) . Maximum-likelihood trees were inferred using PhyML (Guindon & Gascuel, 2003) . Phylogenetic trees were visualized and edited with TreeGraph2 (St\u00f6ver & M\u00fcller, 2010).",
+            "cite_spans": [
+                {
+                    "start": 35,
+                    "end": 55,
+                    "text": "(Katoh et al., 2002)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 224,
+                    "end": 238,
+                    "text": "(Posada, 2008)",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 292,
+                    "end": 317,
+                    "text": "(Guindon & Gascuel, 2003)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "For Phylodynamic analysis, two genotype-specific datasets were built with partial-length S1 sequences (positions 1-528); partial sequences were used in order to include all South American strains available in GenBank. The Bayesian skyline plot model implemented in BEAST v.1.7.5 was used for estimating population parameters without a prior function for demographic dynamics (Drummond et al., 2012) . Four independent Markov chain Monte Carlo runs were performed using the HKY+I+G model with base frequencies estimated from the data. A chain length of 200 000 000 with a burn in consisting of 2 000 000 steps was enough to ensure convergence, as evidenced by effective sample size values higher than 200 for each sampled parameter. Plots were generated using in-house R scripts.",
+            "cite_spans": [
+                {
+                    "start": 375,
+                    "end": 398,
+                    "text": "(Drummond et al., 2012)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The full-length S1 coding region and N gene were amplified and sequenced in all samples. In the phylogenetic analysis based on the S1 coding region, the South American strains group in three well-supported clades that we here denoted South America I (SAI), Asia/South America II (A/ SAII) and Massachusetts-like genotypes (Fig. 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 322,
+                    "end": 330,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The SAI genotype comprises 24 Argentine, Brazilian and Uruguayan strains. The nucleotide and amino acid identities within this genotype vary from 86.9 to 100 % and from 83.9 to 99.9 %, respectively. The time to the most recent common ancestor (tMRCA) of the SAI genotype was 48 years (Fig. 2) . Accordingly, the SAI genotype is an exclusive South American lineage that emerged in approximately 1964 ( Figs. 1 and 2) . Strains of the SAI genotype would have been co-circulating with Massachusetts-like strains that have been reported in South America since the 1950s (Hidalgo et al., 1976; Hip\u00f3 lito, 1957) . The SAI genotype was extremely successful and spread in most South American territories (Argentina, Brazil and Uruguay).",
+            "cite_spans": [
+                {
+                    "start": 566,
+                    "end": 588,
+                    "text": "(Hidalgo et al., 1976;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 589,
+                    "end": 605,
+                    "text": "Hip\u00f3 lito, 1957)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 284,
+                    "end": 292,
+                    "text": "(Fig. 2)",
+                    "ref_id": null
+                },
+                {
+                    "start": 401,
+                    "end": 415,
+                    "text": "Figs. 1 and 2)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The A/SAII genotype comprises most Argentine, one Uruguayan, and Chinese and Taiwanese strains. The nucleotide and amino acid identities vary from 97.9 to 99.9 % and from 95.1 to 100 %, respectively. With respect to the SAI genotype, nucleotide identities vary from 79.3 to 83.3 % and amino acid identities vary from 71.6 to 78.1 %. The Asiatic variants of the A/SAII genotype belong to the recently described genogroup denoted the CK/CH/LDL/ 97I-type (Han et al., 2011) Fig. 1 . Phylogenetic tree inferred by using the maximum-likelihood method with GTR+I+G substitution model. Phylogenetic reconstruction was carried out using the full-length S1 coding region of South American IBV strains and reference strains. Mapping uncertainties for internal nodes are shown as approximate likelihood ratio test values.",
+            "cite_spans": [
+                {
+                    "start": 452,
+                    "end": 470,
+                    "text": "(Han et al., 2011)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 471,
+                    "end": 477,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "systematically isolated in Asia during 1996-2002 associated with proventriculitis and nephritis (Huang et al., 2004; Liu et al., 2009a) . According to the estimates of the tMRCA, the A/SAII genotype emerged in approximately 1995 (Fig.  2 ). This date is very close to the first detection of this genotype in Asia but long before the first record in South America (2006) . This fact and the basal location of Asiatic strains in the phylogenetic tree (Fig. 1 ) support that the A/ SAII originated in Asia and was later introduced into South America. Although there is evidence of the spread of IBV strains among close geographical regions (Ignjatovic et al., 2006; Ignjatovi\u0107 & Sapats, 2000; Meulemans et al., 2001) , the long-distance intercontinental dispersion is unusual. One possible way could be through the commercial trade between countries (Cobb, 2011; Hosseini et al., 2010) . However, there is no official record of 1-day-old chicks or other poultry product trade from Asia to South America. Alternatively, the introduction of the Asian strain could have taken an indirect route, as supported by the recent detection of this genotype in Italy (Toffan et al., 2013) . The role of birds in dissemination of the new IBV variants still remains unclear. Even though wild species can be IBV carriers, there is no evidence that IBV strains infected migratory birds and were transmitted over long distances as occurs with influenza virus (Brown et al., 2006) .",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 116,
+                    "text": "(Huang et al., 2004;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 117,
+                    "end": 135,
+                    "text": "Liu et al., 2009a)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 355,
+                    "end": 369,
+                    "text": "America (2006)",
+                    "ref_id": null
+                },
+                {
+                    "start": 637,
+                    "end": 662,
+                    "text": "(Ignjatovic et al., 2006;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 663,
+                    "end": 689,
+                    "text": "Ignjatovi\u0107 & Sapats, 2000;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 690,
+                    "end": 713,
+                    "text": "Meulemans et al., 2001)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 847,
+                    "end": 859,
+                    "text": "(Cobb, 2011;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 860,
+                    "end": 882,
+                    "text": "Hosseini et al., 2010)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1152,
+                    "end": 1173,
+                    "text": "(Toffan et al., 2013)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 1439,
+                    "end": 1459,
+                    "text": "(Brown et al., 2006)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 229,
+                    "end": 237,
+                    "text": "(Fig.  2",
+                    "ref_id": null
+                },
+                {
+                    "start": 449,
+                    "end": 456,
+                    "text": "(Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The Massachusetts-like genotype includes seven Brazilian field strains and Massachusetts-type vaccine strains, and has nucleotide and amino acid identity values varying from 97.5 to 99.9 %, and from 95.8 to 99.8 %, respectively. The sequence similarity is less than 79 % with respect to the SAI and A/SAII genotypes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The phylogenetic analysis based on partial-length S1 sequences shows that the SAI genotype was not detected outside Argentina, Brazil and Uruguay, and that the strains of the A/SAII genotype seem to be circulating in Chile and Colombia but not in Brazil. Vaccine-type strains (Massachusetts, Connecticut and Arkansas) were detected in Brazil, Argentina and Colombia. Some field strains could not be assigned to the SAI and A/SAII genotypes or to any vaccinetype and might represent novel South American genotypes (Table S3 ). As previous studies in South America did not analyse full-length S1 sequences, the comparison between strains and the detection of new genotypes is severely hindered. Analyses of different parts of S1 may also result in distinct levels of homology, leading to misinterpretation of the relationship between virus strains (de Wit et al., 2011) , and could avoid the identification of recombinant S1 sequences (Dolz et al., 2008; Jia et al., 1995; Wang et al., 1993) . As we obtained the complete S1 coding region, it was possible to make comparisons with partial sequences from other countries to describe a more comprehensive scenario of the South American IBV variability, highlighting the benefits of characterizing complete sequences rather than focusing on smaller coding regions.",
+            "cite_spans": [
+                {
+                    "start": 846,
+                    "end": 867,
+                    "text": "(de Wit et al., 2011)",
+                    "ref_id": null
+                },
+                {
+                    "start": 933,
+                    "end": 952,
+                    "text": "(Dolz et al., 2008;",
+                    "ref_id": null
+                },
+                {
+                    "start": 953,
+                    "end": 970,
+                    "text": "Jia et al., 1995;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 971,
+                    "end": 989,
+                    "text": "Wang et al., 1993)",
+                    "ref_id": "BIBREF62"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 513,
+                    "end": 522,
+                    "text": "(Table S3",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The presence of relevant amino acid differences in S1 sequences between the SAI and A/SAII genotypes also supports their different ancestral origins. The A/SAII genotype has a characteristic deletion of three amino acid residues (T/NGP), with respect to the SAI genotype, within the second hypervariable region of the S protein. Insertions and deletions in S1, particularly in the hypervariable regions, are described frequently and have an important role in the generation of IBV genetic diversity (Abro et al., 2012; Liu et al., 2009a) . The SAI genotype has the most common cleavage recognition site sequence (Arg-Ser/Leu-Arg-Arg). Both Asiatic and South American A/SAII strains share a distinctive and exclusive cleavage recognition site (Arg-Thr-Gly-Arg) with yet-unknown functional implications (Jackwood et al., 2001) .",
+            "cite_spans": [
+                {
+                    "start": 499,
+                    "end": 518,
+                    "text": "(Abro et al., 2012;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 519,
+                    "end": 537,
+                    "text": "Liu et al., 2009a)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 801,
+                    "end": 824,
+                    "text": "(Jackwood et al., 2001)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the phylogenetic analysis based on the full-length N gene, the SAI and South American A/SAII strains form a well-supported monophyletic group (Fig. 3) . The nucleotide and amino acid identity vary values from 95.9 to 100 % and from 95.3 to 100 %, respectively. The South American and the Asiatic strains of the A/SAII genotype do not cluster together, revealing a phylogenetic incongruence. This differential clustering suggests that, after the Asian strain introduction, the A/SAII genotype underwent a recombination event that transferred the N gene of the SAI genotype to the Asiatic strains. Recombination events are frequently described in IBV field strains (Dolz et al., 2008; Lee & Jackwood, 2000) as a consequence of the large genome size, a replication machinery that dissociates and reassociates from the template RNA, and the availability of full-length and subgenomic-length strands for template switching (Fu & Baric, 1992) .",
+            "cite_spans": [
+                {
+                    "start": 666,
+                    "end": 685,
+                    "text": "(Dolz et al., 2008;",
+                    "ref_id": null
+                },
+                {
+                    "start": 686,
+                    "end": 707,
+                    "text": "Lee & Jackwood, 2000)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 921,
+                    "end": 939,
+                    "text": "(Fu & Baric, 1992)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 145,
+                    "end": 153,
+                    "text": "(Fig. 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The SAI and A/SAII genotype strains clearly differ from the Massachusetts strains that are included in the vaccine formulations of most South American countries (Figs. 1  and 3) . The Massachusetts-like genotype clusters separately in the phylogenetic tree and shows low nucleotide and amino acid similarity with the SAI and A/SAII genotypes in both the S1 and N sequences, suggesting a limited level of cross-protection.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 177,
+                    "text": "(Figs. 1  and 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Conventional serotype testing and in vivo protection studies have been performed between strains belonging to the Massachusetts and South American genotypes. Brazilian strains, here assigned to the SAI genotype, and Asiatic strains of the A/SAII genotype were not completely neutralized by antisera specific to a Massachusetts strain (Chacon et al., 2011; Liu, et al., 2009b; Yu et al., 2001) . However, the differences in the N gene of Asiatic and South American strains of A/SAII genotype (Fig. 3) open the possibility of a dissimilar antigenic behaviour.",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 355,
+                    "text": "(Chacon et al., 2011;",
+                    "ref_id": null
+                },
+                {
+                    "start": 356,
+                    "end": 375,
+                    "text": "Liu, et al., 2009b;",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 376,
+                    "end": 392,
+                    "text": "Yu et al., 2001)",
+                    "ref_id": "BIBREF63"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 491,
+                    "end": 499,
+                    "text": "(Fig. 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The inadequate immune response provided by Massachusetts strain vaccination may have resulted in the high substitution rates here observed, 5.34610 23 and 1.81610 23 nucleotides per site per year for the SAI and A/SAII genotypes, respectively. Intermediate or low levels of immunity result in the highest rate of emergence of viral variants because solid immunity severely limits virus replication and, thus, the generation of genetic variants (Toro et al., 2012) . In the absence of a specific vaccine, the substitution rate of the 793/ B-type IBV was reported as 3610 23 nucleotides per site per year (Cavanagh et al., 1998) . On the other hand, evaluation of Massachusetts and Connecticut strains collected over 41 and 25 years, indicated that substitution rates ranged from 10 24 to 10 26 nucleotides per site per year, where attenuated live vaccines of these genotypes were routinely used (McKinley et al., 2011) .",
+            "cite_spans": [
+                {
+                    "start": 444,
+                    "end": 463,
+                    "text": "(Toro et al., 2012)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 603,
+                    "end": 626,
+                    "text": "(Cavanagh et al., 1998)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 894,
+                    "end": 917,
+                    "text": "(McKinley et al., 2011)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Together, our results reveal that the dynamic in South America is unusual as it involves two main genotypes with different evolutionary histories that have persisted in the continent for several years and acquired a notorious wide geographical distribution. The ability of the SAI and A/SAII genotypes to evade the immune response of Massachusettstype vaccines may explain their successful spreading in all South American countries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Emergence of novel strains of avian infectious bronchitis virus in Sweden",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Abro",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H M"
+                    ],
+                    "last": "Renstr\u00f6 M",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ullman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Isaksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zohari",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bel\u00e1 K",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Baule",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Vet Microbiol",
+            "volume": "155",
+            "issn": "",
+            "pages": "237--246",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Molecular analysis of the 793/B serotype of infectious bronchitis virus in Great Britain",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Avian Pathol",
+            "volume": "26",
+            "issn": "",
+            "pages": "625--640",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Molecular characterization of avian infectious bronchitis virus strains isolated in Colombia during",
+            "authors": [],
+            "year": 2003,
+            "venue": "Avian Dis",
+            "volume": "49",
+            "issn": "",
+            "pages": "494--499",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Susceptibility of North American ducks and gulls to H5N1 highly pathogenic avian influenza viruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stallknecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Beck",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Suarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Swayne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Emerg Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "1663--1670",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Development and evaluation of a real-time Taqman RT-PCR assay for the detection of infectious bronchitis virus from infected chickens",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Callison",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilt",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Boynton",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Sample",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Robison",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Swayne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol Methods",
+            "volume": "138",
+            "issn": "",
+            "pages": "60--65",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Severe acute respiratory syndrome vaccine development: experiences of vaccination against avian infectious bronchitis coronavirus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Pathol",
+            "volume": "32",
+            "issn": "",
+            "pages": "567--582",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Infectious bronchitis virus: evidence for recombination within the Massachusetts serotype",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Avian Pathol",
+            "volume": "21",
+            "issn": "",
+            "pages": "401--408",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Does IBV change slowly despite the capacity of the spike protein to vary greatly?",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mawditt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Adzhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gough",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Picault",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Naylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Haydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Adv Exp Med Biol",
+            "volume": "440",
+            "issn": "",
+            "pages": "729--734",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Epidemiological survey and molecular characterization of avian infectious bronchitis virus in Brazil between",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chac\u00f3 N",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Assayag",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Peloso",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pedroso",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J P"
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Pathol",
+            "volume": "40",
+            "issn": "",
+            "pages": "153--162",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The spread of pathogens through trade in poultry meat: overview and recent developments",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Cobb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Rev Sci Tech",
+            "volume": "30",
+            "issn": "",
+            "pages": "149--164",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Cytotoxic T lymphocytes are critical in the control of infectious bronchitis virus in poultry",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Collisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dzielawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Dev Comp Immunol",
+            "volume": "24",
+            "issn": "",
+            "pages": "187--200",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Family Coronaviridae",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De Groot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virus Taxonomy, 9th Report of the International Committee on Taxonomy of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "806--828",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Infectious bronchitis virus variants: a review of the history, current situation and control measures",
+            "authors": [],
+            "year": null,
+            "venue": "Avian Pathol",
+            "volume": "40",
+            "issn": "",
+            "pages": "223--235",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Molecular epidemiology and evolution of avian infectious bronchitis virus in Spain over a fourteen-year period",
+            "authors": [],
+            "year": null,
+            "venue": "Virology",
+            "volume": "374",
+            "issn": "",
+            "pages": "50--59",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The nucleocapsid protein of coronavirus infectious bronchitis virus: crystal structure of its N-terminal domain and multimerization properties",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Structure",
+            "volume": "13",
+            "issn": "",
+            "pages": "1859--1868",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Molecular epizootiology of infectious bronchitis virus in Sweden indicating the involvement of a vaccine strain",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ros",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H M"
+                    ],
+                    "last": "Renstr\u00f6 M",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Baule",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "So\u00f3 S",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bel\u00e1 K",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Avian Pathol",
+            "volume": "31",
+            "issn": "",
+            "pages": "229--236",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Genetic diversity of avian infectious bronchitis virus isolated from domestic chicken flocks and coronaviruses from feral pigeons in Brazil between",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Felippe",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M A B"
+                    ],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Spilki",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Arns",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Dis",
+            "volume": "54",
+            "issn": "",
+            "pages": "1191--1196",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Evidence for variable rates of recombination in the MHV genome",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Virology",
+            "volume": "189",
+            "issn": "",
+            "pages": "88--102",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A 'new' strain of infectious bronchitis virus infecting domestic fowl in Great Britain",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pearson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Vet Rec",
+            "volume": "130",
+            "issn": "",
+            "pages": "493--494",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guindon",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Gascuel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Syst Biol",
+            "volume": "52",
+            "issn": "",
+            "pages": "696--704",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "A 15-year analysis of molecular epidemiology of avian infectious bronchitis coronavirus in China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Infect Genet Evol",
+            "volume": "11",
+            "issn": "",
+            "pages": "190--200",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Detection of very virulent strains of infectious bursal disease virus (vvIBDV) in commercial broilers from Uruguay",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hern\u00e1 Ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Banda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hern\u00e1 Ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Panzera",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "P\u00e9 Rez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Avian Dis",
+            "volume": "50",
+            "issn": "",
+            "pages": "624--631",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Isolation of infectious bronchitis virus from broiler chickens in Chile",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hidalgo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gallardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rosende",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Avian Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "601--603",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Predictive power of air travel and socio-economic data for early pandemic spread",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS ONE",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "S1 and N gene analysis of avian infectious bronchitis viruses in Taiwan",
+            "authors": [
+                {
+                    "first": "Y.-P",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-C",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.-C",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Avian Dis",
+            "volume": "48",
+            "issn": "",
+            "pages": "581--589",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The S1 glycoprotein but not the N or M proteins of avian infectious bronchitis virus induces protection in vaccinated chickens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ignjatovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Galli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Arch Virol",
+            "volume": "138",
+            "issn": "",
+            "pages": "117--134",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ignjatovi\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sapats",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Rev Sci Tech",
+            "volume": "19",
+            "issn": "",
+            "pages": "493--508",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Isolation of a variant infectious bronchitis virus in Australia that further illustrates diversity among emerging strains",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ignjatovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sapats",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Arch Virol",
+            "volume": "151",
+            "issn": "",
+            "pages": "1567--1585",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Spike glycoprotein cleavage recognition site analysis of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wade",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Dis",
+            "volume": "45",
+            "issn": "",
+            "pages": "366--372",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "A novel variant of avian infectious bronchitis virus resulting from recombination among three different strains",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karaca",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Naqi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Arch Virol",
+            "volume": "140",
+            "issn": "",
+            "pages": "259--271",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Location of antigenic sites defined by neutralizing monoclonal antibodies on the S1 avian infectious bronchitis virus glycopolypeptide",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kant",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Koch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Roozelaar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kusters",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Poelwijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Van Der Zeijst",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Gen Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "591--596",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Katoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Misawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Miyata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nucleic Acids Res",
+            "volume": "30",
+            "issn": "",
+            "pages": "3059--3066",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Experimental evidence of recombination in coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "213",
+            "issn": "",
+            "pages": "569--580",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv Virus Res",
+            "volume": "48",
+            "issn": "",
+            "pages": "1--100",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Evidence of genetic diversity generated by recombination among avian coronavirus IBV",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Arch Virol",
+            "volume": "145",
+            "issn": "",
+            "pages": "2135--2148",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "A new genotype of nephropathogenic infectious bronchitis virus circulating in vaccinated and nonvaccinated flocks in China",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Avian Pathol",
+            "volume": "33",
+            "issn": "",
+            "pages": "321--327",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Genetic diversity of avian infectious bronchitis coronavirus strains isolated in China between",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Arch Virol",
+            "volume": "151",
+            "issn": "",
+            "pages": "1133--1148",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Molecular characterization and pathogenicity of infectious bronchitis coronaviruses: complicated evolution and epidemiology in China caused by cocirculation of multiple types of infectious bronchitis coronaviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Intervirology",
+            "volume": "52",
+            "issn": "",
+            "pages": "223--234",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Evaluation of the protection conferred by commercial vaccines and attenuated heterologous isolates in China against the CK/CH/LDL/97I strain of infectious bronchitis coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vet J",
+            "volume": "179",
+            "issn": "",
+            "pages": "130--136",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Attenuated live vaccine usage affects accurate measures of virus diversity and mutation rates in avian coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mckinley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilt",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kissinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lemke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Paterson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Virus Res",
+            "volume": "158",
+            "issn": "",
+            "pages": "225--234",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Epidemiology of infectious bronchitis virus in Belgian broilers: a retrospective study",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Meulemans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boschmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Decaesstecker",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Van Den",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Denis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "",
+            "volume": "30",
+            "issn": "",
+            "pages": "411--421",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "jModelTest: phylogenetic model averaging",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol Biol Evol",
+            "volume": "25",
+            "issn": "",
+            "pages": "1253--1256",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Molecular characterization of avian infectious bronchitis virus strains from outbreaks in Argentina",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rimondi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Craig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vagnozzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "K\u00f6 Nig",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Delamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pereda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "The carboxyl-terminal 120-residue polypeptide of infectious bronchitis virus nucleocapsid induces cytotoxic T lymphocytes and protects chickens from acute infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Collisson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Virol",
+            "volume": "71",
+            "issn": "",
+            "pages": "7889--7894",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Coronavirus proteins: biogenesis of avian infectious bronchitis virus virion proteins",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Stern",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sefton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Virol",
+            "volume": "44",
+            "issn": "",
+            "pages": "794--803",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "TreeGraph 2: combining and visualizing evidence from different phylogenetic analyses",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "St\u00f6 Ver",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "M\u00fc Ller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMC Bioinformatics",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Diagnostic and clinical observation on the infectious bronchitis virus strain Q1 in Italy",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Toffan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bonci",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bano",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bano",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Valastro",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vascellari",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Capua",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Terregino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Vet Ital",
+            "volume": "49",
+            "issn": "",
+            "pages": "347--355",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Genetic diversity and selection regulates evolution of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Toro",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Van Santen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Avian Dis",
+            "volume": "56",
+            "issn": "",
+            "pages": "449--455",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Livestock and poultry: world markets and trade",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Molecular characterization of infectious bronchitis virus strains isolated from the enteric contents of Brazilian laying hens and broilers",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Villarreal",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Brand\u00e3 O",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chac\u00f3 N",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B S"
+                    ],
+                    "last": "Saidenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Assayag",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Avian Dis",
+            "volume": "51",
+            "issn": "",
+            "pages": "974--978",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Evidence of natural recombination within the S1 gene of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Junker",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Collisson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "192",
+            "issn": "",
+            "pages": "710--716",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Characterization of three infectious bronchitis virus isolates from China associated with proventriculus in vaccinated chickens",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Low",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Nam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kwang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Dis",
+            "volume": "45",
+            "issn": "",
+            "pages": "416--424",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": ". Strains of this genogroup were first detected in China in 1996(Yu et al., 2001), and were",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "AR/09/BA/29 Argentina AR/09/BA/38 Argentina AR/09/BA/36 Argentina AR/09/BA/35 Argentina AR/09/BA/37 Argentina AR/09/BA/34 Argentina AF203006 D1466 Netherlands AY514485 Cal99 USA DQ352148 CK/CH/LDL/01I China DQ287910 CK/CH/LDL/98I China EF213582 CK/CH/LDL/97I China UY/12/CA/36 UruguayFig. 3. Phylogenetic tree inferred by using the maximum-likelihood method with GTR+I+G substitution model. Phylogenetic reconstruction was carried out using the full-length N gene sequence of South American IBV strains and reference strains. Mapping uncertainties for internal nodes are shown as approximate likelihood ratio test values.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This study was supported by grants from the Instituto Nacional de Investigaci\u00f3 n Agropecuaria (Fondo de Promoci\u00f3 n de Tecnolog\u00eda Agropecuaria), the Comisi\u00f3 n Sectorial de Investigaci\u00f3 n Cient\u00edfica, Programa de Desarrollo de las Ciencias B\u00e1sicas and the Agencia Nacional de Investigaci\u00f3 n e Innovaci\u00f3 n. We thank Granjas Hepa and the Asociaci\u00f3 n Colombiana de M\u00e9dicos Veterinarios y Zootecnistas Especialistas en Avicultura for collaboration.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

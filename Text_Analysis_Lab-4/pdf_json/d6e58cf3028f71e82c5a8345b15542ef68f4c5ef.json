@@ -1,0 +1,1390 @@
+{
+    "paper_id": "d6e58cf3028f71e82c5a8345b15542ef68f4c5ef",
+    "metadata": {
+        "title": "Supplementary data Rapidly decreased HBV RNA predicts responses of pegylated interferons in HBeAg-positive patients: a longitudinal cohort study",
+        "authors": [
+            {
+                "first": "Min",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guangdi",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "#",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jia",
+                "middle": [],
+                "last": "Shang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chen",
+                "middle": [],
+                "last": "Pan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Minxiang",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zhibiao",
+                "middle": [],
+                "last": "Yin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Xie",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yanzhong",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Mao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xinqiang",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yongfang",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kaizhong",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yun",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hai",
+                "middle": [],
+                "last": "Ding",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wenzhou",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vidaurre",
+                "middle": [],
+                "last": "Diego",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mahmoud",
+                "middle": [
+                    "Reza"
+                ],
+                "last": "Pourkarim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Erik",
+                "middle": [],
+                "last": "De Clercq",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guiqiang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guozhong",
+                "middle": [],
+                "last": "Gong",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "In this section, we provide details about HBV RNA extraction and quantification.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Methods"
+        },
+        {
+            "text": "In order to measure serum HBV RNA, primers of 3'RACE, HBV RNA-forward, HBV RNA-reverse, and HBV RNA-probes were obtained in literature [12] . Noncompetitive internal controls were added to monitor the extraction and amplification of viral loads",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[12]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Primers, probes, and internal controls"
+        },
+        {
+            "text": "[13]. Information on primers, probes, and internal controls is summarized below. Here, we collected HBV genomic sequences to prove that primer sequences above were located within the conserved regions of the HBV genome. First, fifteen HBV genomic sequences were extracted from the NCBI nucleotide database and ambiguous nucleotides were taken into account (e.g. \"W\" represents \"A\" or \"T\";",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Primers, probes, and internal controls"
+        },
+        {
+            "text": "\"Y\" represents \"C\" or \"T\"). MEGA X was used for data visualization. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Primers, probes, and internal controls"
+        },
+        {
+            "text": "HBV RNA extraction, PCR reaction, and amplification were performed on the Natch S system (Sansure Biotech, Inc, China) using protocols, reagents, and software provided by the manufacturer [14] . HBV RNA was extracted from patient serum samples (200 \u03bcL) using a nucleic acid extraction kit which was developed based on the magnetic bead technology. According to the manufacturer's protocol, HBV RNA extraction could be briefly described by seven-fold processes.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "[14]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "(1) Prepare an appropriate number of centrifugation tubes (1.5 mL). Mark negative control, positive control, and serum sample names on tubes accordingly. Add 600 \u03bcL of RNA Extraction Solution 1 into each tube. Note that RNA Extraction Solution 1 to 4 are available in the nucleic acid extraction kit.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "(2) Add serum sample (200 \u03bcL), negative control, and positive internal control into each centrifugation tube. Close the lip, vortex it for 10 seconds, then centrifuge them instantaneously.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "(3) Add 100 \u03bcL of RNA Extraction Solution 2 into each tube (mix it thoroughly before pipetting), vortex it for 10 seconds, then keep it at the temperature of 60\u2103 for 10 minutes, followed by 4\u2103 for 10 minutes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "(4) Centrifuge them instantaneously and then put centrifugation tubes in a separator.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "After 3 minutes, pipette the liquids out slowly (do not touch the brown substance on the tube wall). Notably, all centrifugation tubes, pipettes, PCR tubes, and related equipment used above should be RNase free to prevent the interference of RNase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "Eluted HBV RNA (30 \u03bcL) was obtained from HBV RNA extraction above and 10 \u03bcL was used for reverse transcription. Real-time fluorescence quantitative PCR technology was applied to quantify HBV RNA using fluorescence probes and specific primers that target conserved HBV regions (see Table S ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 281,
+                    "end": 288,
+                    "text": "Table S",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "HBV RNA extraction and amplification"
+        },
+        {
+            "text": "To provide effective internal control, armored RNA technology was applied to encode predefined RNA sequences (see internal control in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Internal control"
+        },
+        {
+            "text": "Stable standards are required for quantifying HBV RNA levels in patient serums.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HBV RNA standard"
+        },
+        {
+            "text": "We prepared HBV RNA standards similar to the approach proposed in the literature [18] . Here, we briefly describe the preparation of HBV RNA standards in threefold procedures. First, a plasmid pGS-1 ligated with a replication sequence was constructed: ",
+            "cite_spans": [
+                {
+                    "start": 81,
+                    "end": 85,
+                    "text": "[18]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "HBV RNA standard"
+        },
+        {
+            "text": "In order to identify the limit of detection of HBV RNA assay, we prepared three batches to test HBV RNA levels based on 7 different concentrations ranged from 100 copies/mL to 1000 copies/mL. Each batch with 40 samples was tested independently to measure the number of successful detections at different concentrations. New results are summarized in Table S 7 . Given any serum sample, we did conduct another test if weak signals of HBV RNA could not be observed.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 350,
+                    "end": 359,
+                    "text": "Table S 7",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Limit of detection (LOD)"
+        },
+        {
+            "text": "We performed statistical analyses to show the robustness of the HBV RNA method (Table S 7) . Based on experimental results, HBV RNA \u2265 250 copies/mL maintained 100% (120/120) of detection rates over three batches (Figure S 5) . With 100% of the detection rate, 250 copies/mL of HBV RNA were potentially considered as the limit of detection, though the focus of our study was not to prove the best detection limit for the HBV RNA assay. RNA assays were evaluated using HBV RNA specimens at the concentration of 5\u00d710 2 and 5\u00d710 3 , whose results were illustrated in red and blue, respectively. Tests upon each specimen were repeated for 20 times. Coefficients of variability for HBV RNA at concentrations of 5\u00d710 2 and 5\u00d710 3 were 2.09% and 1.56%, respectively. For HBV RNA at 250 copies/mL, we also demonstrated the amplification curves and characterized the coefficient of variation, defined by the ratio of the standard deviation to the mean. Given 120 individual tests, the CV value of specimens harboring HBV RNA at concentrations of 250 copies/mL was 4.84% (see Figure S 7 , PCR raw data is available in the supplementary file). Moreover, the CV values of HBV RNA at 5\u00d710 2 and 5\u00d710 3 were 2.09% and 1.56%, respectively (Figure S 6) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 79,
+                    "end": 90,
+                    "text": "(Table S 7)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 212,
+                    "end": 224,
+                    "text": "(Figure S 5)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1065,
+                    "end": 1075,
+                    "text": "Figure S 7",
+                    "ref_id": "FIGREF10"
+                },
+                {
+                    "start": 1223,
+                    "end": 1235,
+                    "text": "(Figure S 6)",
+                    "ref_id": "FIGREF9"
+                }
+            ],
+            "section": "Limit of detection (LOD)"
+        },
+        {
+            "text": "In addition to the analysis of HBV RNA at 250 copies/mL, we demonstrated the amplification curves of HBV RNA at the concentrations from 5\u00d710 2 to 5\u00d710 9 copies/mL (Figure S 8) . The linear regression curve mapped the standard curve along with the HBV RNA concentrated from 5\u00d710 2 copies/mL (log10 value: 2.699) to 5\u00d710 9 copies/mL (log10 value: 9.699). The correlation coefficient was -3.479002 with R 2 =0.999. Taken together, we observed a good linear relation in standard curves of HBV RNA based on diluted plasmids from 5\u00d710 2 to 5\u00d710 9 copies/mL.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 163,
+                    "end": 175,
+                    "text": "(Figure S 8)",
+                    "ref_id": "FIGREF11"
+                }
+            ],
+            "section": "Limit of detection (LOD)"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical effect and safety of pegylated interferon-alpha-2b injection (Y shape, 40 kD) in treatment of HBeAg-positive chronic hepatitis B patients",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Chinese Journal of Hepatology",
+            "volume": "25",
+            "issn": "",
+            "pages": "589--596",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Responseguided peginterferon therapy in patients with HBeAg-positive chronic hepatitis B: A randomized controlled study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Hepatol",
+            "volume": "65",
+            "issn": "",
+            "pages": "674--682",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Shorter durations and lower doses of peginterferon alfa-2a are associated with inferior hepatitis B e antigen seroconversion rates in hepatitis B virus genotypes B or C",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Piratvisuth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Hepatology",
+            "volume": "54",
+            "issn": "",
+            "pages": "1591--1599",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Peginterferon Alfa-2a, lamivudine, and the combination for HBeAg-positive chronic hepatitis B",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Piratvisuth",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Marcellin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Thongsawat",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cooksley",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gane",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Fried",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Paik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "N Engl J Med",
+            "volume": "352",
+            "issn": "",
+            "pages": "2682--2695",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pluck N: Peginterferon alpha-2a (40 kDa): an advance in the treatment of hepatitis B e antigen-positive chronic hepatitis B",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cooksley",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Piratvisuth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mahachai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tanwandee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chutaputti",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Zahm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Viral Hepat",
+            "volume": "10",
+            "issn": "",
+            "pages": "298--305",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Sustained response to peginterferon alfa-2a (40 kD) with or without lamivudine in Asian patients with HBeAg-positive and HBeAg-negative chronic hepatitis B",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Piratvisuth",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chutaputti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Tanwandee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Button",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Popescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Hepatol Int",
+            "volume": "2",
+            "issn": "",
+            "pages": "102--110",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Predictors of response to pegylated interferon in chronic hepatitis B: a real-world hospital-based analysis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Huo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Sci Rep",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Pegylated interferon alfa-2b alone or in combination with lamivudine for HBeAg-positive chronic hepatitis B: a randomised trial",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Zonneveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Senturk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zeuzem",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Akarca",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cakaloglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "So",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gerken",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "De Man",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Lancet",
+            "volume": "365",
+            "issn": "",
+            "pages": "123--129",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Sustained HBeAg and HBsAg loss after long-term follow-up of HBeAgpositive patients treated with peginterferon alpha-2b",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Buster",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Flink",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cakaloglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Trojan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tabak",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "So",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Feinman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mach",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Akarca",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Gastroenterology",
+            "volume": "135",
+            "issn": "",
+            "pages": "459--467",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Traceability, reproducibility and clinical evaluation of Sansure Realtime HCV RNA assay",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Armored RNA technology for production of ribonuclease-resistant viral RNA controls and standards",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pasloske",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Walkerpeach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Obermoeller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Winkler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Dubois",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Clin Microbiol",
+            "volume": "36",
+            "issn": "",
+            "pages": "3590--3594",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Ribonuclease-resistant RNA controls (Armored RNA) for reverse transcription-PCR, branched DNA, and genotyping assays for hepatitis C virus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Walkerpeach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Winkler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Dubois",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pasloske",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Clin Chem",
+            "volume": "45",
+            "issn": "",
+            "pages": "2079--2085",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "External quality assessment for enterovirus 71 and coxsackievirus A16 detection by reverse transcription-PCR using armored RNA as a virus surrogate",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Clin Microbiol",
+            "volume": "49",
+            "issn": "",
+            "pages": "3591--3595",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Serum hepatitis B virus RNA is encapsidated pregenome RNA that may be associated with persistence of viral infection and rebound",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Hepatol",
+            "volume": "65",
+            "issn": "",
+            "pages": "700--710",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Patient disposition throughout this study. This figure was adapted from the phase 3 clinical study which was previously published in Chinese[1].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Pairwise correlation plots of HBV RNA correlated with HBV DNA, HBsAg, and HBeAg based on our cohort of 727 patients. (A) HBV RNA was positively correlated with HBeAg, HBsAg, and HBV DNA at weeks 0, 12, and 24. Spearman correlation coefficients and their statistical significance are indicated in the subfigures. (B) Correlation matrix showing correlation coefficients between four 12-week HBV biomarkers in the arms of PegIFN\u03b1-2a (top right) and PegIFN\u03b1-2b (bottom left).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Oligonucleotide sequences of primers and probes for HBV RNA quantification. Primers and probes Nucleotide sequences (5' to 3') NT position HBV RNA-RACE* ACC ACG CTA TCG CTA CTC AC (dT)17GWA GCT C 1935-1929 HBV RNA-forward* ACC ACG CTA TCG CTA CTC AC HBV RNA-reverse* CAA CTT TTT CAC CTC TGC CTA 1817-1837 HBV RNA-probe* FAM-CAT GTC CYA CTG TTC AAG CCT CCA AG-BHQ1 1851-1876 Internal control (IC) GTC CAG TAC TTT CAA AGC TCG ATC CCG GTA ACT ACC AAA TCG GTA CGT ACC GGT TTA AAA CCA CCG ATC GCC TCT TCC CAA CCT GTA CGT ACG TAC GTA CGT CCA AAA GTT TCC ACG TAC GAT CGA TC Internal control forward GCT CGA TCC CGG TAA CTA CCA Internal control reverse GTA CGT GGA AAC TTT TGG ACG Internal control probe HEX-TCG GTA CGT ACC GGT TTA AAA CCA CC-BHQ1 *: Primers of RNA-RACE, HBV RNA-forward, HBV RNA-reverse, and HBV RNAprobe were obtained in the literature [12]. HBV RNA-RACE primer (ACC ACG CTA TCG CTA CTC AC (dT)17GWA GCT C) was used to amplify polyadenylated HBV RNA without DNA degradation [12].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Conservation of primer sequences for HBV RNA detection. From subfigures (A) to (C), three primer sequences (RNA-RACE, HBV-reverse, ), F (DQ899149), G (HE981172), H (AB353764) plus two recombinant forms BC (HM011480) and CD (B270535). For each primer, its nucleotide positions indexed in the full-length HBV genome are shown on top of multiple sequence alignments. Primer sequences were the consensus of different HBV genotype sequences,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Three subfigures above highlight the conserved regions of primers. In these figures, three primer sequences (RNA-RACE, HBV-reverse, HBV-Probe) were individually aligned with 15 sequences whose HBV genotypes were classified as A1, A2, A3, A4, A5, A6, B, C, D, E, F, G, H plus two recombinant forms BC and CD. Above findings suggest that primer sequences are conserved across different HBV genotypes. Taken together, above primer sequences within conserved regions could be potentially used to detect HBV RNA in different HBV genotypes.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Add 600 \u03bcL of RNA Extraction Solution 3 and 200 \u03bcL of RNA Extraction Solution 4 into each tube, and vortex it for 5 seconds. Centrifuge tubes instantaneously and then put them into a separator again. (6) After three minutes, place the pipette tip at the bottom of centrifugation tubes and slowly pipette all liquids inside. Hold it for one minute, then pipette the residual liquid at the bottom of the tube.(7) Add 30 \u03bcL of elution buffer to elute magnetic beads on the tube wall until all magnetic beads are removed to the bottom of tubes. Pipette it for 3 or 4 times and then hold the tube at the room temperature for 10 minutes. Afterward, place centrifugation tubes in a separator for 3 minutes, then transfer this eluted RNA to another centrifugation tube (1.5 mL).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Second, the constructed plasmid was quantified by a spectrophotometer(Thermo Scientific\u2122 NanoDrop 2000). Third, Tris-EDTA buffer solution (pH=8.0) was added to dilute quantitative references with HBV RNA concentrations ranged from 5\u00d710 2 to 5\u00d710 9 copies/mL.HBV RNA quantification in the presence of HBV DNABelow, we show that HBV RNA detection is unlikely influenced even if serum samples were pretreated by deoxyribonuclease I (DNase I). Experiments were designed to prove this result under four conditions: (a) HBV RNA negative and DNA negative; (b) HBV RNA negative and DNA positive; (c) HBV RNA positive and DNA negative; (d) HBV RNA positive and DNA positive. First, we conducted experiments to validate the HBV RNA detection system under the first three conditions: (a) TE buffer (pH=8.0); (b) HBV DNA standard at a high concentration (10 9 IU/mL) in the absence of HBV RNA; (c) HBV RNA standard (concentration: 5\u00d710 8 copies/mL) in the absence of HBV DNA. As illustrated in Figure S 4, neither the signals of the TE buffer (a) nor the signals of the HBV DNA standard in the absence of HBV RNA (b) were detected, whereas signals of HBV RNA standard in the absence of HBV DNA (c) were detected successfully. Next, we evaluated the condition (d) in which HBV RNA and DNA were in samples treated with or without DNase I. Results are shown inTable S6. Under the conditions of HBV DNA levels from 5.7 to 8.7 log10 IU/mL, we compared samples treated with or without DNase I (n=10), and no significant difference of HBV RNA was found in samples treated with or without DNase (p>0.05, Table S 6). In conclusion, four experiments above suggest that the RNA detection approach could successfully detect signals of HBV RNA no matter whether samples are treated with DNase I or not, and HBV RNA detection is unlikely influenced by the high concentration of HBV DNA.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Amplification curves for the validation of HBV RNA detection. (a) An orange line shows the results for TE buffer (pH=8.0) in the absence of HBV DNA or RNA (one sample was tested). (b) Twenty blue lines show results of HBV DNA samples (concentration: 10 9 IU/mL) in the absence of HBV RNA (20 samples were tested). (c) Three red lines show the results of HBV RNA standard (concentration: 5\u00d710 8 copies/mL) in the absence of HBV DNA (3 samples were tested).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Detection percentage of HBV RNA levels at the concentrations from 100 to 1000 copies/mL. For each concentration, 40 samples in a batch were evaluated to seek successful detection (also see Table S 7).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "Evaluation of the lower limit of HBV RNA quantification assay. HBV",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "Amplification curves of HBV RNA samples at the concentration of 250 copies/mL. Three batches of 40 HBV RNA samples were tested independently. Based on the calculation of the coefficient of variability (CV), the CV value of specimens harboring HBV RNA at the concentration of 250 copies/mL was 4.84%. Raw Ct data of HBV RNA with 250 copies/mL are provided at the section of Supplementary Data.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "Amplification curves and correlation coefficients in the HBV RNA quantification assay. (A) Amplification curves of HBV RNA that were measured by the replication cycles versus delta Rn. Amplification curves show the results of HBV RNA at the concentrations from 5\u00d710 2 to 5\u00d710 9 copies/mL. (B) Correlations between the cycle threshold (Ct) and the concentration of HBV RNA. The x-axis indicates the log10 values of HBV RNA concentrations from 5\u00d710 2 copies/mL to 5\u00d710 9 copies/mL, while the y-axis shows the cycle threshold. The linear regression curve maps the standard curve along with HBV RNA in the concentrations from 5\u00d710 2 copies/mL (log10 value: 2.699) to 5\u00d710 9 copies/mL (log10 value: 9.699). The correlation coefficient was -3.479002 with R 2 =0.999. Note that delta Rn value is the Rn value of experimental reaction minus the Rn value of the baseline signal. Cycle threshold (Ct) is the intersection between an amplification curve and a threshold line.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": ". Logistic regression analyses of host and HBV biomarkers in the prediction of HBsAg loss.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": ". Early prediction of HBeAg seroconversion by HBV biomarker cutoffs.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": ". Summary of HBeAg seroconversion and HBsAg loss in HBeAg-positive patients treated with PegIFN\u03b1-2a or PegIFN\u03b1-2b.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "(https://www.ncbi.nlm.nih.gov/nuccore/?term=HBV). Second, the NCBI genotyping tool (http://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi) was used to assign HBV genotype classifications. Third, a consensus sequence was generated in the primer regions of the HBV genome.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "60\u2103), and a cooling step down to 25\u2103 for 10 seconds. The fluorescence of cDNA in the tubes was detected and measured by the 7500 Real-Time PCR System (Applied Biosystems \u00ae ).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": ". Detection of HBV RNA in samples harboring the high concentrations of HBV RNA and DNA treated with or without DNase I.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF10": {
+            "text": ". Detection of HBV RNA concentrations from 100 to 1000 copies/mL. *: For each concentration, 40 samples in a batch were evaluated to seek detection rates.For instance, \"40/40\" indicated that 40 detections were successful observed given 40 samples harboring HBV RNA. Three batches were independently tested. Note that",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

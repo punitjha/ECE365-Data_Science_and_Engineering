@@ -1,0 +1,177 @@
+{
+    "paper_id": "88449101d4c40d01dc551a4a46f259654cbf953a",
+    "metadata": {
+        "title": "Norovirus infectiousness in long-term care facility outbreaks: estimating who infected whom from epidemic curves",
+        "authors": [
+            {
+                "first": "Carly",
+                "middle": [
+                    "L"
+                ],
+                "last": "Adams",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Benjamin",
+                "middle": [
+                    "A"
+                ],
+                "last": "Lopman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "\u2022 Over half of all norovirus outbreaks reported in the US, and 90% of those found to be non-foodborne, occur in long-term care facilities (LTCFs). 2 \u2022 Older adults and residents in LTCFs may be at heightened risk due to increased risk of exposure and subsequent illness and/or heightened risk of severe outcome. 3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "\u2022 Estimate the effective reproduction number (R E )* of norovirus LTCF outbreaks and examine changes over the course of an outbreak. 4 \u2022 Estimate case-specific R E 's and examine differences by case characteristics and symptoms. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Objectives"
+        },
+        {
+            "text": "Infectiousness**",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Norovirus Outbreak Epidemic Curves and Effective Reproduction Ratios*"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A decade of norovirus disease risk among older adults in upper-middle and high income countries",
+            "authors": [
+                {
+                    "first": "Lisa",
+                    "middle": [],
+                    "last": "Lindsay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMC Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The effective reproduction number of pandemic influenza: prospective estimation",
+            "authors": [
+                {
+                    "first": "Benjamin",
+                    "middle": [],
+                    "last": "Cowlng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Epidemiology",
+            "volume": "21",
+            "issn": "6",
+            "pages": "842--846",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Different epidemic curves for SARS reveal similar impacts of control measures",
+            "authors": [
+                {
+                    "first": "Jaco",
+                    "middle": [
+                        "&amp;"
+                    ],
+                    "last": "Wallinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "Peter",
+                    "middle": [],
+                    "last": "Teunis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Epidemiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Quantifying transmission of norovirus during an outbreak",
+            "authors": [
+                {
+                    "first": "Janneke",
+                    "middle": [
+                        "C M"
+                    ],
+                    "last": "Heijne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Epidemiology",
+            "volume": "23",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "South Carolina Department of Health and Environmental Control",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Office of Infectious Diseases, National Center for Immunization and Respiratory Diseases",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "A total of 209 cases (157 residents and 49 staff members) were affected in these outbreaks.\u2022 Of all cases, 55% were female and 20% were male.\u2022 Seventy-eight percent of cases reported diarrhea and 74% reported vomiting.*Defined as the average number of secondary cases that one index case generates over the course of its infectious period. Only onset dates of cases and knowledge of the serial interval of norovirus (the duration between the dates of symptom onset) were required to estimate R E.The figure above illustrates the Wallinga-Teunis method. A transmission tree for a hypothetical outbreak of three cases, with gamma probability distributions for cases A (red) and B (blue), isshown. Widths of edges correspond to probability of transmission and probabilities sum to R E .",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgements: We sincerely thank David Young 7 , Paul Gastanaduy 8 , Prabasaj Paul 8 , Aron Hall 8 and Zachary Marsh 8 for their active support of this evaluation.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 122,
+                    "text": "8",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

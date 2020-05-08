@@ -1,0 +1,3045 @@
+{
+    "paper_id": "1124c1e10cc4c2274b4e328c53347c34ed77727f",
+    "metadata": {
+        "title": "Interplay between coronavirus, a cytoplasmic RNA virus, and nonsense-mediated mRNA decay pathway",
+        "authors": [
+            {
+                "first": "Masami",
+                "middle": [],
+                "last": "Wada",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas Medical Branch",
+                    "location": {
+                        "postCode": "77555-1019",
+                        "settlement": "Galveston",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kumari",
+                "middle": [
+                    "G"
+                ],
+                "last": "Lokugamage",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas Medical Branch",
+                    "location": {
+                        "postCode": "77555-1019",
+                        "settlement": "Galveston",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Keisuke",
+                "middle": [],
+                "last": "Nakagawa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas Medical Branch",
+                    "location": {
+                        "postCode": "77555-1019",
+                        "settlement": "Galveston",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Krishna",
+                "middle": [],
+                "last": "Narayanan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas Medical Branch",
+                    "location": {
+                        "postCode": "77555-1019",
+                        "settlement": "Galveston",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shinji",
+                "middle": [],
+                "last": "Makino",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Texas Medical Branch",
+                    "location": {
+                        "postCode": "77555-1019",
+                        "settlement": "Galveston",
+                        "region": "TX"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Coronaviruses (CoVs), including severe acute respiratory syndrome CoV and Middle East respiratory syndrome CoV, are enveloped RNA viruses that carry a large positive-sense single-stranded RNA genome and cause a variety of diseases in humans and domestic animals. Very little is known about the host pathways that regulate the stability of CoV mRNAs, which carry some unusual features. Nonsense-mediated decay (NMD) is a eukaryotic RNA surveillance pathway that detects mRNAs harboring aberrant features and targets them for degradation. Although CoV mRNAs are of cytoplasmic origin, the presence of several NMD-inducing features (including multiple ORFs with internal termination codons that create a long 3\u2032 untranslated region) in CoV mRNAs led us to explore the interplay between the NMD pathway and CoVs. Our study using murine hepatitis virus as a model CoV showed that CoV mRNAs are recognized by the NMD pathway as a substrate, resulting in their degradation. Furthermore, CoV replication induced the inhibition of the NMD pathway, and N protein (a viral structural protein) had an NMD inhibitory function that protected viral mRNAs from rapid decay. Our data further suggest that the NMD pathway interferes with optimal viral replication by degrading viral mRNAs early in infection, before sufficient accumulation of N protein. Our study presents clear evidence for the biological importance of the NMD pathway in controlling the stability of mRNAs and the efficiency of replication of a cytoplasmic RNA virus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "nonsense-mediated mRNA decay | cytoplasmic RNA virus | coronavirus | inhibition of NMD | long 3\u2032 UTR",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Coronaviruses (CoVs), including severe acute respiratory syndrome CoV and Middle East respiratory syndrome CoV, are enveloped RNA viruses that carry a large positive-sense single-stranded RNA genome and cause a variety of diseases in humans and domestic animals. Very little is known about the host pathways that regulate the stability of CoV mRNAs, which carry some unusual features. Nonsense-mediated decay (NMD) is a eukaryotic RNA surveillance pathway that detects mRNAs harboring aberrant features and targets them for degradation. Although CoV mRNAs are of cytoplasmic origin, the presence of several NMD-inducing features (including multiple ORFs with internal termination codons that create a long 3\u2032 untranslated region) in CoV mRNAs led us to explore the interplay between the NMD pathway and CoVs. Our study using murine hepatitis virus as a model CoV showed that CoV mRNAs are recognized by the NMD pathway as a substrate, resulting in their degradation. Furthermore, CoV replication induced the inhibition of the NMD pathway, and N protein (a viral structural protein) had an NMD inhibitory function that protected viral mRNAs from rapid decay. Our data further suggest that the NMD pathway interferes with optimal viral replication by degrading viral mRNAs early in infection, before sufficient accumulation of N protein. Our study presents clear evidence for the biological importance of the NMD pathway in controlling the stability of mRNAs and the efficiency of replication of a cytoplasmic RNA virus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "nonsense-mediated mRNA decay | cytoplasmic RNA virus | coronavirus | inhibition of NMD | long 3\u2032 UTR C oronaviruses (CoVs) cause a variety of diseases in humans and domestic animals. Most human CoVs usually cause mild to moderate respiratory infections, with the exception of severe acute respiratory syndrome CoV (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV) that cause serious respiratory illness in humans and represent a major public health threat with the potential to inflict massive economic losses (1) (2) (3) (4) (5) . Currently, there are no approved vaccines and therapeutic agents against human CoVs. Studies that lead to a comprehensive understanding of CoV gene expression strategies and host interactions will provide the necessary knowledge required for the development of new and effective measures to control CoV replication.",
+            "cite_spans": [
+                {
+                    "start": 523,
+                    "end": 526,
+                    "text": "(1)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "(2)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 531,
+                    "end": 534,
+                    "text": "(3)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 535,
+                    "end": 538,
+                    "text": "(4)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 539,
+                    "end": 542,
+                    "text": "(5)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "CoVs belong to the order Nidovirales, in the family Coronaviridae, and are currently classified into four genera: alpha, beta, gamma, and delta CoVs. CoV is an enveloped virus that carries a large (\u223c30-kb) positive-sense RNA genome, which is structurally polycistronic, containing multiple open reading frames (ORFs) (6) (SI Appendix, Fig. S1 ). CoV particles carry a helical nucleocapsid, which is a complex of the viral genomic RNA and the nucleocapsid protein, N, enclosed in an envelope composed of the viral envelope proteins, S, M, and E. After infection, the genomic RNA is released into the cytoplasm and is translated to produce two large polyproteins encoded in gene 1, which occupies the 5\u2032 two-thirds of the genome with two partially overlapping ORFs (SI Appendix, Fig. S1 ). The two polyproteins are processed by viral proteases to generate 15 or 16 nonstructural proteins, most of which are required for viral RNA synthesis (7) . In addition to mRNA 1 (the intracellular form of genomic RNA), several subgenomic mRNAs are synthesized in infected cells (SI Appendix, Fig. S1 ). These subgenomic mRNAs encode viral structural proteins and accessory proteins, the latter of which are not essential for virus replication in cell culture but play a role in viral pathogenicity (8, 9) . CoV mRNAs have a common 3\u2032 end, constituting a 3\u2032-coterminal nested-set structure; the 5\u2032 end of all CoV mRNAs carry a common \u223c70-nt leader sequence (SI Appendix, Fig. S1 ) (6) . Accordingly, most of the CoV mRNAs, except for the smallest subgenomic mRNA, have multiple ORFs. Because only the 5\u2032-most ORF in viral mRNAs is, in principle, used for translation, most of the CoV mRNAs have a long 3\u2032 untranslated region (UTR); in the case of genomic RNA, the length of the 3\u2032 UTR is \u223c10 kb (SI Appendix, Fig. S1 ). Although steady progress has been made in understanding CoV gene expression strategies, there are still considerable gaps in our knowledge about the CoV-host interactions involved in the regulation of viral mRNA stability and viral gene expression.",
+            "cite_spans": [
+                {
+                    "start": 938,
+                    "end": 941,
+                    "text": "(7)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1286,
+                    "end": 1289,
+                    "text": "(8,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1290,
+                    "end": 1292,
+                    "text": "9)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1468,
+                    "end": 1471,
+                    "text": "(6)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 335,
+                    "end": 342,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 777,
+                    "end": 784,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1080,
+                    "end": 1087,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1458,
+                    "end": 1465,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1796,
+                    "end": 1803,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Nonsense-mediated decay (NMD) is a eukaryotic RNA surveillance pathway that detects mRNAs harboring aberrant features [e.g., premature termination codon (PTC)], and targets them for degradation (10) . NMD can occur on mRNAs during the pioneer round of translation as well as during the eIF4Finitiated steady-state translation (11, 12) . PTC recognition is dependent on a protein complex called the exon junction complex (EJC), which is deposited on mRNAs during splicing.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 198,
+                    "text": "(10)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 326,
+                    "end": 330,
+                    "text": "(11,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 331,
+                    "end": 334,
+                    "text": "12)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Coronaviruses (CoVs) are important pathogens for humans and domestic animals. The development of effective countermeasures against CoVs requires an understanding of the host pathways that regulate viral gene expression and the viral subversion mechanisms. However, little is known about how the stability of viral mRNAs is controlled. We show that the nonsense-mediated decay (NMD) pathway, which primarily targets aberrant cellular mRNAs for degradation, also induced the degradation of CoV mRNAs that are of cytoplasmic origin. Our study further suggests the importance of CoV-induced inhibition of the NMD pathway, mediated by a viral protein, for efficient CoV replication. The present study highlights an interplay between the NMD pathway and CoVs that modulates viral replication by controlling the stability of viral mRNAs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "During the translation of normal transcripts, the elongating ribosome removes the EJCs located within the ORFs. In aberrant transcripts carrying PTC upstream of the last exon, EJCs remain bound to the mRNA after translation termination at the PTC, which in turn is recognized by the NMD effectors and other proteins, activating the NMD pathway. UPF1 (the principal orchestrator of NMD) and SMG1 interact with the peptide-release factors, which are associated with the stalled ribosome, at the PTC. Subsequently, UPF1 interacts with UPF2 at the EJC, which triggers UPF1 phosphorylation by SMG1 and the dissociation of the stalled ribosome with the peptide-release factors. The phosphorylated UPF1 recruits SMG6 and a complex of SMG5 and SMG7. SMG6 induces an endonucleolytic RNA cleavage and SMG5-SMG7 induces mRNA decay (10) . In addition to PTCs, other NMDinducing features on mRNAs include upstream ORFs in the 5\u2032 UTR, introns in the 3\u2032 UTR, multiple ORFs with internal termination codons in a single mRNA, and long 3\u2032 UTRs (10, 13, 14) . Also, an EJC-independent NMD pathway has been identified, in which UPF1 binds to the 3\u2032 UTRs of mRNAs in the absence of an exon-exon junction and is activated probably by interacting with cytoplasmic EJC components or EJC components stably associated with 3\u2032 UTRs (15) .",
+            "cite_spans": [
+                {
+                    "start": 820,
+                    "end": 824,
+                    "text": "(10)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1026,
+                    "end": 1030,
+                    "text": "(10,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1031,
+                    "end": 1034,
+                    "text": "13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1035,
+                    "end": 1038,
+                    "text": "14)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1305,
+                    "end": 1309,
+                    "text": "(15)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Significance"
+        },
+        {
+            "text": "The role of NMD as a cell-intrinsic antiviral defense mechanism against cytoplasmic RNA viruses harboring genomes with recognizable NMD-activating features has gained traction as a novel research area (13, 16, 17) . However, our understanding of the interplay between NMD and cytoplasmic RNA viruses is still in its infancy, as only a limited number of studies have addressed this area of research (13, 16, 17) . CoV mRNAs have several NMD-inducing features, including multiple ORFs with internal termination codons that create a long 3\u2032 UTR (SI Appendix, Fig.  S1 ), which could predispose them to recognition by the NMD pathway. The presence of the NMD-activating features in CoV mRNAs led us to test the hypotheses that the NMD pathway recognizes and degrades CoV mRNAs and that CoV has developed a strategy to suppress NMD to protect viral mRNAs from degradation. Our present study supports these hypotheses and reveals the role of N protein as an NMD inhibitor. Furthermore, our data suggests that the virus-induced inhibition of the NMD pathway is important for the protection of viral mRNAs from rapid decay, thereby facilitating efficient virus replication. Our study has identified, in a cytoplasmic RNA virus, a viral protein with an NMD inhibitory function that plays a role in protecting viral mRNAs from rapid decay. Except for retroviruses, whose mRNAs are synthesized in the nucleus and often involves splicing, our study represents a direct demonstration of the recognition and targeting of mRNAs of a cytoplasmic RNA virus by the NMD pathway, highlighting the biological importance of the virus-induced inhibition of the NMD pathway for efficient virus replication.",
+            "cite_spans": [
+                {
+                    "start": 201,
+                    "end": 205,
+                    "text": "(13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 206,
+                    "end": 209,
+                    "text": "16,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 210,
+                    "end": 213,
+                    "text": "17)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 398,
+                    "end": 402,
+                    "text": "(13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 403,
+                    "end": 406,
+                    "text": "16,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "17)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 556,
+                    "end": 564,
+                    "text": "Fig.  S1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Significance"
+        },
+        {
+            "text": "MHV Genomic RNA Is a Target of the NMD Pathway, and Its Inhibition Enhances MHV Replication from Transfected MHV Genomic RNA. To test the hypothesis that the NMD pathway recognizes CoV mRNAs, leading to their degradation, we first examined whether the inhibition of the NMD pathway by depleting NMD factors promotes CoV replication from transfected viral genomic RNA. If CoV genomic RNA is a substrate of the NMD pathway, then depletion of NMD factors would prevent the NMD-mediated degradation of the transfected genomic RNA, resulting in efficient virus replication. In the present study, we used mouse hepatitis virus (MHV), a prototypic member of the CoV family belonging to the same genus (Betacoronavirus) as SARS-CoV and MERS-CoV. Treatment of 17Cl-1 cells [a mouse fibroblast cell line (18) ] with specific siRNAs for different NMD factors, including UPF1, UPF2, SMG5, and SMG6, but not control siRNAs, substantially reduced the levels of the target NMD factors (SI Appendix, Fig.  S2A ). To examine the effect of depletion of these NMD factors on the NMD pathway, 17Cl-1 cells were transfected with an NMD reporter plasmid, NS39, or a WT reporter plasmid. Both NS39 and WT reporter plasmids encode the Renilla luciferase (rLuc) gene fused to the \u03b2-globin gene with or without a PTC, respectively (SI Appendix, Fig. S2B ); both transcripts undergo splicing, and the NS39 reporter transcript, but not the WT reporter transcript, is a target of NMD (19) . Quantitative reverse transcription-polymerase chain reaction (qRT-PCR) analysis showed a lower accumulation of NS39 reporter transcripts than WT reporter transcripts in control siRNA-transfected cells, confirming the degradation of NS39 reporter transcripts by the NMD pathway (SI Appendix, Fig. S2C ). An increase in the accumulation of the NS39 reporter transcripts (relative to WT reporter transcripts) in cells depleted of UPF1, UPF2, SMG5, or SMG6 demonstrated the inhibition of the NMD pathway in these cells. We transfected these NMD-deficient cells with MHV genomic RNA and determined the number of cells positive for MHV M protein and the released virus titers at 24 h postinoculation (p.i.). The number of M protein-positive cells (Fig.  1A ) and the virus titers (Fig. 1B) were both substantially higher in cells depleted of NMD factors, demonstrating that the NMD pathway inhibited virus replication from the transfected MHV genomic RNA. As UPF1 and UPF2 are core components of the NMD machinery (20, 21) , we chose the depletion of these factors in 17Cl-1 cells to generate NMD-deficient cells in subsequent studies.",
+            "cite_spans": [
+                {
+                    "start": 794,
+                    "end": 798,
+                    "text": "(18)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1455,
+                    "end": 1459,
+                    "text": "(19)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 2470,
+                    "end": 2474,
+                    "text": "(20,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 2475,
+                    "end": 2478,
+                    "text": "21)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 984,
+                    "end": 993,
+                    "text": "Fig.  S2A",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1319,
+                    "end": 1327,
+                    "text": "Fig. S2B",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1753,
+                    "end": 1761,
+                    "text": "Fig. S2C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 2203,
+                    "end": 2212,
+                    "text": "(Fig.  1A",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 2236,
+                    "end": 2245,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To examine whether the transfected MHV genomic RNA is a target of the NMD pathway, we determined the degradation kinetics of the transfected genomic RNA in NMD-deficient and NMD-competent cells. Cells that had been treated with control siRNAs (NMD-competent) or with siRNAs for UPF1 or UPF2 (NMD-deficient) were transfected with MHV genomic RNA. After 1 h of incubation and washing to remove free genomic RNAs, we extracted total intracellular RNAs from the 1-h sample. To examine the kinetics of degradation of viral genomic RNA after transfection, intracellular RNAs were also extracted from NMD-deficient and NMD-competent cells at 3, 5, and 7 h posttransfection. Quantitative analyses of the genomic RNA determined by qRT-PCR showed no substantial increase in the levels of genomic RNA in the NMD-competent cells during the 7-h incubation period ( Fig. 2A, Left) . These data suggest that viral RNA synthesis from the transfected genomic RNA was not efficient within the first 7 h after posttransfection, which allowed us to determine the degradation kinetics of the transfected viral genomic RNA. We observed a significantly delayed degradation kinetics of the transfected genomic RNA in NMDdeficient cells compared with NMD-competent cells ( Fig. 2A , Left). These data suggest that MHV genomic RNA is a substrate of the NMD pathway, which recognizes and degrades the transfected genomic RNA.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 852,
+                    "end": 866,
+                    "text": "Fig. 2A, Left)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1248,
+                    "end": 1255,
+                    "text": "Fig. 2A",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To further confirm that the transfected MHV genomic RNA was degraded by the NMD pathway, we examined the effect of NMD inhibition on the stability of the transfected genomic RNA. We used two pharmacological NMD inhibitors, cycloheximide (CHX) and wortmannin. CHX is a translation inhibitor that inhibits NMD because it is a translation-dependent event (21) ; wortmannin inhibits NMD by preventing SMG1-mediated UPF1 phosphorylation (22, 23) , a critical step in the NMD pathway. After genomic RNA transfection, we incubated the cells with CHX, wortmannin, or dimethyl sulfoxide (DMSO), the solvent used for dissolving the inhibitors, and determined the levels of the genomic RNA at 3 h posttransfection ( Fig. 2A , Right); the levels of the genomic RNA at 1 h posttransfection represented the input genomic RNA. The levels of the genomic RNA at 3 h posttransfection were significantly higher in cells treated with the NMD inhibitors, confirming that the transfected MHV genomic RNA was a target of the NMD pathway.",
+            "cite_spans": [
+                {
+                    "start": 352,
+                    "end": 356,
+                    "text": "(21)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 432,
+                    "end": 436,
+                    "text": "(22,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 437,
+                    "end": 440,
+                    "text": "23)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 705,
+                    "end": 712,
+                    "text": "Fig. 2A",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "In addition to mRNA 1, six subgenomic mRNAs (mRNAs 2 through 7) are produced in MHV-infected cells (SI Appendix, Fig. S1 ). The subgenomic mRNAs 2 through 6 have multiple ORFs and a long 3\u2032 UTR, both of which are NMD-inducing features in host mRNAs (6) . To test whether CoV subgenomic mRNAs are also targets of the NMD pathway, we transfected an in vitro-synthesized, capped, and polyadenylated MHV subgenomic RNA 3-like reporter transcript, rLucRNA3, carrying the rLuc ORF instead of the MHV S protein ORF, and examined its stability in NMD-competent and NMD-deficient cells (Fig. 2B , Left). Similar to MHV genomic RNA, the transfected rLucRNA3 exhibited a longer half-life in NMD-deficient cells compared to NMD-competent cells (Fig. 2B, Left) . Also, the levels of the transfected rLucRNA3 were higher in cells treated with NMD inhibitors (Fig. 2B , Right). These data show that the MHV subgenomic RNA 3-like reporter transcript rLucRNA3 was also a target of the NMD pathway and suggest that CoV subgenomic mRNAs can also serve as substrates of the NMD pathway.",
+            "cite_spans": [
+                {
+                    "start": 249,
+                    "end": 252,
+                    "text": "(6)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 113,
+                    "end": 120,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 577,
+                    "end": 585,
+                    "text": "(Fig. 2B",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 732,
+                    "end": 747,
+                    "text": "(Fig. 2B, Left)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 844,
+                    "end": 852,
+                    "text": "(Fig. 2B",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To determine whether the targeting of MHV genomic RNA and subgenomiclike RNA for degradation by the NMD pathway is specific for these RNAs and not for any transfected RNAs, we tested the stability of a capped and polyadenylated nonviral RNA (GLA mRNA) carrying the \u03b2-globin 5\u2032 UTR and the rLuc ORF in NMD-deficient and NMD-competent cells. The degradation kinetics of GLA mRNA was similar in both NMD-deficient and NMD-competent cells, demonstrating that GLA mRNA was not a substrate of the NMD pathway (SI Appendix, Fig. S3 ). The data demonstrate that MHV genomic RNA and rLucRNA3, but not GLA mRNA, had an NMD-inducing feature(s) that is recognized by the NMD pathway.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 517,
+                    "end": 524,
+                    "text": "Fig. S3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Cytoplasmically Synthesized MHV Subgenomiclike RNA Is Susceptible to NMD. Because MHV mRNAs are synthesized in the cytoplasm of infected cells, we tested whether the NMD pathway can recognize and degrade cytoplasmically generated MHV subgenomic-like RNA (rLucRNA3). To generate capped rLucRNA3 transcripts in the cytoplasm, we cotransfected 17Cl-1 cells with four expression plasmids in the experimental group-a plasmid encoding T7 polymerase (24), two plasmids encoding the vaccinia virus capping enzymes D1R and D12L (25) (26) (27) (28) , and a rLucRNA3 plasmid carrying the rLucRNA3 sequence-downstream of a T7 promoter and upstream of a poly(A) sequence, hepatitis delta virus (HDV) ribozyme and T7 terminator. We expected that the expressed T7 RNA polymerase, along with the vaccinia virus capping enzymes, would drive the synthesis of capped and polyadenylated rLucRNA3 transcripts in the cytoplasm (29) . As a control group, the plasmids expressing vaccinia virus capping enzymes were omitted, which would result in the generation of uncapped and polyadenylated rLucRNA3 transcripts. Although similar levels of rLucRNA3 transcripts were synthesized in both groups, the rLuc reporter activities were higher in the experimental group than in the control group (SI Appendix, Fig. S4 ), suggesting the generation of capped rLucRNA3 transcripts in the experimental group and resulting in the efficient capdependent translation of the rLuc reporter protein from the capped transcripts. To test whether the cytoplasmically generated rLucRNA3 transcripts can serve as a substrate of the NMD pathway, we examined the stability of rLucRNA3 transcripts in control siRNA-treated cells (NMD-competent) or in cells depleted of UPF1 or UPF2 (NMD-deficient). We treated the cells with actinomycin D (actD) at 20 h posttransfection to prevent new RNA synthesis, and examined the levels of preexisting rLucRNA3 transcripts at 0, 2, and 4 h after actD addition (Fig. 3A ). We observed a significantly delayed degradation kinetics of rLucRNA3 transcripts in NMD-deficient cells compared with NMD-competent cells, suggesting that the cytoplasmically synthesized rLucRNA3 transcripts are recognized and degraded by the NMD pathway. To examine whether the targeting of cytoplasmically generated RNA transcripts by the NMD pathway is specific for capped rLucRNA3 and not for any cytoplasmically generated capped RNA, we performed similar experiments described above using a plasmid expressing GLA mRNA instead of the plasmid expressing rLucRNA3. The degradation kinetics of GLA mRNA was similar in both NMD-competent and NMD-deficient cells (Fig.  3B) , suggesting that the NMD pathway did not affect the stability of cytoplasmically synthesized capped GLA mRNA.",
+            "cite_spans": [
+                {
+                    "start": 519,
+                    "end": 523,
+                    "text": "(25)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 524,
+                    "end": 528,
+                    "text": "(26)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 529,
+                    "end": 533,
+                    "text": "(27)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 534,
+                    "end": 538,
+                    "text": "(28)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 905,
+                    "end": 909,
+                    "text": "(29)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1279,
+                    "end": 1286,
+                    "text": "Fig. S4",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1949,
+                    "end": 1957,
+                    "text": "(Fig. 3A",
+                    "ref_id": null
+                },
+                {
+                    "start": 2624,
+                    "end": 2634,
+                    "text": "(Fig.  3B)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To further confirm that the cytoplasmically synthesized rLucRNA3 transcripts are susceptible to NMD, we examined the effect of NMD inhibitors on the stability of capped rLucRNA3 transcripts. Cells were transfected with the four plasmids to generate capped rLucRNA3 transcripts in the cytoplasm and treated with actD, as described above. DMSO, CHX, or wortmannin was added to the cells at 1 h after actD addition, and the levels of rLucRNA3 transcripts were determined at 1 and 3 h after actD addition (Fig.  3C ). The levels of rLucRNA3 transcripts were significantly higher in cells treated with the NMD inhibitors than in those treated with DMSO, confirming that the cytoplasmically synthesized capped rLucRNA3 transcripts are susceptible to NMD.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 501,
+                    "end": 510,
+                    "text": "(Fig.  3C",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Together, our data strongly suggest that CoV mRNAs are a target of the NMD pathway.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "MHV Replication Induces NMD Inhibition. The data above, demonstrating that CoV mRNAs are susceptible to NMD, led us to hypothesize that CoVs have developed a strategy to inhibit the NMD pathway in order to protect the viral mRNAs from degradation. To test this hypothesis, we generated 17Cl-1 cells stably expressing either an NMD reporter transcript (NS39, carrying a PTC) or a WT reporter transcript (lacking the PTC) by transfecting NS39 or WT reporter plasmids, respectively (19) (SI Appendix, Fig. S2B ). We examined whether MHV replication protects the NS39 reporter mRNA from NMD using these stable cell lines. In the absence of MHV infection, the levels of NS39 reporter transcripts were lower than those of WT reporter transcripts due to the degradation of NS39 reporter transcripts by NMD (Mock in Fig. 4A ). We observed a statistically significant increase in the level of NS39 reporter transcripts (relative to that of WT reporter transcripts) in MHV-infected cells at 7 h p.i. (Fig. 4A ). At 8 h p.i., the levels of both reporter mRNAs were similar. These data reveal that MHV replication inhibited the NMD pathway starting at \u223c7 h p.i.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 498,
+                    "end": 506,
+                    "text": "Fig. S2B",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 808,
+                    "end": 815,
+                    "text": "Fig. 4A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 990,
+                    "end": 998,
+                    "text": "(Fig. 4A",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We also tested the effect of MHV infection on the NMD pathway by examining the stability of a naturally occurring NMD target mRNA, rpL3, in MHV-infected cells. The alternatively spliced, but not the canonically spliced, rpL3 mRNA is an NMD target (30, 31) . The levels of the alternatively spliced rpL3 mRNA were significantly higher in MHV-infected cells at 7 h p.i. (Fig. 4B) , further confirming that MHV replication induced the inhibition of the NMD pathway.",
+            "cite_spans": [
+                {
+                    "start": 247,
+                    "end": 251,
+                    "text": "(30,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 252,
+                    "end": 255,
+                    "text": "31)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 368,
+                    "end": 377,
+                    "text": "(Fig. 4B)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "As the NMD pathway is a translation-dependent event, it is indirectly suppressed due to the inhibition of translation (32) (33) (34) . Because MHV replication inhibits host translation (35, 36) , we tested whether the MHV-induced inhibition of NMD was primarily due to the indirect effect of host translation inhibition in MHV-infected cells. Metabolic pulse radiolabeling of MHVinfected and mock-infected cells showed that MHV-induced host translation inhibition started at \u223c9 h p.i. (Fig. 4C) , suggesting that the MHV-induced inhibition of NMD preceded the onset of host translation inhibition and was not simply an indirect effect of virus-induced translation inhibition.",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(32)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 123,
+                    "end": 127,
+                    "text": "(33)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "(34)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 185,
+                    "end": 189,
+                    "text": "(35,",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 190,
+                    "end": 193,
+                    "text": "36)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 485,
+                    "end": 494,
+                    "text": "(Fig. 4C)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "MHV N Protein Inhibits the NMD Pathway. Next, we sought to identify the viral protein that exhibited an NMD inhibitory function. We hypothesized that one of the viral structural proteins associated with the incoming virions would possess an NMD inhibitory function to protect the incoming MHV genomic RNA from NMD. We established a simple assay system to determine whether one of the viral structural proteins displayed an activity to inhibit NMD. Cells were cotransfected with NS39 reporter plasmid (encoding NS39 reporter transcripts) or WT reporter plasmid (encoding WT reporter transcripts) along with a pCMV-fLuc plasmid [expressing firefly luciferase (fLuc) transcripts], and with plasmids encoding either chloramphenicol acetyltransferase (CAT) or the nonstructural protein 1 of transmissible gastroenteritis virus (TGEV nsp1), an alphaCoV; CAT and TGEV nsp1 carried a C-terminal myc tag. We hypothesized that TGEV nsp1 would inhibit the NMD pathway because it inhibits host translation without affecting the stability of host mRNAs (37)-and NMD is a translation-dependent event. At 40 h posttransfection, we examined the levels of WT and NS39 reporter transcripts relative to those of fLuc transcripts. The level of NS39 reporter transcripts was higher in TGEV nsp1-expressing cells than in CAT-expressing cells (SI Appendix, Fig. S5 ), demonstrating that TGEV nsp1 inhibited the NMD pathway. Similar experiments, using a plasmid encoding one of the MHV structural proteins (M, N, E, or S) in place of the plasmid encoding TGEV nsp1, showed that N protein expression caused a statistically significant increase in the level of NS39 reporter transcripts, demonstrating that MHV N protein inhibited the NMD pathway (Fig.  5A ). To rule out the possibility that the inhibition of the NMD pathway by MHV N protein was due to its indirect effect on translation, we examined whether N protein expression inhibited translation by determining the levels of fLuc transcripts and fLuc reporter activities in the cells expressing the different MHV structural proteins (Fig. 5B) . The levels of fLuc transcripts and fLuc reporter activities were similar among the samples, with no statistically significant difference, except in the case of TGEV nsp1 expression that resulted in a lower fLuc reporter activity due to its translation inhibition function. MHV N protein expression resulted in a slightly higher fLuc reporter activity. These data show that N protein inhibited the NMD pathway without suppressing translation.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1334,
+                    "end": 1341,
+                    "text": "Fig. S5",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1721,
+                    "end": 1730,
+                    "text": "(Fig.  5A",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 2065,
+                    "end": 2074,
+                    "text": "(Fig. 5B)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To further confirm inhibition of the NMD pathway by MHV N protein, stable cell lines expressing either the NS39 or WT reporter transcripts were transfected with a plasmid expressing MHV N protein. As controls, plasmids expressing TGEV nsp1myc or CATmyc were used in place of the plasmid expressing N. The levels of NS39 reporter transcripts were higher in cells expressing MHV N or TGEV nsp1, but not CAT, suggesting that MHV N protein inhibited the NMD pathway and led to the accumulation of the NS39 reporter transcripts (Fig. 5C) . The relative levels of the alternatively spliced rpL3 mRNA, an endogenous NMD target, were also higher in cells expressing MHV N or TGEV nsp1 (Fig.  5D) . Together, our studies have established the role of MHV N protein as an inhibitor of the NMD pathway.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 523,
+                    "end": 532,
+                    "text": "(Fig. 5C)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 677,
+                    "end": 687,
+                    "text": "(Fig.  5D)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "MHV N Protein Inhibits the Degradation of Transfected Viral RNAs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The data above suggest that N protein could protect MHV mRNAs, including the incoming viral genomic RNA and newly synthesized viral mRNAs, from NMD. To evaluate this possibility, we examined the degradation kinetics of transfected viral genomic RNA and rLucRNA3 in the presence of MHV N protein. We transfected MHV genomic RNA or the capped and polyadenylated rLucRNA3 into cells transiently expressing MHV N, myc-tagged CAT, or myc-tagged TGEV nsp1 and determined the levels of the transfected RNAs at various times posttransfection (Fig. 6) . We observed a delayed degradation kinetics with longer half-lives for the RNAs in cells expressing MHV N or TGEV nsp1. These data are consistent with the notion that MHV N protein inhibits the degradation of viral mRNAs by NMD.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 534,
+                    "end": 542,
+                    "text": "(Fig. 6)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "NMD Pathway Inhibits Optimal MHV Replication by Targeting Viral mRNAs Synthesized Early in Infection. Although N protein is a component of the helical nucleocapsid in the incoming virion that could protect the incoming genomic RNA from NMD, there is a possibility that the newly synthesized viral mRNAs early in infection are subject to NMD due to low levels of accumulation of N protein. Consistent with this notion, the accumulation of MHV N protein, which is translated from viral mRNA 7 (SI Appendix, Fig. S1 ) early in infection, was low, with detectable levels starting only at 6 h p.i. (Fig. 7A) . To test the possibility that MHV mRNAs synthesized early in infection are susceptible to NMD, we inoculated MHV into cells treated with control siR-NAs (NMD-competent) or with siRNAs for UPF1 or UPF2 (NMD-deficient) and examined the levels of viral mRNAs at different times p.i. (Fig. 7 B and C) . The levels of incoming genomic RNA in NMD-competent and NMD-deficient cells were not significantly different during the first 2 h p.i. (Fig. 7B) . The level of newly synthesized mRNA 1, which was initially detected at 3 h p.i., was significantly higher in NMD-deficient cells compared to NMD-competent cells at 5 h p.i. (Fig. 7B) . The level of mRNA 3, but not mRNA 7, was also higher in NMD-deficient cells than in NMD-competent cells at 5 h p.i. (Fig. 7C ). At 5 h p.i., the difference in the levels of mRNA 1 between NMD-deficient cells and NMD-competent cells was more pronounced than the difference in the levels of mRNA 3 among these cells. These data suggest that early in infection, MHV mRNAs 1 and 3, but not the smallest viral mRNA (mRNA 7), were subjected to NMD. These data also revealed that the inhibition of the NMD pathway by the depletion of NMD factors promoted the accumulation of viral mRNAs, especially the longer mRNAs, early in infection.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 505,
+                    "end": 512,
+                    "text": "Fig. S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 593,
+                    "end": 602,
+                    "text": "(Fig. 7A)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 884,
+                    "end": 900,
+                    "text": "(Fig. 7 B and C)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1038,
+                    "end": 1047,
+                    "text": "(Fig. 7B)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1223,
+                    "end": 1232,
+                    "text": "(Fig. 7B)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1351,
+                    "end": 1359,
+                    "text": "(Fig. 7C",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To determine whether the higher levels of accumulation of viral mRNAs in NMD-deficient cells had an impact on the production of infectious MHV particles, we examined the replication Fig. 3 . Cytoplasmically synthesized rLucRNA3, but not GLA mRNA, is susceptible to NMD. (A) UPF1-depleted 17Cl-1 cells (siUpf1), UPF2-depleted 17Cl-1 cells (siUpf2), or 17Cl-1 cells treated with control siRNAs (siCtrl) were cotransfected with plasmids expressing T7 polymerase, rLucRNA3, vaccinia virus capping enzyme D1R, and vaccinia virus capping enzyme D12L. At 20 h after plasmid transfection, cells were treated with actD, and levels of expressed rLucRNA3 at 0, 2, and 4 h after actD treatment were determined by qRT-PCR and normalized to 18S rRNA levels. The data represent the mean with SEM of three independent experiments. Statistical analysis was done by ANOVA. **P < 0.01. (B) Experiments were performed as described in A, except that plasmid encoding GLA RNA was used in place of that encoding rLucRNA3. (C) The 17Cl-1 cells were cotransfected as described in A. At 1 h after actD addition, DMSO, CHX, or wortmannin (Wort) was added to the cells, and levels of rLucRNA3 at 1 and 3 h after actD addition were determined by qRT-PCR and normalized to 18S rRNA levels. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. *P < 0.05. kinetics of MHV in control siRNA-treated cells (NMD-competent) or in cells treated with siRNAs for UPF1 or UPF2 (NMD-deficient) (Fig. 7D ). Higher titers of MHV were released from NMD-deficient cells, starting from 8 to 12 h p.i., indicating that the accumulation of higher amounts of viral mRNAs early in infection in NMD-deficient cells facilitated the production of higher titers of MHV.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 182,
+                    "end": 188,
+                    "text": "Fig. 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1519,
+                    "end": 1527,
+                    "text": "(Fig. 7D",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To gain further evidence that newly synthesized MHV mRNA 1 is susceptible to NMD early in infection, we examined the effect of NMD inhibition on the stability of mRNA 1 (which is synthesized early in infection) in cells treated with E64d, a specific, irreversible inhibitor of cysteine proteinases that inhibits the processing of viral gene 1 polyprotein, resulting in the inhibition of CoV RNA synthesis (38) . Treatment with E64d causes a reduction in the rate of RNA synthesis, which allowed us to measure the NMD-mediated turnover of newly synthesized mRNA 1 by comparing its levels in MHV-infected cells treated with the NMD inhibitor wortmannin or DMSO at 6 h p.i. First, we tested the effect of E64d treatment on MHV RNA synthesis and found that it efficiently inhibited, albeit incompletely, the synthesis of mRNA 1 (SI Appendix, Fig. S6A ). Furthermore, E64d-mediated inhibition of viral mRNA synthesis also severely inhibited the accumulation of MHV N protein (SI Appendix, Fig.  S6B ), excluding the effect of its role as an NMD inhibitor in our experimental approach. Importantly, E64d treatment did not inhibit the NMD pathway (SI Appendix , Fig. S6C ). These data show the feasibility of using E64d in our experiment to inhibit viral mRNA synthesis. We treated MHV-infected cells with E64d and wortmannin or with E64d and DMSO from 4 to 6 h p. i., and measured the levels of mRNA 1 at 4 and 6 h p.i. (Fig. 7E) . The level of mRNA 1 was significantly higher in E64d-treated cells incubated with wortmannin than in those incubated with DMSO. To exclude the possibility that wortmannin treatment promoted viral mRNA synthesis, leading to higher levels of accumulation of mRNA 1, we examined the effect of wortmannin treatment on mRNA 1 accumulation in the absence of E64d. The level of mRNA 1 was slightly lower, although not statistically significantly, in wortmannin-treated cells than in DMSO-treated cells (SI Appendix, Fig. S6D ), strongly suggesting that wortmannin treatment did not facilitate viral mRNA synthesis. Our data suggest that NMD inhibition by wortmannin in E64d-treated cells protects the newly synthesized mRNA 1 from degradation, resulting in its higher level of accumulation.",
+            "cite_spans": [
+                {
+                    "start": 405,
+                    "end": 409,
+                    "text": "(38)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 838,
+                    "end": 846,
+                    "text": "Fig. S6A",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 984,
+                    "end": 993,
+                    "text": "Fig.  S6B",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1153,
+                    "end": 1163,
+                    "text": ", Fig. S6C",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1414,
+                    "end": 1423,
+                    "text": "(Fig. 7E)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1935,
+                    "end": 1943,
+                    "text": "Fig. S6D",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Our data show that NMD inhibition, either by depletion of the NMD factors UPF1 and UPF2 or by wortmannin treatment, resulted in higher levels of MHV mRNA 1 accumulation, which strongly suggests that newly synthesized MHV mRNA 1 is susceptible to NMD early in infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The present study investigated the interplay between CoVs and the NMD pathway by using MHV as a prototypic CoV. We show that inhibition of the NMD pathway, by the depletion of NMD factors, significantly delayed the degradation of the transfected MHV genomic RNA, thereby facilitating efficient virus replication (Fig. 1) . Depletion of NMD factors also delayed the rapid degradation of transfected rLucRNA3, a viral subgenomiclike mRNA (Fig. 2) , as well as cytoplasmically synthesized rLucRNA3 (Fig. 3) . Pharmacological inhibition of the NMD pathway, using CHX and wortmannin, also inhibited the decay of transfected genomic RNA and rLucRNA3 (Fig. 2) as well as cytoplasmically synthesized rLucRNA3 (Fig. 3) , establishing that MHV mRNAs are targets of the NMD pathway. We also reveal that MHV replication inhibited the NMD pathway before the onset of virusinduced translation inhibition (Fig. 4) . It should be noted that efficient viral protein synthesis continued even after the induction of host protein synthesis inhibition (Fig. 4C) . Because the actively translating viral mRNAs would be susceptible to NMD, our data suggest that MHV-induced inhibition of the NMD pathway is important for efficient viral gene expression. We identified MHV N protein as an inhibitor of the NMD pathway (Fig. 5) . However, our data did not exclude the possibility of other MHV proteins (including gene 1 or accessory proteins) possessing the activity to inhibit the NMD pathway. Although MHV N protein also protected transfected viral genomic RNA and rLucRNA3 from rapid degradation (Fig. 6) , providing indirect evidence for its role in protecting viral mRNAs from NMD in infected cells, our data do not rule out the possibility that N protein protected the viral mRNAs from other RNA decay pathways. Subsequently, our studies revealed that early in infection, before the efficient accumulation of N protein, newly synthesized MHV mRNAs 1 and 3 are susceptible to NMD and that inhibition of the NMD pathway by the depletion of NMD factors promoted the accumulation of viral mRNAs early in infection, leading to the production of higher titers of MHV (Fig. 7) . Together, the present study's results strongly suggest that the NMD pathway recognizes and targets MHV mRNAs for degradation and that the inhibition of the NMD pathway, mediated by MHV N protein, is important for efficient virus replication.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 312,
+                    "end": 320,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 436,
+                    "end": 444,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 495,
+                    "end": 503,
+                    "text": "(Fig. 3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 644,
+                    "end": 652,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 701,
+                    "end": 709,
+                    "text": "(Fig. 3)",
+                    "ref_id": null
+                },
+                {
+                    "start": 890,
+                    "end": 898,
+                    "text": "(Fig. 4)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1031,
+                    "end": 1040,
+                    "text": "(Fig. 4C)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1294,
+                    "end": 1302,
+                    "text": "(Fig. 5)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1574,
+                    "end": 1582,
+                    "text": "(Fig. 6)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 2142,
+                    "end": 2150,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Past studies have revealed various types of interactions between viruses and the NMD pathway (39) . Genomic-wide siRNA screening for host factors involved in the replication of Semliki forest virus (SFV), an alphavirus, in mammalian cells (16) and a genetic screen in Arabidopsis for factors involved in the replication of Potato virus X (PVX), a positive-strand RNA virus in plants (13) , led to the discovery of the role of NMD factors in the replication of these cytoplasmic RNA viruses. Like CoVs, these viruses carry a single-stranded, positive-sense RNA genome with a long 3\u2032 UTR and produce one or more subgenomic mRNAs that form a nested-set structure in infected cells. In the case of retroviruses, the viral mRNAs are synthesized in the nucleus and many of them undergo splicing; therefore, it is not surprising that retroviruses have evolved to control the NMD pathway. Rous sarcoma virus, an avian retrovirus, carries an RNA stability element that facilitates the escape of full-length viral RNA (carrying a long 3\u2032 UTR) from degradation by the NMD pathway (40) . Human T-lymphotropic virus type I encodes the NMD inhibitors Tax and Rex, which prolong the half-life of viral mRNAs (41, 42) , whereas the NMD factor UPF1 serves as a positive regulator of HIV type 1 replication (43) (44) (45) .",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 97,
+                    "text": "(39)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 239,
+                    "end": 243,
+                    "text": "(16)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 383,
+                    "end": 387,
+                    "text": "(13)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1069,
+                    "end": 1073,
+                    "text": "(40)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1193,
+                    "end": 1197,
+                    "text": "(41,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1198,
+                    "end": 1201,
+                    "text": "42)",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1289,
+                    "end": 1293,
+                    "text": "(43)",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 1294,
+                    "end": 1298,
+                    "text": "(44)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 1299,
+                    "end": 1303,
+                    "text": "(45)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In principle, the NMD pathway in mammalian cells acts on newly synthesized mRNAs that undergo splicing and harbor an EJC (21, 46) . Our data showing that MHV mRNAs of cytoplasmic origin, which do not undergo splicing and lack EJC, are also targeted by the NMD pathway suggest that the NMD pathway is able to recognize and target mRNAs that lack canonical NMD-inducing features. Nonetheless, the recognition and targeting of mRNAs of cytoplasmic origin by the NMD pathway followed some fundamental principles that govern the turnover of mammalian mRNAs by NMD, including the requirement of NMD factors UPF1, UPF2, SMG5, and SMG6; UPF1 phosphorylation; and the translation of target mRNAs (Figs. 1-3) . However, it is unclear whether other NMD factors that play a critical role in the NMD of mammalian mRNAs are also required for NMD-mediated turnover of CoV mRNAs. Further studies are warranted to identify the host factors that are involved in the targeting of cytoplasmically synthesized viral mRNAs by the NMD pathway.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 125,
+                    "text": "(21,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 126,
+                    "end": 129,
+                    "text": "46)",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 687,
+                    "end": 698,
+                    "text": "(Figs. 1-3)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to the well-characterized role of the NMD pathway as a quality control system for eliminating aberrant host mRNAs, present and past studies (13, 16) have highlighted a biological role for the NMD pathway as an intrinsic host defense mechanism against cytoplasmic RNA viruses. It is conceivable that many cytoplasmic RNA viruses have evolved to evade the NMD pathway altogether by eliminating NMD-inducing RNA features from the viral mRNAs. One of the NMD-inducing features in mammalian mRNAs is the presence of a long 3\u2032 UTR (10, 13, 14) . It has been demonstrated that the long 3\u2032 UTR of subgenomic RNA of PVX is targeted by the NMD pathway (13) , but shortening the length of the 3\u2032 UTR in alphavirus genomic RNA did not protect the RNA from NMD (16), suggesting the presence of one or more additional NMD-inducing features in the alphavirus genomic RNA. We observed that the transfected or cytoplasmically synthesized rLucRNA3, but not GLA mRNA, was susceptible to NMD, suggesting that the long 3\u2032 UTR is one of the NMD-activating features in rLucRNA3 that triggered its NMDmediated degradation (Figs. 2 and 3) . Furthermore, the inhibition of the NMD pathway promoted the accumulation of viral mRNAs early in infection, with the effect being more pronounced for longer viral mRNAs (Fig. 7) . These data are also consistent with the long 3\u2032 UTR being one of the NMD-activating features in susceptible mRNAs (10, 13, 14) , which implies that the long 3\u2032 UTR in cytoplasmically synthesized mRNAs, including CoV mRNAs, is a trigger for NMD. Because the cytoplasmically generated rLucRNA3 transcripts were susceptible to NMD (Fig. 3) , these transcripts can be used to delineate the NMD-inducing RNA features in CoV mRNAs.",
+            "cite_spans": [
+                {
+                    "start": 152,
+                    "end": 156,
+                    "text": "(13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 157,
+                    "end": 160,
+                    "text": "16)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 537,
+                    "end": 541,
+                    "text": "(10,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 542,
+                    "end": 545,
+                    "text": "13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 546,
+                    "end": 549,
+                    "text": "14)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 654,
+                    "end": 658,
+                    "text": "(13)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1422,
+                    "end": 1426,
+                    "text": "(10,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1427,
+                    "end": 1430,
+                    "text": "13,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1431,
+                    "end": 1434,
+                    "text": "14)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1110,
+                    "end": 1125,
+                    "text": "(Figs. 2 and 3)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1297,
+                    "end": 1305,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1636,
+                    "end": 1644,
+                    "text": "(Fig. 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "A possible mechanism employed by cytoplasmic RNA viruses to subvert the NMD pathway is through one or more viral proteins that inhibit the NMD pathway or by altering the cellular environment, rendering it unfavorable for the NMD pathway. In alphavirus, the SFV mutant lacking the C-terminal part of nsp3 was more susceptible to UPF1-mediated degradation (16) , although it is unclear whether nsp3 has an NMD inhibitory function. The core protein of hepatitis C virus (HCV) binds to an EJC recycling factor and prevents the factor from interacting with other components of the EJC, leading to the inhibition of the NMD pathway in infected cells (17) . Unlike in the case of MHV genomic RNA, UPF1 depletion does not affect the stability of transfected HCV genomic RNA (47) . However, these data do not rule out the possibility of HCV genomic RNA as a target of NMD, because the core protein, synthesized from the transfected HCV genomic RNA, could have protected the HCV genomic RNA from NMD. Currently, the biological significance of NMD inhibition in HCV replication is unclear. Our present study shows that MHV replication inhibited the NMD pathway ( Fig. 4) and reveals the role of MHV N protein as an NMD inhibitor (Fig. 5 ) that protects transfected viral mRNA or viruslike mRNA from rapid degradation (Fig. 6 ). Our data also strongly suggest that the inhibition of the NMD pathway is important for the protection of viral mRNAs from rapid decay, thereby facilitating efficient virus replication (Fig. 7) . Hence, our study highlights the biological importance of the NMD pathway in controlling the stability of mRNAs of a cytoplasmic RNA virus. Our study also directly demonstrates the recognition and targeting of mRNAs of a cytoplasmic RNA virus by the NMD pathway, highlighting the importance of virus-mediated subversion of the NMD pathway for efficient replication of a cytoplasmic RNA virus.",
+            "cite_spans": [
+                {
+                    "start": 354,
+                    "end": 358,
+                    "text": "(16)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 644,
+                    "end": 648,
+                    "text": "(17)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 766,
+                    "end": 770,
+                    "text": "(47)",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1152,
+                    "end": 1159,
+                    "text": "Fig. 4)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1218,
+                    "end": 1225,
+                    "text": "(Fig. 5",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1306,
+                    "end": 1313,
+                    "text": "(Fig. 6",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1501,
+                    "end": 1509,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to our main finding that MHV mRNAs are vulnerable to the NMD pathway, we also reveal the role of MHV N protein as an inhibitor of the NMD pathway. It has been shown that in CoV reverse genetics systems, the addition of transcripts encoding N protein to in vitro-synthesized full-length CoV transcripts for electroporation enhances the recovery of infectious viruses (48) (49) (50) (51) . It is possible that the N protein, translated from the transcripts, plays a role in protecting the full-length CoV transcripts from NMD, facilitating the efficient recovery of CoVs. As the mRNAs of all CoVs carry the NMD-activating features (i.e., the presence of multiple ORFs and a long 3\u2032 UTR), it is highly likely that the NMD inhibition function is a common biological property of CoV N protein. Because the genomes of all members of the order Nidovirales, including CoVs and arteriviruses, share these NMD-activating features, it is conceivable to speculate that in addition to MHV, the mRNAs of other nidoviruses are also a target of the NMD pathway and that nidoviruses have evolved to encode a viral protein that inhibits the NMD pathway. Analyses of the cellular interactome of the CoV infectious bronchitis virus N protein (52) and that of the arterivirus porcine reproductive and respiratory syndrome virus N protein (53) suggested an interaction of these N proteins with UPF1. However, the biological significance of these putative interactions has not been examined. It is tempting to speculate that CoV N protein binds and sequesters UPF1 away from the NMD machinery, resulting in the inhibition of the NMD pathway. It would be valuable and significant to clarify the mechanism of N protein-mediated NMD inhibition, as disrupting the NMD inhibitory function of N protein would represent an avenue for controlling CoV replication.",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 382,
+                    "text": "(48)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 383,
+                    "end": 387,
+                    "text": "(49)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 388,
+                    "end": 392,
+                    "text": "(50)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 393,
+                    "end": 397,
+                    "text": "(51)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 1234,
+                    "end": 1238,
+                    "text": "(52)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 1329,
+                    "end": 1333,
+                    "text": "(53)",
+                    "ref_id": "BIBREF59"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Although our data suggest that the inhibition of the NMD pathway by N protein could serve to protect viral mRNAs from NMD, thereby facilitating efficient viral gene expression and replication, the N protein-mediated inhibition of the NMD pathway in CoV-infected cells could also have an impact on other cellular responses to viral infections. There is accumulating evidence suggesting an active role for the NMD pathway in the regulation of immune responses and the inhibition of the NMD pathway under various cellular stress conditions, including infection (20) . This raises the possibility that the inhibition of host NMD activity by CoV N protein could negatively affect the regulation of stress and immune responses by the NMD pathway in CoVinfected animals, contributing to the pathogenicity of CoVs.",
+            "cite_spans": [
+                {
+                    "start": 558,
+                    "end": 562,
+                    "text": "(20)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Cells and Viruses. The 17Cl-1 cells were cultured in Dulbecco's modified Eagle's medium (DMEM) containing 10% FBS, and the mouse astrocytoma cell line DBT cells (54) were cultured in Eagle's MEM containing 10% newborn calf serum and 10% tryptose phosphate broth. The plaque-cloned A59 strain of MHV was propagated and titrated in DBT cells.",
+            "cite_spans": [
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "(54)",
+                    "ref_id": "BIBREF60"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Plasmids. The two NMD reporter plasmids, NS39 and WT, and pCMV-fLuc were described previously (19) . The eukaryotic expression plasmid, pCAGGS, was used to express CAT, myc-tagged CAT, TGEV nsp1, myc-tagged TGEV nsp1, MHV M protein, MHV N protein, MHV E protein, and MHV S protein.",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "(19)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "The T7-rLucRNA3 plasmid carried the entire MHV mRNA 3 region minus the S gene, which was replaced by the rLuc gene, downstream of a T7 promoter and upstream of a poly(A) sequence, HDV ribozyme and T7 terminator. The T7-GLA plasmid carried the \u03b2-globin 5\u2032 UTR and the rLuc gene (55) downstream of the T7 promoter and upstream of the poly(A) sequence, HDV ribozyme and T7 terminator. The plasmids were transfected into 17Cl-1 cells using TransIT-LT1 reagent (Mirus) or Lipofectamine 2000 (Thermo Fisher Scientific).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Isolation of MHV Genomic RNA. MHV was purified by using sucrose gradient centrifugation as described previously (56) . Genomic RNA was extracted from the pelleted virion using TRIzol reagent (Thermo Fisher Scientific) and purified by phenol-chloroform and isopropanol precipitation.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 116,
+                    "text": "(56)",
+                    "ref_id": "BIBREF62"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "siRNA Transfection. ON-TARGET plus SMART pool for each target mRNA and ON-TARGET plus nontargeting pool, a negative control siRNA, were purchased from Dharmacon. The 17Cl-1 cells were plated in six-well plates in DMEM supplemented with 10% FBS without antibiotics. After 24 h of incubation, cells at 50 to 60% of confluence were transfected with 25 nM siRNA using TransIT-siQUEST transfection reagent (Mirus) according to the manufacturer's instructions. After 24 h of incubation, cells were plated onto 12-well plates and further incubated for 24 h before RNA transfection or virus infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "RNA Transfection. Capped and polyadenylated T7 rLucRNA3 and GLA mRNA transcripts were synthesized in vitro by mMESSAGE mMACHINE kit (Thermo Fisher Scientific) using linearized pSV40T7-rLucRNA3 and pSV40T7-GLA plasmids as templates. The in vitro-synthesized mRNAs or MHV genomic RNA was transfected into siRNA-treated cells using the TransIT-mRNA Transfection Kit (Mirus) according to the manufacturer's instruction and incubated for 1 h. After removal of the inoculum, the cells were washed twice with PBS and incubated with fresh complete media. At different times after RNA transfection, cells were directly lysed with TRIzol reagent, followed by RNA isolation. For testing MHV replication, culture fluid was collected at 24 h posttransfection. For immunofluorescence microscopy analysis, cells in chamber slides were fixed at 24 h posttransfection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Immunofluorescence Analysis. Cultured cells were washed once with PBS and air-dried for 5 min at room temperature. Next, cells were fixed with methanol-acetone (1:1) for 15 min at room temperature, air-dried for 5 min, and stored at \u221220\u00b0C until use. The cells were washed once with PBS and incubated with anti-MHV-M (J2.7) antibody diluted in PBS containing 3% BSA for 3 h at 37\u00b0C in a moist chamber. After washing three times with PBS, the cells were incubated with Alexa 488-conjugated anti-mouse IgG (Thermo Fisher Scientific) in PBS containing 3% BSA for 1 h at room temperature. After incubation, the cells were washed three times with PBS and mounted in VECTASHIELD mounting medium with DAPI (Vector Laboratories). The samples were observed using an AxioPhot 2 epifluorescence microscope.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Generation of RNA Transcripts in the Cytoplasm. The 17Cl-1 cells were cotransfected with plasmids encoding either T7-rLucRNA3 plasmid or T7-GLA plasmid, along with plasmids encoding T7 polymerase, T7opt (24), vaccinia virus capping enzyme D1R (25) (89160; Addgene), or vaccinia virus capping enzyme D12L (25) (89161; Addgene). For the generation of uncapped transcripts, the plasmids encoding vaccinia virus capping enzymes were omitted and pCAGGS-CAT was used to adjust the total amount of plasmids. At 20 h posttransfection, the cells were treated with 4 \u03bcg/mL actD. In some experiments, 100 \u03bcg/mL CHX (Sigma) or 20 \u03bcM wortmannin (Sigma) was added to cells at 1 h after actD addition.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Generation of Stable Cell Lines Expressing NMD Reporter RNAs. In a six-well plate, 17Cl-1 cells were transfected with either 1.0 \u03bcg of WT reporter plasmid or NS39 reporter plasmid using Lipofectamine 2000 according to the manufacturer's instructions. After 24 h of incubation, the cells were trypsinized and plated onto a 10-cm dish with DMEM containing 10% FBS and 400 \u03bcg/mL G418. After two to three passages with G418 for selection, the bulk-populated stable reporter cells were used for experiments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "RNA Isolation and qRT-PCR. For qRT-PCR analyses, we isolated total RNA from na\u00efve 17Cl-1 cells or from cells transfected with appropriate plasmids using TRIzol reagent and the Direct-zol RNA Miniprep Kit (Zymo Research). One microgram of total RNA was reverse transcribed by SuperScript III enzyme (Thermo Fisher Scientific) for cDNA synthesis. The expression levels of target genes were determined by CFX96 Touch Real-Time PCR Detection System and SsoAdvanced Universal SYBR Green Supermix (Bio-Rad). The primers for qPCR are shown in SI Appendix, Table S1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 549,
+                    "end": 557,
+                    "text": "Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "providing NMD reporter plasmids and T7opt, respectively. We also thank Tatsuaki Kurosaki and Lynn E. Maquat (University of Rochester) for suggestions. This work was supported by National Institutes of Health Grants AI99107 and AI114657 and a grant from the Institute for Human Infections and Immunity at The University of Texas Medical Branch. K. Nakagawa was supported by the James W. McLaughlin fellowship fund.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The membrane was probed with specific antibodies for UPF1 (9435",
+            "authors": [],
+            "year": null,
+            "venue": "Western Blot Analysis. Whole-cell lysates were electrophoresed on 4 to 20% or 7.5% polyacrylamide gels and transferred to polyvinylidene difluoride membrane",
+            "volume": "",
+            "issn": "",
+            "pages": "2--20227",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SMG5 (ab33033; Abcam), SMG6 (ab87539; Abcam), myc (4A6 clone",
+            "authors": [],
+            "year": null,
+            "venue": "Santa Cruz Biotechnology)",
+            "volume": "",
+            "issn": "",
+            "pages": "5--724",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "CAT (ab50151; Abcam), and actin (sc",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Milliporesigma",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "were used to detect MHV proteins. The specific bands were detected by ECL Western Blotting Detection Reagent",
+            "authors": [
+                {
+                    "first": "Santa",
+                    "middle": [
+                        "Cruz"
+                    ],
+                    "last": "Biotechnology",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Madison, WI, the \u03b1-MHV-JHM antibody for S protein detection from Susan Baker",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "MHV-infected 17Cl-1 cells were incubated in methionine-free medium for 30 min and then incubated in medium containing 50 \u03bcCi/mL",
+            "authors": [
+                {
+                    "first": "Cells",
+                    "middle": [],
+                    "last": "Radiolabeling Of",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Ci/mmol; MP Biomedicals) for 30 min. Whole-cell lysates were prepared in SDS sample buffer and analyzed on 12",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Analysis of variance (ANOVA) with the Tukey testconsidered significant difference as P < 0.05 was used for MHV infectious titer, cell numbers, gene expression, and RNA degradation experiments",
+            "authors": [],
+            "year": null,
+            "venue": "Statistical Analysis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1819--1823",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "102",
+            "issn": "",
+            "pages": "14040--14045",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676--679",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The economic burden of non-influenza-related viral respiratory tract infection in the United States",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fendrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Monto",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Nightengale",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sarnes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Arch Intern Med",
+            "volume": "163",
+            "issn": "",
+            "pages": "487--494",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The economic impact of SARS: How does the reality match the predictions?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Keogh-Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Health Policy",
+            "volume": "88",
+            "issn": "",
+            "pages": "110--120",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv Virus Res",
+            "volume": "66",
+            "issn": "",
+            "pages": "193--292",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Atlas of coronavirus replicase structure",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chamberlain",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bowden",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Joseph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Virus Res",
+            "volume": "194",
+            "issn": "",
+            "pages": "49--66",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "SARS coronavirus accessory proteins",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virus Res",
+            "volume": "133",
+            "issn": "",
+            "pages": "113--121",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "MERS-CoV accessory ORFs play key role for infection and pathogenesis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "MBio",
+            "volume": "8",
+            "issn": "",
+            "pages": "665--682",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Nonsensemediated mRNA decay-Mechanisms of substrate mRNA recognition and degradation in mammalian cells",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schweingruber",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rufener",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Z\u00fcnd",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yamashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "M\u00fchlemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1829",
+            "issn": "",
+            "pages": "612--623",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The multiple lives of NMD factors: Balancing roles in gene and genome regulation",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Isken",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Maquat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nat Rev Genet",
+            "volume": "9",
+            "issn": "",
+            "pages": "699--712",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Nonsense-mediated mRNA decay occurs during eIF4F-dependent translation in human cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Durand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lykke-Andersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "702--709",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Nonsense-mediated decay serves as a general viral restriction mechanism in plants",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Voinnet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cell Host Microbe",
+            "volume": "16",
+            "issn": "",
+            "pages": "391--402",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The structure and function of the Rous sarcoma virus RNA stability element",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Withers",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Beemon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Cell Biochem",
+            "volume": "112",
+            "issn": "",
+            "pages": "3085--3092",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Global analyses of UPF1 binding and function reveal expanded scope of nonsense-mediated mRNA decay",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hurt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Burge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Res",
+            "volume": "23",
+            "issn": "",
+            "pages": "1636--1650",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The host nonsense-mediated mRNA decay pathway restricts mammalian RNA virus replication",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Balistreri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cell Host Microbe",
+            "volume": "16",
+            "issn": "",
+            "pages": "403--411",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A combined proteomics/genomics approach links hepatitis C virus infection with nonsense-mediated mRNA decay",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Ramage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Mol Cell",
+            "volume": "57",
+            "issn": "",
+            "pages": "329--340",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Enhanced growth of a murine coronavirus in transformed mouse cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sturman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Takemoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Infect Immun",
+            "volume": "6",
+            "issn": "",
+            "pages": "501--507",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A chemiluminescencebased reporter system to monitor nonsense-mediated mRNA decay",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boelz",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Neu-Yilik",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gehring",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hentze",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kulozik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "349",
+            "issn": "",
+            "pages": "186--191",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Mechanism and regulation of the nonsensemediated decay pathway",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hug",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Longman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "C\u00e1ceres",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "1483--1495",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Organizing principles of mammalian nonsensemediated mRNA decay",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Popp",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Maquat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Annu Rev Genet",
+            "volume": "47",
+            "issn": "",
+            "pages": "139--165",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Human SMG-1, a novel phosphatidylinositol 3-kinase-related protein kinase, associates with components of the mRNA surveillance complex and is involved in the regulation of nonsensemediated mRNA decay",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yamashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohnishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Taya",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ohno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Genes Dev",
+            "volume": "15",
+            "issn": "",
+            "pages": "2215--2228",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The mRNA surveillance protein hSMG-1 functions in genotoxic stress response pathways in mammalian cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Brumbaugh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol Cell",
+            "volume": "14",
+            "issn": "",
+            "pages": "585--598",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Efficient and robust Paramyxoviridae reverse genetics systems",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Beaty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "MSphere",
+            "volume": "2",
+            "issn": "",
+            "pages": "376--392",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Entirely plasmid-based reverse genetics system for rotaviruses",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kanai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "114",
+            "issn": "",
+            "pages": "2349--2354",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Identification of the DNA sequences encoding the large subunit of the mRNA-capping enzyme of vaccinia virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Morgan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J Virol",
+            "volume": "52",
+            "issn": "",
+            "pages": "206--214",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Vaccinia virus gene D12L encodes the small subunit of the viral mRNA capping enzyme",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Niles",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee-Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Broyles",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Virology",
+            "volume": "172",
+            "issn": "",
+            "pages": "513--522",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Modification of the 5\u2032-terminus of mRNA by soluble guanylyl and methyl transferases from vaccinia virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ensinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Paoletti",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "72",
+            "issn": "",
+            "pages": "2525--2529",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Cytoplasmic expression system based on constitutive synthesis of bacteriophage T7 RNA polymerase in mammalian cells",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Elroy-Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "6743--6747",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "The unfolded protein response is shaped by the NMD pathway",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Karam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "EMBO Rep",
+            "volume": "16",
+            "issn": "",
+            "pages": "599--609",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Alternative splicing and nonsense-mediated mRNA decay regulate mammalian ribosomal gene expression",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cuccurese",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Russo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Russo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pietropaolo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "",
+            "pages": "5965--5977",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "The pioneer round of translation: Features and functions",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Maquat",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Tarn",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Isken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "142",
+            "issn": "",
+            "pages": "368--374",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "A regulatory mechanism that detects premature nonsense codons in T-cell receptor transcripts in vivo is reversed by protein synthesis inhibitors in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Carter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Biol Chem",
+            "volume": "270",
+            "issn": "",
+            "pages": "28995--29003",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "A strategy for disease gene identification through nonsense-mediated mRNA decay inhibition",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Noensie",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dietz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nat Biotechnol",
+            "volume": "19",
+            "issn": "",
+            "pages": "434--439",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "RNase L-independent specific 28S rRNA cleavage in murine coronavirus-infected cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Silverman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Virol",
+            "volume": "74",
+            "issn": "",
+            "pages": "8793--8802",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Coronavirus JHM: Intracellular protein synthesis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wege",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barthel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ter Meulen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "J Gen Virol",
+            "volume": "53",
+            "issn": "",
+            "pages": "145--155",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Alphacoronavirus transmissible gastroenteritis virus nsp1 protein suppresses protein translation in mammalian cells and in cell-free HeLa cell extracts but not in rabbit reticulocyte lysate",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "638--643",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Coronavirus protein processing and RNA synthesis is inhibited by the cysteine proteinase inhibitor E64d",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Spence",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Currier",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "208",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Virus escape and manipulation of cellular nonsense-mediated mRNA decay",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Balistreri",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bognanni",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "M\u00fchlemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Viruses",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "A 3\u2032 UTR sequence stabilizes termination codons in the unspliced RNA of Rous sarcoma virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Weil",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Beemon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "RNA",
+            "volume": "12",
+            "issn": "",
+            "pages": "102--110",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Viral interference with host mRNA surveillance, the nonsensemediated mRNA decay (NMD) pathway, through a new function of HTLV-1 Rex: Implications for retroviral replication",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Microbes Infect",
+            "volume": "15",
+            "issn": "",
+            "pages": "491--505",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "The human T-lymphotropic virus type 1 tax protein inhibits nonsense-mediated mRNA decay by interacting with INT6/EIF3E and UPF1",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mocquet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "7530--7543",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "UPF1 is crucial for the infectivity of human immunodeficiency virus type 1 progeny virions",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Serqui\u00f1a",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "8853--8861",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "HIV-1 recruits UPF1 but excludes UPF2 to promote nucleocytoplasmic export of the genomic RNA",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ajamian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Biomolecules",
+            "volume": "5",
+            "issn": "",
+            "pages": "2808--2839",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Unexpected roles for UPF1 in HIV-1 RNA metabolism and translation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ajamian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "RNA",
+            "volume": "14",
+            "issn": "",
+            "pages": "914--927",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Failsafe nonsense-mediated mRNA decay does not detectably target eIF4E-bound mRNA",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Matsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hosoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Maquat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "14",
+            "issn": "",
+            "pages": "974--979",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Competing and noncompeting activities of miR-122 and the 5\u2032 exonuclease Xrn1 in regulation of hepatitis C virus replication",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Masaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Yamane",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcgivern",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lemon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "110",
+            "issn": "",
+            "pages": "1881--1886",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Reverse genetics with a full-length infectious cDNA of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yount",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "100",
+            "issn": "",
+            "pages": "12995--13000",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Reverse genetics system for the avian coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Casais",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "12359--12369",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Systematic assembly of a full-length infectious cDNA of mouse hepatitis virus strain A59",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "11065--11078",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Heterologous gene expression from transmissible gastroenteritis virus replicon particles",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "1422--1434",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The cellular interactome of the coronavirus infectious bronchitis virus nucleocapsid protein and functional implications for virus biology",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Emmott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "9486--9500",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "An interactome map of the nucleocapsid protein from a highly pathogenic North American porcine reproductive and respiratory syndrome virus strain generated using SILAC-based quantitative proteomics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jourdan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Osorio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hiscox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proteomics",
+            "volume": "12",
+            "issn": "",
+            "pages": "1015--1023",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Replication and plaque formation of mouse hepatitis virus (MHV-2) in mouse cell line DBT culture",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hirano",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hino",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matumoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Arch Gesamte Virusforsch",
+            "volume": "44",
+            "issn": "",
+            "pages": "298--302",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "SARS coronavirus nsp1 protein induces template-dependent endonucleolytic cleavage of mRNAs: Viral mRNAs are resistant to nsp1-induced RNA cleavage",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Defective interfering particles of mouse hepatitis virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Virology",
+            "volume": "133",
+            "issn": "",
+            "pages": "9--17",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Enhancement of MHV replication from transfected genomic RNA in NMD-deficient cells. MHV genomic RNA (0.5 \u03bcg), extracted from purified MHV particles, was transfected into 17Cl-1 cells that had been treated with either control siRNA (siCtrl) or siRNAs for UPF1 (siUpf1), UPF2 (siUpf2), SMG5 (siSmg5), or SMG6 (siSmg6). (A) At 24 h posttransfection of the genomic RNA, the cells were stained by anti-M protein antibody (green) and DAPI (blue) (Left). (Scale bar: 100 \u03bcm.) The fold increase in M protein-positive cells was calculated (Right). (B) MHV titers in the culture fluid at 24 h postgenomic RNA transfection were determined by plaque assay. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. *P < 0.05, **P < 0.01.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Effect of depletion of UPF1 and UPF2 on the stabilities of transfected MHV genomic RNA and subgenomiclike mRNA (rLucRNA3). (A, Left) Two micrograms per well of MHV genomic RNA was transfected into UPF1depleted cells (siUpf1), UPF2-depleted cells (siUpf2), or cells treated with control siRNAs (siCtrl) in a 12-well plate. The levels of genomic RNA at 1, 3, 5, and 7 h posttransfection were determined by qRT-PCR and normalized to the 18S rRNA levels. (A, Right) The 17Cl-1 cells were transfected with MHV genomic RNA. After 1 h of incubation and washing to remove free genomic RNAs, total intracellular RNAs were extracted from one plate (\"1 h\"). The remaining plates were cultured in the presence of CHX, wortmannin (Wort), or DMSO, and the levels of genomic RNAs at 3 h posttransfection were determined by qRT-PCR and normalized to 18S rRNA levels. (B) Schematic diagram of subgenomic mRNA 3-like RNA (rLucRNA3) is shown on Top. Experiments were performed as described in A, except that 0.5 \u03bcg of capped and polyadenylated in vitro-synthesized rLucRNA3 was used in place of the MHV genomic RNA. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. *P < 0.05, **P < 0.01. The half-life (t 1/2 ) of each RNA was calculated from the slope of the trendlines.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "MHV replication induces NMD inhibition. (A) NS39 reporter cells (stably expressing NS39 reporter transcripts) and WT reporter cells (stably expressing WT reporter transcripts) were mock-infected (Mock) or infected with MHV at a multiplicity of infection (MOI) of 3. At indicated times p.i., levels of WT transcripts in WT reporter cells and NS39 reporter transcripts in NS39 reporter cells were determined by qRT-PCR and normalized to 18S rRNA levels. NS39 transcript levels are shown relative to WT (set arbitrarily at 100). (B) The 17Cl-1 cells were mock-infected (Mock) or infected with MHV at an MOI of 3. Total RNAs were extracted at 7 h p.i. and subjected to qRT-PCR analysis to measure the levels of alternatively spliced rpL3 mRNA relative to that of canonically spliced rpL3 mRNA. The relative ratio of the former to the latter is shown in y axis. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. **P < 0.01. (C) The 17Cl-1 cells were mock-infected (M) or infected with MHV (I) at an MOI of 3. At different times p.i., cells were incubated with medium containing [ 35 S]methionine/cysteine for 30 min. Cell extracts were prepared at indicated times and subjected to SDS/PAGE analysis, followed by autoradiography (Left) and colloidal Coomassie Brilliant Blue (CBB) staining (Right). Red arrowheads indicate virus-specific proteins.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "MHV N protein inhibits the NMD pathway. (A, Left) The 17Cl-1 cells were cotransfected with NS39 reporter plasmid or WT reporter plasmid along with the pCMV-fLuc plasmid expressing fLuc transcripts and plasmids encoding either CAT, M protein, N protein, E protein, or S protein. At 40 h posttransfection, the levels of WT reporter transcripts and NS39 reporter transcripts were determined by qRT-PCR and normalized to the levels of fLuc transcripts. NS39 transcript levels are shown relative to WT (set arbitrarily at 100). (A, Right) Cells were transfected as described above. Cell extracts were prepared at 40 h posttransfection and subjected to Western blot analysis to detect CAT, MHV structural proteins, and \u03b2-actin. \u03b2-Actin served as the loading control. WT, cells transfected with WT reporter plasmid; NS, cells transfected with NS39 reporter plasmid. (B) Cells were cotransfected as described in A, except that one extra sample included a plasmid expressing TGEV nsp1. Levels of fLuc transcripts (relative to 18S rRNA levels) at 40 h posttransfection (Top); fLuc reporter activities at 40 h posttransfection (Bottom). (C) Stable cell lines expressing either WT reporter transcripts or NS39 reporter transcripts were transfected with a plasmid expressing N protein, CATmyc, or TGEV nsp1myc. The relative levels of WT reporter transcripts and NS39 reporter transcripts are normalized to 18S rRNA at 40 h posttransfection. NS39 transcript levels are shown relative to WT (set arbitrarily at 100) (Top). Protein expression levels of myc-tagged CAT, myctagged TGEV nsp1, MHV N, and \u03b2-actin at 40 h posttransfection (Bottom). (D) The 17Cl-1 cells were transfected with a plasmid encoding CATmyc, TGEV nsp1myc, or MHV N. The levels of alternatively spliced rpL3 mRNA (relative to that of canonically spliced rpL3 mRNA) at 40 h posttransfection were determined by qRT-PCR. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. **P < 0.01.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "MHV N protein expression inhibits the degradation of transfected MHV genomic and subgenomiclike RNAs. In a 12-well plate, 17Cl-1 cells were transfected with a plasmid encoding MHV N, CATmyc, or TGEV nsp1myc. At 24 h posttransfection, cells were transfected with 2 \u03bcg of MHV genomic RNA (A) or 0.5 \u03bcg of rLucRNA3 (B). At 1, 3, 5, and 7 h after RNA transfection, levels of MHV genomic RNA and rLucRNA3 were determined by qRT-PCR and normalized to 18S rRNA. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. *P < 0.05, **P < 0.01. The half-life (t 1/2 ) of each RNA was calculated from the slope of the trendlines.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "NMD inhibition promotes the accumulation of MHV mRNAs early in infection, facilitating virus replication. (A) The 17Cl-1 cells were mock-infected (Mock) or infected with MHV at a multiplicity of infection (MOI) of 0.1. Accumulation of N protein, at the indicated times p.i., was examined by Western blot analysis. \u03b2-Actin served as the loading control. (B) UPF1-depleted 17Cl-1 cells (siUpf1), UPF2-depleted 17Cl-1 cells (siUpf2), or control siRNA-treated 17Cl-1 cells (siCtrl) were infected with MHV at an MOI of 0.1. The levels of genomic RNA/mRNA 1 (relative to 18S rRNA) at 1, 2, 3, and 5 h p.i. were determined by qRT-PCR. (C) Cells were infected with MHV as described in B. The levels of mRNA 3 (Left) and mRNA 7 (Right) (relative to 18S rRNA) at 5 h p.i. were determined by qRT-PCR. Because the levels of these mRNAs at 1, 2, or 3 h p.i. were below the limit of detection, we could not accurately determine their relative levels at these early time points. (D) siRNAtreated cells were infected with MHV as described in B. Virus titers in culture supernatant at 2, 4, 8, 12, and 16 h p.i. are shown. (E) The 17Cl-1 cells were infected with MHV at an MOI of 0.1. Cells were treated with 300 \u03bcg/mL E64d and either 20 \u03bcM wortmannin (Wort) or DMSO at 4 h p.i. The levels of mRNA 1 (relative to 18S rRNA) at 4 and 6 h p.i. were determined by qRT-PCR. The data represent the mean with SEM of at least three independent experiments. Statistical analysis was done by ANOVA. *P < 0.05, **P < 0.01.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,2313 @@
+{
+    "paper_id": "7d6cc862605fbb3a906c07870b27c66552e1fe93",
+    "metadata": {
+        "title": "Rapidly decreased HBV RNA predicts responses of pegylated interferons in HBeAg-positive patients: a longitudinal cohort study",
+        "authors": [
+            {
+                "first": "Min",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guangdi",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jia",
+                "middle": [],
+                "last": "Shang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chen",
+                "middle": [],
+                "last": "Pan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Minxiang",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zhibiao",
+                "middle": [],
+                "last": "Yin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Xie",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yanzhong",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Mao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u00b7",
+                "middle": [],
+                "last": "Xinqiang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiao",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yongfang",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kaizhong",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yun",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hai",
+                "middle": [],
+                "last": "Ding",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wenzhou",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u00b7",
+                "middle": [],
+                "last": "Vidaurre",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Diego",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u00b7",
+                "middle": [],
+                "last": "Mahmoud",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Reza",
+                "middle": [],
+                "last": "Pourkarim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Erik",
+                "middle": [],
+                "last": "De Clercq",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guiqiang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u00b7",
+                "middle": [],
+                "last": "Guozhong Gong",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background As an important anti-HBV drug, pegylated interferon \u03b1 (PegIFN\u03b1) offers promising clinical efficacy, but biomarkers that accurately forecast treatment responses are yet to be elucidated. Here, we evaluated whether HBV RNA could act as an early monitor of pegylated interferon responses. Methods We analyzed a phase 3, multicenter, randomized cohort of 727 HBeAg-positive non-cirrhotic patients receiving a 48-week treatment of PegIFN\u03b1-2a or PegIFN\u03b1-2b and a 24-week treatment-free follow-up. Serum levels of HBV RNA, HBV DNA, HBeAg, and HBsAg were measured at weeks 0, 12, 24, 48, and 72. Results HBeAg seroconversion and HBsAg loss at week 72 were observed in 217 (29.8%) and 21 (2.9%) patients, respectively. During the 48-week treatment, HBV RNA decreased more rapidly than HBV DNA and HBsAg, but HBV RNA and HBeAg shared similar dynamics with positive correlations. Multivariate regression analyses consistently revealed the significance of HBV RNA at weeks 0, 12, 24, and 48 to monitor HBeAg seroconversion but not HBsAg loss. Although baseline HBV RNA only showed a modest AUC performance, HBV RNA with a significant increase of AUC at week 12 outperformed other HBV biomarkers to forecast HBeAg seroconversion (p value < 0.05). HBV RNA \u2264 1000 copies/mL was an optimized cutoff at week 12 that offered better prediction than other HBV biomarkers. This optimized cutoff plus patient age, HBV genotype B, and HBeAg offered a strong estimation of HBeAg seroconversion (accuracy 95.2%, true negative rate 99.8%). Conclusion HBV RNA at week 12 is an effective monitor of HBeAg seroconversion in HBeAg-positive patients treated with pegylated interferons.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "To offer effective treatment responses towards hepatitis B virus (HBV) infections, eight FDA-approved drugs belonging to two classes are currently available, including two interferon alfa drugs and six nucleos(t)ide analogs [1] . HBeAg seroconversion rates were generally higher in HBeAg-positive patients receiving interferon therapies than nucleos(t)ide analogs. To offer better treatment responses, the assessment of pre-treatment viral factors (e.g., HBV genotypes), on-treatment viral factors (e.g., HBV DNA, HBsAg), host and environmental factors (e.g., patient age, ALT) is recommended for the initiation and continuation of HBV therapies [2] [3] [4] . Nevertheless, no single biomarker has been recognized to fully predict treatment responses [5, 6] .",
+            "cite_spans": [
+                {
+                    "start": 224,
+                    "end": 227,
+                    "text": "[1]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 646,
+                    "end": 649,
+                    "text": "[2]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 650,
+                    "end": 653,
+                    "text": "[3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 654,
+                    "end": 657,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 751,
+                    "end": 754,
+                    "text": "[5,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 755,
+                    "end": 757,
+                    "text": "6]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "HBV RNA has been recently proposed as a new biomarker to assess treatment responses, because HBV RNA transcripts produced directly from HBV cccDNA may monitor the progressive clearance of HBV cccDNA reservoirs [7] [8] [9] . As a potential predictor of treatment responses, serum HBV RNA is associated with intrahepatic cccDNA levels [10] and the persistence of viral infection and rebound [11] . For instance, an early decrease of HBV RNA effectively predicted HBeAg seroconversion in 62 patients receiving either lamivudine or tenofovir [12] . In a responder-enriched subpopulation of 76 patients treated with PegIFN\u03b1-2a, HBV RNA was recognized as a sound predictor of HBeAg seroconversion by univariate analyses alone [13] , whereas its strength was unclear in large cohorts with non-responders.",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 213,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 214,
+                    "end": 217,
+                    "text": "[8]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "[9]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 333,
+                    "end": 337,
+                    "text": "[10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 389,
+                    "end": 393,
+                    "text": "[11]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 538,
+                    "end": 542,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 720,
+                    "end": 724,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Despite encouraging findings above, many aspects of HBV RNA remain unclear. First, dynamic changes of HBV RNA in large-scale cohorts of interferon-treated patients remain poorly understood, since previous studies focused mostly on nucleos(t)ide analogs. Second, it is ambiguous if HBV RNA acted as an effective predictor of interferon responses, particularly in a large cohort with non-responders. Third, to offer better responses, it remains unclear whether HBV RNA in combination with known HBV biomarkers could offer better predictive performance. Last, it remains unclear whether HBV RNA could predict HBsAg loss which is generally considered as a functional \"cure\" that signifies a favorable outcome of antiviral treatments [14, 15] . To address the above questions, we assessed HBV RNA in a longitudinal cohort of 727 HBeAg-positive patients who randomly received PegIFN\u03b1-2a or PegIFN\u03b1-2b. Based on this large-scale cohort, our findings support the hypothesis that even at the early interferon treatments, HBV RNA is a strong monitor of HBeAg seroconversion, despite its modest role in the prediction of HBsAg loss.",
+            "cite_spans": [
+                {
+                    "start": 729,
+                    "end": 733,
+                    "text": "[14,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 734,
+                    "end": 737,
+                    "text": "15]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Between March 2013 and July 2015, a total of 855 HBeAg-positive non-cirrhotic patients who were infected with HBV mono-infection and treatment-na\u00efve for at least 6 months were treated with either PegIFN\u03b1-2a or PegIFN\u03b1-2b in a phase 3, multicenter, randomized, controlled clinical trial [16] . Patients were randomly assigned in a ratio of 1:2 to receive PegIFN\u03b1-2a (Pegasys \u00ae , Roche, Switzerland) or PegIFN\u03b1-2b (PegBeron \u00ae , Amoytop Biotechnology, China) at the dose of 180 \u03bcg/week for 48 weeks and a treatment-free follow-up for 24 weeks (Fig. 1a, Figure S1 ). PegBeron \u00ae was approved by the China Food and Drug Administration in 2017. This study was performed using the cohort of 727 patients who completed the full course of the randomized trial and had serum samples at week 72 to measure treatment responses. This trial was registered at ChinaDrugTrials.org (ID: TB1211IFN) and ClinicalTrials.gov (NCT01760122). Inclusion and exclusion criteria were described in our clinical protocol (see Supplementary).",
+            "cite_spans": [
+                {
+                    "start": 286,
+                    "end": 290,
+                    "text": "[16]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 540,
+                    "end": 559,
+                    "text": "(Fig. 1a, Figure S1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Patients"
+        },
+        {
+            "text": "Routine physical examinations with biochemical and hematologic assessments were conducted at weeks 0, 12, 24, 48, and 72. HBV RNA was extracted from patient serum samples (200 \u03bcL) using a nucleic acid extraction kit (Sansure Biotech Inc. China) which was developed based on the magnetic bead technology [17] . Eluted HBV RNA (10 \u03bcL) obtained from HBV RNA extraction was used for reverse transcription. Primers of HBV RNA-RACE, HBV RNA-forward, HBV RNA-reverse, and HBV RNAprobe (see Supplementary) that target conserved regions of the HBV genome were obtained from the literature [12] . Armored RNA internal controls were added during sample lysis [18] . In the absence of DNA polymerase and cDNA primers, HBV RNA was reverse transcribed into cDNA under the temperature of 50 \u00b0C for 30 min. After adding DNA polymerases and cDNA primers, the cDNA amplification was performed by an activation step at 95 \u00b0C for 2 min, followed by 50 two-step cycles (each cycle 15 s at 95 \u00b0C and 30 s at 60 \u00b0C), and a cooling step down to 25 \u00b0C for 10 s. The fluorescence of cDNA was detected and measured by the 7500 Real-Time PCR System (Applied Biosystems \u00ae ). More details are provided in our Supplementary.",
+            "cite_spans": [
+                {
+                    "start": 303,
+                    "end": 307,
+                    "text": "[17]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 580,
+                    "end": 584,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 648,
+                    "end": 652,
+                    "text": "[18]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Laboratory assessments"
+        },
+        {
+            "text": "Elecsys tests (Roche Diagnostics GmbH, Germany) were used to measure HBeAg, anti-HBe, HBsAg, and anti-HBs. HBV DNA was quantified by the Roche Diagnostics Cobas \u00ae Amplicor HBV Test, Version 2.0 (Roche Diagnostics, Germany). ALT assay was conducted using Architect c8000 clinical chemistry analyzer (Abbott, USA) with the IFCC standard for enzyme determination. The NCBI HBV genotyping tool [19] was applied to determine HBV genotypes with inputs of HBV polymerase sequences extracted by conventional Sanger sequencing. Detection limits of HBV RNA, HBV DNA, HBeAg, and HBsAg were 250 copies/mL, 20 IU/mL, 1 COI (cut of index), and 0.05 IU/mL, respectively. The log 10 values of four biomarkers above were transformed prior to statistical analyses. ",
+            "cite_spans": [
+                {
+                    "start": 390,
+                    "end": 394,
+                    "text": "[19]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Laboratory assessments"
+        },
+        {
+            "text": "HBeAg seroconversion, also called serological response (SR), was defined as the disappearance of HBeAg accompanied by the gain of anti-HBe throughout the treatment-free follow-up [20] . HBsAg loss (HL) indicated the disappearance of HBsAg [14] .",
+            "cite_spans": [
+                {
+                    "start": 179,
+                    "end": 183,
+                    "text": "[20]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 239,
+                    "end": 243,
+                    "text": "[14]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Definitions of treatment responses"
+        },
+        {
+            "text": "Four major statistical analyses were performed in our study. First, to explore statistical differences of biomarker values between patient groups, Fisher's exact tests and Mann-Whitney tests were conducted for categorical and continuous variables, respectively. Logistic regressions were performed to estimate the odds ratio (OR) and 95% confidence intervals (95% CI). Second, we quantified correlations between continuous biomarkers using Spearman correlation coefficients. Third, logistic linear regression analyses revealed factors significantly associated with treatment responses. Predictive performance was measured by AUC analyses, while HBV biomarker values below detection limits were replaced with their detection limits. Fourth, a standard software, Cutoff Finder, was applied to optimize biomarker cutoffs [21] . The standard bootstrap resampling method was applied to generate 1000 randomized datasets in the fivefold cross-validation to avoid overestimation. The robustness of biomarker cutoffs was confirmed by bootstrapping resampling and cross-validation. Sixth, predictor importance estimates were measured by random forest classification (500 decision trees) with curvature tests for splitting predictors and surrogate splits for handling missing values. Since missing data only appeared in 1.1% of our dataset, our analyses used all available cases when variables of interest were present-a known approach called pairwise deletion. Analyses were conducted using MATLAB R2016a.",
+            "cite_spans": [
+                {
+                    "start": 818,
+                    "end": 822,
+                    "text": "[21]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "Our entire cohort consisted of 523 males and 204 females predominately infected with HBV genotype C (n = 427, 58.7%), followed by genotypes B (n = 292, 40.2%), D (n = 7, 1%), and B/C recombinant (n = 1, 0.1%). At baseline, the mean and standard error of patient age, body weight, and ALT were 28.2 \u00b1 0.3 years, 63.6 \u00b1 0.4 kg, and 193.0 \u00b1 5.5 IU/ mL, respectively (Table 1) . Moreover, baseline values of HBV RNA, HBV DNA, HBsAg, and HBeAg were 6.2 \u00b1 0.05 log 10 copies/mL, 7.9 \u00b1 0.03 log 10 IU/mL, 4.3 \u00b1 0.02 log 10 IU/ mL, and 3.0 \u00b1 0.02 log 10 COI, respectively. Distributions of HBV biomarkers are shown in Fig. 1b . HBeAg seroconversion and HBsAg loss at week 72 were observed in 217 (29.8%) and 21 (2.9%) patients, respectively. HBeAg seroconversion was found in 26.5% (66/249) of PegIFN\u03b1-2a-treated patients, similar to 31.6% (151/478) of patients who received PegIFN\u03b1-2b (p value = 0.1). Responses of HBsAg loss also showed no difference between the PegIFN\u03b1-2a and PegIFN\u03b1-2b arms (p value = 0.3). Neither host (gender, age, body mass index, weight, alanine transaminase) nor viral biomarkers (HBV RNA, HBV Table 1 Baseline characteristics of host and HBV biomarkers in our study # The log 10 transformation was performed prior to analyses. Biomarker units are measured by log 10 copies/mL for HBV RNA, log 10 IU/mL for HBV DNA, log 10 IU/mL for HBsAg, and log 10 (Table S1 ). For subsequent analyses, patients who achieved serological responses and HBsAg loss were sorted into the SR and HL groups, respectively.",
+            "cite_spans": [
+                {
+                    "start": 1368,
+                    "end": 1370,
+                    "text": "10",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 363,
+                    "end": 372,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 610,
+                    "end": 617,
+                    "text": "Fig. 1b",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1114,
+                    "end": 1121,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1371,
+                    "end": 1380,
+                    "text": "(Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Demographic profiles and baseline characteristics"
+        },
+        {
+            "text": "First, one-sample Kolmogorov-Smirnov tests showed that HBV RNA at individual sampling timepoints did not follow a normal distribution. Second, non-parametric Spearman correlation analyses revealed positive coefficients in the pairwise correlations between HBV RNA and HBeAg, HBsAg, HBV DNA. Third, HBV RNA was strongly correlated with HBeAg and HBV DNA (p values < 0.01), while its correlation coefficients with HBsAg were the weakest at week 0, 12, or 24 ( Figure S2 ). Similar patterns were also observed in the PegIFN\u03b1-2a or PegIFN\u03b1-2b arm. Overall, strong correlations of HBV RNA with HBeAg supported that HBV RNA might be a potential predictor of HBeAg seroconversion.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 458,
+                    "end": 467,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Serum HBV RNA was strongly correlated with HBeAg"
+        },
+        {
+            "text": "Three independent analyses were performed to explore if HBV RNA served as a favorable monitor to foretell interferon responses. First, HBV RNA shared a decreasing pattern similar to HBeAg in the SR group which harbored 217 patients with HBeAg seroconversion (Fig. 2a) . HBV RNA decreased more rapidly in patients with HBsAg loss than patients without HBsAg loss (Fig. 2b) . At week 12, a significant difference between HBV RNA decreases and HBeAg decreases was undetectable in the SR group (p value = 0.07), whereas pairwise comparisons between other factors all exhibited significant differences (p values < 0.001, Fig. 2c ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 258,
+                    "end": 267,
+                    "text": "(Fig. 2a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 362,
+                    "end": 371,
+                    "text": "(Fig. 2b)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 616,
+                    "end": 623,
+                    "text": "Fig. 2c",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "HBV RNA strongly predicted HBeAg seroconversion, but less so for HBsAg loss"
+        },
+        {
+            "text": "Only 45 (6.2%) of 727 patients showed no decline of HBV RNA by week 12, while few of them achieved HBsAg loss (n = 1) or HBeAg seroconversion (n = 4). Two (9.5%) of 21 HL patients and 8 (3.7%) of 217 SR patients showed no decline of HBV RNA at week 12. Moreover, HBV RNA stabilization after treatment cessation from week 48 to 72 was more likely maintained in the SR than non-SR patients (p value < 0.01). Second, univariate and multivariate regression analyses revealed HBV RNA as an effective predictor of HBeAg seroconversion (Table 2) , despite its ineffectiveness for estimating HBsAg loss (Table S2) . At weeks 0, 12, 24, and 48, univariate regression analyses consistently revealed that HBV RNA and other factors (HBV DNA, HBsAg, HBeAg, HBV genotypes, age, weight) were significantly associated with HBeAg seroconversion (p values < 0.05), whereas gender and PegIFN\u03b1 types showed no difference. Multivariate analyses further showed that HBV RNA plus HBeAg and patient age remained significant at weeks 0, 12, 24, and 48 (Table 2) . Regarding the prediction of HBsAg loss, HBV RNA at baseline and week 24 was a significant predictor in univariate analyses, but its significance disappeared in multivariate analyses probably due to the strong predictive role of HBsAg at all weeks (Table S2) . Furthermore, predictor importance estimates independently revealed the significance of HBV RNA at week 12 in the SR prediction (Fig. 2d) , whereas HBV RNA showed no advantage compared with HBsAg for estimating HBsAg loss (Fig. 2e) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 529,
+                    "end": 538,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 595,
+                    "end": 605,
+                    "text": "(Table S2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1027,
+                    "end": 1036,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1286,
+                    "end": 1296,
+                    "text": "(Table S2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1426,
+                    "end": 1435,
+                    "text": "(Fig. 2d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1520,
+                    "end": 1529,
+                    "text": "(Fig. 2e)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "HBV RNA strongly predicted HBeAg seroconversion, but less so for HBsAg loss"
+        },
+        {
+            "text": "Third, AUC analyses revealed the advantage of HBV RNA, especially at week 12, for predicting HBeAg seroconversion. In the SR prediction, AUC values of HBV RNA gradually increased from baseline (AUC = 0.63 \u00b1 0.04) to week 12 (AUC = 0.77 \u00b1 0.05), week 24 (AUC = 0.78 \u00b1 0.04), and week 48 (AUC = 0.80 \u00b1 0.03) (see Fig. 3a) . A significant increase (\u0394AUC = 0.14) was observed from baseline to week 12 (p value < 0.01). Moreover, HBV RNA showed an advantage over HBeAg (p value = 0.03) at week 12, and its performance was also superior to HBV DNA and HBsAg at weeks 0, 12, and 24 (p value < 0.05). However, compared with HBsAg, HBV RNA was only a modest predictor of HBsAg loss (Fig. 3b ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 311,
+                    "end": 319,
+                    "text": "Fig. 3a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 673,
+                    "end": 681,
+                    "text": "(Fig. 3b",
+                    "ref_id": null
+                }
+            ],
+            "section": "HBV RNA strongly predicted HBeAg seroconversion, but less so for HBsAg loss"
+        },
+        {
+            "text": "To identify simple cutoffs for clinical use, HBV biomarker cutoffs were optimized to forecast HBeAg seroconversion. The baseline cutoff of HBV RNA at 6.0 log 10 copies/mL showed a modest performance of accuracy (61.6%) comparable to HBsAg and HBV DNA. Compared with baseline results, the optimized cutoff of HBV RNA \u2264 1000 copies/mL at week 12 offered significant increases of accuracy (76.6%), negative predictive value (85.3%), and positive predictive value (56.3%). The former two measures showed the best performance compared with HBeAg, HBsAg, and HBV DNA cutoffs (Table S3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 569,
+                    "end": 579,
+                    "text": "(Table S3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Optimized cutoffs of HBV RNA improved the prediction of treatment responses"
+        },
+        {
+            "text": "A negative predictive value above 95% is a useful indication to discontinue interferon treatments. At week 12, HBV RNA > 5.2 log 10 copies/mL was observed in 174 (95.6%) of 182 patients who failed to achieve HBeAg seroconversion. This cutoff also showed the best performance of accuracy and positive predictive value compared to that of HBV DNA, HBsAg, and HBeAg cutoffs at week 12 (Table S3) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 382,
+                    "end": 392,
+                    "text": "(Table S3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Optimized cutoffs of HBV RNA improved the prediction of treatment responses"
+        },
+        {
+            "text": "It has been hypothesized that multiple factors indicated by multivariate regression analyses may increase predictive performance albeit interferons only offer 18-39% of (Table S4) . This hypothesis was supported by dual combinations that adding HBV RNA to individual traditional HBV biomarkers significantly increased AUC performance (p value < 0.01) (Fig. 4a) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 169,
+                    "end": 179,
+                    "text": "(Table S4)",
+                    "ref_id": null
+                },
+                {
+                    "start": 351,
+                    "end": 360,
+                    "text": "(Fig. 4a)",
+                    "ref_id": null
+                }
+            ],
+            "section": "HBV RNA plus traditional markers improved the estimation of interferon responses"
+        },
+        {
+            "text": "We next screened all 127 combinations of 7 available factors (patient age, ALT, HBV genotype, HBV RNA, HBV DNA, HBsAg, HBeAg) to identify the best combination that achieved the highest rate of SR with the minimum variable size. A combination of four 12-week factors (HBV RNA \u2264 3.0 log 10 copies/mL, patient age \u2264 24, genotype B, HBeAg \u2264 1.2 log 10 COI) offered the best performance that their stepwise combinations gradually increased the accuracy (95.2%) to predict HBeAg seroconversion (Fig. 4b) . In the stepwise combinations of HBV RNA plus genotype B, patient age, and HBeAg, their AUC values significantly increased from 0.77 to 0.83 (p value < 0.01, Fig. 4c) . As illustrated in a decision tree model (Fig. 4d) , this four-factor combination offered superior performance (accuracy 95.2%, true negative rate: 99.8%) to forecast HBeAg seroconversion even at the early period of week 12.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 488,
+                    "end": 497,
+                    "text": "(Fig. 4b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 657,
+                    "end": 665,
+                    "text": "Fig. 4c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 708,
+                    "end": 717,
+                    "text": "(Fig. 4d)",
+                    "ref_id": null
+                }
+            ],
+            "section": "HBV RNA plus traditional markers improved the estimation of interferon responses"
+        },
+        {
+            "text": "This study reveals the significant role of serum HBV RNA to forecast treatment responses of PegIFN\u03b1-2a and PegIFN\u03b1-2b in 727 HBeAg-positive patients, which is the largest cohort study of HBV RNA reported so far. Our study reveals three major findings that support the use of HBV RNA as an early on-treatment factor to estimate PegIFN\u03b1 responses. First, HBV RNA is not only positively correlated with traditional HBV biomarkers but also acts as a strong predictor of HBeAg seroconversion and a modest predictor of HBsAg loss. Second, HBV RNA at week 12 is an early predictor and its optimized cutoff at approximately 1000 copies/mL effectively forecasts HBeAg seroconversion, supporting the hypothesis that the suppression of HBV RNA at a low level may lead to better treatment [22] . Serum HBV RNA was previously reported as a potential biomarker to estimate treatment outcomes of HBV polymerase inhibitors [11, 12, 23, 24] or PegIFN\u03b1-2a in a small cohort of 76 responder-enriched patients [13] . In our study, HBV RNA was evaluated using a randomized phase 3 cohort of 727 HBeAg-positive patients. Our univariate and multivariate regression analyses consistently revealed the predictive value of HBV RNA in the SR prediction at weeks 0, 12, 24, and 48 (Table 2) . Moreover, we observed that HBV RNA was positively correlated with HBeAg, HBV DNA, and HBsAg at all sampling points, which was in agreement with the literature results [25] . HBV RNA decreased faster than HBV DNA and HBsAg at the early treatment period, whereas its decreasing pattern in SR patients was similar to HBeAg, supporting its potential to predict HBeAg seroconversion (Fig. 2) . In contrast, HBV RNA was only a modest predictor of HBsAg loss in our analyses. This was in agreement with a recent review which highlighted that HBsAg was a key predictor of HBsAg loss, but other biomarkers seemed less effective [26] .",
+            "cite_spans": [
+                {
+                    "start": 777,
+                    "end": 781,
+                    "text": "[22]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 907,
+                    "end": 911,
+                    "text": "[11,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 912,
+                    "end": 915,
+                    "text": "12,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 916,
+                    "end": 919,
+                    "text": "23,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 920,
+                    "end": 923,
+                    "text": "24]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 990,
+                    "end": 994,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1432,
+                    "end": 1436,
+                    "text": "[25]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1884,
+                    "end": 1888,
+                    "text": "[26]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1253,
+                    "end": 1262,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 1643,
+                    "end": 1651,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Kinetics of HBV RNA may vary due to different therapies and treatment duration, but a decline of serum HBV RNA is commonly observed during the treatment of interferons and/or nucleos(t)ide analogs [12, 13, 23] . In agreement with previous findings on nucleos(t)ide analogs [12] , our study revealed the effectiveness of HBV RNA at week 12 to predict HBeAg seroconversion for interferon treatments. By monitoring HBV RNA dynamics over 72 weeks, we found that fast decreasing HBV RNA at week 12, but not the baseline HBV RNA, was a sound predictor of HBeAg seroconversion. A recent study, however, reported that HBV RNA outperformed HBeAg at baseline in 76 response-enriched patients treated with PegIFN\u03b1-2a [13] . This disagreement might be due to their cohort which only included responseenriched patients (n = 76, SR = 51%) screened from two different clinical trials (n = 271, SR = 32.1% and n = 130, SR = 36.2%). Despite this, our results and literature results support that low levels and fast decreases of HBV RNA are likely associated with treatment success even in the early period [23, 24] .",
+            "cite_spans": [
+                {
+                    "start": 197,
+                    "end": 201,
+                    "text": "[12,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 202,
+                    "end": 205,
+                    "text": "13,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 206,
+                    "end": 209,
+                    "text": "23]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 273,
+                    "end": 277,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 706,
+                    "end": 710,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1089,
+                    "end": 1093,
+                    "text": "[23,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1094,
+                    "end": 1097,
+                    "text": "24]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "HBV biomarker cutoffs are commonly used to monitor treatment responses in clinical practice. Based on our cohort of 727 patients, the 12-week cutoff of HBV RNA was optimized at 1000 copies/mL that effectively predicted HBeAg seroconversion. The favorable performance of HBV RNA cutoff was also highlighted by its better accuracy (76.6%) compared with HBV DNA, HBsAg, and HBeAg cutoffs (Table S3) . Furthermore, early discontinuation of interferon treatments could be considered in HBeAg-positive patients who showed HBV RNA > 5.2 log 10 copies/mL at week 12, because more than 95% of these patients were unable to achieve HBeAg seroconversion. In addition to the predictive performance of individual biomarkers, our study proved that multivariate combinations of HBV RNA plus HBeAg, patient age, and genotype B offered high levels of positive predictive value (95.2%) and specificity (99.8%). This provides clear evidence that HBV RNA can be effectively integrated with traditional biomarkers to monitor treatment responses.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 385,
+                    "end": 395,
+                    "text": "(Table S3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "There are limitations to our study. We analyzed a phase 3 clinical trials of 727 Chinese patients mainly infected with HBV genotype B or C (98.9%), while future studies need to recruit patients infected with other HBV genotypes. Our study focused on interferon treatments in HBeAg-positive non-cirrhotic patients, while future analyses need to clarify HBV RNA in HBeAg-negative patients and associations between HBV RNA and cirrhosis or hepatocellular carcinoma. The full-length HBV RNA could be quantified using our primers taken from previous publications [12, 23] , but further studies need to confirm whether the encapsulated, polyadenylated serum HBV RNA is equal to full-length RNA or contains truncated RNA species [7] . Due to limited patients with HBsAg loss (2.9%) in our 72-week cohort, the associations of HBV RNA with HBsAg loss will be evaluated by our 5-year follow-up study.",
+            "cite_spans": [
+                {
+                    "start": 558,
+                    "end": 562,
+                    "text": "[12,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 563,
+                    "end": 566,
+                    "text": "23]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 722,
+                    "end": 725,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Overall, our findings suggest that serum HBV RNA may serve as an early on-treatment predictor of HBV cccDNA activity to reveal the treatment success of interferon therapies. Although standard HBV RNA toolkits are yet to be developed for clinical use [7] , the preliminary clinical significance of HBV RNA is supported by our large-scale study. The discovery of HBV RNA as an effective and early biomarker may lead to better management of interferon therapies for HBV-infected patients, driving the clinical use of HBV RNA [11, 12, 27] . ",
+            "cite_spans": [
+                {
+                    "start": 250,
+                    "end": 253,
+                    "text": "[7]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 522,
+                    "end": 526,
+                    "text": "[11,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "12,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 531,
+                    "end": 534,
+                    "text": "27]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Maorong Wang (The 81st Hospital of Chinese People's Liberation Army), Mingde Zeng and Yiming Mao (Renji Hospital, School of Medicine",
+            "authors": [
+                {
+                    "first": "Chengwei",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chenshu",
+                    "middle": [],
+                    "last": "Li ; Hong Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wei",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Jifang Sheng (The First Affiliated Hospital, Zhejiang University School of Medicine), Jiming Zhang (Huashan Hospital, Fudan University), Jun Cheng (Beijing Ditan Hospital",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Approved antiviral drugs over the past 50 years",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Clin Microbiol Rev",
+            "volume": "29",
+            "issn": "",
+            "pages": "695--747",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Terrault",
+                    "suffix": ""
+                },
+                {
+                    "first": "Asf",
+                    "middle": [],
+                    "last": "Lok",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcmahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hwang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jonas",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bzowej",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Hepatology",
+            "volume": "67",
+            "issn": "",
+            "pages": "1560--1599",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "European Association for the Study of the Liver. EASL 2017 clinical practice guidelines on the management of hepatitis B virus infection",
+            "authors": [],
+            "year": 2017,
+            "venue": "J Hepatol",
+            "volume": "67",
+            "issn": "",
+            "pages": "370--398",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Acute-on-chronic liver failure: consensus recommendations of the Asian Pacific association for the study of the liver (APASL): an update",
+            "authors": [],
+            "year": 2019,
+            "venue": "Hepatol Int",
+            "volume": "13",
+            "issn": "",
+            "pages": "353--390",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Hepatitis B virus: virology, molecular biology, life cycle and intrahepatic spread",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Karayiannis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Hepatol Int",
+            "volume": "11",
+            "issn": "",
+            "pages": "500--508",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "New and old biomarkers for diagnosis and management of chronic hepatitis B virus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Coffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Terrault",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Gastroenterology",
+            "volume": "156",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Serum hepatitis B virus RNA: a new potential biomarker for chronic hepatitis B virus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Valdes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hepatology",
+            "volume": "69",
+            "issn": "",
+            "pages": "1816--1827",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Serum HBV RNA and HBeAg are useful markers for the safe discontinuation of nucleotide analogue treatments in chronic hepatitis B patients",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tsuge",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Imamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Miki",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hiraga",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ochi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nelson",
+                    "middle": [],
+                    "last": "Hayes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ginba",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gastroenterol",
+            "volume": "48",
+            "issn": "",
+            "pages": "1188--1204",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Host and viral factors associated with serum hepatitis B virus RNA levels among patients in need for treatment",
+            "authors": [
+                {
+                    "first": "Mjh",
+                    "middle": [],
+                    "last": "Van Campenhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van Bommel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pfefferkorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deichsel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Boonstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Vuuren",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hla",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Hepatology",
+            "volume": "68",
+            "issn": "3",
+            "pages": "839--847",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Serum hepatitis B virus DNA, RNA, and HBsAg: which correlated better with intrahepatic covalently closed circular DNA before and after nucleos(t)ide analogue treatment?",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Clin Microbiol",
+            "volume": "55",
+            "issn": "",
+            "pages": "2972--2982",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Serum hepatitis B virus RNA is encapsidated pregenome RNA that may be associated with persistence of viral infection and rebound",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Hepatol",
+            "volume": "65",
+            "issn": "",
+            "pages": "700--710",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Serum hepatitis B virus RNA levels as an early predictor of hepatitis B envelope antigen seroconversion during treatment with polymerase inhibitors",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van Bommel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bartens",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mysickova",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kruger",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Edelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Hepatology",
+            "volume": "61",
+            "issn": "",
+            "pages": "66--76",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Serum HBV RNA as a predictor of peginterferon Alfa-2a (40KD) response in patients with HBeAg-positive chronic hepatitis B",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van Bommel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Bommel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krauel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wat",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Pavlovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deichsel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bohm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Infect Dis",
+            "volume": "218",
+            "issn": "7",
+            "pages": "1066--1074",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "HBsAg loss in chronic hepatitis B: pointers to the benefits of curative therapy",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dusheiko",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Carey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Hepatol Int",
+            "volume": "10",
+            "issn": "",
+            "pages": "727--729",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Immunological cure of HBV infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Neumann-Haefelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thimme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hepatol Int",
+            "volume": "13",
+            "issn": "",
+            "pages": "113--124",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Clinical effect and safety of pegylated interferon-alpha-2b injection (Y shape, 40 kD) in treatment of HBeAg-positive chronic hepatitis B patients",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Chin J Hepatol",
+            "volume": "25",
+            "issn": "",
+            "pages": "589--596",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Traceability, reproducibility and clinical evaluation of Sansure Realtime HCV RNA assay",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Preparation of Histagged armored RNA phage particles as a control for real-time reverse transcription-PCR detection of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Clin Microbiol",
+            "volume": "44",
+            "issn": "",
+            "pages": "3557--3561",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "A web-based genotyping resource for viral sequences",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rozanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Plikat",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chappey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kochergin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tatusova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res",
+            "volume": "32",
+            "issn": "",
+            "pages": "654--659",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Hepatitis B virus genotype B is associated with earlier HBeAg seroconversion compared with hepatitis B virus genotype C",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hussain",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Gastroenterology",
+            "volume": "122",
+            "issn": "",
+            "pages": "1756--1762",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Cutoff Finder: a comprehensive and straightforward Web application enabling rapid biomarker cutoff optimization",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Budczies",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Klauschen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Sinn",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gyorffy",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Darb-Esfahani",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Denkert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Pegylatedinterferon consolidation treatment versus nucleos(t)ide analogue consolidation treatment in non-cirrhotic hepatitis B patients with hepatitis B e antigen seroconversion: an open-label pilot trial",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ru",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Hepatol Int",
+            "volume": "13",
+            "issn": "",
+            "pages": "422--430",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Hepatitis B virus pregenomic RNA is present in virions in plasma and is associated with a response to pegylated interferon Alfa-2a and nucleos(t)ide analogues",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kootstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Van Dort",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Takkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Reesink",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zaaijer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Dis",
+            "volume": "213",
+            "issn": "",
+            "pages": "224--232",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "On-treatment low serum HBV RNA level predicts initial virological response in chronic hepatitis B patients receiving nucleoside analogue therapy",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tsuge",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Antivir Ther",
+            "volume": "20",
+            "issn": "",
+            "pages": "369--375",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Hepatitis B virus RNA is measurable in serum and can be a new marker for monitoring lamivudine therapy",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rokuhara",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Matsumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Umemura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yoshizawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kiyosawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Gastroenterol",
+            "volume": "41",
+            "issn": "",
+            "pages": "785--790",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The role of quantitative hepatitis B surface antigen revisited",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cornberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Locarnini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brunetto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hla",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Hepatol",
+            "volume": "66",
+            "issn": "",
+            "pages": "398--411",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Hepatitis B virus serum DNA and RNA levels in nucleos(t)ide analog-treated or untreated patients during chronic and acute infection",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gersch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcnamara",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Luk",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Holzmayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Schiff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kuhns",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cloherty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Hepatology",
+            "volume": "68",
+            "issn": "6",
+            "pages": "2106--2117",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Study profile (a) and distributions of HBV biomarkers throughout 72 weeks (b). Scatter plots of HBV RNA, HBV DNA, HBsAg, and HBeAg were shown in five groups: (1) all patients; (2) SR patients who achieved HBeAg seroconversion; (3) Non-SR patients who failed to achieve HBeAg seroconversion; (4) HBsAg loss patients who achieved HBsAg loss; and (5) non-HBsAg loss patients who failed to achieve HBsAg loss. Mean values were linked by red lines",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Fold changes and predictor importance estimates of HBV RNA, HBV DNA, HBsAg, and HBeAg. a Fold changes of HBV biomarkers in the SR (red lines) and non-SR patients (blue lines). b Fold changes of HBV biomarkers in HL and non-HL patients. c Comparisons of 12-week fold changes in five patient groups. Radar charts revealed predictor importance estimates of HBV biomarkers in the prediction of HBeAg seroconversion (d) or HBsAg loss (e). High values of predictor importance estimates indicate the significance of predictors HBeAg seroconversion in clinical studies",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Fig. 3 AUC performance of HBV biomarkers. a AUC values of HBV RNA at weeks 0, 12, 24, and 48. b Averaged ROC curves of four biomarkers at baseline and week 12. All data were used in the HL prediction without cross-validation due to the limited number of HL patients",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "COI for HBeAg",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Logistic regression analyses of HBeAg seroconversion using the host and HBV biomarkers CI confidence interval, OR odds ratio",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Fig. 4Predictive performance of biomarker cutoffs and their combined performance. a AUC performance of dual combinations containing HBV RNA plus single conventional biomarkers. AUC values of dual combinations were significantly higher compared to that of individual biomarkers (p values < 0.01, see increased percentages on top). b Proportions of SR patients incrementally stratified by four 12-week biomarkers. c AUC values of 12-week biomarker combinations in the SR prediction. The average ROC curve on right was indicated by the red line and gray area showed the 95% confidence interval. d Proportions of SR patients in combinations of four 12-week biomarkers (HBV RNA, genotype B, HBeAg, age). A solid branch indicates the inclusion of a biomarker, while a dotted branch indicates that a biomarker was not used in the calculation. For instance, 65.3% (130/199) at the bottom right was the SR proportion under the single condition of HBV RNA \u2264 3 log 10 copies/mL, while 95.2% (20/21) at the top left was the SR proportion with four conditions fulfilled simultaneously",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgements The authors acknowledge the study investigators, coordinators, nurses, and patients for their contributions in this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "Author contributions MZ and GL collected data and drafted the manuscript; JS, CP, and MXZ offered technical and material support; ZY, QX, and YP performed data acquisition; QM, YJ, KL, and YX offered clinical support; XX and VD performed statistical analyses and data interpretation; WF and HD did the biomarker measurements; EDC and MRP contributed to the supervision of the study, the interpretation of the data, and the critical revision of the manuscript; GG and GW supervised the study, obtained funding, and revised the manuscript. All authors contributed to the final article. Ethical approval This study was conducted according to the 1975 Declaration of Helsinki and approved by the ethics committee at all participating institutions. All patients enrolled in this study provided informed consent.Informed consent All patients signed an informed consent form before screening in accordance with regulatory and local ethics committee requirements.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco mmons .org/licen ses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

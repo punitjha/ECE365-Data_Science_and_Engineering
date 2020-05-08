@@ -1,0 +1,699 @@
+{
+    "paper_id": "184e542785c34e5800976a2a6200b786893a94f5",
+    "metadata": {
+        "title": "Era of molecular diagnosis for pathogen identification of unexplained pneumonia, lessons to be learned",
+        "authors": [
+            {
+                "first": "Jing-Wen",
+                "middle": [],
+                "last": "Ai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Genetic Engineering",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Genetic Engineering",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hao-Cheng",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Teng",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Genetic Engineering",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wen-Hong",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Genetic Engineering",
+                    "institution": "Fudan University",
+                    "location": {
+                        "settlement": "Shanghai",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Unexplained pneumonia (UP) caused by a novel coronavirus SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) emerged in China in late December 2019 and has infected more than 9000 cases by 31 January 2020. Shanghai reported the first imported case of COVID-19 (Coronavirus Disease 2019) in 20 January 2020. A combinative approach of real-time RT-PCR, CRISPR-based assay and metagenomic next-generation sequencing (mNGS) were used to diagnose this unexplained pneumonia patient. Real-time RT-PCR and CRISPR-based assay both reported positive. This sample belonged to Betacoronavirus and shared a more than 99% nucleotide (nt) identity with the Wuhan SARS-CoV-2 isolates. We further compared pros and cons of common molecular diagnostics in UP. In this study, we illustrated the importance of combining molecular diagnostics to rule out common pathogens and performed mNGS to obtain unbiased potential pathogen result for the diagnosis of UP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "ARTICLE HISTORY",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Unexplained pneumonia (UP) was defined as pneumonia without confirmed diagnosis. In late December 2019, Chinese social media first released news concerning the possible severe acute respiratory syndrome (SARS) virus infected cases in Wuhan. On 31 December 2019, the Health Commission of Hubei province, China announced a cluster of unexplained pneumonia (UP) and later a novel coronavirus SARS-CoV-2 as named by the WHO was declared to be the causative agent [1, 2] . During the following month, multiple SARS-CoV-2 cases were gradually reported all over China and around 9000 definite cases were declared by 31 January 2020 [3] . As of today, case reports are still escalating on a daily basis. The reasons behind this outbreak are numerous, the highly infectious nature of SARS-CoV-2, limited pathogen detection method for unexplained pneumonia, the high population density of the Hubei Province and across China, etc. Various diagnostic methods were used during the initial search of this novel virus, yet their pros and cons have not been discussed thoroughly.",
+            "cite_spans": [
+                {
+                    "start": 459,
+                    "end": 462,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 463,
+                    "end": 465,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 625,
+                    "end": 628,
+                    "text": "[3]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On 20 January, Shanghai reported the first imported case of SARS-CoV-2 infection, and through this case, we seek a combinative approach of selected techniques to improve pathogen identification of unexplained pneumonia in the future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The patient was a 56 years old woman and came to Shanghai from Wuhan on 12 January. She went to the fever clinic of a local hospital due to fever and fatigue. The patient had relatively lower lymphocyte count. Under the close collaboration with the Shanghai CDC, we first performed FilmArray multiplex PCR respiratory panel 2.0 (Biomerieux, Utah, USA) with negative results. We then performed real-time RT-PCR, CRISPR-based assay and metagenomic next-generation sequencing (mNGS) on her respiratory sample and finally diagnosed her with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Total RNA was extracted from the patient's pharyngeal swab using QIAamp Viral RNA Mini Kit (QIA-GEN, Germany). We performed Real-time PCR for this patient as described [4] . CRISPR-nCoV was performed using CRISPR-nCoV kit from Vision Medicals, China. The RNA sample was also prepared for highthroughput mNGS. The qualified library was sequenced on an Illumina Nextseq using a single-end mode (1 \u00d7 75bp). Low-quality reads and reads derived from human genome sequences were removed. After that, de novo assembly was done using SPAdes. 29 genomes of coronaviruses and 2 SARS-CoV-2 genomes released by China were downloaded from NCBI for phylogenetic analysis. Phylogenetic tree was built according to the N gene using multiple sequence alignment algorithm ClustalX2 [5] . Phylogenetic tree was then built through MEGA X [6] . Meanwhile, we downloaded a total of 13 \u03b2 family coronavirus genomes from NCBI and used pyani (https://pypi.org/project/pyani/) for homology analysis.",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 171,
+                    "text": "[4]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 764,
+                    "end": 767,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 818,
+                    "end": 821,
+                    "text": "[6]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A positive result of SARS-CoV-2 was reported by RT-PCR. As illustrated from Figure 1 (A), Ct value was 24.69 while that of the positive control was 25.97. CRISPR-nCoV was also positive with a foldchange value of 24 compared to the negative control. As shown in Figure 1 (B), the sequence homology among the sample and other coronaviruses were assessed. Classified as subgenus Sarbecovirus of the genus Betacoronavirus, this sample shared a great nucleotide (nt) identity (>99%) with the two SARS-CoV-2 isolates and was 100% identical with that of SARS-CoV-2 BetaCoV/Wuhan/IPBCAMS-WH-01/ 2019 (GenBank MT019529.1). By contrast, a substantially lower nt identity of 84% was found with SARS-CoV (GenBank NC004718.3). The genome mapping coverage with SARS-CoV-2 Wuhan-Hu-1 (GenBank MN908947.3) was 85.98% and 33.35x in depth ( Figure  1(C) ). In analysis of complete genome similarity in Figure 1 (D), we revealed a high similarity between this sample and two SARS-CoV-2 isolates.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 261,
+                    "end": 269,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 823,
+                    "end": 835,
+                    "text": "Figure  1(C)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 884,
+                    "end": 892,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Ever since the diagnosis of pathogen reached the era of molecular approaches, a variety of methods have showed to increase diagnostic efficacy. In this particular case, RT-PCR, CRISPR, and metagenomics sequencing have all exhibited their potential in the rapid diagnosis of newly emerging microorganism. However, lessons should be learned from this outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Acute viral respiratory tract infection is one of the major causes of unexplained pneumonia, especially in winter. Culture, as the widely recognized gold standard, is time-consuming and labour intensive. Conventional diagnostic methods such as direct/indirect immunofluorescence assay (IFA) and rapid antigen detection also have their own significant limitations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "What's more, various culture-independent nucleic acid amplification tests (NAATs) and point-of-care tests (POCT) could aid the diagnosis of unexplained pneumonia, including polymerase chain reaction (PCR), loop-mediated isothermal amplification (LAMP), clustered regularly interspaced short palindromic repeats (CRISPR), etc. [7] . However, these methods were not able to detect novel pathogens as in the case of Hubei Province. The latest multiplex respiratory virus infections assay includes Xpert Xpress Flu/RSV assay (GeneXpert System, Cepheid, Sunnyvale, CA, USA), Qiagen ResPlex II V2.0 kit and Fil-mArray multiplex PCR system [7] . These methods offered better diagnostic rates for UP by broadening pathogen coverage. Despite the lack of capability when it comes to identifying novel pathogens. these syndromic tests are still valuable for ruling out the common pathogens in the first-line diagnosis of unexplained pneumonia, as reported in the articles revolving around the SARS-CoV-2 outbreaks.",
+            "cite_spans": [
+                {
+                    "start": 326,
+                    "end": 329,
+                    "text": "[7]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 633,
+                    "end": 636,
+                    "text": "[7]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "At present, several companies have developed and produced virus assays (Supplementary material) for SARS-CoV-2 and its typical Betacoronavirus organization consists of a 5 \u2032 untranslated region (UTR), replicase complex (orf1ab), S gene, E gene, M gene, N gene, 3 \u2032 UTR, and several unidentified nonstructural open reading frames [8] . The current nucleic acid amplification tests methods mainly targeted the open reading frames of the replicase complex (orf1ab), S, E, M and N genes. Besides various NAATs, a new rapid antigen detection assay has also been developed. In order to put diagnostic assays into use as soon as possible, Hubei Province has adopted a trial-and-request approach, which allows trials at medical institutions and review procedures after epidemic situation is resolved.",
+            "cite_spans": [
+                {
+                    "start": 329,
+                    "end": 332,
+                    "text": "[8]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Shotgun metagenomics sequencing including shortread and long-read sequencing could obtain genomic data from both known and novel pathogens. mNGS has been used in investigations of COVID-19 outbreaks after exclusion of common pathogens by NAATs [9] [10] [11] . Current bioinformatic pipeline for metagenomics works by mapping the sequenced reads to an existing database of previously known microbes. This approach may result in partial alignment of a novel pathogen genome to that of some previously identified microbes and lead to incorrect taxonomic classification [12] . In fact, during the SARS-CoV-2 outbreak, one of the first news releases came from a report of commercial sequencing company stating their identification of SARS virus, causing wide panic among society. And only later after careful analysis on more sequencing data, the causative agent was found to be a novel species. The advantage of metagenomic sequencing lies in its unbiased nature which enables it to play a crucial role in the future diagnosis of the unexplained pneumonia, especially when encountering untypical causative pathogen. The alert should be raised that results from metagenomic sequencing should always be interpreted with the consultant of medical professionals, especially when dealing with a potentially novel pathogen or clustered cases.",
+            "cite_spans": [
+                {
+                    "start": 244,
+                    "end": 247,
+                    "text": "[9]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 248,
+                    "end": 252,
+                    "text": "[10]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[11]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 566,
+                    "end": 570,
+                    "text": "[12]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the present case, the combination of RT-PCR, CRISPR and mNGS confirmed our clinical diagnosis for COVID-19. This cross-validation was crucial at the early stage of the outbreak when our understandings on the novel pathogen were limited. For instance, binding of certain primers might be abrupted by genetic variants in the viral genome, resulting in false negative results. Moreover, by harnessing an unbiased metagenomic assay, the clinicians were also granted with information on potential concomitant infections to guide more appropriate treatment. Looking forward, as the CRISPR-based techniques further mature, we envisage its broader clinical uses for targeted, rapid pathogen detection especially in under-resourced settings where complicated PCR instruments may not be available. Despite its relatively longer turn-around time, metagenomics holds great promises as a unique diagnostic, especially for patients with acute or severe infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "All these three methods consist of an identical RNA extraction procedure, which takes about an hour. The residual workflow of RT-PCR and CRISPR is library preparation and amplification, while the residual workflow of mNGS breaking into several part: library preparation (3 h), mNGS sequencing (18 h) and data analysis (3 h). Thus, turn-around time (TAT) of RT-PCR, CRISPR and mNGS is about 3, 2 and 24 h, respectively. RNA extraction is a necessity, the experimenters need to expose to the samples directly in the biohazard safety equipment with tertiary protection. We suppose there is no obvious difference in safety among these approaches. We further compared TAT, diagnostic efficiency and detected pathogens of updated diagnostic methods in UP in Figure 1 (E) [7, 13] . In the future, pros and cons of each molecular diagnostics should be thoroughly taken into consideration by the physicians to reach a more informational and accurate clinical diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 765,
+                    "end": 768,
+                    "text": "[7,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 769,
+                    "end": 772,
+                    "text": "13]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 752,
+                    "end": 760,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Here we reported the first definite case of COVID-19 in Shanghai, in which the virus was detected by employing various methods. This case illustrated the importance of combining targeted NAATs to rule out common pathogens and metagenomic assay to obtain unbiased genomic information on the pathogen for diagnosis of UP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "8",
+            "pages": "727--733",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Wuhan wet market closes amid pneumonia outbreak. China Daily",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Juan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Multiple sequence alignment with the clustal series of programs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chenna",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sugawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koike",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res",
+            "volume": "31",
+            "issn": "13",
+            "pages": "3497--3500",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "MEGA x: molecular evolutionary genetics analysis across computing platforms",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Mol Biol Evol",
+            "volume": "35",
+            "issn": "6",
+            "pages": "1547--1549",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Recent advances in the detection of respiratory virus infection in humans",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "408--417",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "Jf-W",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-H",
+                    "middle": [],
+                    "last": "Kok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--523",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2012-7"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2008-3"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "313--319",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical metagenomic sequencing for diagnosis of meningitis and encephalitis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sample",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zorn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "380",
+            "issn": "24",
+            "pages": "2327--2340",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Comparison of the filmarray respiratory panel and prodesse realtime PCR assays for detection of respiratory pathogens",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Loeffelholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pong",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Pyles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Clin Microbiol",
+            "volume": "49",
+            "issn": "12",
+            "pages": "4083--4088",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Molecular diagnostic approaches in this patient and comparisons of updated diagnostic methods. (A) Real-time amplification curve for detecting SARS-CoV-2. The left curve pointed to this sample and the right one meant the positive control. (B) Phylogenetic tree based on N gene of coronavirus including SARS-CoV-2 genomes (blue labels) and this sample (red label). (C) Genome coverage and depth compared with SARS-CoV-2 Wuhan-Hu-1 (GenBank MN908947.2) genome. (D) Genome similarity analysis with other 13 \u03b2 family coronaviruses. The numbers showed the percentage of nt identity. (E) Comparisons of characteristics of updated diagnostic methods including rapid diagnostic tests (RDT), NAATs, multiplex respiratory virus infection assays and mNGS.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We acknowledge Shanghai CDC for their efforts and hard works during this case.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "No potential conflict of interest was reported by the author(s). ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclosure statement"
+        },
+        {
+            "text": "We have uploaded the assembled sequence to GISAID as EPI_ISL_411949.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability statement"
+        }
+    ]
+}

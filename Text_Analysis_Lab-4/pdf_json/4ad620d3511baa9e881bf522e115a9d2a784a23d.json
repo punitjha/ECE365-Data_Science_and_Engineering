@@ -1,0 +1,4863 @@
+{
+    "paper_id": "4ad620d3511baa9e881bf522e115a9d2a784a23d",
+    "metadata": {
+        "title": "Cooperative enzymatic control of N-acyl amino acids by PM20D1 and FAAH",
+        "authors": [
+            {
+                "first": "Joon",
+                "middle": [
+                    "T"
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University School of Medicine",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stephanie",
+                "middle": [
+                    "M"
+                ],
+                "last": "Terrell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University School of Medicine",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Veronica",
+                "middle": [
+                    "L"
+                ],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University School of Medicine",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Wei",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University School of Medicine",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Curt",
+                "middle": [
+                    "R"
+                ],
+                "last": "Fischer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "Z"
+                ],
+                "last": "Long",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University School of Medicine",
+                    "location": {
+                        "settlement": "Stanford",
+                        "country": "United States"
+                    }
+                },
+                "email": "jzlong@stanford.edu"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The N-acyl amino acids are a family of bioactive lipids with pleiotropic physiologic functions, including in energy homeostasis. Their endogenous levels are regulated by an extracellular mammalian N-acyl amino acid synthase/hydrolase called PM20D1 (peptidase M20 domain containing 1). Using an activity-guided biochemical approach, we report the molecular identification of fatty acid amide hydrolase (FAAH) as a second intracellular N-acyl amino acid synthase/hydrolase. In vitro, FAAH exhibits a more restricted substrate scope compared to PM20D1. In mice, genetic ablation or selective pharmacological inhibition of FAAH bidirectionally dysregulates intracellular, but not circulating, N-acyl amino acids. Dual blockade of both PM20D1 and FAAH reveals a dramatic and non-additive biochemical engagement of these two enzymatic pathways. These data establish FAAH as a second intracellular pathway for N-acyl amino acid metabolism and underscore enzymatic division of labor as an enabling strategy for the regulation of a structurally diverse bioactive lipid family.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Kim et al. eLife 2020;9:e55211.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The N-acyl amino acids are a large family of bioactive lipids composed of a fatty-acid tail conjugated to an amino acid head group. Structurally, N-acyl amino acids are closely related to the other bioactive fatty acid amides including the endogenous cannabinoid receptor agonist anandamide (N-arachidonoylethanolamine) and the N-acyl-homoserine lactone family of bacterial quorum-sensing molecules (Devane et al., 1992; Parsek et al., 1999) . Individual members of the mammalian N-acyl amino acids have been previously implicated in appetite, nociception, vasoregulation, and bone health (Milman et al., 2006; Mostyn et al., 2019; Parmar and Ho, 2010; Smoum et al., 2010; Wu et al., 2017) . We have recently identified a new role for certain N-acyl amino acids in stimulating oxidative metabolism via mitochondrial uncoupling (Long et al., 2016) . These thermogenic N-acyl amino acids are characterized by medium-chain fatty acyl chains and neutral amino acid head groups, chemical features that are present in a subset of family members including N-acyl phenylalanines, N-acyl leucines, N-acyl glycines, and N-acyl serines (Keipert et al., 2017; Lin et al., 2018) . Consequently, administration of these N-acyl amino acids to mice rendered obese by feeding a high-fat diet increases energy expenditure, reduces adiposity, and improves glucose homeostasis.",
+            "cite_spans": [
+                {
+                    "start": 399,
+                    "end": 420,
+                    "text": "(Devane et al., 1992;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 421,
+                    "end": 441,
+                    "text": "Parsek et al., 1999)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 589,
+                    "end": 610,
+                    "text": "(Milman et al., 2006;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 611,
+                    "end": 631,
+                    "text": "Mostyn et al., 2019;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 632,
+                    "end": 652,
+                    "text": "Parmar and Ho, 2010;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 653,
+                    "end": 672,
+                    "text": "Smoum et al., 2010;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 673,
+                    "end": 689,
+                    "text": "Wu et al., 2017)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 827,
+                    "end": 846,
+                    "text": "(Long et al., 2016)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1125,
+                    "end": 1147,
+                    "text": "(Keipert et al., 2017;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1148,
+                    "end": 1165,
+                    "text": "Lin et al., 2018)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Because of the potent effects of N-acyl amino acids on mitochondrial respiration and energy expenditure, the enzymes of N-acyl amino acid biosynthesis and degradation represent candidate pathways for regulating organismal energy homeostasis. To date, only a single mammalian enzyme called PM20D1 (peptidase M20 domain containing 1) has been identified as a physiologic regulator of endogenous N-acyl amino acid levels (Long et al., 2016; Long et al., 2018) . PM20D1 is a classically secreted enzyme present in the circulation in both mice and humans (Schwenk et al., 2017; Uhl\u00e9n et al., 2015) . In vitro, recombinant PM20D1 functions as a bidirectional N-acyl amino acid synthase/hydrolase, catalyzing the biosynthesis of N-acyl amino acids from free fatty acids and free amino acids, as well as the reverse hydrolysis reaction. Overexpression of PM20D1 in mice, achieved by adeno-associated viral vectors, drives the biosynthesis of circulating N-acyl amino acids in vivo. These mice consequently have increased energy expenditure and reduced adiposity on high-fat diet. Conversely, global ablation of PM20D1 leads to a complex, bidirectional dysregulation of N-acyl amino acid levels and metabolic dysfunction characterized by glucose intolerance and decreased insulin sensitivity. Polymorphisms within and near the human PM20D1 gene are linked to body mass index (Benson et al., 2019; Bycroft et al., 2018) , providing powerful genetic evidence that PM20D1 may also regulate human obesity and metabolic disorders.",
+            "cite_spans": [
+                {
+                    "start": 418,
+                    "end": 437,
+                    "text": "(Long et al., 2016;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 438,
+                    "end": 456,
+                    "text": "Long et al., 2018)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 550,
+                    "end": 572,
+                    "text": "(Schwenk et al., 2017;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 573,
+                    "end": 592,
+                    "text": "Uhl\u00e9n et al., 2015)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1366,
+                    "end": 1387,
+                    "text": "(Benson et al., 2019;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1388,
+                    "end": 1409,
+                    "text": "Bycroft et al., 2018)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Beyond PM20D1, other mammalian enzymes are also likely to contribute to N-acyl amino acid metabolism, especially considering the large and structurally diverse nature of this lipid family (Aneetha et al., 2009; Bradshaw et al., 2009; Cohen et al., 2017; Waluk et al., 2010) . To date, the identity of these additional enzymes has remained unknown. Here we use PM20D1-KO tissues to molecularly characterize a second, PM20D1-independent N-acyl amino acid hydrolysis activity. We identify the responsible enzyme as fatty acid amide hydrolase (FAAH) and establish how PM20D1 and FAAH engage in extensive non-additive interactions in vivo to regulate the levels of N-acyl amino acids cooperatively. These data provide evidence for enzymatic division of labor as an enabling biochemical strategy for controlling the levels of a bioactive lipid family.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 210,
+                    "text": "(Aneetha et al., 2009;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 211,
+                    "end": 233,
+                    "text": "Bradshaw et al., 2009;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 234,
+                    "end": 253,
+                    "text": "Cohen et al., 2017;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 254,
+                    "end": 273,
+                    "text": "Waluk et al., 2010)",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Detection of a second, PM20D1-independent N-acyl amino acid hydrolysis activity",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "To characterize additional pathways of N-acyl amino acid metabolism in the absence of PM20D1, we analyzed tissue homogenates from wild-type and PM20D1-KO animals for a residual N-acyl amino acid hydrolysis activity. This assay was selected because of the high sensitivity and signal-to-noise ratio that it provides, which enables robust detection of any residual activities that might be present. Two different prototypical N-acyl amino acid substrates, N-arachidonoyl-phenylalanine (C20:4-Phe) and N-arachidonoyl-glycine (C20:4-Gly), were used as substrates. Following incubation with tissue lysates, the hydrolysis of these N-acyl amino acid substrates to free fatty acid product was quantified by liquid chromatography-mass spectrometry (LC-MS, Figure 1a ). In wild-type mice, robust hydrolysis of C20:4-Phe was observed in eight of the ten tissues tested, with activities in the range of~0.01 nmol/min/mg (lung) to 1.0 nmol/min/mg (liver). In PM20D1-KO tissues, the hydrolysis of C20:4-Phe was completely abolished (>99% reduction in each tissue), establishing that PM20D1 is the only enzyme responsible for C20:4-Phe hydrolysis activity ( Figure 1b) . The presence of PM20D1 activity in tissue homogenates reflects potential interactions of PM20D1 with the extracellular matrix or with cell surfaces, as has previously been observed with lipoprotein lipase and other secreted enzymes (Cryer, 1981) . By contrast, using C20:4-Gly as a substrate, both brain and liver from PM20D1-KO mice maintained a robust second hydrolysis activity ( Figure 1c ). The second PM20D1-independent activity accounted for 70% and 11% of the total C20:4-Gly hydrolysis in brain and liver, respectively. In absolute terms, the residual activity in PM20D1-KO liver was higher (0.10 nmol/min/mg) than that observed in the knockout brain tissue (0.03 nmol/min/mg). These data demonstrate the presence of a second, PM20D1-independent hydrolysis activity in brain and liver for C20:4-Gly. That this residual activity is only present for C20:4-Gly but not C20:4-Phe suggested that this second enzyme might exhibit selectivity for regulating subsets of lipid species within the N-acyl amino acid family.",
+            "cite_spans": [
+                {
+                    "start": 1389,
+                    "end": 1402,
+                    "text": "(Cryer, 1981)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 748,
+                    "end": 757,
+                    "text": "Figure 1a",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1144,
+                    "end": 1154,
+                    "text": "Figure 1b)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1540,
+                    "end": 1549,
+                    "text": "Figure 1c",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Molecular identification of fatty acid amide hydrolase (FAAH) as the residual N-acyl amino acid hydrolase Because liver homogenates exhibited the most robust PM20D1-independent hydrolysis activity, we initiated an effort to identify the enzyme responsible for this activity. We first began with a candidate approach. PM20D1 is one of five members of the mammalian M20 peptidase family, all of which exhibit peptide bond hydrolysis and condensation activity on a variety of small molecule substrates such as N-acetyl amino acids (Sass et al., 2006) , N-lactoyl amino acids (Jansen et al., 2015) , and other dipeptides (Kim et al., 2019; Teufel et al., 2003) . However, it was not known whether any of the other mammalian M20 peptidases could also hydrolyze N-fatty acyl amino acids. We therefore recombinantly expressed each of the mammalian M20 peptidases by transient transfection into HEK293T cells. Cell lysates were harvested and total C20:4-Gly hydrolysis activity was determined by LC-MS. Only PM20D1-transfected cells exhibited robust conversion of C20:4-Gly to arachidonic acid ( Figure 2a) . These data therefore exclude any other mammalian M20 peptidases as a candidate enzyme for catalyzing the residual N-acyl amino acid hydrolysis activity in PM20D1-KO tissues.",
+            "cite_spans": [
+                {
+                    "start": 528,
+                    "end": 547,
+                    "text": "(Sass et al., 2006)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 572,
+                    "end": 593,
+                    "text": "(Jansen et al., 2015)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 617,
+                    "end": 635,
+                    "text": "(Kim et al., 2019;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 636,
+                    "end": 656,
+                    "text": "Teufel et al., 2003)",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1088,
+                    "end": 1098,
+                    "text": "Figure 2a)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We next sought to characterize the enzymological properties of the residual hydrolysis activity from PM20D1-KO livers. Towards this end, livers from PM20D1-KO animals were separated by differential centrifugation at 100,000 x g. The C20:4-Gly hydrolysis activities from the membrane or soluble fraction were measured by LC-MS. Compared to the whole liver, the vast majority of the hydrolysis activity remained in the membrane fraction ( Figure 2b ). This observation suggested that the responsible enzyme contains a transmembrane domain or is otherwise tightly associated with cellular membranes. To determine which enzyme class may be contributing to this activity, we screened a variety of broad-spectrum enzyme inhibitors for their ability to block the C20:4-Gly hydrolysis activity. This panel included the divalent cation chelator EDTA (1 mM), HALT pan-protease inhibitor cocktail (1x), the pan-dipeptidyl peptidase inhibitor talabostat (10 mM), and the serine hydrolase inhibitor MAFP (methyl arachidonoyl fluorophosphonate, 10 mM). Remarkably, pre-treatment of PM20D1-KO liver membrane lysates with MAFP completely abolished the residual C20:4-Gly hydrolysis activity, whereas the other broad-spectrum enzyme inhibitors were entirely without effect ( Figure 2c) . These data strongly suggest that the residual hydrolysis activity is due to a serine hydrolase that is sensitive to MAFP inhibition.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 437,
+                    "end": 446,
+                    "text": "Figure 2b",
+                    "ref_id": null
+                },
+                {
+                    "start": 1258,
+                    "end": 1268,
+                    "text": "Figure 2c)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The mammalian serine hydrolases are a large family of more than 250 enzymes (Bachovchin and Cravatt, 2012; . These hydrolases are characterized by a serine nucleophile that catalyzes hydrolytic reactions via a covalent acyl-enzyme intermediate. We focused on the (a) Schematic of the enzymatic assay that monitors conversion of C20:4-Phe or C20:4-Gly into arachidonic acid. (b, c) C20:4-Phe (b) and C20:4-Gly (c) hydrolysis activities across the indicated wild-type (blue) or PM20D1-KO (orange) tissues. For (b) and (c), activity assays were conducted with 100 mM substrates and 100 mg tissue lysate in phosphatebuffered saline (PBS) for 1 hr at 37\u02daC. Data are shown as means \u00b1 SEM, N = 3/group. All experiments were performed once, with N corresponding to biological replicates. *, p<0.05; **, p<0.01, ***, p<0.001 for the indicated comparison.",
+            "cite_spans": [
+                {
+                    "start": 76,
+                    "end": 106,
+                    "text": "(Bachovchin and Cravatt, 2012;",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "subset of approximately 90 enzymes that have been previously described to be covalently inactivated by MAFP (Bachovchin et al., 2014) . Of these, we excluded the dipeptidyl peptidases (DPPs) because the pan-DPP inhibitor talabostat did not recapitulate the activity of MAFP. From the remaining candidate serine hydrolases, we quickly focused on FAAH. FAAH is best recognized for its role in endocannabinoid signaling via hydrolysis of the cannabinoid receptor agonist anandamide (Narachidonoyl-ethanolamine) (Cravatt et al., 1996; Cravatt et al., 2001) . Nevertheless, three independent lines of evidence strongly suggest that FAAH may be responsible for the residual N-acyl amino acid hydrolysis activity. First, FAAH contains an N-terminal transmembrane domain and internal intramembrane region, consistent with the observation that the residual hydrolysis activity is localized to liver membranes rather than to the cytosolic fraction (Patricelli et al., 1998) . Second, FAAH has been shown to regulate several classes of bioactive fatty acid amides, including the N-acyl Figure 2 . Identification of fatty acid amide hydrolase (FAAH) as the enzyme responsible for the PM20D1-independent N-acyl amino acid hydrolase activity. (a, b) C20:4-Gly hydrolysis activity of cell lysates transfected with the indicated mammalian M20 peptidase (a) or of the indicated liver homogenate fraction from PM20D1-KO animals (b). (c, d) Effect on the C20:4-Gly hydrolysis activity from PM20D1-KO liver membranes of the indicated inhibitors. Activity assays were conducted with 100 mM substrates and 100 mg tissue lysate in PBS for 1 hr at 37\u02daC. For panel (b), membrane and soluble fractions of liver lysate were separated by centrifugation at 100,000 x g for 1 hr. For panel (c), inhibitors were pre-incubated at 1 mM for EDTA and 10 mM for all other compounds for 10 min before the start of the assay. Data are shown as means \u00b1 SEM, N = 3/group. All experiments were performed once, with N biological replicates. *, p<0.05; ***, p<0.001 for the comparison versus DMSO or GFP control. ethanolamines and N-acyl taurines, both of which share considerable structural similarity with N-acyl amino acids (Grevengoed et al., 2019; Saghatelian et al., 2004) . Last, FAAH exhibits highest expression in brain and liver in mice, the two anatomical locations where we observe the highest residual N-acyl amino acid hydrolysis activity in PM20D1-KO mice .",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 133,
+                    "text": "(Bachovchin et al., 2014)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 508,
+                    "end": 530,
+                    "text": "(Cravatt et al., 1996;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 531,
+                    "end": 552,
+                    "text": "Cravatt et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 938,
+                    "end": 963,
+                    "text": "(Patricelli et al., 1998)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2184,
+                    "end": 2209,
+                    "text": "(Grevengoed et al., 2019;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2210,
+                    "end": 2235,
+                    "text": "Saghatelian et al., 2004)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1075,
+                    "end": 1083,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To determine whether FAAH could contribute to the residual hydrolysis activity in PM20D1-KO livers, we tested the effects of the potent and selective FAAH inhibitor PF-3845 (Ahn et al., 2009 ). This Pfizer compound has previously been shown to be highly selective and to inhibit only FAAH across multiple tissues following administration to mice. Pre-treatment of PM20D1-KO liver membrane lysates with PF-3845 (10 mM) completely blocked the residual hydrolysis activity exactly as was previously observed with MAFP ( Figure 2c) . By contrast, a distinct serine hydrolase inhibitor that does not inhibit FAAH (WWL70, 10 mM) had no effect on the residual C20:4-Gly hydrolysis activity. A dose-response curve established an EC50 of 290 nM for PF-3845, a concentration consistent with the previously reported potency of this compound towards FAAH ( Figure 2d ). Taken together, these data establish FAAH as the enzyme responsible for the residual N-acyl amino acid hydrolysis activity in PM20D1-KO tissues.",
+            "cite_spans": [
+                {
+                    "start": 173,
+                    "end": 190,
+                    "text": "(Ahn et al., 2009",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 517,
+                    "end": 527,
+                    "text": "Figure 2c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 845,
+                    "end": 854,
+                    "text": "Figure 2d",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "We next performed alignments of the primary amino acid sequences of mouse PM20D1 and mouse FAAH ( Figure 3a ). As additional comparisons, we also included QRSL1 (glutamyl-tRNA amidotransferase subunit A, mitochondrial), which is the closest murine homolog to FAAH (17% identity), as well as the other four members of the murine M20 peptidase family. PM20D1 was most closely related to ACY1 (24% identity) and shared little identity with FAAH (11%). Our clustering also revealed a closer relationship of PM20D2 with both FAAH and QRSL1 than with the other M20 peptidase family members ( Figure 3a ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 98,
+                    "end": 107,
+                    "text": "Figure 3a",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 586,
+                    "end": 595,
+                    "text": "Figure 3a",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "PM20D1 and FAAH exhibit overlapping but distinct substrate specificity in vitro"
+        },
+        {
+            "text": "To determine whether N-acyl amino acids are direct FAAH substrates in vitro, we generated recombinant FAAH protein by transient transfection of a C-terminal flag-tagged FAAH construct into HEK293T cells. As a direct comparison, recombinant PM20D1 was generated in parallel. As expected, FAAH was localized entirely intracellularly, consistent with its previously described localization as an ER-associated transmembrane enzyme, whereas PM20D1 protein was largely found in the conditioned media, consistent with its known annotation as a classically secreted enzyme ( Figure 3b ). Using these transfected lysates (for FAAH) and conditioned media (for PM20D1), hydrolysis activity across a diverse panel of 14 N-acyl amino acid substrates was determined by LC-MS. These 14 substrates varied by both amino acid head group and fatty acid chain. FAAH-transfected cells showed robust hydrolysis activity for four N-acyl amino acids tested: C18:1-Gly, C18:1-Ser, C20:4-Gly, and C20:4-Ser ( Figure 3c) . A strong preference was observed for C20:4-Ser over the other three N-acyl amino acid substrates (~1.5 nmol/min/mg for FAAH hydrolysis of C20:4-Ser versus 0.05-0.15 nmol/min/mg for any of the other substrates), at least under these in vitro conditions. In the N-acyl amino acid synthase direction, FAAH also catalyzed the condensation of arachidonic acid with Gly and Ser, but not Phe (Figure 3d ). By contrast, robust hydrolysis activity was observed for PM20D1 across nearly all members of this N-acyl amino acid substrate panel over mock-transfected background (Figure 3e ). PM20D1 also efficiently catalyzed the condensation of arachidonic acid with all three Gly, Ser, and Phe amino acids (Figure 3f) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 567,
+                    "end": 576,
+                    "text": "Figure 3b",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 983,
+                    "end": 993,
+                    "text": "Figure 3c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1381,
+                    "end": 1391,
+                    "text": "(Figure 3d",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1560,
+                    "end": 1570,
+                    "text": "(Figure 3e",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1690,
+                    "end": 1701,
+                    "text": "(Figure 3f)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "PM20D1 and FAAH exhibit overlapping but distinct substrate specificity in vitro"
+        },
+        {
+            "text": "To better understand FAAH-mediated N-arachidonoyl glycine hydrolysis activity in the context of its previously described amidase activities, we directly compared the hydrolytic activity of transfected FAAH on C20:4-Gly, anandamide (C20:4-NAE), and N-arachidonoyl-taurine (C20:4-NAT). As expected, FAAH showed robust hydrolysis activity with anandamide as a substrate (0.5 nmol/min/ mg) and lower but similar activities with C20:4-NAT and C20:4-Gly (0.04 and 0.02 nmol/min/mg, respectively, Figure 3-figure supplement 1a) . Conversely, PM20D1 exhibited robust hydrolysis activity only on C20:4-Gly (0.6 nmol/min/mg) and was unable to hydrolyze either anandamide or C20:4-NAT (Figure 3-figure supplement 1a) . We also determined that C20:4-NAT was not a direct inhibitor for PM20D1 (Figure 3-figure supplement 1b) . Taken together, these data establish that recombinant FAAH is an N-acyl amino acid synthase/hydrolase in vitro. Our findings also underscore the PM20D1-FAAH pair as an example of convergence in enzymatic activity despite divergence in primary sequence.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 490,
+                    "end": 520,
+                    "text": "Figure 3-figure supplement 1a)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 674,
+                    "end": 705,
+                    "text": "(Figure 3-figure supplement 1a)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 780,
+                    "end": 811,
+                    "text": "(Figure 3-figure supplement 1b)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PM20D1 and FAAH exhibit overlapping but distinct substrate specificity in vitro"
+        },
+        {
+            "text": "Although FAAH is a dominant regulator of several classes of bioactive fatty acid amides in vivo (Cravatt et al., 2001; Grevengoed et al., 2019; Han et al., 2013; Saghatelian et al., 2004) , the physiologic role of FAAH in regulating N-acyl amino acids has not been systematically explored. Furthermore, considering the intracellular localization of FAAH compared with PM20D1, whether FAAH has a broad role or whether it regulates specific pools of N-acyl amino acids remains unknown. To determine the relevance of the FAAH/N-acyl amino acid pathway in vivo, we measured endogenous N-acyl amino acid levels following blockade of FAAH in mice. Because both genetic and pharmacological reagents for selective FAAH blockade were available, we performed three independent comparisons: global FAAH-KO versus FAAH-WT mice, a single administration of PF-3845 versus vehicle (10 mg/kg intraperitoneally, 'acute'), or a three-day administration of PF-3845 versus vehicle (10 mg/ kg intraperitoneally once per day, 'chronic'). These three comparisons were selected because they had previously been validated to cause dramatic accumulation of other physiologic FAAH substrates in vivo .",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 118,
+                    "text": "(Cravatt et al., 2001;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 119,
+                    "end": 143,
+                    "text": "Grevengoed et al., 2019;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 144,
+                    "end": 161,
+                    "text": "Han et al., 2013;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 162,
+                    "end": 187,
+                    "text": "Saghatelian et al., 2004)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "N-acyl amino acid metabolism in mice with selective FAAH blockade"
+        },
+        {
+            "text": "Liver and blood were harvested and N-acyl amino acids were extracted by homogenization in acetonitrile/methanol. We developed a targeted liquid chromatography-triple quadrupole mass spectrometry (LC-QQQ) method to measure a panel of oleoyl-or arachidonoyl-containing N-acyl amino acids, reasoning that such a set would broadly capture a diverse and representative panel of this lipid family. In these experiments, we were able to detect 26 and 14 N-acyl amino acid species in liver and blood, respectively (Figure 4a and Figure 4-source data 1 and 2) . In the liver, distinct bidirectional changes in N-acyl amino acids were observed in each of the three perturbations. Those changes that were statistically significant across all three conditions of FAAH blockade were elevations in C20:4-Glu (by 2.1-fold) and decreases in C20:4-Gly (by 70%). In other cases, certain N-acyl amino acids changes were only observed in either the genetic (e.g., increased C20:4-Leu/Ile) or pharmacological (e.g., increased C18:1-Glu) model. In the blood, no N-acyl amino acids were significantly changed over controls across all three experiments (Figure 4b) . We confirmed that PM20D1 activity is not altered in FAAH-KO plasma (Figure 4-figure supplement 1) . By abundance, hepatic N-acyl amino acids levels were similar to N-acyl ethanolamine and N-acyl taurines in wild-type mice (Figure 4 -source data 1 and 2). Taken together, these data demonstrate that FAAH is a bidirectional regulator of a subset of intracellular, but not extracellular, N-acyl amino acids.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 506,
+                    "end": 516,
+                    "text": "(Figure 4a",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 521,
+                    "end": 550,
+                    "text": "Figure 4-source data 1 and 2)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1129,
+                    "end": 1140,
+                    "text": "(Figure 4b)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1210,
+                    "end": 1240,
+                    "text": "(Figure 4-figure supplement 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1365,
+                    "end": 1374,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "N-acyl amino acid metabolism in mice with selective FAAH blockade"
+        },
+        {
+            "text": "Our data establish that at least two enzymes, PM20D1 and FAAH, contribute to the regulation of endogenous N-acyl amino acid levels. Individual blockade of PM20D1 or FAAH resulted in bidirectional dysregulation of N-acyl amino acids. We therefore considered the possibility that dual inhibition of both PM20D1 and FAAH would result in a complete ablation of N-acyl amino acid synthase/ hydrolase activities, and in concomitant global elevations or global depletions of endogenous N-acyl amino acid levels. To test this hypothesis, we used global PM20D1-KO animals in combination with a FAAH inhibitor to block both PM20D1 and FAAH simultaneously. PM20D1-KO animals were chronically treated with PF-3845 (10 mg/kg intraperitoneally once per day for three days). As controls, PM20D1-KO or PM20D1-WT littermates were administered vehicle control (saline) in parallel. First, we measured liver N-acyl amino acid hydrolysis activity from each of the three groups of mice. As we described previously, livers from vehicle-treated PM20D1-KO mice exhibited a residual C20:4-Gly hydrolysis activity when compared to livers from PM20D1-WT mice. Following PF-3845 treatment in PM20D1-KO mice, the residual hepatic C20:4-Gly hydrolysis activity was entirely abolished (Figure 5a) . These data establish that PM20D1 and FAAH are the only two C20:4-Gly hydrolysis activities in liver, at least under the assay conditions used here, and further validate our previous in vitro studies (Figure 2c,d) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1254,
+                    "end": 1265,
+                    "text": "(Figure 5a)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1467,
+                    "end": 1480,
+                    "text": "(Figure 2c,d)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Cooperative regulation of N-acyl amino acids by PM20D1 and FAAH in vivo"
+        },
+        {
+            "text": "Next, we measured endogenous N-acyl amino acid levels in both liver and blood. Under basal conditions, PM20D1-KO mice exhibit bidirectional dysregulation of several N-acyl amino acids compared to PM20D1-WT mice (Figure 5b and Figure 5-source data 1) . Surprisingly, complete ablation of N-acyl amino acid synthase/hydrolase activities did not uniformly change N-acyl amino acids in a positive or negative direction. Instead, dual inhibition of PM20D1 and FAAH uncovered a remarkable cooperativity of these two enzymatic pathways in the regulation of N-acyl amino acids. In general, individual regulation by PM20D1 or FAAH were not predictive of those N-acyl amino acid species that were regulated by both enzymatic pathways together or even the directionality of change. For instance, hepatic N-acyl serines were largely unaltered by individual blockade of either FAAH or PM20D1 alone (Figure 4a and Figure 5b ). Following dual blockade of both enzymes, C18:1-Ser and C20:4-Ser were dramatically accumulated by 13-fold and 26-fold, respectively (Figure 5b) . In other cases, dual blockade resulted in changes to N-acyl amino acids in the opposite direction compared to individual blockade alone. For instance, C18:1-Gly was reduced in PM20D1-KO livers and unaltered by FAAH blockade, but nevertheless accumulated to 8-fold over controls when both enzymes were inhibited. In the blood, similar cooperative interactions could also be observed (Figure 5c ). In some cases, the directionality of the N-acyl amino acid changes was concordant in blood and liver (e.g., N-acyl glycines and N-acyl leucines), whereas in other cases (e.g., C18:1-Met), the intracellular pools accumulated with a concomitant decrease in extracellular levels. These data establish that PM20D1 and FAAH engage in non-additive crosstalk in vivo to regulate intracellular and circulating levels of N-acyl amino acids . . For drug treatment, PF-3845 was administered intraperitoneally at 10 mg/ kg once (acute) or for three consecutive days (chronic). Tissues were harvested 3 hr after the final dose. No bars are shown for N-acyl amino acids that were below the limit of detection. Data are shown as means \u00b1 SEM, N = 4-5 mice/group for each of the indicated comparisons. All experiments were performed once, with N biological replicates. *, p<0.05; **, p<0.01; ***, p<0.001 by ANOVA with Dunnett's multiple comparisons test versus control animals. The online version of this article includes the following source data and figure supplement(s) for figure 4:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 211,
+                    "end": 221,
+                    "text": "(Figure 5b",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 226,
+                    "end": 249,
+                    "text": "Figure 5-source data 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 885,
+                    "end": 895,
+                    "text": "(Figure 4a",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 900,
+                    "end": 909,
+                    "text": "Figure 5b",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1045,
+                    "end": 1056,
+                    "text": "(Figure 5b)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 1441,
+                    "end": 1451,
+                    "text": "(Figure 5c",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Cooperative regulation of N-acyl amino acids by PM20D1 and FAAH in vivo"
+        },
+        {
+            "text": "Source data 1. Absolute quantitation of N-acyl amino acids in liver and plasma following FAAH blockade. Source data 2. Absolute quantitation of N-acyl ethanolamines and N-acyl taurines in wild-type mouse liver. Relative fold change of the indicated N-acyl amino acids in PM20D1-KO mice or in PM20D1-KO mice treated with PF-3845 versus wild-type mice in liver (b) or blood (c). For drug treatment, PF-3845 was administered intraperitoneally at 10 mg/kg for three consecutive days and tissues were harvested 3 hr after the final dose. No bars are shown for N-acyl amino acids that were below the limit of detection. Data are shown as means \u00b1 SEM, N = 4-5 mice/group for each of the indicated comparisons. All experiments were performed once, with N biological replicates. *, p<0.05; **, p<0.01; ***, p<0.001 in color are versus PM20D1-WT levels, whereas those in black are for the indicated comparison by ANOVA with Tukey's multiple comparison test. The online version of this article includes the following source data for figure 5:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cooperative regulation of N-acyl amino acids by PM20D1 and FAAH in vivo"
+        },
+        {
+            "text": "Source data 1. Absolute quantitation of N-acyl amino acids in liver and plasma following PM20D1 or dual PM20D1/FAAH blockade.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cooperative regulation of N-acyl amino acids by PM20D1 and FAAH in vivo"
+        },
+        {
+            "text": "The N-acyl amino acids are a diverse bioactive lipid family. Using PM20D1-KO tissues as a discovery tool, we establish FAAH as a second intracellular mammalian N-acyl amino acid synthase/hydrolase. In vitro, FAAH catalyzes the bidirectional synthesis and hydrolysis of a subset of N-acyl amino acids that have a narrower substrate specificity than PM20D1. Genetic ablation or pharmacological inhibition of FAAH in vivo established that this enzyme is also a physiological regulator of intracellular but not of extracellular N-acyl amino acids. Our data uncover the PM20D1-FAAH pair as an example of enzymatic convergence, despite largely unrelated primary amino acid sequences. More generally, these findings underscore enzymatic and spatial division of labor as a mechanism for the control of subsets of a diverse thermogenic lipid family.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The identification of two mammalian N-acyl amino acid synthase/hydrolase enzymes, one localized extracellularly and one intracellularly, raises important questions about the similarities and differences between the N-acyl amino acids within each of these localizations and about crosstalk between the intracellular and extracellular pools of N-acyl amino acids. What factors determine the compartmentalization of N-acyl amino acids? What are the mechanisms by which these lipids are imported into or exported out of cells? What functional differences are there between these two pools of N-acyl amino acids? One possibility is that certain N-acyl amino acid bioactivities require interactions within the cell (e.g., binding to mitochondria to stimulate respiratory uncoupling) whereas others involve extracellular interactions (e.g., engaging cell surface receptors), suggesting that certain compartmentalized pools of N-acyl amino acids might be more relevant for specific bioactivities. Identifying specific transporters for N-acyl amino acids may help to clarify the relative contribution of the intracellular versus extracellular pools of these lipids. The many examples of intraand inter-cellular transport of sterols (Phillips, 2014) , fatty acids (Pepino et al., 2014) , and phospholipids (Hankins et al., 2015) provide a fertile starting point for discovering analogous pathways for the transport and compartmentalization of N-acyl amino acids.",
+            "cite_spans": [
+                {
+                    "start": 1223,
+                    "end": 1239,
+                    "text": "(Phillips, 2014)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1254,
+                    "end": 1275,
+                    "text": "(Pepino et al., 2014)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1296,
+                    "end": 1318,
+                    "text": "(Hankins et al., 2015)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "FAAH has also been implicated in diverse physiologic conditions in mice and humans. Pharmacological or genetic blockade of FAAH has been shown to regulate pain and inflammation (Ahn et al., 2009; Cravatt et al., 2001) , obesity and metabolic homeostasis (Brown et al., 2012; Touri\u00f1o et al., 2010) , and anxiety and depression (Gobbi et al., 2005; Kathuria et al., 2003) , amongst many others. Polymorphisms in the FAAH gene have also provided human genetic evidence for these disease associations (Sipe et al., 2002; Sipe et al., 2005) . These phenotypes are classically associated with anandamide elevation and activation of the cannabinoid receptors upon FAAH inhibition or genetic deletion. However, beyond the endocannabinoid system, FAAH also regulates several other classes of bioactive lipids including other N-acyl ethanolamines, N-acyl taurines, and now, N-acyl amino acids. We propose that FAAH-regulated N-acyl amino acids may also contribute to some of these observed phenotypes. Projecting forward, critical tests of the FAAH/N-acyl amino acid contribution without confounding contributions from other FAAH-regulated lipids will require the identification of selective FAAH point mutants that only catalyze the synthesis or hydrolysis of specific species of N-acyl amino acids, but not other fatty acid amide substrates.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 195,
+                    "text": "(Ahn et al., 2009;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 196,
+                    "end": 217,
+                    "text": "Cravatt et al., 2001)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 254,
+                    "end": 274,
+                    "text": "(Brown et al., 2012;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 275,
+                    "end": 296,
+                    "text": "Touri\u00f1o et al., 2010)",
+                    "ref_id": null
+                },
+                {
+                    "start": 326,
+                    "end": 346,
+                    "text": "(Gobbi et al., 2005;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 347,
+                    "end": 369,
+                    "text": "Kathuria et al., 2003)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 497,
+                    "end": 516,
+                    "text": "(Sipe et al., 2002;",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 517,
+                    "end": 535,
+                    "text": "Sipe et al., 2005)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our data reveal that complete ablation of all C20:4-Gly synthase/hydrolase activities via dual blockade of both PM20D1 and FAAH was not sufficient to elevate or deplete all endogenous N-acyl amino acids globally. Instead, we observed extensive and non-additive interactions between these two enzymatic pathways in the regulation of specific subsets of N-acyl amino acids. In general, these non-additive interactions could not be predicted by in vitro substrate specificity or even individual N-acyl amino acid regulation. To the best of our knowledge, this type of cooperativity has not been previously described for any biochemical pathway. Quantitative flux analysis for the various amino acid, fatty acid, and N-acyl amino acid components will be required to understand how these metabolic fluxes are re-wired upon blockade of each enzyme individually or together.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Last, our findings suggest that additional biochemical pathways beyond PM20D1 and FAAH contribute to regulating the endogenous levels of this lipid family. Potential candidate pathways include additional amidase enzymes on other N-acyl amino acid substrates, enzymes that catalyze the conjugation of fatty acid CoAs with amino acids, or non-mammalian sources (Brady et al., 2004; Cohen et al., 2017; Jeffries et al., 2016; Van Wagoner and Clardy, 2006) . Molecular identification of these additional pathways of N-acyl amino acid metabolism will ultimately enable the dissection and therapeutic manipulation of more specific subsets of this diverse bioactive lipid family in organismal physiology. ",
+            "cite_spans": [
+                {
+                    "start": 359,
+                    "end": 379,
+                    "text": "(Brady et al., 2004;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 380,
+                    "end": 399,
+                    "text": "Cohen et al., 2017;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 400,
+                    "end": 422,
+                    "text": "Jeffries et al., 2016;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 423,
+                    "end": 452,
+                    "text": "Van Wagoner and Clardy, 2006)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "N-arachidonoyl glycine, N-arachidonoyl serine, and N-arachidonoyl-taurine were purchased from Cayman. N-arachidonoyl phenylalanine was purchased from Abcam. Arachidonic acid, anandamide, and WWL70 were purchased from Sigma-Aldrich. PF-3845 was purchased from Selleckchem. MAFP and EDTA were purchased from Fisher. Talabostat was purchased from R and D. Non-commercially available N-acyl amino acids were synthesized as previously described Long et al., 2016) . Plasmids were obtained from the following sources: mouse PM20D1-flag (Addgene 132682), mouse FAAH-flag (Origene MR209084), mouse ACY1-flag (Origene MR206415), mouse CNDP1-flag (Origene MR219018), mouse CNDP2-flag (Origene MR207616), and mouse PM20D2-flag (MR222068).",
+            "cite_spans": [
+                {
+                    "start": 440,
+                    "end": 458,
+                    "text": "Long et al., 2016)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials"
+        },
+        {
+            "text": "All statistical comparisons were performed using Student's t-test or ANOVA with Tukey or Dunnett's multiple comparison test. No explicit power analysis was used to determine sample sizes. Sample sizes were determined on the basis of previous literature for biochemical or animal studies. All experiments were performed once, with N corresponding to biological replicates. Outliers were not removed from analyses. The experimentalist was not blinded to sample or treatment conditions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistics, sample size estimation, and replicates"
+        },
+        {
+            "text": "HEK293T cells were obtained from ATCC (CRL-3216) and cultured in DMEM with L-glutamine, 4.5 g/ L glucose and sodium pyruvate (Corning 10013CV) supplemented with 10% FBS (Corning 35010CV). Cells were incubated at 37\u02daC in 5% CO 2 for growth and tranfections. All cell lines were authenticated by DNA fingerprint STR analysis by ATCC. Mycoplasma was not tested. Authentication of cell lines beyond ATCC was not completed due to laboratory disruptions by COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cell culture"
+        },
+        {
+            "text": "Plasmids were transiently transfected into HEK293T cells using PolyFect (Qiagen) according to the manufacturer's instructions. The medium was changed to serum-free DMEM one day post-transfection. After an additional 24 hr, the medium was collected and the cells were harvested by scraping.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Production of recombinant enzymes"
+        },
+        {
+            "text": "Western blotting was performed according to standard methods. The following antibodies were used: anti-flag M2 antibody (Sigma F1804, diluted 1:10,000), and tubulin (Abcam ab6046, diluted 1:10,000).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Molecular studies"
+        },
+        {
+            "text": "Plasma was collected from mice and used directly for the activity assays. Tissues were homogenized using a Benchmark BeadBlaster Homogenizer in ice-cold PBS, centrifuged to remove debris (5 min at 1000 x g), and the supernatant was collected and used for activity assays. For assays using liver membranes, total liver homogenates were transferred into ultracentrifuge inserts and spun at 100,000 x g on a Beckman Centrifuge I8-70M for 1 hr at 4\u02daC. In vitro enzymatic reactions were conducted in glass vials and initiated by the addition of 100 mg protein. Final reaction conditions for the hydrolase reactions were 100 mM substrate (C20:4-Gly or C20:4-Phe) and 100 mg protein in 100 ml PBS, and for the synthase reactions were 1 mM Phe, 1 mM oleic acid, and 100 mg protein in 100 ml PBS. After 1 hr at 37\u02daC, reactions were quenched with 400 ml 2:1 v/v acetonitrile:methanol and vortexed. Reaction vials were centrifuged at 2000 x g to remove debris, and the supernatant was collected and analyzed by LC-MS as described below. For inhibitor assays, tissue lysates were treated with the indicated inhibitors for 10 min at room temperature before the introduction of the indicated substrates.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Enzyme activity assays in vitro"
+        },
+        {
+            "text": "Frozen plasma (30 ml) were extracted in 160 ml of 1:1 v/v acetonitrile:methanol. Liver tissues were extracted in 500 ml 2:2:1 v/v/v acetonitrile:methanol:water on a BeadBlaster homogenizer for 1 min. Extracts were centrifuged (10 min, 5000 x g) to remove debris. The supernatant was isolated and centrifuged again (10 min, 5000 x g). Finally, the twice-clarified supernatant was transferred to a mass spectrometry vial and analyzed by LC-MS as described below.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Extraction of N-acyl amino acids from blood and tissues"
+        },
+        {
+            "text": "Mass spectrometry analysis was performed with an electrospray ionization (ESI) source on an Agilent 6470 Triple Quadrupole (QQQ). For separation of metabolites, normal-phase chromatography was performed with a Luna 5 mm C5 100 \u00c5 LC column (Phenomenex 00B-4043-E0). The mobile phases were as follows: Buffer A, 95:5 water/methanol; Buffer B, 60:35:5 isopropanol/methanol/water with 0.1% ammonium hydroxide in both Buffer A and B for negative ionization mode. For AJS ESI ion source parameters, the drying gas temperature was set to 250\u02daC with a flow rate of 12 l/min, and the nebulizer pressure was 25 psi. The sheath gas temperature was set to 300\u02daC with a flow rate of 12 l/min. The capillary voltage was set to 2500 V and the fragmentor voltage was set to 135 V. For the measurement of in vitro enzyme activity assays, the flow rate for each run started at 95% A/5% B for 3 min at 0.6 ml/min, followed by a gradient starting at 95% A/5% B changing linearly to 5% A/ 95% B over the course of 3 min at 0.6 ml/min, followed by 5% A/95% B for 1.5 min at 0.6 ml/min. For the measurement of metabolites from blood and liver in vivo, the flow rate for each run started at 95% A/5% B for 1 min at 0.6 ml/min, followed by a gradient starting at 95% A/5% B changing linearly to 5% A/95% B over the course of 10 min at 0.6 ml/min, followed by 5% A/95% B for 3 min at 0.6 ml/min, and back to 95% A/5% B over 1 min at 0.6 ml/min. The QQQ acquisition parameters were as follows. For in vitro assays, the mass range was set from 100 to 500 m/z. For measurement of endogenous N-acyl amino acids, metabolites were detected by the SRM of the transition from precursor to product ions (corresponding to the amino acid fragment) at collision energy 20. The following table includes the list of transitions used. N-acyl taurines and N-acyl ethanolamines were measured as described previously . ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Measurements of N-acyl amino acids in vivo and enzyme activities in vitro by LC-MS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Discovery and characterization of a highly selective FAAH inhibitor that reduces inflammatory pain",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mileni",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Beidler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mckinney",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Weerapana",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sadagopan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liimatta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lazerwith",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stiff",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kamtekar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bhattacharya",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Swaney",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Van Becelaere",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Chemistry & Biology",
+            "volume": "16",
+            "issn": "",
+            "pages": "411--420",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chembiol.2009.02.013"
+                ],
+                "PMID": [
+                    "19389627"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Alcohol dehydrogenase-catalyzed in vitro oxidation of anandamide to N-arachidonoyl glycine, a lipid mediator: synthesis of N-acyl glycinals",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aneetha",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "O&apos;dell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hurley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Bioorganic & Medicinal Chemistry Letters",
+            "volume": "19",
+            "issn": "",
+            "pages": "237--241",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bmcl.2008.10.087"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A high-throughput, multiplexed assay for superfamily-wide profiling of enzyme activity",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bachovchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Koblan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Woznica",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Poplawski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kiritsy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Healey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dimare",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sanford",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Munford",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Bachovchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Golub",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nature Chemical Biology",
+            "volume": "10",
+            "issn": "",
+            "pages": "656--663",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nchembio.1578"
+                ],
+                "PMID": [
+                    "24997602"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The pharmacological landscape and therapeutic potential of serine hydrolases",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bachovchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nature Reviews Drug Discovery",
+            "volume": "11",
+            "issn": "",
+            "pages": "52--68",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd3620"
+                ],
+                "PMID": [
+                    "22212679"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Natural human genetic variation determines basal and inducible expression of PM20D1, an obesity-associated gene",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Benson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Weller",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Khetarpal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yoshino",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bone",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rabinowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Voight",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Soccio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PNAS",
+            "volume": "116",
+            "issn": "",
+            "pages": "23232--23242",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1913199116"
+                ],
+                "PMID": [
+                    "31659023"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The endocannabinoid anandamide is a precursor for the signaling lipid N-arachidonoyl glycine by two distinct pathways",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bradshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rimmerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Benton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Masuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "O&apos;",
+                    "middle": [],
+                    "last": "Dell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Biochemistry",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2091-10-14"
+                ],
+                "PMID": [
+                    "19460156"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Long-chain N-acyltyrosine synthases from environmental DNA",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Brady",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Clardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Applied and Environmental Microbiology",
+            "volume": "70",
+            "issn": "",
+            "pages": "6865--6870",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.70.11.6865-6870.2004"
+                ],
+                "PMID": [
+                    "15528554"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Fatty acid amide hydrolase ablation promotes ectopic lipid storage and insulin resistance due to centrally mediated hypothyroidism",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Gillum",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Camporez",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Alves",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Erion",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Guigni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Diano",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Shulman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PNAS",
+            "volume": "109",
+            "issn": "",
+            "pages": "14966--14971",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1212887109"
+                ],
+                "PMID": [
+                    "22912404"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The UK biobank resource with deep phenotyping and genomic data",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bycroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Freeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Petkova",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Band",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Elliott",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Motyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Vukcevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Delaneau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "O&apos;connell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Welsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Effingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mcvean",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Marchini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nature",
+            "volume": "562",
+            "issn": "",
+            "pages": "203--209",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-018-0579-z"
+                ],
+                "PMID": [
+                    "30305743"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Commensal Bacteria make GPCR ligands that mimic human signalling molecules",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Esterhazy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lemetre",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Aguilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pickard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Emiliano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Vila-Farres",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kaplitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rogoz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Calle",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bitok",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Brady",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nature",
+            "volume": "549",
+            "issn": "",
+            "pages": "48--53",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature23874"
+                ],
+                "PMID": [
+                    "28854168"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Molecular characterization of an enzyme that degrades neuromodulatory fatty-acid amides",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Giang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mayfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Boger",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lerner",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gilula",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "384",
+            "issn": "",
+            "pages": "83--87",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/384083a0"
+                ],
+                "PMID": [
+                    "8900284"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Supersensitivity to anandamide and enhanced endogenous cannabinoid signaling in mice lacking fatty acid amide hydrolase",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Demarest",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Patricelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bracey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Giang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lichtman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "PNAS",
+            "volume": "98",
+            "issn": "",
+            "pages": "9371--9376",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.161191698"
+                ],
+                "PMID": [
+                    "11470906"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Tissue lipoprotein lipase activity and its action in lipoprotein metabolism",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cryer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "International Journal of Biochemistry",
+            "volume": "13",
+            "issn": "",
+            "pages": "525--541",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0020-711X(81)90177-4"
+                ],
+                "PMID": [
+                    "7016622"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Isolation and structure of a brain constituent that binds to the cannabinoid receptor",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Devane",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hanus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Breuer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pertwee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stevenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mandelbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Etinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mechoulam",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Science",
+            "volume": "258",
+            "issn": "",
+            "pages": "1946--1949",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1470919"
+                ],
+                "PMID": [
+                    "1470919"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Antidepressantlike activity and modulation of brain monoaminergic transmission by blockade of anandamide hydrolysis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gobbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bambico",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mangieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bortolato",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Campolongo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Solinas",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cassano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Morgese",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Debonnel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Duranti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tontini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tarzia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mor",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Trezza",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goldberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Cuomo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Piomelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PNAS",
+            "volume": "102",
+            "issn": "",
+            "pages": "18620--18625",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0509591102"
+                ],
+                "PMID": [
+                    "16352709"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "N-acyl taurines are endogenous lipid messengers that improve glucose homeostasis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Grevengoed",
+                    "suffix": ""
+                },
+                {
+                    "first": "Saj",
+                    "middle": [],
+                    "last": "Trammell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mckinney",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cardone",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Svenningsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ogasawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nex\u00f8e-Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Knop",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kibbey",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Gillum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PNAS",
+            "volume": "116",
+            "issn": "",
+            "pages": "24770--24778",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1916288116"
+                ],
+                "PMID": [
+                    "31740614"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Quantitative LC-MS/MS analysis of arachidonoyl amino acids in mouse brain with treatment of FAAH inhibitor",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kirchhoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chester",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Barker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Analytical Biochemistry",
+            "volume": "432",
+            "issn": "",
+            "pages": "74--81",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ab.2012.09.031"
+                ],
+                "PMID": [
+                    "23044255"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Role of flippases, scramblases and transfer proteins in phosphatidylserine subcellular distribution",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hankins",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Baldridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Traffic",
+            "volume": "16",
+            "issn": "",
+            "pages": "35--47",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/tra.12233"
+                ],
+                "PMID": [
+                    "25284293"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "N-lactoyl-amino acids are ubiquitous metabolites that originate from CNDP2-mediated reverse proteolysis of lactate and amino acids",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Addie",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Merkx",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fish",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mahakena",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bleijerveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Altelaar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ijlst",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wanders",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Borst",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van De Wetering",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PNAS",
+            "volume": "112",
+            "issn": "",
+            "pages": "6601--6606",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1424638112"
+                ],
+                "PMID": [
+                    "25964343"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Glycine N-acyltransferase-like 3 is responsible for long-chain N-acylglycine formation in N18TG2 cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jeffries",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Dempsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Farrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Garbade",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gurina",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Gruhonjic",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gunderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Merkler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Journal of Lipid Research",
+            "volume": "57",
+            "issn": "",
+            "pages": "781--790",
+            "other_ids": {
+                "DOI": [
+                    "10.1194/jlr.M062042"
+                ],
+                "PMID": [
+                    "27016726"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Modulation of anxiety through blockade of anandamide hydrolysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kathuria",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gaetani",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fegley",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Vali\u00f1 O F",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Duranti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tontini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mor",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tarzia",
+                    "suffix": ""
+                },
+                {
+                    "first": "La",
+                    "middle": [],
+                    "last": "Rana",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Calignano",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Giustino",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tattoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Palmery",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cuomo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Piomelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Medicine",
+            "volume": "9",
+            "issn": "",
+            "pages": "76--81",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm803"
+                ],
+                "PMID": [
+                    "12461523"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Long-Term cold adaptation does not require FGF21 or UCP1",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Keipert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kutschke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ost",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Schwarzmayr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Schothorst",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Brachth\u00e4 User",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mazibuko",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hartwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lehr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Graf",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Plettenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Neff",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Tsch\u00f6 P Mh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jastroch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cell Metabolism",
+            "volume": "26",
+            "issn": "",
+            "pages": "437--446",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmet.2017.07.016"
+                ],
+                "PMID": [
+                    "28768181"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Family-wide annotation of enzymatic pathways by parallel in Vivo Metabolomics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Terrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Cell Chemical Biology",
+            "volume": "26",
+            "issn": "",
+            "pages": "1623--1629",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chembiol.2019.09.009"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Discovery of Hydrolysis-Resistant isoindoline N-Acyl amino acid analogues that stimulate mitochondrial respiration",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Roche",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Dou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Strutzenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ruiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Novick",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Berdan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Louie",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Nomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Spiegelman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kamenecka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Medicinal Chemistry",
+            "volume": "61",
+            "issn": "",
+            "pages": "3224--3230",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acs.jmedchem.8b00029"
+                ],
+                "PMID": [
+                    "29533650"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "An anatomical and temporal portrait of physiological substrates for fatty acid amide hydrolase",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lacava",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Lipid Research",
+            "volume": "52",
+            "issn": "",
+            "pages": "337--344",
+            "other_ids": {
+                "DOI": [
+                    "10.1194/jlr.M012153"
+                ],
+                "PMID": [
+                    "21097653"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The secreted enzyme PM20D1 regulates lipidated amino acid uncouplers of mitochondria",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bateman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kamenecka",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lokurkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jedrychowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Paulo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Gygi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Nomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Spiegelman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell",
+            "volume": "166",
+            "issn": "",
+            "pages": "424--435",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2016.05.071"
+                ],
+                "PMID": [
+                    "27374330"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Ablation of PM20D1 reveals N-acyl amino acid control of metabolism and nociception",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Roche",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Berdan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Louie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Dou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bateman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Mina",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jedrychowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kamenecka",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Asara",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Banks",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Nomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Spiegelman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PNAS",
+            "volume": "115",
+            "issn": "",
+            "pages": "6937--6945",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1803389115"
+                ],
+                "PMID": [
+                    "29967167"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The metabolic serine hydrolases and their functions in mammalian physiology and disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Chemical Reviews",
+            "volume": "111",
+            "issn": "",
+            "pages": "6022--6063",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/cr200075y"
+                ],
+                "PMID": [
+                    "21696217"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "N-arachidonoyl L-serine, an endocannabinoid-like brain constituent with vasodilatory properties",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Milman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Maor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abu-Lafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Horowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gallily",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Batkai",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Offertaler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kunos",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mechoulam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PNAS",
+            "volume": "103",
+            "issn": "",
+            "pages": "2428--2433",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0510676103"
+                ],
+                "PMID": [
+                    "16467152"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Identification of an allosteric binding site on the human glycine transporter, GlyT2, for bioactive lipid analgesics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Mostyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schumann-Gillett",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Frangos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shimmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Rawling",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "O&apos;mara",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vandenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7554/eLife.47150"
+                ],
+                "PMID": [
+                    "31621581"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "N-arachidonoyl glycine, an endogenous lipid that acts as a vasorelaxant via nitric oxide and large conductance calcium-activated potassium channels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Parmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "British Journal of Pharmacology",
+            "volume": "160",
+            "issn": "",
+            "pages": "594--603",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1476-5381.2009.00622.x"
+                ],
+                "PMID": [
+                    "20136843"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Acyl homoserine-lactone quorum-sensing signal generation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Parsek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Val",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hanzelka",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Cronan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Greenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "PNAS",
+            "volume": "96",
+            "issn": "",
+            "pages": "4360--4365",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.8.4360"
+                ],
+                "PMID": [
+                    "10200267"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Comparative Characterization of a Wild Type and Transmembrane Domain-Deleted Fatty Acid Amide Hydrolase: Identification of the Transmembrane Domain as a Site for Oligomerization \u2020",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Patricelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lashuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Giang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochemistry",
+            "volume": "37",
+            "issn": "",
+            "pages": "15177--15187",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi981733n"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Structure-function of CD36 and importance of fatty acid signal transduction in fat metabolism",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Pepino",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Kuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Samovski",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Abumrad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Annual Review of Nutrition",
+            "volume": "34",
+            "issn": "",
+            "pages": "281--303",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev-nutr-071812-161220"
+                ],
+                "PMID": [
+                    "24850384"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Molecular mechanisms of cellular cholesterol efflux",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Phillips",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Biological Chemistry",
+            "volume": "289",
+            "issn": "",
+            "pages": "24020--24029",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.R114.583658"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Assignment of endogenous substrates to enzymes by global metabolite profiling",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saghatelian",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Trauger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Want",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hawkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Siuzdak",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochemistry",
+            "volume": "43",
+            "issn": "",
+            "pages": "14332--14339",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi0480335"
+                ],
+                "PMID": [
+                    "15533037"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Mutations in ACY1, the gene encoding aminoacylase 1, cause a novel inborn error of metabolism",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Sass",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Olbrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Engelke",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fliegauf",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Loges",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schweitzer-Krantz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Moebus",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Weiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kispert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Superti-Furga",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wevers",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Omran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "The American Journal of Human Genetics",
+            "volume": "78",
+            "issn": "",
+            "pages": "401--409",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/500563"
+                ],
+                "PMID": [
+                    "16465618"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "The human plasma proteome draft of 2017: building on the human plasma PeptideAtlas from mass spectrometry and complementary assays",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schwenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Omenn",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Overall",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aebersold",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Moritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Deutsch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Proteome Research",
+            "volume": "16",
+            "issn": "",
+            "pages": "4299--4310",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acs.jproteome.7b00467"
+                ],
+                "PMID": [
+                    "28938075"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "A missense mutation in human fatty acid amide hydrolase associated with problem drug use",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sipe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beutler",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cravatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "PNAS",
+            "volume": "99",
+            "issn": "",
+            "pages": "8394--8399",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.082235799"
+                ],
+                "PMID": [
+                    "12060782"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Overweight and obesity associated with a missense polymorphism in fatty acid amide hydrolase (FAAH)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sipe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Waalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beutler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "International Journal of Obesity",
+            "volume": "29",
+            "issn": "",
+            "pages": "755--759",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.ijo.0802954"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Oleoyl serine, an endogenous N-acyl amide, modulates bone remodeling and mass",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Smoum",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Milman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Attar-Namdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ofek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bajayo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kram",
+                    "suffix": ""
+                },
+                {
+                    "first": "O&apos;",
+                    "middle": [],
+                    "last": "Dell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bradshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bab",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Mechoulam",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PNAS",
+            "volume": "107",
+            "issn": "",
+            "pages": "17710--17715",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0912479107"
+                ],
+                "PMID": [
+                    "20876113"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Sequence identification and characterization of human carnosinase and a closely related non-specific dipeptidase",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Teufel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Saudek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ledig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernhardt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boularand",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cairns",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cowley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Duverger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ganzhorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guenet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Heintzelmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Laucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sauvage",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Smirnova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Biological Chemistry",
+            "volume": "278",
+            "issn": "",
+            "pages": "6521--6531",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M209764200"
+                ],
+                "PMID": [
+                    "12473676"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "FAAH deficiency promotes energy storage and enhances the motivation for food",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Touri\u00f1 O",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Oveisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lockney",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Piomelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maldonado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "International Journal of Obesity",
+            "volume": "34",
+            "issn": "",
+            "pages": "557--568",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ijo.2009.262"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Proteomics tissue-based map of the human proteome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uhl\u00e9 N",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fagerberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hallstr\u00f6 M Bm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lindskog",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Oksvold",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mardinoglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c5",
+                    "middle": [],
+                    "last": "Sivertsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kampf",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sj\u00f6 Stedt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Asplund",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Olsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Edlund",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lundberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Navani",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Szigyarto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Odeberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Djureinovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Takanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hober",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Alm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Science",
+            "volume": "347",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1260419"
+                ],
+                "PMID": [
+                    "25613900"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "FeeM, an N-acyl amino acid synthase from an uncultured soil microbe: structure, mechanism, and acyl carrier protein binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Wagoner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Clardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Structure",
+            "volume": "14",
+            "issn": "",
+            "pages": "1425--1435",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.str.2006.07.005"
+                ],
+                "PMID": [
+                    "16962973"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Identification of glycine N-acyltransferase-like 2 (GLYATL2) as a transferase that produces N-acyl glycines in humans",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Waluk",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Schultz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hunt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "FASEB J",
+            "volume": "24",
+            "issn": "",
+            "pages": "2795--2803",
+            "other_ids": {
+                "DOI": [
+                    "10.1096/fj.09-148551"
+                ],
+                "PMID": [
+                    "20305126"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "N -Oleoylglycine-Induced Hyperphagia Is Associated with the Activation of Agouti-Related Protein (AgRP) Neuron by Cannabinoid Receptor Type 1 (CB1R)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Agricultural and Food Chemistry",
+            "volume": "65",
+            "issn": "",
+            "pages": "1051--1057",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acs.jafc.6b05281"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Detection of a residual N-acyl amino acid hydrolase activity in PM20D1-KO tissues.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "N-acyl amino acid hydrolase and synthase substrate scope in vitro for FAAH and PM20D1. (a) Phylogenetic alignment of the five murine M20 peptidases with mouse FAAH and a FAAH-related enzyme, QRSL1. Orange, M20 peptidases; gray, FAAH-related sequences. (b) Anti-flag western blot for cell lysates (left) and conditioned media (right) transfected with the indicated plasmids. (c-f) N-acyl amino acid hydrolysis and synthase activities of FAAH-and mock-transfected cell lysates (b, c) or PM20D1-transfected and mock-transfected conditioned media (d, e). Activity assays were conducted with 100 mM substrates and 100 mg protein in PBS for 1 hr at 37\u02daC. Data are shown as means \u00b1 SEM, N = 3/group. All experiments were performed once, with N biological replicates. *, p<0.05; **, p<0.01; ***, p<0.001 for the indicated comparison. The online version of this article includes the following figure supplement(s) for figure 3:",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Additional characterization of FAAH and PM20D1 enzyme activities in vitro.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Changes in N-acyl amino acids upon selective blockade of FAAH in vivo. (a, b) Fold change of the indicated N-acyl amino acids compared to the control for each of the indicated comparisons from liver (a) or blood (b)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "PM20D1 activity in FAAH-KO plasma.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Cooperative interactions between PM20D1 and FAAH regulate endogenous N-acyl amino acid levels. (a) C20:4-Gly hydrolysis activity in livers from PM20D1-WT, PM20D1-KO, or PM20D1-KO treated with c)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "experiments were performed according to procedures approved by the Stanford University IACUC. Mice were maintained in 12 hr light-dark cycles at 22\u02daC and fed a standard irradiated rodent chow diet. All experiments on wild-type mice were performed with male C57BL/6J mice purchased from Jackson Laboratories (stock number 000664). Global Pm20d1 knockout mice were obtained from Bruce M. Spiegelman (Dana-Farber Cancer Institute) and are available from Jackson Laboratories (stock number 032193). PF-3845 was administered to mice in a solution of 18:1:1 saline:kolliphor EL:DMSO in a volume of 200 ml/mouse (intraperitoneally).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank members of the Long and Svensson labs for helpful discussions and K Masuda and B F Cravatt (Scripps Research) for tissues from the FAAH-KO mice. This work was supported by the US National Institutes of Health (DK105203 and DK124265 to JZL), by the Stanford ChEM-H Institute (CRF), and by the Stanford Diabetes Research Center (P30DK116074). ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

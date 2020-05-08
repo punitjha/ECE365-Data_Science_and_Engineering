@@ -1,0 +1,1995 @@
+{
+    "paper_id": "06dd6bc406a0c9bbebd4580e8340be5f3444c386",
+    "metadata": {
+        "title": "Management of inflammatory bowel disease patients in the COVID-19 pandemic era: a Brazilian tertiary referral center guidance Nat\u00e1 lia Sousa Freitas Queiroz 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I, * Lu\u00edsa Leite Barros 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II Matheus Freitas Cardoso de Azevedo 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II Jane Oba 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II,III, * Carlos Walter Sobrado 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I Alexandre de Sousa Carlos 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II Luciane Reis Milani 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , II Aytan Miranda Sipahi 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 , I,IV Aderson Omar Mour\u00e3 o Cintra Dami\u00e3 o 0 0 0 0 -0 0 0 0 -0 0 0 0 -0 0 0 0 II",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Coronavirus disease 2019 (COVID-19) is a viral respiratory illness caused by the novel coronavirus 2019 (2019-nCoV) which originated from bats (1) . The 2019-nCoV is a singlestranded RNA virus and was named by the World Health Organization (WHO) as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) because of its similarity to the virus causing severe acute respiratory syndrome. The infection outbreak began in December 2019 in Wuhan, China and rapidly spread throughout the world, including Brazil. On March 11 th , 2020, WHO declared COVID-19 as a global pandemic. Now more than one million confirmed cases of COVID- 19 have been reported to the WHO, including more than 50,000 deaths. In Brazil, as of April 4 th , 2020, we have confirmed 10,278 infected patients and 432 deaths, and the numbers continue to increase.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 632,
+                    "end": 634,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "COVID-19 is transmitted mainly through respiratory droplets, aerosols, and through the conjunctiva (2) . The clinical spectrum of COVID-19 in adults ranges from asymptomatic infection to severe pneumonia and fatal illness. The main clinical symptoms include fever, cough, shortness of breath, myalgia, and 10-20% of patients develop acute respiratory distress syndrome after 8-14 days of the illness (3) . Based on data from more than 72,000 patients from China, 81% of the patients were mildly affected, 14% had severe manifestations, and 5% were critically ill. No deaths occurred in children younger than 9 years but the mortality rate ranged from 8-15% in those aged older than 70 years (4) . Risk factors for severe illness were older age and pre-existing comorbid conditions including cardiovascular disease, hypertension, diabetes, chronic respiratory disease, and cancer. Children of all ages appeared susceptible to COVID-19, but clinical manifestations were less severe compared to those seen in adults (5) . Around 6% of children suffered severe disease and life-threatening conditions, but these patients commonly had a prior history of congenital or acquired disease or were younger than 1 year (4, 5) .",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 102,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 400,
+                    "end": 403,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 691,
+                    "end": 694,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1013,
+                    "end": 1016,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1208,
+                    "end": 1211,
+                    "text": "(4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1212,
+                    "end": 1214,
+                    "text": "5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "Digestive symptoms are reported in nearly half of the patients with COVID-19. Diarrhea and fever may be present in addition to respiratory symptoms (6) . Since SARS-CoV-2 RNA was detected in stool samples and other clinical specimens, awareness has been raised regarding the management of patients with pre-existing digestive diseases, such as inflammatory bowel disease (IBD). Special attention was also given to potential SARS-CoV-2 transmission via a fecal route (7, 8) . Following viral infection, virus-specific RNA and proteins are synthesized in the cytoplasm to assemble new virions. The detection of viral RNA from feces 1 to 12 days after being negative in respiratory samples suggest that the viruses are continuously secreted from infected gastrointestinal cells (9) . The period of viral secretion from pediatric feces is longer than in adults (10) . These observations suggest that the inflamed gut of adults and children with IBD could be more susceptible to infection with SARS-CoV-2 because it is a doorway for the virus (11, 12) .",
+            "cite_spans": [
+                {
+                    "start": 148,
+                    "end": 151,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 466,
+                    "end": 469,
+                    "text": "(7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 470,
+                    "end": 472,
+                    "text": "8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 775,
+                    "end": 778,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 857,
+                    "end": 861,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1038,
+                    "end": 1042,
+                    "text": "(11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1043,
+                    "end": 1046,
+                    "text": "12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "As the COVID-19 outbreak is rapidly evolving, IBD specialists from all over the world have been challenged to face the pandemic and address the specific issues of their patients, particularly regarding the risk of infection and immunosuppressive treatment. This review aims to summarize the best available evidence and expert opinion in the field of IBD and COVID-19 outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "What is the risk of COVID-19 in the IBD population?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "IBD treatment often involves the prescription of immunosuppressants and IBD patients are likely to be more susceptible to infection, depending on the medications in use. As the outbreak became a rapidly spreading pandemic, several centers around the world have raised concerns that immunocompromised patients may be at increased risk of developing SARS-CoV-2 infection or severe respiratory disease (13) .",
+            "cite_spans": [
+                {
+                    "start": 399,
+                    "end": 403,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "In general, IBD patients taking immunomodulators may be more susceptible to infection, especially in combination with biologics, mainly anti-TNF agents. In addition, malnutrition, comorbidities, older age, previous history of serious infections, and underlying IBD activity may also be risk factors for infections (14, 15) .",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 318,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 319,
+                    "end": 322,
+                    "text": "15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "Previous studies have demonstrated that clinically active IBD and exposure to thiopurines increase the risk of viral infections (16, 17) . However, unlike other viruses (Influenza, Herpes, Cytomegalovirus, Adenovirus, Rhinovirus, Norovirus, and Respiratory Syncytial Virus), coronaviruses have not been shown to cause more severe disease in immunosuppressed patients (13, 15, 17) .",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "(16,",
+                    "ref_id": null
+                },
+                {
+                    "start": 133,
+                    "end": 136,
+                    "text": "17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 367,
+                    "end": 371,
+                    "text": "(13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 372,
+                    "end": 375,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 376,
+                    "end": 379,
+                    "text": "17)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "So far, there is an international consensus that patients with IBD are not at greater risk of infection with SARS-CoV-2 than the general population, although it is uncertain whether active inflammation increases the risk of getting SARS-CoV-2. It is also uncertain if IBD patients infected with SARS-CoV-2 have a higher risk of developing COVID-19 or higher rate of complications or mortality resulting from the disease, although data regarding immunosuppressed patients and SARS-CoV-2 infection are very scarce (14) .",
+            "cite_spans": [
+                {
+                    "start": 512,
+                    "end": 516,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "Guan et al. did not observe the use of immunomodulators as a risk factor for serious diseases in 1,099 patients in China (18) . As of April 3, 2020, 12 deaths (9 male) were reported among the 275 patients with IBD and COVID-19 in the international Surveillance Epidemiology of Coronavirus Under Research Exclusion (SECURE)-IBD database. Of those, three patients were younger than 65 years old, and all received treatment with more than one immunosuppressant (steroid+ JAK inhibitor; adalimumab+methotrexate; adalimumab+ azathioprine+steroid) (19) . Nevertheless, these cases should be interpreted with caution since many cases with mild disease were not tested for COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 125,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 542,
+                    "end": 546,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "In a coordinated initiative from the British Society of Gastroenterology (BSG) and Crohn's and Colitis UK association, specific guidance was provided for IBD patients according to their risk depending on the medications in use, age, and other risk factors. Through a decision tree, patients are stratified according to highest, moderate, or lowest risk of serious complications from COVID-19. Patients at the highest risk are those who either have a comorbidity (respiratory, cardiac, hypertension, or diabetes mellitus), those over 70 years old and on any immunosuppressant therapy for IBD, those of any age that are receiving X20 mg prednisolone, new induction therapy with biologics and immunomodulators (combination therapy) within 6 weeks, those with moderate to severe active disease or short gut syndrome, and patients requiring parenteral nutrition. Patients receiving biological therapy, thiopurines, calcineurin inhibitors, JAK inhibitors, or combination therapy are stratified as at moderate risk and the remaining IBD patients as at the lowest risk. Patients at the highest risk are required to self-isolate, while patients at moderate or lowest risk should follow strict or general populace social distancing, respectively (20) .",
+            "cite_spans": [
+                {
+                    "start": 1236,
+                    "end": 1240,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "In our center, we followed BSG recommendations regarding risk stratification, although we also considered patients subjected to IBD surgical procedures within 30 days at highest risk of serious complications of COVID-19. A brief summary of specific recommendations provided by us to the patients according to their risk is described in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 336,
+                    "end": 343,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "' INTRODUCTION"
+        },
+        {
+            "text": "For the past month, emerging evidence has guided an optimized approach to prevent coronavirus infection in IBD patients to assure the safety of ongoing treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "Similar to the general population, IBD patients were advised to stay at home, maintain proper distance while talking, wash hands with soap or alcohol-based sanitizer, and avoid touching facial mucosa (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 200,
+                    "end": 209,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "Our institute, the largest in Latin America, has implemented a massive structural plan to evacuate wards, equip intensive care units, and to provide sufficient beds for patients diagnosed with COVID-19 infection. These institutional rearrangements have challenged our IBD team and a specific approach to maintain IBD care during the pandemic was needed. A summary of measures set to adapt IBD care is described in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 414,
+                    "end": 421,
+                    "text": "Table 2",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "In the gastroenterology department, hospitalized IBD patients were reallocated to an isolated building with specialized medical staff, which has minimized exposure to the virus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "In our outpatient clinic, the great majority of appointments were rescheduled. Although a formal tele-health system was not available, medical staff closely monitored patients with severe active disease that required corticosteroids or were being treated with combination therapy via telephone calls. At this moment, laboratory tests are strictly limited, and the endoscopy unit has only been attending to urgent cases, according to the recommendations in the guidelines (11) . Therefore, whenever deemed necessary, ileocolonoscopy was replaced by fecal calprotectin.",
+            "cite_spans": [
+                {
+                    "start": 471,
+                    "end": 475,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "At our infusion center, the staff requested us to select patients that could have their infusion postponed for 1 or 2 weeks in order to make more space available for the rearrangement of seats. We used patients in deep clinical and endoscopic remission at the last outpatient clinic assessment as the main criteria for the rescheduling of infusions. In the course of infusions, a distance of approximately 1.5 m between seats was considered safe and no accompanying person was permitted. Although we acknowledged that the use of surgical masks for immunodeficient patients is indicated, it was not always available. Thus, a screening protocol with an objective interview was implemented prior to admission to systematically assess for acute respiratory tract symptoms, such as cough, dyspnea, or fever, among both IBD patients and their contacts. Asymptomatic patients received IV infusions as planned, while those with highly suspicious coronavirus infection were referred to the emergency room. In cases where initiation of biologics was extremely necessary, and when it was feasible, preference for those biologics that could be offered subcutaneously, at home, instead of intravenously, which would require an infusion center, was recommended.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "The association of malnourishment and the risk of infections is well described in IBD literature (23, 24) . Hypoalbuminemia is considered a systemic inflammatory marker and is present in one-fifth of IBD patients (25, 26) . In the present context of the COVID-19 pandemic, social isolation could negatively impact the patient's access to healthy foods or dietary habits resulting in ensuing nutritional deficits. Thus, we have recommended a balanced diet with four to six small meals a day and adequate hydration. All patients were also encouraged to quit smoking.",
+            "cite_spans": [
+                {
+                    "start": 97,
+                    "end": 101,
+                    "text": "(23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 102,
+                    "end": 105,
+                    "text": "24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 213,
+                    "end": 217,
+                    "text": "(25,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "26)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "In addition, IBD patients were advised to update general immunization schedules, particularly the influenza vaccination, as routinely recommended by the European Crohn's and Colitis Organization (ECCO) guidelines (27, 28) .",
+            "cite_spans": [
+                {
+                    "start": 213,
+                    "end": 217,
+                    "text": "(27,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "28)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "Several studies have examined the role of vitamin supplementation to control viral replication (29) . Despite the lack of randomized controlled trials in this scenario, we have kept our IBD patients on vitamin D and iron replacement, if irondeficiency anemia was detected. ",
+            "cite_spans": [
+                {
+                    "start": 95,
+                    "end": 99,
+                    "text": "(29)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "General recommendations and strategies to minimize exposure to the virus"
+        },
+        {
+            "text": "At the present time, it does not seem appropriate to recommend discontinuing immunosuppressant treatment in patients with IBD (11) . There is a risk of reactivation of the disease for those patients who stop their treatment, and active inflammation is associated with an increased risk of hospitalization, surgery, infection, and exposure to steroids (which should be avoided in the context of COVID-19) (20, 30) .",
+            "cite_spans": [
+                {
+                    "start": 126,
+                    "end": 130,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 404,
+                    "end": 408,
+                    "text": "(20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 409,
+                    "end": 412,
+                    "text": "30)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Management of IBD medications during the pandemic and potential COVID-19 infection"
+        },
+        {
+            "text": "The use of non-hormonal anti-inflammatory drugs should be contraindicated because of their association with adverse outcomes in other viral respiratory infections and their potential role as a trigger for the reactivation of IBD (14) . Not approved in children.",
+            "cite_spans": [
+                {
+                    "start": 229,
+                    "end": 233,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Management of IBD medications during the pandemic and potential COVID-19 infection"
+        },
+        {
+            "text": "No evidence of increased risk of COVID-19 infection. Monotherapy is advised. General good safety profile. Stop if develop signs and symptoms suggestive of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anti-a4b7 integrin therapy (Vedolizumab)"
+        },
+        {
+            "text": "Not approved in children.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anti-a4b7 integrin therapy (Vedolizumab)"
+        },
+        {
+            "text": "No evidence of increased risk of COVID-19 infection however, tend to inhibit the immune response to viral infections. Initiation is not advised. Maintain therapy without increasing the dose. Stop if develop signs and symptoms suggestive of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "Not approved in children.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "* Patients who are going to start biological therapy, the subcutaneous route may be preferable on this occasion to avoid visits to clinics or hospitals. ** Stopping this therapy will not have short-term benefits, as these agents take months to clear immunosuppressing effect. z Biologic plus immunomodulator in stable patients may increase risk over monotherapy but there is no specific evidence. # Infusion facilities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "To date, there are no formal evidence-based recommendations from clinical societies or governments for immunosuppressed patients, like those with IBD. Table 3 summarizes the therapy-specific considerations for IBD patients based mainly on expert opinions and must be interpreted in a patientspecific context. These recommendations can be modified and updated as new evidence emerges (14, 20) .",
+            "cite_spans": [
+                {
+                    "start": 383,
+                    "end": 387,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 388,
+                    "end": 391,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 151,
+                    "end": 158,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "In general, a patient with moderate to severely active Crohn's disease or ulcerative colitis should be treated with the same therapies that would be chosen, regardless of the COVID-19 pandemic (14) .",
+            "cite_spans": [
+                {
+                    "start": 193,
+                    "end": 197,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "In an asymptomatic IBD patient who has tested positive for SARS-CoV-2 and whose treatment has been discontinued, IBD drugs can be restarted after 14 days (assuming they have not developed COVID-19) (14) .",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 202,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "In cases of the occurrence of signs and symptoms suggestive of COVID-19, the patient must immediately communicate with the healthcare team. In this context, it is recommended to pause immunosuppressant therapy until the infection resolves. The therapy can be resumed after complete resolution of the symptoms of COVID-19 or, ideally, after two negative PCR tests of the nasopharyngeal swab, collected with a more than 24-h interval between them (this strategy is not currently feasible in Brazil, where there is a shortage of tests for coronavirus) (14, 20) .",
+            "cite_spans": [
+                {
+                    "start": 549,
+                    "end": 553,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 554,
+                    "end": 557,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Janus Kinase inhibitors (tofacitinib)"
+        },
+        {
+            "text": "The novel coronavirus has created a new dilemma for surgeons worldwide. While many patients await surgery, the risks of developing severe pulmonary infection and prolonged hospitalization are concerning. This is particularly critical for IBD patients, who are immunosuppressed by both the nature of the disease and commonly used medications, in addition to nutritional deficits. Surgical care in this context may add additional morbidity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "The main goal at this moment is to ensure the safety of patients and health care workers. Current recommendations are based largely on experts' opinions and may change rapidly as the outbreak is expected to escalate over the next weeks. A recent report from Wuhan, China, describes the outcomes of 34 patients that underwent elective surgical procedures during the COVID-19 incubation period in the early phase of the outbreak. All patients developed COVID-19 pneumonia shortly after surgery, 15 (44.1%) patients required admission to the intensive care unit and seven patients (20.5%) died (31) .",
+            "cite_spans": [
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "(31)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "Therefore, it is highly recommended by most surgical societies around the world to postpone all elective surgeries and endoscopic procedures, aiming to protect patients and surgeons and also to minimize the use of necessary resources, such as hospital beds and personal protective equipment (PPE) (32,33). Regarding the surgical procedure, there is concern for the aerosolization of the SARS-CoV-2 virus in minimally invasive procedures, although there is no robust evidence. This could also be the case with electrocautery use during open surgery. Strict use of PPE according to local practice is advisable, which includes an N95 mask and face shield protection. Negative pressure surgical rooms should be used if available and for laparoscopic surgery, a smoke evacuation system is advisable. Additionally, only essential staff should take part in the surgery.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "Before embarking upon the operating room, different aspects should be considered, such as the risk of SARS-CoV-2 infection at your facility, expected length of stay, and possible surgical complications and other clinical comorbidities that may add additional morbidity/mortality. If surgical treatment is deemed necessary, informed consent should be obtained addressing the risk of SARS-CoV-2 infection. Ideally, surgical patients should be tested pre-operatively for COVID-19, although this strategy is not possible in our institution where just symptomatic patients are being tested.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "There is no precise advice regarding which IBD patients would most likely benefit from surgery in this context since IBD societies around the world have not specifically addressed surgical care. Therefore, medical judgment remains essential.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "Our group considers patients with anorectal septic complications (i.e. perianal abscess due to Crohn's disease), acute peritonitis, bowel obstruction, severe/toxic colitis (toxic megacolon), and gastrointestinal hemorrhage who fail conservative treatment are possible surgical candidates during the pandemic, but cases should be analyzed on an individual basis. Advanced colorectal malignancy that may progress to unresectable disease can also be considered for surgery. When available, minimally invasive strategies such as percutaneous drainage of an abscess may be a good strategy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IBD surgery in the context of the COVID-19 pandemic"
+        },
+        {
+            "text": "IBD in children often presents with more extensive and severe disease than adults. Therefore, SARS-CoV-2 infection with digestive symptoms is of particular concern in pediatric IBD (PIBD) patients. As of April 3 rd , 2020, eleven children (younger than 19 years) have been reported to have SARS-CoV-2 infection by SECURE-IBD from a total of 275 patients. No cases were from Brazil. Only one patient was younger than 9 years; all cases were outpatients and no deaths were reported. Some questions arose: are PIBD patients at increased risk of SARS-CoV-2 infection? Is the infection in PIBD more severe than in adults? Should treatment be delayed or discontinued during the infection?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Considerations regarding the pediatric IBD population"
+        },
+        {
+            "text": "A recent paper from the Pediatric IBD PORTO Group of ESPGHAN outlined key information about children with IBD and SARS-CoV-2 infection and provided clear guidance on how to proceed (12) . Chinese and Korean pediatric GI specialists reported 272 cases in children with IBD and SARS-CoV-2 infection during the pandemic while Europeans reported 8 PIBD patients (14-19 years) with COVID-19 from the PORTO-IBD group and SECURE-IBD database.",
+            "cite_spans": [
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Considerations regarding the pediatric IBD population"
+        },
+        {
+            "text": "The Chinese experience reported 917 children with confirmed COVID-19 infections, and none of them had the diagnosis of IBD. In Korea, from 8,413 children with confirmed COVID-19 diagnosis, 272 (3.2%) had IBD and almost all (99.3%) continued IBD treatment. Among 4.8% of children that postponed biological infusion, 23% experienced an IBD flare.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Considerations regarding the pediatric IBD population"
+        },
+        {
+            "text": "In Europe, from the total of eight patients, seven were from the Porto-IBD and one adolescent (17 years) was from the SECURE-IBD database. The majority had Crohn's disease and most patients were in deep remission or had a moderate disease activity index, and only one had cardiovascular disease. Almost all patients had a confirmed diagnosis of COVID-19 with mild symptoms of fever, cough, fatigue, and interestingly, none of the eight patients had diarrhea.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Considerations regarding the pediatric IBD population"
+        },
+        {
+            "text": "This initial global experience may help many PIBD centers in the world implement actions during the COVID-19 pandemic. Nevertheless, many questions about children and PIBD COVID-19 infections remain unanswered. The main recommendations pertaining to treatment of PIBD during the COVID-19 pandemic are listed in Table 3 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 311,
+                    "end": 318,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Considerations regarding the pediatric IBD population"
+        },
+        {
+            "text": "In the current COVID-19 pandemic, the search for safety information and guidance is critical. IBD patients have a potentially higher risk of complications of COVID-19 due to the chronic illness itself, and mainly, the use of immunosuppressant treatments. Facing these challenging circumstances, our group has adapted IBD care by resetting priorities, providing appropriate information for patients, and assuring continuity of treatments. Finally, it is of paramount importance to remember that in developing countries, a significant part of the population lives in precarious conditions, with crowding, slum dwelling, and lack of basic sanitation, among other unique features, which deserve special attention from health authorities and effective adaptations. It turns out that, in this scenario, especially in the case of IBD patients, treatment individualization is mandatory, and the benefits and disadvantages should always be taken into account.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "' CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A Novel Coronavirus from Patients with Pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "8",
+            "pages": "727--760",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "COVID-19 epidemic: disease characteristics in children",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiatong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lanqin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wenjun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25807"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2648"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2020-0702"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Gastrointestinal symptoms of 95 cases with SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2020-321013"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Implications of COVID-19 for patients with pre-existing digestive diseases",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet Gastroenterol Hepatol. 2020. pii: S2468-1253",
+            "volume": "",
+            "issn": "",
+            "pages": "30076--30081",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2468-1253(20)30076-5"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Detection of SARS-CoV-2 in Different Types of Clinical Specimens",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.3786"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Evidence for Gastrointestinal Infection of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gastroenterology",
+            "volume": "",
+            "issn": "20",
+            "pages": "30282--30283",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.gastro.2020.02.055"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Do children need a longer time to shed SARS-CoV-2 in stool than adults?",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Microbiol Immunol Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmii.2020.03.010"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Management of IBD during the COVID-19 outbreak: resetting clinical priorities",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Danese",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cecconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Spinelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Rev Gastroenterol Hepatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41575-020-0294-8"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "COVID-19 and Paediatric Inflammatory Bowel Diseases: Global Experience and Provisional Guidance",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martin-De-Carpi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aloi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Focht",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pediatr Gastroenterol Nutr",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/MPG.0000000000002729"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Coronaviruses and immunosuppressed patients. The facts during the third epidemic",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "D&apos;antiga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Liver Transpl",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/lt.25756"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Management of Patients with Crohn's Disease and Ulcerative Colitis During the COVID-19 Pandemic: Results of an International Meeting",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rubin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Abreu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Rai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Siegel",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Gastroenterology",
+            "volume": "",
+            "issn": "20",
+            "pages": "30465--30465",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.gastro.2020.04.002"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Second European evidence-based consensus on the prevention, diagnosis and management of opportunistic infections in inflammatory bowel disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rahier",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Magro",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Abreu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Armuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ben-Horin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chowers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Crohns Colitis",
+            "volume": "8",
+            "issn": "6",
+            "pages": "443--68",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.crohns.2013.12.013"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Increased incidence of systemic serious viral infections in patients with inflammatory bowel disease associates with active disease and use of thiopurines. United",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wisniewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kirchgesner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Seksik",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Landman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bourrier",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nion-Larmurier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Eur Gastroenterol J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/2050640619889763"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "COVID-19: faecal-oral transmission?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hindson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Rev Gastroenterol Hepatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41575-020-0295-7"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "British Society of Gastroenterology (BSG) advice for management of inflammatory bowel diseases during the COVID-19 pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "British Society of Gastroenterology (BSG)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Identifying and testing candidate genetic polymorphisms in the irritable bowel syndrome (IBS): association with TNFSF15 and TNFa",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Swan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Duroudier",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaitoun",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hastings",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dukes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Gut",
+            "volume": "62",
+            "issn": "7",
+            "pages": "985--94",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2011-301213"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "World Health Organization Q&A on coronaviruses (COVID-19)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Nutritional deficiencies in inflammatory bowel disease: therapeutic approaches",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Massironi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cavalcoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "Della",
+                    "middle": [],
+                    "last": "Valle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fraquelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Conte",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Clin Nutr",
+            "volume": "32",
+            "issn": "6",
+            "pages": "904--914",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.clnu.2013.03.020"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Pathogenesis and Clinical Significance",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Soeters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shenkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hypoalbuminemia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JPEN J Parenter Enteral Nutr",
+            "volume": "43",
+            "issn": "2",
+            "pages": "181--93",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jpen.1451"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Detectable Laboratory Abnormality Is Present up to 12 Months Prior to Diagnosis in Patients with Crohn's Disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Irwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Simms",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hanigan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Doecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Langguth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Dig Dis Sci",
+            "volume": "64",
+            "issn": "2",
+            "pages": "503--520",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10620-018-5357-0"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Hypoalbuminaemia and Postoperative Outcomes in Inflammatory Bowel Disease: the NSQIP Surgical Cohort",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jackson",
+                    "middle": [],
+                    "last": "Td",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Crohns Colitis",
+            "volume": "13",
+            "issn": "11",
+            "pages": "1433--1441",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ecco-jcc/jjz083"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Guidelines on Therapeutics in Crohn's Disease: Medical Treatment",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonovas",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Doherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kucharzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Gisbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Raine",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 2: Current Management",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harbord",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Eliakim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bettenworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karmiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Katsanos",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kopylov",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Potential interventions for novel coronavirus in China: A systematic review",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "5",
+            "pages": "479--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25707"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "British Society of Gastroenterology consensus guidelines on the management of inflammatory bowel disease in adults",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Raine",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hendy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Limdi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Gut",
+            "volume": "68",
+            "issn": "3",
+            "pages": "1--106",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2019-318484"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Clinical characteristics and outcomes of patients undergoing surgeries during the incubation period of COVID-19 infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.eclinm.2020.100331"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Posicionamento do CBCD quanto ao COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Measures to adapt IBD care during the pandemic.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Recommendations for IBD patients according to their risk level. * Recommendations given by the World Health Organization to the general population (21,22.) + The presence of viral RNA in fecal samples has been reported, thus implicating a potential route of fecal-oral transmission(19).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Therapy-specific considerations for inflammatory bowel disease patients (UC=ulcerative colitis; CD=Crohn's disease).No evidence of increased risk of COVID-19 infection. Should never be suspended. Tapering as soon as possible. Budesonide can be used for patients with ileo-caecal CD. Budesonide MMX can be used for UC patients (not available in Brazil). Safety during COVID-19 infection is unclear. Systemic corticosteroid does not confer clinical benefit. Corticosteroids can be used to treat disease relapses in a low dose and short period as possible. Tapering as soon as possible. No evidence of increased risk of COVID-19 infection. Associated with the risk of serious viral infection (other than COVID-19). Initiation of monotherapy is not advised. Stop if signs and symptoms suggestive of COVID-19 develop. No evidence of increased risk of COVID-19 infection. Maintain dose and infusion interval. Consider initiation in monotherapy (adalimumab or certolizumab, as SQ, may be administered at home). Stop if develop signs and symptoms suggestive of COVID-19. Only Infliximab and Adalimumab approved. z No evidence of increased risk of COVID-19 infection. Maintain dose and infusion interval. # Switching from infliximab to adalimumab should be discouraged in stable patients.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

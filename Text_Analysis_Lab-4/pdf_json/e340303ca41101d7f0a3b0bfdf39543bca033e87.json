@@ -1,0 +1,712 @@
+{
+    "paper_id": "e340303ca41101d7f0a3b0bfdf39543bca033e87",
+    "metadata": {
+        "title": "Letter to the Editor A potential protective role of losartan against coronavirus-induced lung damage",
+        "authors": [
+            {
+                "first": "Mehrdad",
+                "middle": [],
+                "last": "Zeinalian",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Isfahan University of Medical Sciences",
+                    "location": {
+                        "settlement": "Isfahan",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Azhar",
+                "middle": [],
+                "last": "Salari-Jazi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Isfahan University of Medical Sciences",
+                    "location": {
+                        "settlement": "Isfahan",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Amin",
+                "middle": [],
+                "last": "Jannesari",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Isfahan University of Medical Sciences",
+                    "location": {
+                        "settlement": "Isfahan",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hossein",
+                "middle": [],
+                "last": "Khanahmad",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Isfahan University of Medical Sciences",
+                    "location": {
+                        "settlement": "Isfahan",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "To the Editor-Currently, the coronavirus pandemic imposes a growing general panic worldwide. Millions of people are affected daily by this virus and thousands have already died around the world. The COVID-19 disease is caused by SARS-CoV-2, a novel variant of the virus, similar SARS-CoV. SARS-CoV-2 is a \u03b2-genus coronavirus that belongs to a large family of single-stranded enveloped RNA viruses. 1 After entering the body, coronaviruses fuse their envelopes with the membranes of host cells, then they transport their genetic material into the affected cells. This essential fusion is mediated by glycosylated spike proteins on the surface of the virion interacting with proper surface receptors on the membrane of the host cell. Angiotensin-converting enzyme 2 (ACE2) receptor is a known human cell-surface protein to which CoV spike proteins specifically bind. 2 ACE2 is a vital protein in the renin-angiotensin system (RAS). The activation of RAS is triggered by the secretion of renin from the kidney, through juxtaglomerular cells. Renin is a protease that cleaves angiotensinogen, the precursor of angiotensin, which is made by the liver; it produces an inactive peptide, angiotensin I (AngI). ACE then mediates the conversion of AngI to AngII, a major RAS effector. ACE is a protein that is highly expressed on membranes of vascular endothelial cells, predominantly in lung tissue. 3 Most RAS-associated physiologic effects are driven by the interaction of AngII with a G-protein coupled AngII type 1 (AT1) receptor. This activates a physiologic pathway in different systems: kidney, liver, central nervous system, respiratory system, and/or cardiovascular system. Some crucial events are regulated via active AT1 receptors including arterial pressure, fluid and sodium balance, fibrosis, and cellular growth and migration. 2 Some studies have reported an increased inflammatory responses due to AT1 activated by AngII. 4 In some pathological conditions, overactivation of AT1 may lead to damaging events such as fibrosis in different organs (eg, liver and lungs), perhaps through increasing TGF-\u03b2 expression. 4 Other studies have indicated that ACE2 has a protective effect on the fibrogenesis and inflammation of different organs, as well as the liver and the lungs. 4, 5 Taking these studies together, the ACE-AngII-AT1 axis in the RAS system shows a predominant role in organ fibrosis, particularly in the lungs and liver. 4, 5 According to some recent studies, ACE2 has a regulatory effect on innate immunity and gut microbiota composition. 6 Moreover, ACE2 has a determinant antifibrotic role in the lung injury induced by sepsis, acid aspiration, SARS, and lethal avian influenza A H5N1 virus. 6 On the other hand, the most common complication leading to the COVID-19-induced mortality is respiratory failure due to extensive, accelerating lung fibrogenesis. Rather than PCR-based testing to detect CoV infection, a radiologic lung infiltration pattern on chest X ray could have diagnostic value in screening patients suspected of COVID-19. 7, 8 The cytopathic effects of SARS-CoV-2 due to its massive replication in infected cells, need more time than the acute manifestation of COVID-19. Thus, the acute acceleration of lung fibrosis in COVID-19 can be explained by ACE-AngII-AT1 overactivation caused by the SARS-CoV-2 virus. 8 Losartan is an AT 1 antagonist with a selective, competitive function that decreases the end-organ responses to AngII. This common antihypertensive agent is currently prescribed to highblood-pressure patients, particularly those who are prone to diabetic nephropathies. 9 Losartan counteracts the physiological effects of AngII, including release of aldosterone. Plasma renin activity then increases because of the absence of AngII feedback. Losartan induces several biochemical events: converting angiotensinogen to AngI and AngI to AngII (by ACE), and vasoconstriction and aldosterone release (by AngII). Aldosterone leads to the retention of sodium in the kidney, which increases the blood pressure. Losartan can neutralize the downstream effect of renin and AngII, ultimately resulting in lower blood pressure. 10 According to some limited studies, losartan has an inhibitory effect on the development of liver fibrosis and even contributes to the regression of the fibrosis stage in chronic HCV patients. 11 In another study, losartan led to the downregulation of TGF-\u03b21 and fibrogenic molecules in human trabecular meshwork cells infected by cytomegalovirus. Thus, losartan has the potential to decrease trabecular meshwork fibrosis in patients with cytomegalovirusinduced hypertensive anterior uveitis. 12 Recently, losartan has been suggested for the treatment of Marfan syndrome. Losartan reduces the TGF-\u03b2 level and, consequently, fibrosis. 13 Some experimental research has also confirmed the preventive effect of losartan against lung fibrosis in paraquat poisoning. 14 Accordingly, losartan is a selective antagonist of AT1 receptor that exerts an inhibitory effect on the ACE-AngII-AT1 axis in the RAS system, a known molecular pathway for end-organ fibrosis. Thus, losartan may be suggested as a potential agent of protection from lung damage induced by COVID-19. Losartan may also have a protective function against lung fibrosis through other molecular mechanisms such as the downregulation of TGF-\u03b21. This hypothesis need to be verified through in vitro and in vivo investigations.",
+            "cite_spans": [
+                {
+                    "start": 398,
+                    "end": 399,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 865,
+                    "end": 866,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1391,
+                    "end": 1392,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1833,
+                    "end": 1834,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1929,
+                    "end": 1930,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2119,
+                    "end": 2120,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2278,
+                    "end": 2280,
+                    "text": "4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2281,
+                    "end": 2282,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 2436,
+                    "end": 2438,
+                    "text": "4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2439,
+                    "end": 2440,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 2555,
+                    "end": 2556,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 2710,
+                    "end": 2711,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 3057,
+                    "end": 3059,
+                    "text": "7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 3060,
+                    "end": 3061,
+                    "text": "8",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 3345,
+                    "end": 3346,
+                    "text": "8",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 3617,
+                    "end": 3618,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 4162,
+                    "end": 4164,
+                    "text": "10",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 4357,
+                    "end": 4359,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 4657,
+                    "end": 4659,
+                    "text": "12",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 4798,
+                    "end": 4800,
+                    "text": "13",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Oral Sci",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Renin-angiotensin system in human coronavirus pathogenesis",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wevers",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hoek L Van Der",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Future Virol",
+            "volume": "5",
+            "issn": "",
+            "pages": "145--161",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Angiotensin-converting enzyme 2: the first decade",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Clarke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Turner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Int J Hyperten",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The renin angiotensin system in liver and lung: impact and therapeutic potential in organ fibrosis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abdul-Hafez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mohamed",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Omar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shemis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uhal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Lung Pulm Respir Res",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Angiotensin-(1-7) and the regulation of antifibrotic signaling pathways",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chappell",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Zayadneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Cell Signal",
+            "volume": "2",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Angiotensin-converting enzyme 2 (ACE2) mediates influenza H7N9 virus-induced acute lung injury",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Sci Rep",
+            "volume": "4",
+            "issn": "",
+            "pages": "1--6",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Chest CT findings in coronavirus disease-19 (COVID-19): relationship to duration of infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200463"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.biorxiv.org/content/10.1101/2020.01.26.919985v1.full"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Losartan, an angiotensin type 1 receptor antagonist, improves endothelial function in non-insulin-dependent diabetes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheetham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Collis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "O&apos;driscoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stanton",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Am Coll Cardiol",
+            "volume": "36",
+            "issn": "",
+            "pages": "1461--1466",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Angiotensin II type 1 receptor blocker losartan attenuates locomotor, anxiety-like behavior, and passive avoidance learning deficits in a subchronic stress model",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ranjbar",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Aghaei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moosazadeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shabani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Iran J Basic Med Sci",
+            "volume": "21",
+            "issn": "",
+            "pages": "856--862",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Losartan may inhibit the progression of liver fibrosis in chronic HCV patients",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salama",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sadek",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Abdelhady",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Darweesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Morsy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Esmat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Hepatobil Surg Nutr",
+            "volume": "5",
+            "issn": "",
+            "pages": "249--255",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The effects of losartan on cytomegalovirus infection in human trabecular meshwork cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-E",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ju",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PLoS One",
+            "volume": "14",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Inhibition of Marfan syndrome aortic root dilation by losartan: role of angiotensin ii receptor type 1-independent activation of endothelial function",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sellers",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Milad",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Pathol",
+            "volume": "188",
+            "issn": "",
+            "pages": "574--585",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Losartan attenuates paraquat-induced pulmonary fibrosis in rats",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Hum Exp Toxicol",
+            "volume": "34",
+            "issn": "",
+            "pages": "497--505",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "Acknowledgments. We appreciate of Dr F. Tabesh and Dr M. Mirbod due to their helpful comments.Financial support. No financial support was provided relevant to this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "All authors report no conflicts of interest relevant to this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of interest."
+        }
+    ]
+}

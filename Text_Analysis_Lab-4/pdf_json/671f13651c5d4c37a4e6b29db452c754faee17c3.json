@@ -1,0 +1,3973 @@
+{
+    "paper_id": "671f13651c5d4c37a4e6b29db452c754faee17c3",
+    "metadata": {
+        "title": "Removal of chronic Mycoplasma ovipneumoniae carrier ewes eliminates pneumonia in a bighorn sheep population",
+        "authors": [
+            {
+                "first": "Tyler",
+                "middle": [
+                    "J"
+                ],
+                "last": "Garwood",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "South Dakota State University",
+                    "location": {
+                        "settlement": "Brookings",
+                        "region": "SD",
+                        "country": "USA"
+                    }
+                },
+                "email": "garwo010@umn.edu"
+            },
+            {
+                "first": "|",
+                "middle": [],
+                "last": "Chadwick",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "P",
+                "middle": [],
+                "last": "Lehman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "|",
+                "middle": [],
+                "last": "Daniel",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "P",
+                "middle": [],
+                "last": "Walsh",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Wildlife Health Center",
+                    "location": {
+                        "settlement": "Madison",
+                        "region": "WI",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "|",
+                "middle": [
+                    "E Frances"
+                ],
+                "last": "Cassirer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "|",
+                "middle": [],
+                "last": "Thomas",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "E",
+                "middle": [],
+                "last": "Besser",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Washington State University",
+                    "location": {
+                        "settlement": "Pullman",
+                        "region": "WA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "A"
+                ],
+                "last": "Jenks",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "South Dakota State University",
+                    "location": {
+                        "settlement": "Brookings",
+                        "region": "SD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "1. Chronic pathogen carriage is one mechanism that allows diseases to persist in populations. We hypothesized that persistent or recurrent pneumonia in bighorn sheep (Ovis canadensis) populations may be caused by chronic carriers of Mycoplasma ovipneumoniae (Mo). Our experimental approach allowed us to address a conservation need while investigating the role of chronic carriage in disease persistence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "2. We tested our hypothesis in two bighorn sheep populations in South Dakota, USA. We identified and removed Mo chronic carriers from the Custer State Park (treatment) population. Simultaneously, we identified carriers but did not remove them from the Rapid City population (control). We predicted removal would result in decreased pneumonia, mortality, and Mo prevalence. Both population ranges had similar habitat and predator communities but were sufficiently isolated to preclude intermixing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "3. We classified chronic carriers as adults that consistently tested positive for Mo carriage over a 20-month sampling period (n = 2 in the treatment population; n = 2 in control population). 4. We failed to detect Mo or pneumonia in the treatment population after chronic carrier removal, while both remained in the control. Mortality hazard for lambs was reduced by 72% in the treatment population relative to the control (CI = 36%, 91%). There was also a 41% reduction in adult mortality hazard attributable to the treatment, although this was not statistically significant (CI = 82% reduction, 34% increase).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "These results support the hypothesis that Mo is a primary causative agent of persistent or recurrent respiratory disease in bighorn sheep populations and can be maintained by a few chronic carriers. Our findings provide direction for future research and management actions aimed at controlling pneumonia in wild sheep and may apply to other diseases. K E Y W O R D S bighorn sheep, chronic carriage, Mycoplasma ovipneumoniae, pathogen persistence, pneumonia, targeted removal, wildlife disease S U PP O RTI N G I N FO R M ATI O N Additional supporting information may be found online in the Supporting Information section.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Heterogeneity in infectiousness of individual hosts may dramatically affect pathogen transmission, as illustrated by the role of human superspreaders in the emergence of the severe acute respiratory syndrome-associated coronavirus (SARS-CoV), a zoonotic virus responsible for an acute human epidemic during 2002 (Lloyd-Smith, Schreiber, Kopp, & Getz, 2005 Woolhouse et al., 1997) . Less is known about the importance of individual variation in infectiousness among diseases associated with chronically carried bacterial pathogens. Chronic carriage/shedding is common features of several pathogenic bacteria, so understanding infection risks posed by chronic carrier individuals is relevant to management of infectious diseases across human, domestic animal, and wildlife health sectors (Buhnerkempe et al., 2017; Coyne et al., 2006; Wertheim et al., 2005) .",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 311,
+                    "text": "2002",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 312,
+                    "end": 355,
+                    "text": "(Lloyd-Smith, Schreiber, Kopp, & Getz, 2005",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 356,
+                    "end": 379,
+                    "text": "Woolhouse et al., 1997)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 786,
+                    "end": 812,
+                    "text": "(Buhnerkempe et al., 2017;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 813,
+                    "end": 832,
+                    "text": "Coyne et al., 2006;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 833,
+                    "end": 855,
+                    "text": "Wertheim et al., 2005)",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| INTRODUC TI ON"
+        },
+        {
+            "text": "Bighorn sheep (Ovis canadensis) populations declined precipitously following the mid-1800s (Buechner, 1960) , and bacterial pneumonia is a primary impediment to recovery (Cassirer et al., 2018) . Bighorn pneumonia frequently manifests as an initial allage outbreak causing 5%-100% mortality (Cassirer et al., 2018; Enk, Picton, & Williams, 2001; Spraker, Hibler, Schoonveld, & Adney, 1984) , followed by annual epizootics among juveniles and sporadic pneumonia mortality among adults Smith, Jenks, Grovenburg, & Klaver, 2014) .",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 107,
+                    "text": "(Buechner, 1960)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 170,
+                    "end": 193,
+                    "text": "(Cassirer et al., 2018)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 291,
+                    "end": 314,
+                    "text": "(Cassirer et al., 2018;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 315,
+                    "end": 345,
+                    "text": "Enk, Picton, & Williams, 2001;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 346,
+                    "end": 389,
+                    "text": "Spraker, Hibler, Schoonveld, & Adney, 1984)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 484,
+                    "end": 525,
+                    "text": "Smith, Jenks, Grovenburg, & Klaver, 2014)",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| INTRODUC TI ON"
+        },
+        {
+            "text": "Pasteurellaceae (Bibersteinia trehalosi, Mannheimia haemolytica, leukotoxigenic Pasteurella) and parasites (Protostongylus sp.) (Dassanayake et al., 2009; Foreyt, Snipes, & Kasten, 1994; Miller et al., 2000) . While Mycoplasma ovipneumoniae (Mo) is more strongly associated with pneumonia than previously targeted pathogens (Besser et al., 2008 , no vaccines or efficacious antimicrobial treatments for Mo currently exist. Interventions for any pathogen(s) are also constrained by inaccessible terrain, as well as the complex movement patterns of bighorn sheep (Cassirer et al., 2018; George, Martin, Lukacs, & Miller, 2008) . ",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 154,
+                    "text": "(Dassanayake et al., 2009;",
+                    "ref_id": null
+                },
+                {
+                    "start": 155,
+                    "end": 186,
+                    "text": "Foreyt, Snipes, & Kasten, 1994;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 187,
+                    "end": 207,
+                    "text": "Miller et al., 2000)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 324,
+                    "end": 344,
+                    "text": "(Besser et al., 2008",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 561,
+                    "end": 584,
+                    "text": "(Cassirer et al., 2018;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 585,
+                    "end": 624,
+                    "text": "George, Martin, Lukacs, & Miller, 2008)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Previous unsuccessful attempts to control pneumonia targeted"
+        },
+        {
+            "text": "We conducted our study in the South Dakota Black Hills from August 2014 to May 2018. This study site includes elevations of 972-2,207 m (Brown & Sieg, 2016) , average annual precipitation (Rapid City) of 11.3 cm rainfall and 29.6 cm snow, and temperatures of \u221230 to 41\u00b0C, with an average high of 17\u00b0C and an average low of The control population inhabited public and private land in Pennington County and contained three subherds that rarely interacted (Rapid Creek, Spring Creek, and Hill City, Figure 2 ; 44\u00b004\u203237\u2033 N, 103\u00b021'16\" W). This population utilized canyons for summer range and residential lawns during winter (Smith, Grovenburg, Monteith, & Jenks, 2015) . An all-age die-off occurred in 2009, and pneumonia remained a major mortality source . The ",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 156,
+                    "text": "(Brown & Sieg, 2016)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 621,
+                    "end": 665,
+                    "text": "(Smith, Grovenburg, Monteith, & Jenks, 2015)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 496,
+                    "end": 504,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Study area"
+        },
+        {
+            "text": "We captured bighorn sheep via chemical immobilization (BAM; 0.43 mg/kg butorphanol, 0.29 mg/kg, azaperone, 0.17 mg/kg medetomidine, Wildlife Pharmaceuticals) delivered through dart injection or by aerial net-gunning (Quicksilver Air, Inc. and Hells Canyon Helicopters). We fitted sheep with very high-frequency (VHF) collars (M252OB; Advanced Telemetry Systems) with mortality sensors, which were activated if the collar was motionless for \u22658 hr. After confirming pregnancy with ultrasonography (E.I.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "Medical Imaging), we fitted ewes with VHF vaginal implant transmitters (VITs; M3900; Advanced Telemetry Systems; Smith, Walsh, et al., 2014) .",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 140,
+                    "text": "Smith, Walsh, et al., 2014)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "During capture, we collected information on sex, age, Mo carrier status and antibodies, and presence of other pathogens. We aged individuals up to 3.5 years old using tooth eruption (Valdez & Krausman, 1999) and classified adults >3.5 years old as a single age group. We collected Mo mucosal samples via three swabs, which were consecutively inserted deep into each of the nares and rotated around the cavity wall during removal (Drew et al., 2014) . We returned two swabs to their sheath and immersed one in Tryptic Soy Broth with 15% Glycerol (Hardy Diagnostics; Butler et al., 2017) .",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 207,
+                    "text": "(Valdez & Krausman, 1999)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 429,
+                    "end": 448,
+                    "text": "(Drew et al., 2014)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 565,
+                    "end": 585,
+                    "text": "Butler et al., 2017)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "To sample for other aerobic bacteria that could contribute to respiratory disease, we rotated 3 swabs along each tonsillar crypt and stored them similarly to nasal swabs. We collected blood for serum, held all samples at 4\u00b0C, and shipped them on ice to the Washington Animal Disease Diagnostic Lab (WADDL) or Dr. Thomas Besser's lab (Washington State University).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "We used real-time polymerase chain reaction (RT-PCR) to detect Mo on nasal swabs (Ziegler et al., 2014) . Samples were positive if fluorescence generation exceeded the threshold before the 36th RT-PCR cycle, indeterminate if between the 36th and 40th cycles, and negative if not exceeded through 40 cycles. We determined serum Mo antibody presence by competitive enzyme-linked immunosorbent assay (c-ELISA; Ziegler et al., 2014) . We documented other pathogens on swabs through aerobic culture and PCR (Besser et al., 2008) .",
+            "cite_spans": [
+                {
+                    "start": 81,
+                    "end": 103,
+                    "text": "(Ziegler et al., 2014)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 407,
+                    "end": 428,
+                    "text": "Ziegler et al., 2014)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 502,
+                    "end": 523,
+                    "text": "(Besser et al., 2008)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "We determined Mo strain type using genomic DNA extracted from M. ovipneumoniae broth cultures or swabs using DNeasy blood and tissue kits (Qiagen Inc.), following manufacturer's instructions, or PCR-positive DNA extracts obtained directly from WADDL. Mycoplasma ovipneumoniae extracts were genotyped using a multi-locus sequence typing approach that targets four loci.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "The targeted loci are partial DNA sequences from the 16S-23S intergenic spacer region (IGS), the small ribosomal subunit (16S), and housekeeping genes encoding RNA polymerase B (rpoB) and gyrase B (gyrB). Protocols and primers for PCR amplification of these loci were described previously ). Commercial service laboratories (Amplicon Express and Eurofins Genomics) conducted bidirectional Sanger DNA sequencing of amplified PCR products using the same primers used in PCR reactions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Radio-marking, data collection, pathogen detection, and strain typing in adults"
+        },
+        {
+            "text": "We began Mo testing in the treatment population in August 2014.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Chronic carrier identification and experimental removal"
+        },
+        {
+            "text": "We obtained \u22652 tests from every adult alive in the population before or shortly after chronic carrier removal (Table 1 and Table S1 ). We classified individuals as chronic carriers (consistently positive), intermittent carriers (negative and positive tests), or noncarriers (all negative tests). We immobilized and relocated all chronic carriers from the treatment population to South Dakota State University (SDSU).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 110,
+                    "end": 131,
+                    "text": "(Table 1 and Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Chronic carrier identification and experimental removal"
+        },
+        {
+            "text": "Postremoval, we tested most individuals in both populations annually (Table S2 and S3).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 69,
+                    "end": 78,
+                    "text": "(Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Chronic carrier identification and experimental removal"
+        },
+        {
+            "text": "F I G U R E 1 A conceptual depiction of our experiment, where chronic carriers of Mycoplasma ovipneumoniae are identified in two populations, but only removed in one. Bighorn sheep can be classified as chronic carriers, intermittent carriers, and noncarriers; only chronic carriers need to be removed under our operating hypothesis. If chronic carriers are removed, the population should rebound as lamb recruitment improves. Without intervention, the population will continue to decline indefinitely due to low lamb recruitment",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Chronic carrier identification and experimental removal"
+        },
+        {
+            "text": "We monitored VIT radio signals daily using handheld directional radio telemetry (Telonics, Inc.) starting 15 April 2016 and 2017. We located the dam to verify lamb presence when a VIT was expelled. Budgetary constraints prevented VIT implantation in some pregnant ewes in the control population, so we visually monitored females without VITs along with ewes that expelled their VITs prematurely. If we observed a lamb, we attempted to hand capture it. We immobilized lambs we failed to capture as neonates at 2-6 months old. We weighed captured lambs, determined sex, and fitted them with expandable VHF collars (M4200; Advanced Telemetry Systems). We wore latex gloves and minimized handling of neonates to avoid abandonment (Smith, Walsh, et al., 2014) . The SDSU Institutional Animal Care and Use Committee approved capture and handling procedures (Approval number 16-00A).",
+            "cite_spans": [
+                {
+                    "start": 726,
+                    "end": 754,
+                    "text": "(Smith, Walsh, et al., 2014)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Lamb capture"
+        },
+        {
+            "text": "We monitored adult collars for mortality signals 2 times/week from 13 March 2016 to 1 May 2018 and lamb collars daily from capture until 20 November; thereafter, we monitored lambs similarly to adults. When a collar indicated mortality, we located the carcass and examined the site for predator presence (scat, tracks, scrapes) and the cadaver for caching, hemorrhaging, and skeletal disarticulation (Stonehouse, Anderson, Peterson, & Collins, 2016) . We performed necropsies on adults in the field and shipped swabs to WADDL for pathogen testing. When possible, we shipped lamb cadavers to WADDL for necropsy.",
+            "cite_spans": [
+                {
+                    "start": 400,
+                    "end": 449,
+                    "text": "(Stonehouse, Anderson, Peterson, & Collins, 2016)",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Survival monitoring"
+        },
+        {
+            "text": "Cause of death was sometimes uncertain; therefore, we used the knowledge gained from necropsies, evidence at the site, and behavioral observations to assign the likelihood of each individual's cause of death. Cause-specific mortality categories for lambs and adults were \"predation,\" \"pneumonia,\" and \"other,\" and, in addition for adults only, \"human-caused.\" We created a probability for each category, and the resulting vector of prior predictive probabilities summed to one for each individual. If cause of death was certain, the vector contained a single, nonzero entry for the appropriate causeof-death category (Walsh, Norton, Storm, Van Deelen, & Heisey, 2018) . As an example of this process, a carcass might be scavenged shortly after dying, and movement of the collar could delay detection of the mortality by a week. The lack of disarticulation might rule F I G U R E 2 Ranges of study populations of bighorn sheep in the Black Hills, South Dakota, USA, 2014-2018 out predation, but the carcass's desiccated state would make it difficult to tell whether pneumonia or another internal malady caused death. If we had previous behavioral evidence that indicated pneumonia, in this example we would assign a 70% predictive probability to \"pneumonia,\" 30% to \"other,\" and 0% to all other categories.",
+            "cite_spans": [
+                {
+                    "start": 617,
+                    "end": 667,
+                    "text": "(Walsh, Norton, Storm, Van Deelen, & Heisey, 2018)",
+                    "ref_id": "BIBREF56"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Survival monitoring"
+        },
+        {
+            "text": "We modeled weekly survival rates, incorporating covariates for treatment, strain type exposure , testing PCR positive for Mo, biological year (Gaillard, Festa-Bianchet, Yoccoz, Loison, & Toigo, 2000) , sex (Jorgenson, Festa-Bianchet, Gaillard, & Wishart, 1997) , and age (Loison, Festa-Bianchet, Gaillard, Jorgenson, & Jullien, 1999) as factors affecting survival. We coded the treatment, sex, and an individual's positive test effects as binary variables (treatment population = 1, control population = 0; males = 1, females = 0; \u22651 positive = 1, no positives = 0). We treated an individual's age as a time-varying, categorical variable separated into 3 groups (0 = 1-2 years old, 1 = 2-3 years old, 2 = 3+ years old). ",
+            "cite_spans": [
+                {
+                    "start": 142,
+                    "end": 199,
+                    "text": "(Gaillard, Festa-Bianchet, Yoccoz, Loison, & Toigo, 2000)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 206,
+                    "end": 260,
+                    "text": "(Jorgenson, Festa-Bianchet, Gaillard, & Wishart, 1997)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 271,
+                    "end": 333,
+                    "text": "(Loison, Festa-Bianchet, Gaillard, Jorgenson, & Jullien, 1999)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Adult Covariates"
+        },
+        {
+            "text": "Our adult global model calculated log unit cumulative hazard as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Adult a priori models"
+        },
+        {
+            "text": "the baseline log unit cumulative hazard rate. For the i th individual during the j th week, we denoted \u03b2 treatment as the treatment effect, \u03b2 positive test as the positive test effect, \u03b2 strain as the strain type effect, \u03b2 year as the year effect, \u03b2 age as the individual's age effect, and \u03b2 sex as an individual's sex effect. We signified the week effect with \u03c1 j .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Adult a priori models"
+        },
+        {
+            "text": "We modeled daily survival rates, incorporating treatment (i.e., population identity), year (Gaillard et al., 2000) , strain type exposure (Cassirer TA B L E 1 Summary of bighorn sheep pathogen testing results and survival estimates in the treatment and control populations, We coded treatment and individual sex effects as with adults. We designated year as a binary variable (2016 = 0, 2017 = 1) and birth timing consisted of three groups: lambs born within \u00b1 3 days of the median date of lamb births in a given year, those born >3 days before the peak period, and those born >3 days after the peak period . We coded strain type exposure as categorical (exposure to introduced strain = 2, exposure to resident strain = 1, exposure to neither = 0). Based on strain typing data, lambs in the Spring Creek subherd were exposed to the introduced strain in 2017, and the resident strain in 2016. All lambs in Rapid Creek and Hill City subherds were classified as only exposed to the resident strain for the duration of the study. Since we removed all carriers of Mo in the treatment population in January 2016 and there were no Mo-positive tests postremoval, we classified treatment lambs as being exposed to neither strain for the entire study. Birth weight was measured to the nearest 0.10 kg. For late-caught lambs, we imputed missing birth weight and birth timing values using the empirical distributions of these variables for lambs caught as neonates (Gelman et al., 2014) .",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "text": "(Gaillard et al., 2000)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1453,
+                    "end": 1474,
+                    "text": "(Gelman et al., 2014)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Lamb covariates"
+        },
+        {
+            "text": "Our global model calculated daily log unit cumulative hazard as ln(\u039b i,j ) = \u03b3 + \u03b2 treatment \u00d7 treatment i + \u03b2 strain [strain type i ] + \u03b2 year \u00d7 year i + \u03b2 sex \u00d7 sex i + \u03b2 birth timing [birth timing i ] + \u03b2 birth weight \u00d7 birth weight i + \u03c1 j .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Lamb a priori models"
+        },
+        {
+            "text": "The \u03b3, \u03b2 treatment , and \u03b2 sex parameters were included in the model in the same way as in the adult model. For the i th individual during the j th day, we denoted the year effect as \u03b2 year , \u03b2 strain as the strain type exposure effect, \u03b2 birth timing as the birth timing effect, and \u03b2 birth weight as the birth weight effect. We signified the day effect with \u03c1 j . We then calculated cause-specific mortality while incorporating observer uncertainty into parameter estimation (Walsh et al., 2018) .",
+            "cite_spans": [
+                {
+                    "start": 477,
+                    "end": 497,
+                    "text": "(Walsh et al., 2018)",
+                    "ref_id": "BIBREF56"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Lamb a priori models"
+        },
+        {
+            "text": "Specifically, we treated the true cause of death for each individual as a latent, unknown variable with an assigned vector of prior predictive probabilities. As described above, these priors specified the observer's belief that each cause of death was the true cause of death given their assessment of the available evidence (Table S4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 325,
+                    "end": 335,
+                    "text": "(Table S4)",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Analysis framework"
+        },
+        {
+            "text": "We imputed the true cause of death, using a data augmentation approach that generated a cause of death at each Markov chain Monte Carlo (MCMC) iteration (Gelman et al., 2014) , based on a categorical distribution with a parameter vector equal to the prior predictive probability vector specified for that individual. Using random starting values, we ran three MCMC chains for 100,000 iterations and removed the first 10,000 repetitions for burn-in. We looked for evidence of nonconvergence of the chains via graphical checks, and none was observed for any of the following analyses.",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 174,
+                    "text": "(Gelman et al., 2014)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Analysis framework"
+        },
+        {
+            "text": "We calculated Watanabe-Akaike Information Criteria (WAIC) from each model to identify models that best described the evidence in the data (Gelman et al., 2014) . We considered models differing by \u22642 WAIC as alternatives to the top ranked model but preferred the simplest model (Burnham & Anderson, 2002) . We based our conclusions on parameter estimates from the best model.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 159,
+                    "text": "(Gelman et al., 2014)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 277,
+                    "end": 303,
+                    "text": "(Burnham & Anderson, 2002)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| Analysis framework"
+        },
+        {
+            "text": "We radio-collared 86 adult bighorn sheep between 1 August 2014 and 1 May 2018:29 in the treatment (10 rams, 19 ewes) and 57 (19 rams, 38 ewes) in the control population. This constituted 100% and ~90% of adults in the respective populations by the study's end.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Collaring effort"
+        },
+        {
+            "text": "Categorized by age at the end of the study, we collared 16 (9 treatment, 7 control) 1-2 year olds, 4 (2 treatment, 2 control) 2-3 year olds, 10 (4 treatment, 6 control) 3-4 year olds, and 56 (14 treatment, 42 control) \u22654 year olds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Collaring effort"
+        },
+        {
+            "text": "We tested all treatment population adults that survived long enough to be tested (7 rams, 17 ewes) for Mo over 60 sampling events (Table 1) . Fifty-one (85%) swabs tested negative with RT-PCR, 1 (2%) tested indeterminate, and 8 (13%) tested positive. Two females were classified as chronic carriers of the BH-058 strain (n = 7 positive tests). The other adult that tested positive subsequently tested negative and died before experimental manipulation. We classified all other individuals tested twice as noncarriers (n = 19 individuals). We removed the two chronic carriers on 13 March 2016.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 130,
+                    "end": 139,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Chronic carrier identification and removal in the treatment population"
+        },
+        {
+            "text": "After removal of chronic carriers, we did not detect Mo in 35 samples (26 negative and 9 indeterminate) collected from 26 individuals (9 males, 17 females) in the treatment population (Table 1 and   Table S3 ). We collected serum from 20 individuals, and antibodies were detected in 10 (50%); 2 (10%) tested indeterminate, and 8 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 184,
+                    "end": 207,
+                    "text": "(Table 1 and   Table S3",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Postremoval pathogen testing in the treatment population"
+        },
+        {
+            "text": "Between 1 January 2016 and 1 May 2018, we collected 80 samples from 57 control population bighorn sheep (Table 1 and Table S2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 104,
+                    "end": 125,
+                    "text": "(Table 1 and Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Pathogen testing and strain typing in the control population"
+        },
+        {
+            "text": "We obtained 38 Mo-positive samples (48%), 9 indeterminate samples (11%) and 32 negative samples (41%). We were able to strain type 36 of the 38 positive samples. We found that 24 samples were the resident BHS-058 strain also detected in the treatment population, but 11 samples were typed as BHS-043 (introduced and 2 (4%) tested negative. We lacked serum from 6 individuals. We ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Pathogen testing and strain typing in the control population"
+        },
+        {
+            "text": "We monitored survival of 86 radio-collared adults 13 March 2016-1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "May 2018. We documented 5 mortalities (2 males, 3 females, 17%",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "of adults) in the treatment population and 17 (6 males, 11 females, 30% of adults) in the control population (Figure 3a ). Our best survival model was ln(\u039b ij ) = \u03b3 + \u03b2 treatment \u00d7 treatment i + \u03c1 j , which we used to calculate log weekly cumulative mortality hazard estimates (w = 0.31, Table S5 ). The model indicated chronic carrier removal reduced adult hazard by 41%, but was not statistically significant with the 95% credible interval (CI) including zero (CI = 82% reduction, 34% increase; Table 2, Figure S1 ). An analysis that excluded the Spring Creek subherd, which was exposed to multiple Mo strains, produced similar estimates (hazard reduction = 48%, CI = 85% reduction, 20% increase). This corresponds to a 94% annual survival rate (CI = 77%, 99%) in the treatment population and 88% (CI = 82%, 92%) in the control population (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 109,
+                    "end": 119,
+                    "text": "(Figure 3a",
+                    "ref_id": null
+                },
+                {
+                    "start": 288,
+                    "end": 296,
+                    "text": "Table S5",
+                    "ref_id": null
+                },
+                {
+                    "start": 506,
+                    "end": 515,
+                    "text": "Figure S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 841,
+                    "end": 850,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "Hazard of pneumonia-induced mortality for adults in the treatment population was significantly lower than in the control population (Probability difference = \u221252%, CI = \u221278%, \u221215%; Figure 3c ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 181,
+                    "end": 190,
+                    "text": "Figure 3c",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "No pneumonia was detected in the treatment population, and the probability of pneumonia-induced adult mortality was lower (10%, CI = 0%, 41%) than in the control herd (61%, CI = 36%, 84%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "Conversely, predation was more likely to be assigned as cause of death in the treatment population (61%, CI = 22%, 92%) than in the control (10%, CI = 2%, 27%; probability difference = 51%, CI = 13%, 83%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| Survival analysis"
+        },
+        {
+            "text": "We Our best lamb survival model was ln(\u039b ij ) = \u03b3 + \u03b2 treatment \u00d7 treat- Table S6 ). Lamb birth weight (mean = 5.5 kg, SE = 0.08, n = 37), sex, and birth timing were not supported as predictors of survival. We calculated log daily cumulative hazard measurements based on this model ( Figure S2 ) and determined that chronic carrier removal had a negative effect on daily lamb hazard (72% reduction in the treatment population, CI = 36%, 91%; Table 2 ). This corresponds with a 77% annual survival rate (CI = 26%, 96%) in the treatment population and 35% (CI = 12%, 62%)",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 73,
+                    "end": 81,
+                    "text": "Table S6",
+                    "ref_id": null
+                },
+                {
+                    "start": 284,
+                    "end": 293,
+                    "text": "Figure S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 442,
+                    "end": 449,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Lambs"
+        },
+        {
+            "text": "in the control (Table 1) . We observed higher lamb mortality in 2017 than in 2016 (\u03b2 year = 1.15, CI = 0.29, 2.02).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 15,
+                    "end": 24,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Lambs"
+        },
+        {
+            "text": "Pneumonia-caused mortality was significantly less likely in the treatment population (probability = 6%, CI = 0%, 29%) than in the control population (probability = 48%, CI = 24%, 73%), with a probability difference of \u221237% (CI = \u221259%, \u22121%) (Figure 3d ). Lambs that died had a 63% probability of dying from predation in the treatment population (CI = 28%, 90%), which was significantly higher than the control population (17%, CI = 4%, 38%; probability difference = 39%, CI = 3%, 77%).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 240,
+                    "end": 250,
+                    "text": "(Figure 3d",
+                    "ref_id": null
+                }
+            ],
+            "section": "| Lambs"
+        },
+        {
+            "text": "We found that pneumonia can be maintained in bighorn sheep populations by a few individuals chronically carrying Mo. After removing these individuals, we detected no deaths attributable to pneumonia and 76% of lambs survived to 6 months of age, similar to other healthy populations in our study region (37.5%-90%; Parr et al., 2018; Zimmerman, 2008) . In contrast, we detected pneumonia-induced mortality in adults and juveniles in a control population where Mo carriers remained. Average lamb survival to 6 months in the control population was 35%, which is similar to other unhealthy populations (0%-60% of collared lambs surviving; Cassirer et al., 2018; Grigg et al., 2017; . We detected other pneumonia-associated pathogens in both populations, but their presence failed to induce pneumonia in adults or lambs in the absence of Mo (Table 1) . This finding makes physiological sense: while other pathogens contribute to disease , Mo appears necessary, by disrupting mucociliary clearance, for bighorn sheep to establish lung infections (Cassirer et al., 2018; Niang et al., 1998) . Although leukotoxigenic Pasteurella was detected in the treatment population before removal and not afterward, the three individuals harboring it were not removed (Table S1 and Table S3 ). Our results indicate that Mo is warranted as a focal pathogen in efforts to eliminate pneumonia in wild sheep populations.",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 332,
+                    "text": "Parr et al., 2018;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 333,
+                    "end": 349,
+                    "text": "Zimmerman, 2008)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 635,
+                    "end": 657,
+                    "text": "Cassirer et al., 2018;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 658,
+                    "end": 677,
+                    "text": "Grigg et al., 2017;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1040,
+                    "end": 1063,
+                    "text": "(Cassirer et al., 2018;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1064,
+                    "end": 1083,
+                    "text": "Niang et al., 1998)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 836,
+                    "end": 845,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1249,
+                    "end": 1271,
+                    "text": "(Table S1 and Table S3",
+                    "ref_id": null
+                }
+            ],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "We found 11 intermittent carriers in our control population but none in our treatment population (Table 1) . Strain typing of samples from intermittent carriers in the control population revealed that eight changed from noncarriers to carriers when infected with a strain previously found in bighorn sheep in Deadwood, South Dakota and western Nebraska (Kamath et al., 2019) . These individuals therefore were not intermittently carrying a single strain of Mo. More likely, they lacked strain-specific immunity and were acutely carrying the introduced strain of Mo .",
+            "cite_spans": [
+                {
+                    "start": 353,
+                    "end": 374,
+                    "text": "(Kamath et al., 2019)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 97,
+                    "end": 106,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Importantly, they were not contributing to the persistence of the original strain. The role of intermittent carriers in population-level dynamics of Mo is not known ; however, our assumption is that chronic carriers are necessary for persistence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Our study indicates that in some cases intermittent carriage can be attributed to the introduction of a new strain type. Future studies could consider invasion of new strains as a potential factor influencing Mo carriage patterns.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Although our study demonstrates improved lamb survival resulting from removing chronic carriers, the impact on adult survival is not as pronounced. We detected a statistically significant reduction in pneumonia-induced adult mortality in the treatment population relative to the control, but other sources of mortality in the treatment population offset this effect. For adults, our best survival model included a treatment effect and was significantly better (i.e., \u22652 \u0394WAIC) than models lacking this effect; however, the effect was not statistically significant. This finding may indicate that the treatment effect was biologically important, but a larger sample size is needed to assess statistical significance given the overall high survival rates of both the treatment and control populations. Previous studies found that adult survival generally rebounded to or above previous levels in the years following all-age die-offs (Manlove, Cassirer, Cross, Plowright, & Hudson, 2016; Plowright et al., 2013) .",
+            "cite_spans": [
+                {
+                    "start": 931,
+                    "end": 984,
+                    "text": "(Manlove, Cassirer, Cross, Plowright, & Hudson, 2016;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 985,
+                    "end": 1008,
+                    "text": "Plowright et al., 2013)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Clarifying It remains unclear which host factors contribute to chronic carriage and how to minimize the number of tests necessary to identify chronic carriers. Plowright et al. (2017) found that age and homozygosity at a specific locus were associated with persistent carriage of Mo in bighorn sheep, suggesting possible host factors that might contribute to variation in infectious period and carriage rates among populations. Coinfections, underlying disease, and high exposure frequency and/or dose may also shape host resistance to infection and increase likelihood of chronic or intermittent carriage (Fox et al., 2015) . Chronic carriers might also be individuals that adopt a strategy of tolerance (limiting the harm caused by a given parasite burden) rather than resistance (limiting parasite burden) to combat Mo.",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 183,
+                    "text": "Plowright et al. (2017)",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 606,
+                    "end": 624,
+                    "text": "(Fox et al., 2015)",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "This predisposition for tolerance has a genetic basis and is variable among individuals within a species (R\u00e5berg, Graham, & Reed, 2009) .",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 135,
+                    "text": "(R\u00e5berg, Graham, & Reed, 2009)",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Identifying factors associated with carriage status would provide insight into temporal variation in disease dynamics and population response to infection. The ability to determine the likelihood of intermittent versus chronic carriage at an individual or population level would also help minimize the sampling effort required to efficiently identify chronic carriers. Our results indicate the minimum required sampling intensity will vary across populations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "Given the cost of identifying chronic carriers, wildlife managers might question whether complete depopulation followed by repopulation is preferable to selective removal. However, complete depopulation of wildlife is not always feasible, especially in rugged or remote terrain (Courchamp, Chapuis, & Pascal, 2003) . Furthermore, while depopulation removes the pathogen along with its host, ensuing reintroductions may fail (Griffith, Scott, Carpenter, & Reed, 1989) depends on how the disease is spread and maintained within and between populations. As infectious disease outbreaks increase globally (Jones et al., 2008) , broadening our understanding of various transmission patterns will be integral to mitigating disease outbreaks and conserving at-risk wildlife populations. Wieseler, J. Jenson., and B. Felts were integral to completing field work. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 314,
+                    "text": "(Courchamp, Chapuis, & Pascal, 2003)",
+                    "ref_id": null
+                },
+                {
+                    "start": 424,
+                    "end": 466,
+                    "text": "(Griffith, Scott, Carpenter, & Reed, 1989)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 601,
+                    "end": 621,
+                    "text": "(Jones et al., 2008)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "| D ISCUSS I ON"
+        },
+        {
+            "text": "None declared. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CO N FLI C T O F I NTE R E S T"
+        },
+        {
+            "text": "Tyler J. Garwood https://orcid.org/0000-0002-5170-824X",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "O RCI D"
+        },
+        {
+            "text": "Daniel P. Walsh https://orcid.org/0000-0002-7772-2445",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "O RCI D"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Association of Mycoplasma ovipneumoniae infection with population-limiting respiratory disease in free-ranging Rocky Mountain bighorn sheep (Ovis canadensis canadensis)",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vanderschalie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Knowles",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Srikumaran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "46",
+            "issn": "",
+            "pages": "423--430",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.01931-07"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Bighorn sheep pneumonia: Sorting out the cause of a polymicrobial disease",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "Frances",
+                    "middle": [],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Highland",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Justice-Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mansfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Foreyt",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Preventive Veterinary Medicine",
+            "volume": "108",
+            "issn": "",
+            "pages": "85--93",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.prevetmed.2012.11.018"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Historical variability in fire at the ponderosa pine -Northern Great Plains prairie ecotone, southeastern Black Hills",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Sieg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "South Dakota. \u00c9coscience",
+            "volume": "6",
+            "issn": "",
+            "pages": "539--547",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/11956860.1999.11682563"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Bighorn sheep in the United States",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Buechner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1960,
+            "venue": "Wildlife Monographs",
+            "volume": "4",
+            "issn": "",
+            "pages": "1--174",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Detecting signals of chronic shedding to explain pathogen persistence: Leptospira interrogans in California sea lions",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Buhnerkempe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Prager",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Strelioff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Greig",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Laake",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Melin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Lloyd-Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Animal Ecology",
+            "volume": "86",
+            "issn": "",
+            "pages": "460--472",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1365-2656.12656"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Model selection and multimodel inference: A practical information-theoretic approach (2nd",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Burnham",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Assessing respiratory pathogen communities in bighorn sheep populations: Sampling realities, challenges, and improvements",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jennings-Gaines",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Killion",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mcwhirter",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Garrott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS ONE",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0180689"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Pneumonia in bighorn sheep: Risk and resilience",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Almberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kamath",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Wildlife Management",
+            "volume": "82",
+            "issn": "",
+            "pages": "32--45",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jwmg.21309"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Evidence of strain-specific immunity to pneumonia in bighorn sheep",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Wildlife Management",
+            "volume": "81",
+            "issn": "",
+            "pages": "133--143",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jwmg.21172"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Spatio-temporal dynamics of pneumonia in bighorn sheep",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Dobson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of Animal Ecology",
+            "volume": "82",
+            "issn": "",
+            "pages": "518--528",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1365-2656.12031"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Mycoplasmas and their host emerging and re-merging minimal pathogens",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Citti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Blanchard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Trends in Microbiology",
+            "volume": "21",
+            "issn": "",
+            "pages": "196--203",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2013.01.003"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Long-term analysis of feline calicivirus prevalence and viral shedding patterns in naturally infected colonies of domestic cats",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Coyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Radford",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cripps",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mccracken",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gaskell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Veterinary Microbiology",
+            "volume": "188",
+            "issn": "",
+            "pages": "12--25",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2006.06.026"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Statistics for Spatio-Temporal Data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cressie",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wikle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Estimating the phenology of elk brucellosis transmission with hierarchical models of cause-specific and baseline hazards",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Maichak",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rogerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Irvine",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Heisey",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Scurlock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Journal of Wildlife Management",
+            "volume": "79",
+            "issn": "",
+            "pages": "739--748",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jwmg.883"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Mannheimia haemolytica serotype A1 exhibits differential pathogenicity in two related species, Ovis canadensis and Ovis aries",
+            "authors": [],
+            "year": null,
+            "venue": "Veterinary Microbiology",
+            "volume": "133",
+            "issn": "",
+            "pages": "366--371",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2008.07.015"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Programming with models: Writing statistical algorithms for general model structures",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "De Valpine",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Turek",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Paciorek",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anderson-Bergman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Temple Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bodik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Computational and Graphical Statistics",
+            "volume": "26",
+            "issn": "",
+            "pages": "403--417",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10618600.2016.1172487"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Impact of localized badger culling on tuberculosis incidence in British cattle",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Woodroffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bourne",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gettinby",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Le Fevre",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Morrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "834--837",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02192"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Bighorn sheep herd health monitoring recommendations. Western Association of Fish and Wildlife Agencies. ht tps://w w w.waf wa .org /D ocum ent s%20 and %20 Set ting s /37/ Site%20Doc ument s/Worki ng%20Gro ups/Wild%20She ep/Disea se",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Drew",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gillin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gonzales",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jennings-Gaines",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Factors limiting a bighorn sheep population in Montana following a dieoff",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Enk",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Picton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Northwest Science",
+            "volume": "75",
+            "issn": "",
+            "pages": "280--291",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Never too late? Consequences of late birthdate for mass and survival of bighorn lambs",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Feder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Berube",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jorgenson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Oecologia",
+            "volume": "156",
+            "issn": "",
+            "pages": "773--781",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00442-008-1035-9"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Body mass and survival of bighorn sheep",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jorgenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Berube",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Portier",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wishart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Canadian Journal of Zoology",
+            "volume": "75",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1890/0012-9658(1997)078%5B1019:EOASDA%5D2.0.CO;2"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Fatal pneumonia following inoculation of healthy bighorn sheep with Pasteurella haemolytica from healthy domestic sheep",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Foreyt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Snipes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kasten",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Journal of Wildlife Diseases",
+            "volume": "30",
+            "issn": "",
+            "pages": "137--145",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-30.2.137"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Bighorn sheep (Ovis canadensis) sinus tumors are associated with coinfections by potentially pathogenic bacteria in the upper respiratory tract",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Huyvaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Killion",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jennings-Gaines",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Journal of Wildlife Diseases",
+            "volume": "51",
+            "issn": "",
+            "pages": "19--27",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/2014-05-130"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Temporal variation in fitness components and population dynamics of large herbivores",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gaillard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Yoccoz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loison",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Toigo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annual Review of Ecology and Systematics",
+            "volume": "31",
+            "issn": "",
+            "pages": "367--393",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.ecolsys.31.1.367"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Bayesian data analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gelman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Carlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Stern",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Dunson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vehtari",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Rubin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Epidemic Pasteurellosis in a bighorn sheep population coinciding with the appearance of a domestic sheep",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "George",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lukacs",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Wildlife Management",
+            "volume": "44",
+            "issn": "",
+            "pages": "388--403",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-44.2.388"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Translocation as a species conservation tool: Status and strategy",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Carpenter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Science",
+            "volume": "245",
+            "issn": "",
+            "pages": "477--480",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.245.4917.477"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Assessing timing and causes of neonatal lamb losses in a bighorn sheep (Ovis canadensis canadensis) herd via use of vaginal implant transmitters",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Grigg",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Killion",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jennings-Gaines",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Dreher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Wildlife Diseases",
+            "volume": "53",
+            "issn": "",
+            "pages": "596--601",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/2016-10-239"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Is ungulate migration culturally transmitted? Evidence of social learning from translocated animals",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Jesmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Merkle",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goheen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Aikens",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Beck",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Courtemanch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kauffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Science",
+            "volume": "361",
+            "issn": "",
+            "pages": "1023--1025",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aat0985"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Global trends in emerging infectious diseases",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Storeygard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Balk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gittleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "990--994",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06536"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Effects of age, sex, disease, and density on survival of bighorn sheep",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jorgenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gaillard",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wishart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Ecology",
+            "volume": "78",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1890/0012-9658(1997)078%5B1019:EOASDA%5D2.0.CO;2"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Genetic structure of Mycoplasma ovipneumoniae informs pathogen spillover dynamics between domestic and wild Caprinae in the western United States",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kamath",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Scientific Reports",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41598-019-51444-x"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Superspreading and the effect of individual variation on disease emergence",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Lloyd-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schreiber",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kopp",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Getz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "355--359",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04153"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Age-specific survival in five populations of ungulates: Evidence of senescence",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loison",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gaillard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jorgenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jullien",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Ecology",
+            "volume": "80",
+            "issn": "",
+            "pages": "2539--2554",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/177239"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Disease introduction is associated with a phase transition in bighorn sheep demographics",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Ecology",
+            "volume": "97",
+            "issn": "",
+            "pages": "2593--2602",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ecy.1520"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Drug treatment for lungworm in bighorn sheep: Reevaluation of a 20-year-old management prescription",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Vayhinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bowden",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Roush",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Verry",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Jurgens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Journal of Wildlife Management",
+            "volume": "64",
+            "issn": "",
+            "pages": "505--512",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/3803248"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Rapid city airport SD climate summary for the year of 2017",
+            "authors": [],
+            "year": 2018,
+            "venue": "National Oceanic and Atmospheric Administration",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Survival of enterococci and staphylococci on hospital fabrics and plastic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Neely",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Maley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "38",
+            "issn": "",
+            "pages": "724--726",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.38.2.724-726.2000"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Field isolates of Mycoplasma ovipneumoniae exhibit distinct cytopathic effects in ovine tracheal organ cultures",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Niang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rosenbusch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Debey",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Niyo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kaeberle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Zentralblatt Fur Veterinarmedizin. Reihe A",
+            "volume": "45",
+            "issn": "",
+            "pages": "29--40",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1439-0442.1998.tb00798.x"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Population dynamics of a bighorn sheep (Ovis canadensis) herd in the southern Black Hills of South Dakota and Wyoming",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Parr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jenks",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "American Midland Naturalist",
+            "volume": "179",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {
+                "DOI": [
+                    "10.1674/0003-0031-179.1.1"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Methicillin-resistant Staphylococcus aureus control in the 21 st century: Laboratory involvement affecting disease impact and economic benefit from large population studies",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schora",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "54",
+            "issn": "",
+            "pages": "2647--2654",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00698-16"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Age-specific infectious period shapes dynamics of pneumonia in bighorn sheep",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Paez",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Matthews",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Ecology Letters",
+            "volume": "20",
+            "issn": "",
+            "pages": "1325--1336",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/ele.12829"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Use of exposure history to identify patterns of immunity to pneumonia in bighorn sheep (Ovis canadensis)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Manlove",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cassirer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cross",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS ONE",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1365-2656.12031"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Transmission or within-host dynamics driving pulses of zoonotic viruses in reservoir-host populations",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Plowright",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Peel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Streicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mccallum",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Restif",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PloS Neglected Tropical Diseases",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pntd.0004796"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "R: A language and environment for statistical computing. R Foundation for Statistical Computing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "R Core Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Decomposing health: Tolerance and resistance to parasites in animals",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "R\u00e5berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Philosophical Transactions of the Royal Society B",
+            "volume": "365",
+            "issn": "",
+            "pages": "37--49",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2008.0184"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Sexdifferential effects of inbreeding on overwinter survival, birth date and mass of bighorn lambs",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rioux-Paquette",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Festa-Bianchet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Coltman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Evolutionary Biology",
+            "volume": "24",
+            "issn": "",
+            "pages": "121--131",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1420-9101.2010.02154.x"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Using test and slaughter to reduce prevalence of brucellosis in elk attending feedgrounds in the Pinedale elk herd unit of Wyoming; results of a 5 year pilot project",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Scurlock",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cornish",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Meadows",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Survival of female bighorn sheep",
+            "volume": "174",
+            "issn": "",
+            "pages": "290--301",
+            "other_ids": {
+                "DOI": [
+                    "10.1674/0003-0031-174.2.290"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Disease and predation: Sorting out causes of a bighorn sheep (Ovis canadensis) decline",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jenks",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Grovenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Klaver",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS ONE",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0088271"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Techniques for capturing bighorn sheep lambs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Goldstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Karsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stiver",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jenks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "38",
+            "issn": "",
+            "pages": "165--174",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/wsb.360"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "South Dakota bighorn sheep management plan",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Pathologic changes and microorganisms found in bighorn sheep during a stress-related die-off",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Spraker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hibler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G M"
+                    ],
+                    "last": "Schoonveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Adney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Journal of Wildlife Diseases",
+            "volume": "20",
+            "issn": "",
+            "pages": "319--327",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-20.4.319"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Approaches to field investigations of cause-specific mortality in mule deer",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Stonehouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Mountain sheep of North America",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Valdez",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Krausman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Using expert knowledge to incorporate uncertainty in cause-of-death assignments for modeling of cause-specific mortality",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Norton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Storm",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Van Deelen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Heisey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ecology and Evolution",
+            "volume": "8",
+            "issn": "",
+            "pages": "509--520",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ece3.3701"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "The role of nasal carriage in Staphylococcus aureus infections. The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "F L"
+                    ],
+                    "last": "Wertheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Melles",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Vos",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Van Leeuwen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Belkum",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Verbrugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nouwen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "",
+            "volume": "5",
+            "issn": "",
+            "pages": "70295--70299",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(05)70295-4"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Heterogeneities in the transmission of infectious agents: Implications for the design of control programs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E J"
+                    ],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dye",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-F",
+                    "middle": [],
+                    "last": "Etard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Charlwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Garnett",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "94",
+            "issn": "",
+            "pages": "338--342",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.1.338"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Safety and immunogenicity of a Mycoplasma ovipneumoniae bacterin for domestic sheep",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ziegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lahmers",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Barrington",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Parish",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kilzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Evaluation of an augmentation of Rocky Mountain bighorn sheep at Badlands National Park, South Dakota. PhD Dissertation",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Thus, effective management strategies for addressing bighorn sheep pneumonia are currently lacking and clearly needed to conserve the species. Bighorn sheep herds with clinical signs of respiratory disease often demonstrate widespread Mo exposure (median seroprevalence = 67%) but lower carriage prevalence (median = 22%; Cassirer et al., 2018). Plowright et al. (2017) found that about half of bighorn sheep testing positive for Mo consistently tested positive, implying chronic carriage. We therefore hypothesized that pneumonia could be maintained in bighorn sheep populations by a few identifiable, chronic carrier individuals (Figure 1). We tested the hypothesis in free-ranging bighorn sheep populations in the Black Hills of South Dakota, USA: the Custer State Park treatment population and the Rapid City control population (Figure 2). Our objectives were to determine whether removing chronic carrier individuals (a) reduces the prevalence of Mo, (b) reduces pneumonia-related mortality, and (c) reduces overall mortality.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "outcroppings characterized bighorn sheep habitat. An all-age die-off occurred in 2004, and pneumonia deaths persisted through 2016 (South Dakota Department of Game, Fish, & Parks, 2018). When we began building Mo carriage profiles in August 2014, the treatment population numbered 14 ewes, 8 rams, and 3 lambs. Lamb:ewe ratios averaged 0.205 before chronic carrier removal (2006-2015), and pneumonia deaths were documented among lambs through the autumn of 2015 (South Dakota Department of Game, Fish and Parks, unpublished data).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "population numbered approximately 45 ewes, 20 rams, and 5 lambs in 2016. South Dakota Game, Fish, and Parks annually collect lamb:ewe ratio data November-December, and lamb:ewe ratios in the control population averaged 0.18 from 2007 to 2015 (South Dakota Department of Game, Fish, & Parks, 2018). We did not observe movement between populations during the study.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Individuals advanced in age class on 22 May to correspond with peak lambing time in our study area. For each individual, the year effect was a time-varying, categorical variable spanning 2016-2018, with each week assigned to the appropriate calendar year. Based on strain typing data, adult bighorns in the Spring Creek subherd were exposed to an introduced strain sometime between 14 November 2016 and 13 December 2016. We therefore set time of exposure to the introduced strain in Spring Creek at the midpoint between those dates and coded strain type exposure as binary and time-varying (exposure to introduced strain BHS-043 = 1, exposure to resident strain BHS-058 = 0; Kamath, Manlove, Cassirer, Cross, & Besser, 2019). All adults outside the Spring Creek subherd were modeled as only exposed to the resident strain (BHS-058) for the duration of the study.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "40%) tested negative. We detected Trueperella pyogenes in 4 bighorn sheep (15%), B. trehalosi in 8 (31%), Mannheimia sp. in 4 (15%), M. haemolytica in 1 (4%), and Pasteurella sp. in 1 (4%).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "documented T. pyogenes (n = 25, 44% of control population), B. trehalosi (n = 22, 39%), Mannheimia sp. (n = 2, 4%), M. haemolytica (n = 1, 2%), Mannheimia glucosida (n = 1, 2%), and leukotoxigenic Pasteurella (n = 1, 2%).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "analyzed mortality data collected 1 May-1 November in 2016-2017 on 43 lambs. We captured 37 neonatal lambs (2016:5 treatment, 15 control; 2017:10 treatment, 7 control) and immobilized another six lambs 2-6 months postparturition (2016:4 treatment, 2control). Twenty-seven (60%) lambs died 1 May-1 November, before 6 months of age. We excluded one lamb that was seriously injured during capture and another that was caught during late-stage pneumonia. Of the 25 mortalities analyzed, seven (5 males, 2 females) occurred in the treatment and 18 (6 males, 12 females) in the control population (Figure 3b). This constituted 35% of treatment population lambs and 69% of control lambs. Lamb:ewe ratios after chronic carrier removal in the treatment population was 0.48, whereas the control population exhibited a ratio of 0.08 over the same time period (2016-2018).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "the impact of chronic carrier removal on adult survival in future studies would improve our understanding of the long-term impacts of pneumonia on adults and inform population viability analyses of pneumonic populations. The introduction of a new Mo strain type in one subherd of the control population toward the end of the first year of the study also complicated our assessment of the treatment effect. We attempted to control for this complication by explicitly analyzing the impact of this introduction on survival, and our modeling efforts demonstrated the strain effect was statistically insignificant relative to the treatment effect, and did not appear in any competing model. Therefore, strain introduction did not change our conclusions about the impact of chronic carrier removal in Mo-affected populations.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Aid to Wildlife Restoration (Study No. 7563) administered through South Dakota Game, Fish and Parks (SDGFP) provided funding. The Wild Sheep Foundation (WSF)-Midwest Chapter, WSF-Montana Chapter, WSF-Eastern Chapter, WSF-Wyoming Chapter, Safari Club International-Dakotah Chapter, Custer State Park, U.S. Geological Survey, and SDGFP Auction Tag Funds provided additional funding. J. Kanta, T. Haffley, K. Kudmore, M. Nelson, M. Peterson, B. Neiles, J. Doyle, T. Saul, S. Carstens, R. Wiedmeier, A.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "O N S C.P.L., J.A.J., T.E.B., E.F.C., and D.P.W. generated ideas and designed methodology. T.J.G. and C.P.L. collected the field data. T.E.B. coordinated laboratory processing of our samples. D.P.W. and T.J.G. analyzed the data. T.J.G. led the writing of the manuscript. All authors contributed critically to the drafts and gave final approval for publication.DATA AVA I L A B I L I T Y S TAT E M E N TData are available at Dryad Digital Repository, https://doi. org/10.5061/dryad.dm7912g.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "1 August 2014-8 April 2018. Individuals in the treatment population that had at least two tests and always tested positive after the first positive test were classified as chronic carriers and removed 13 March 2016. Proportions of chronic carriers are based only on individuals sampled at least two times. Mycoplasma ovipneumoniae (Mo) carriage was detected through real-time polymerase chain reaction (RT-PCR), antibody status was determined through enzyme-linked immunosorbent assay, and the presence of other pathogens was ascertained through culture and PCR. Survival estimates are presented with their respective 95% credible intervals (CI) 2008), and birth weight (Festa-Bianchet, Jorgenson, Berube, Portier, & Wishart, 1997) as factors that might affect survival to 0.5 years old.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": ", with political and economic consequences. Population-level knowledge also can accumulate and transmit across generations(Jesmer et al., 2018), affecting a population's ability to follow green-up, avoid predation, and maintain complex migration routes. This knowledge has implications for fitness and is lost with depopulation. While identifying chronic carriers may not be feasible everywhere, selective removal preserves knowledge that may promote population persistence and growth following treatment.Our study provides experimental evidence for chronic carriage as a mechanism for pathogen (and disease) persistence, and our results may apply to chronic infections across taxa. Chronic carriers enable Leptospirosa interrogans to persist through \"inter-epidemic troughs\" in California sea lion (Zalophus californianus) populations and may play an important role in the spillover of Hendra, Nipah, Marburg, and Ebola from bats to humans and other mammals(Buhnerkempe et al., 2017;Plowright et al., 2016). Test-andremove methods aimed at carriers, such as the one presented in our experiment, are few and have met varied success. For instance, attempts to remove elk testing seropositive for Brucella abortus from herds in Wyoming failed to eliminate the pathogen (Scurlock, Edwards, Cornish, & Meadows, 2010). Similarly, culling Europeanbadgers (Meles meles) in Great Britain counterintuitively increasedMycobacterium bovis spillover to nearby cattle herds(Donnelly et al., 2003). An important distinction that may account for the success of our intervention as opposed to these examples is that we removed all chronic carriers. In humans, Staphylococcus aureus is similar to Mo in that the nares are the primary carriage site and carriers can be classified into chronic, intermittent, and noncarrier categories(Wertheim et al., 2005). Isolating patients that chronically carry S. aureus can, but does not always, prevent subsequent infection in at-risk hospital patients(Peterson & Schora, 2016;Wertheim et al., 2005). One notable difference between S. aureus and Mo is length of environmental persistence, which may explain inconsistent results of S. aureus chronic carrier isolation. Mo persists for only minutes in the environment(Citti & Blanchard, 2013), whereas S. aureus can persist for months, increasing reinfection opportunities(Neely & Maley, 2000). Environmental persistence and presence of reservoir hosts are important factors to consider when contemplating chronic carrier removal/treatment for a new disease system.In conclusion, our experiment demonstrates the importance of accounting for individual heterogeneity when determining intervention options to eradicate or reduce the prevalence of persistent infections in a population. Health interventions are often expensive and urgent, and knowledge regarding where to focus limited resources can save money and lives. Focusing resources on identifying and treating chronically carrying individuals can lead to population-level disease clearance, but the appropriateness of this focus F I G U R E 3 A comparison of mortality sources for bighorn sheep between herds after chronic carrier removal in the treatment population on 13 March 2016. Panels [a] and [b]show cause-specific mortality sources based on the most likely cause of death assigned in the field for adults and lambs, respectively. Panels [c] and[d]  show the estimated differences in cause-specific probabilities between the populations based on the survival analysis for adults and lambs, respectively. Estimates for the treatment population are given relative to the control population, which is signified by the dotted line at 0. Credible intervals are 95% TA B L E 2 Hazard ratios corresponding with the treatment effect for lambs and adults. Ratios are given relative to the control population",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
