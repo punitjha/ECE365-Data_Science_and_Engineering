@@ -1,7 +1,7 @@
 This lab (punit2_lab2.ipynb) covers some basic classifiers which can be used for M-ary classification.
 
-k-Nearest Neighbors
+1. k-Nearest Neighbors
 
-Bayes Classifiers
+2. Bayes Classifiers
 
-Linear Discriminant Analysis
+3. Linear Discriminant Analysis
