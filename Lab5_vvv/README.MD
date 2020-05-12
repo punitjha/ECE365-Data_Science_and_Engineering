@@ -1,7 +1,7 @@
 This lab (punit2_lab5.ipynb) is based on the study of the following methods:
 
-Eigendecomposition
+1. Eigendecomposition
 
-Singular Value Decomposition
+2. Singular Value Decomposition
 
-Principal Component Analysis
+3. Principal Component Analysis
