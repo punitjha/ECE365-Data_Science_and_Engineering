@@ -1,9 +1,9 @@
 Jupyter-notebook (punit2_lab4.ipynb) implementing the following ML algorithms (some use sklearn)
 
-K-means clustering
+1. K-means clustering
 
-Vector Quantization
+2. Vector Quantization
 
-Nearest Neighbors Classification
+3. Nearest Neighbors Classification
 
-Linear Regression
+4. Linear Regression
