@@ -1,4 +1,4 @@
-This lab is based on the study of the following methods:
+This lab (punit2_lab5.ipynb) is based on the study of the following methods:
 
 Eigendecomposition
 
