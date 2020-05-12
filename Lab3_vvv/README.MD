@@ -1,4 +1,4 @@
-This lab covers a few more basic classifiers which can be used for M-ary classification:
+This lab (punit2_lab3.ipynb) covers a few more basic classifiers which can be used for M-ary classification:
 
 Naive Bayes
 
