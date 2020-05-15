@@ -1,5 +1,5 @@
 NLP_Lab3/punit2/NLPLab3/NLPLab3.ipynb problem set has the objective to train a language model, evaluate it and explore how it can be used for language generation. 
-Towards that end you will:
+Towards that end you will see:
 
 1. Train an n-gram language model.
 
