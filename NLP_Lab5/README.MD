@@ -12,8 +12,8 @@ query.py – this program has the definition of the class query_class. I store a
 
 I have used/imported the following packages in my programs:
 
-nltk
-string
+nltk;
+string;
 math
 
 
@@ -25,4 +25,5 @@ Just by typing python3 run_all.py in the terminal I was able to generate the out
 My MAP score was: 0.20971841358542945
 
 To run use: python3 run_all.py
+
 To get the score use: python3 cranfield_score.py cranqrel output.txt
